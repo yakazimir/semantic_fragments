@@ -27,8 +27,8 @@ Step 2: prepare everything (get associated data, models,etc..)
 
 Download the following BERT models, unpack then and put into `path_to_semantic/fragments/bert_scripts/` [https://drive.google.com/open?id=1n-8leJWmBE6gZcA7Dh1GB51hyNSS9qEH]
 
-Download the associated experiment files
-here[https://drive.google.com/file/d/1-nt_peYI6-ts8SVoG8MoUeSYoBTqQShV/view?usp=sharing]
+Download the associated experiment files (largely data files chopped up for inoculation, etc..)
+here[https://drive.google.com/file/d/1-kSKE95uP92YM_Bw1qdRjrbeYQxwR0-X/view?usp=sharing]
 and unpack at the top directory. 
 
 
