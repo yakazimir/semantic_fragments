@@ -56,6 +56,8 @@ do
            --test_src_file ${DATA}/${cond}/premise_only/cl_challenge_test_source_file \
            --outputdir ${DATA}/${cond}/premise_only/results --n_epochs 15 
 done
+# hard fragment   => 59.8
+# simple fragment => 55.0 
 
 
 
@@ -86,6 +88,8 @@ do
            --test_src_file ${DATA}/${cond}/hypothesis_premise/cl_challenge_test_source_file \
            --outputdir ${DATA}/${cond}/hypothesis_premise/results --n_epochs 15 
 done
+# hard fragment   => 66.2
+# simple fragment => 52.1 
 
 for cond in  generate_challenge/hard_fragment/ generate_challenge/simple_fragment/
 do
