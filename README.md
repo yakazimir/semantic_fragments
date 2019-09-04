@@ -1,2 +1,3 @@
 # semantic_fragments
-Code and data for experiments on semantic fragments
+
+Repository for semantic fragment experiments in the following: 
