@@ -1,0 +1,1000 @@
+tt-0	Leona, Myrtle, Terri, Carla and Linda have only visited Fort Pierce	Myrtle didn't visit Osceola	ENTAILMENT
+tt-1	Yolanda, Michelle, Evelyn, Kristina, Elaine and Sandy have only visited Rumford	Yolanda didn't visit Rumford	CONTRADICTION
+tt-2	Anita, Jacqueline, Constance, Sherry, Maxine, Jeanne, Lindsay and Ann have only visited Lead	Jeanne didn't visit Washington	ENTAILMENT
+tt-3	Jeanne has only visited Menlo Park, The Village, Effingham, Ventura, East Haven, Compton, Rock Island, Apalachicola, Beaufort, Woonsocket, Greensburg, Danbury, Hobbs, Ardmore, Rochester, Tahlequah, Newberg, Saint Petersburg and Gallipolis	Kristin didn't visit Rock Island	NEUTRAL
+tt-4	Joanne, Kristine, Carole, Kay, Tanya, Gwendolyn, Arlene, Leona, Susan, Eva and Marie have only visited Silver Spring	Tanya didn't visit Silver Spring	CONTRADICTION
+tt-5	April has only visited Pecos, El Paso, Kelso, Leadville, Saint Ignace, Honolulu and Vincennes	Eva didn't visit Kelso	NEUTRAL
+tt-6	Lillie has only visited Concord, Belle Glade, Dallas, Moses Lake, Ketchikan, Rome, Laguna Beach, Elgin, Boca Raton, Maryland, Gretna, Pasco, Moline, Pittsburgh, Sitka, Tahlequah and Richland	Lillie didn't visit Gretna	CONTRADICTION
+tt-7	Gina, Maria, Wendy, Lena, Marian, Felicia, Sylvia, Cynthia, Penny, Genevieve, Willie, Ida, Amelia, Susan, June, Annie, Faye and Louise have only visited Jeffersonville	Susan didn't visit Jeffersonville	CONTRADICTION
+tt-8	Jill has only visited Beaufort, Manassas, Milbank, Orderville, Pine Bluff, Sunnyvale, McMinnville, Clearfield, Akron, Garden Grove, New Brunswick, Maysville, Charleston, New Britain, Kalamazoo, Cedar City and Nampa	Jill didn't visit New Britain	CONTRADICTION
+tt-9	Marian, June, Nora, Virginia, Sue, Patricia, Ruth, Eleanor, Caroline, Guadalupe, Pauline, Toni, Esther, Geneva, Denise, Vicki, Marsha, Jan, Lucille and Miriam have only visited Littleton	Sue didn't visit Burlington	ENTAILMENT
+tt-10	Molly, Angie, Georgia and Elsie have only visited Saratoga Springs	Angie didn't visit Rocky Mount	ENTAILMENT
+tt-11	Yolanda has only visited Hammond, Kinston, Holyoke, West Memphis, New Glarus and Groton	Yolanda didn't visit West Memphis	CONTRADICTION
+tt-12	Rosemary has only visited Gadsden, Paterson, Amarillo, Havre, Stillwater, Harmony, Belleville, Johnson City and Port Washington	Norma didn't visit Belleville	NEUTRAL
+tt-13	Bobbie has only visited Maryville, Liberal, North Adams, Michigan City, Welch, Ysleta, Lubec and De Smet	Penny didn't visit De Smet	NEUTRAL
+tt-14	June, Terry, Judy, April, Lisa, Agnes, Janice, Sonia, Tara, Stella, Lucille and Christina have only visited Scarsdale	Lucille didn't visit Custer	ENTAILMENT
+tt-15	Patricia, Erin, Glenda, Jean, Madeline, Alison, Alberta, Sally, Leona, Myrtle and Janice have only visited Atmore	Alberta didn't visit Atmore	CONTRADICTION
+tt-16	Rosa has only visited Lenox, Glendale, Biddeford, Batavia, Carlinville, Martinsville, Jackson, Castine, Mission, Jasper, Pinehurst, Clifton, Renton, New Castle, El Dorado, Cairo, Waco, Dodge City, Franklin and Fairmont	Rosa didn't visit Fairmont	CONTRADICTION
+tt-17	Rachel has only visited Chesapeake, Medford, Sanford, Memphis, Topeka, Mobile, Janesville, Ontario, Owensboro, Branson, Pottsville, Fergus Falls, Ossining, Union City, Highland Park, Rancho Cucamonga, Battle Creek, Sauk Centre, Canton and Walsenburg	Rachel didn't visit Topeka	CONTRADICTION
+tt-18	Delores has only visited Grenada, Waycross, Superior, Rock Island, Johnstown, Pecos, Williamsburg, Lincoln, McAlester, Danville, La Junta and Carlsbad	Delores didn't visit Waycross	CONTRADICTION
+tt-19	Tracy has only visited Lewes, Syracuse, Cleveland, Bluefield, Easton, Fairmont, Sioux Falls, Butte, Wewoka, Magnolia, Middletown, Alpine, Orange, Toccoa, Petaluma, Northfield, Great Falls, Clarksville, Fullerton and Naples	Lillian didn't visit Orange	NEUTRAL
+tt-20	Megan has only visited Lead, Libertyville, Pampa, Jacksonville, Kahului, Urbana and Douglas	Megan didn't visit Urbana	CONTRADICTION
+tt-21	Crystal has only visited Wichita, Hickory, Saratoga Springs, Escondido, Durham, Lancaster, Americus, South Dakota, Harlan, Hawaii, North College Hill, Missoula and Lock Haven	Crystal didn't visit South Dakota	CONTRADICTION
+tt-22	Jennifer has only visited Charlottesville, Athol, Barstow, Cortez, Westport, Charlevoix, Gloversville and Odessa	Jennifer didn't visit Barstow	CONTRADICTION
+tt-23	Felicia has only visited Manitowoc, Mobridge, Gallup, Ludington, Hot Springs, Bristol, Wisconsin Dells, Ishpeming, Smyrna, Berlin and Livermore	Sally didn't visit Wisconsin Dells	NEUTRAL
+tt-24	Lena has only visited Mobridge, Suffolk, New Ulm, Peshtigo, Kingston, Marblehead, Hinton, Janesville and Alexandria	Shelley didn't visit Peshtigo	NEUTRAL
+tt-25	Faye has only visited Raton, Oregon City, Melbourne, San Gabriel, Saint Charles, New Philadelphia, Somersworth, Albert Lea, Suffolk, Boston, San Pedro, South Kingstown, Lexington, McAllen, Lancaster, Norton, Princeton, Guilford and Kelso	Cassandra didn't visit Princeton	NEUTRAL
+tt-26	Clara has only visited Wahpeton, Missouri, Tillamook, Concord, East Greenwich, Germantown and Torrance	Colleen didn't visit Germantown	NEUTRAL
+tt-27	Harriet has only visited Thousand Oaks, Florida, Shiprock, Borger, Buckhannon, Oregon, Lexington and Goshen	Agnes didn't visit Buckhannon	NEUTRAL
+tt-28	Irene has only visited East Liverpool, French Lick, Downey, Phoenixville, Appleton, Port Hueneme, Fullerton, Cripple Creek, Staunton, Freeport, Guntersville and Derry	Crystal didn't visit Downey	NEUTRAL
+tt-29	Karen has only visited Plano, Revere, Clanton and Lawton	Karen didn't visit Revere	CONTRADICTION
+tt-30	Sabrina has only visited Hannibal, Elizabethtown, Ely, Madison, Pittsburg, Redlands, South Charleston, Caldwell, Gillette, Everett and Worthington	Sabrina didn't visit Everett	CONTRADICTION
+tt-31	Deborah, Lillian, Nicole, Rebecca, Hattie, Rosa, Marcia, Nellie, Mabel, Edna, Louise and Verna have only visited Dayton	Hattie didn't visit Chapel Hill	ENTAILMENT
+tt-32	Shelly has only visited Farmington, Newburgh, Butte, York, Oneonta, Laurel, Galena, Somerville, American Fork, Boonesborough, Marshall, Welch and Morgantown	Shelly didn't visit Oneonta	CONTRADICTION
+tt-33	Alberta, Jessica, Margarita, Fannie, Lydia and Carolyn have only visited Weston	Fannie didn't visit Westerly	ENTAILMENT
+tt-34	Lena, Priscilla, Vickie, Daisy, Kim, Jo, Nora, Brittany, Evelyn, Melody, Marjorie, Laurie, Sonya, Kathleen, Carla and Julia have only visited Ohio	Brittany didn't visit Reedsport	ENTAILMENT
+tt-35	Anne has only visited Clayton, Albuquerque, Sioux Falls, Billings, Orderville and Hallandale Beach	Kristen didn't visit Orderville	NEUTRAL
+tt-36	Jacqueline has only visited Coupeville, Cape Girardeau, Baton Rouge, Sherman, Homer, Madison, Kingman, Glendale, Hillsborough, Tiffin, Alaska, Pendleton and Sudbury	Jacqueline didn't visit Cape Girardeau	CONTRADICTION
+tt-37	Sherri has only visited Portsmouth, Homer, Greenville, Fairmont, Columbia, Artesia, Yuma, Cocoa Beach, Watertown, Perth Amboy, Washington, Dearborn and Sacramento	Sherri didn't visit Watertown	CONTRADICTION
+tt-38	Kristi has only visited Worthington, Waukesha, Summersville, Grand Rapids, Rugby, Newburgh, Medford, Princeton, Marblehead, Eastchester, Plains, Red Wing, Virginia City, Washington and Osawatomie	Sandra didn't visit Worthington	NEUTRAL
+tt-39	Kristy has only visited Oroville, Bremerton, Hoquiam, West Hartford, Florence, Milford, Cocoa Beach, Brainerd, Carlsbad, Des Moines, Cortez, Austin, Mount Holly, Salisbury, Longview and Wausau	Melody didn't visit Florence	NEUTRAL
+tt-40	Vanessa, Kimberly, Ana, Courtney and Becky have only visited Stillwater	Vanessa didn't visit Stillwater	CONTRADICTION
+tt-41	Beatrice has only visited Shelby, Southampton, Shaker Heights, Hobart, Anaheim, Geneva, Scarborough, Albany and Enid	Joann didn't visit Enid	NEUTRAL
+tt-42	Anna has only visited Aberdeen, Shiprock, Astoria, Glenview, Elizabethton and Webster City	Christine didn't visit Astoria	NEUTRAL
+tt-43	Sherry has only visited Oxford, Shelbyville, Pueblo, Simsbury, Novato, Kapaa, Bartow, Bourne, Perth Amboy, Norfolk, Sturgis, Conway, Mattoon, Mobile and Phoenix	Sherry didn't visit Kapaa	CONTRADICTION
+tt-44	Diana has only visited San Mateo, Jacksonville, Ocean City, Kotzebue, Tuscaloosa, Cambridge, Rogers, Johnson City, South Bend, New Market, Rockford, Silverton, Newark, San Simeon, Keene, York, Grenada and Beatrice	Leslie didn't visit Silverton	NEUTRAL
+tt-45	Tracey and Kristin have only visited Amana Colonies	Kristin didn't visit Alamosa	ENTAILMENT
+tt-46	Glenda, Gloria, Natalie, Holly, Michelle, Geneva, Jeanette, Agnes, Colleen, Bonnie, Kristy, Vanessa, Katie, Alison and Margaret have only visited Kettering	Katie didn't visit Saint Augustine	ENTAILMENT
+tt-47	Jenny has only visited Cedar Falls, Sturgis, Denton, Lansing, Ypsilanti, Pampa, Portales, Vernal, Lincoln, Red Wing, Bardstown, Watertown, Naugatuck, Clearfield, Phenix City and Summit	Cynthia didn't visit Ypsilanti	NEUTRAL
+tt-48	Rosemary, Cindy, Jane, Andrea and Amber have only visited Harrodsburg	Jane didn't visit Montana	ENTAILMENT
+tt-49	Denise has only visited Westerly, Bourne, Rapid City, Ellsworth and Pine Bluff	Hattie didn't visit Bourne	NEUTRAL
+tt-50	Eleanor, Esther, Karen, Sherry, Sheryl, Beulah and Mae have only visited Pittsburgh	Sherry didn't visit Halifax	ENTAILMENT
+tt-51	Marcia has only visited Swarthmore, Bloomfield Hills, Clayton and Fort Walton Beach	Marcia didn't visit Bloomfield Hills	CONTRADICTION
+tt-52	Inez has only visited Plymouth, Grand Island, Watertown, Elmira, Ottumwa, Sweetwater, Guilford, Williamson, Minneapolis, Austin, Alexander City, Summersville, Yellow Springs and Morristown	Inez didn't visit Grand Island	CONTRADICTION
+tt-53	Faye, Jan, Beth, Dianne and Connie have only visited Clifton	Connie didn't visit Westport	ENTAILMENT
+tt-54	Theresa has only visited Bristol, Duluth, Littleton, Buffalo, Orono, Leadville, Oklahoma City, Plymouth, Cranford, Lincoln, Beaverton, Tarpon Springs, Milford, Price, Middletown, West Haven and North Adams	Lois didn't visit Tarpon Springs	NEUTRAL
+tt-55	Beulah has only visited Wyandotte, Euclid, Cicero and Cambridge	Wanda didn't visit Euclid	NEUTRAL
+tt-56	Jessica, Rosie, Marilyn, Doris, Carla, Nancy, Valerie, Jo, Deborah and Brandi have only visited Berkeley	Jo didn't visit Berkeley	CONTRADICTION
+tt-57	Esther has only visited Williamsport, Huntsville, Cohoes, Portsmouth, Lahaina, Nyack, Windsor, Utah, Greenwich, Borger and Oraibi	Esther didn't visit Portsmouth	CONTRADICTION
+tt-58	Hilda has only visited Hillsborough, Muskogee, New Kensington, Gatlinburg, Revere, Arlington, Salt Lake City, Truro and Johnson City	Monique didn't visit Johnson City	NEUTRAL
+tt-59	Dolores has only visited Haines, Burlington, Wewoka, Telluride, The Village, Halifax, Beaufort, Lake Havasu City, Gallup, Newport, Waterford, Oil City, Big Spring, Ketchikan, Freeport and Mineola	Monique didn't visit Gallup	NEUTRAL
+tt-60	Vicki has only visited Hanover, Bogalusa, Painesville, Port Huron, Charles Town, Concord, Granite City, Medford, Laramie, Fillmore, Ontario, San Antonio, Hopkinsville, Brunswick, Lewistown and Brockton	Jennifer didn't visit Brockton	NEUTRAL
+tt-61	Mae has only visited Sarasota, Braintree, Warm Springs, Tahlequah, Monroeville, Ypsilanti, Morgantown, Ozark, Walsenburg and Las Cruces	Nina didn't visit Las Cruces	NEUTRAL
+tt-62	Glenda, Esther, Constance, Regina and Emily have only visited Martinsville	Constance didn't visit Fairmont	ENTAILMENT
+tt-63	Kristina, Beth, Terri, Ramona, Ana, Betty, Lola, Beulah and Marion have only visited Mount Vernon	Beulah didn't visit Mount Vernon	CONTRADICTION
+tt-64	Mabel has only visited Clarksburg, Bloomfield, California, Orderville, Wilmington, Alexandria, Port Angeles, Clifton, New Castle and Kenosha	Ellen didn't visit California	NEUTRAL
+tt-65	Beth, Kristi, Candice, Juana, Audrey, Heather, Iris, Madeline, Susan, Edna and Belinda have only visited Tarrytown	Iris didn't visit Tarrytown	CONTRADICTION
+tt-66	Wanda and Annie have only visited Hobart	Wanda didn't visit Hobart	CONTRADICTION
+tt-67	Lois, Elizabeth, Joy, Ada, Sonia, Maggie, Alice, Mary, Stacy, Kelly, Jessica, Sheryl, Sarah, Delores and Yvonne have only visited Spearfish	Elizabeth didn't visit Farmington	ENTAILMENT
+tt-68	Agnes, Jodi, Terry, Katherine, Melody, Marguerite, Kristen, Faye, Peggy, Joyce, Margie, Joanne, Tonya, Marsha, Rose and Wanda have only visited Perth Amboy	Katherine didn't visit Manchester	ENTAILMENT
+tt-69	Suzanne, Joann, Amber, Denise, Patsy, Sheryl and Tamara have only visited Madison	Patsy didn't visit Plymouth	ENTAILMENT
+tt-70	Kristy, Gertrude, Ruby, Alice, Jean, Janie and Lois have only visited Mount Clemens	Lois didn't visit Sarasota	ENTAILMENT
+tt-71	Becky has only visited Ecorse, Montpelier, Antioch, Williamsport, Ipswich, Morristown, Bartlesville, East Hampton, Winter Park, Denison, Bowie, Plattsmouth, Green River, Auburn, Fernandina Beach, Ozark and Piqua	Kelly didn't visit Williamsport	NEUTRAL
+tt-72	Ana, Jodi, Rosa, Alma, Erica, Beth, Elizabeth, Lena, Amanda and Connie have only visited Redmond	Amanda didn't visit Redmond	CONTRADICTION
+tt-73	Sherri has only visited Bisbee, Excelsior Springs, Cape Girardeau, Lumberton, Compton, Tacoma, Mount Vernon, Burbank, Jackson and Gretna	Sherri didn't visit Cape Girardeau	CONTRADICTION
+tt-74	Juanita, Maureen and Melinda have only visited Pasadena	Melinda didn't visit McKinney	ENTAILMENT
+tt-75	Anna has only visited Dothan, Woods Hole and Saint Albans	Jan didn't visit Dothan	NEUTRAL
+tt-76	Nina has only visited Lewiston, Tiffin, Elkins, Saco, Jacksonville, Ruston and De Land	Nina didn't visit Tiffin	CONTRADICTION
+tt-77	Laura, Inez, Carmen, Lydia, Samantha, Wanda, Pauline and Lois have only visited Asheboro	Carmen didn't visit Albany	ENTAILMENT
+tt-78	Holly has only visited Panama City, Jacksonville, Greenwich, Portage, Iowa City, East Point, San Luis Obispo, Victoria and Wood River	Amelia didn't visit San Luis Obispo	NEUTRAL
+tt-79	Debra has only visited Coupeville, Sapulpa and Gloucester	Debra didn't visit Gloucester	CONTRADICTION
+tt-80	Florence, Beulah, Jackie and Irene have only visited Caldwell	Irene didn't visit Caldwell	CONTRADICTION
+tt-81	Sharon, Alison, Rita, Opal, Annie, Tina, Melanie, Tammy, Mae, Julia, Tracy and Alberta have only visited Saint Paul	Mae didn't visit Saint Paul	CONTRADICTION
+tt-82	Ida has only visited Camden, Florida, Jefferson City, Winona, Lake Geneva and Fond du Lac	Ida didn't visit Florida	CONTRADICTION
+tt-83	Bertha has only visited Kaskaskia, La Grande, Manitowoc and Palo Alto	Bertha didn't visit Manitowoc	CONTRADICTION
+tt-84	Norma, Juanita, Florence, Brandy, Roberta, Bertha, Jill, Eva, Stacey, Kathryn, April, Ruby, Sonia, Suzanne and Stephanie have only visited New Rochelle	Florence didn't visit New Rochelle	CONTRADICTION
+tt-85	Lynn has only visited Pawhuska and Havre	Lynn didn't visit Havre	CONTRADICTION
+tt-86	Velma has only visited Lincoln, Streator, Laguna Beach, Renton, Bremerton, Grenada, Gila Bend, Mattoon and Miami	Velma didn't visit Lincoln	CONTRADICTION
+tt-87	Vera, Charlotte, Mabel, Stacy, Stephanie, Mamie, Jodi, Roberta, Iris, Velma, Norma, Edith, Leslie and Ada have only visited Corpus Christi	Edith didn't visit Corpus Christi	CONTRADICTION
+tt-88	Anna, Audrey, Mae, Olga, Alma, Sally and Linda have only visited Florida	Sally didn't visit Florida	CONTRADICTION
+tt-89	Patsy has only visited Duxbury, Bay Saint Louis, Beverly, Demopolis, Herrin, North Las Vegas, South Holland, Parsippany–Troy Hills, Kalamazoo, Stony Point, Jim Thorpe, Pittsfield, Palmyra, Ambridge, Marion and Hopewell	Minnie didn't visit Kalamazoo	NEUTRAL
+tt-90	Melody, Edna, Gloria, Lindsey, Samantha, Maxine, Kathryn, Brenda, Susan, Renee, Peggy, Christine, Wanda and Lola have only visited Morgan City	Christine didn't visit Alcoa	ENTAILMENT
+tt-91	Kristi, Melissa, Inez, Loretta, Cecilia, Luz, Jennifer, Grace, Bobbie, Maryann, Jamie, Jill, Lola, Charlotte and Beatrice have only visited Fresno	Inez didn't visit Fresno	CONTRADICTION
+tt-92	Veronica, Claire, Sherry, Lena, Rita, Debra, Diana, Brittany, Sandy, Janet, Dora and Stacy have only visited Boonville	Claire didn't visit Anderson	ENTAILMENT
+tt-93	Martha, Leah, Lori, Sherri, Beth, Kristen, Theresa, Rhonda, Annette, Beverly and Clara have only visited Hillsborough	Beverly didn't visit Hillsborough	CONTRADICTION
+tt-94	Jamie has only visited Nebraska, Cedar Rapids, Cicero, Toccoa, Benton Harbor, Connersville, Brighton, Cape Girardeau, El Centro, Golden, Whitman, Presque Isle, Cincinnati and Windham	Debbie didn't visit Nebraska	NEUTRAL
+tt-95	Tamara has only visited Kansas, Mount Holly, Santa Claus, Saranac Lake, Irving, Victoria, Eastport, Ansonia, Norwalk, Sierra Vista, Sharon and Gretna	Cindy didn't visit Eastport	NEUTRAL
+tt-96	Ana, Erika, Regina, Janie, Fannie, Frances, Jo, Ella, Isabel, Blanche, Candace, Stacy and Carol have only visited Enterprise	Ella didn't visit Cedar Falls	ENTAILMENT
+tt-97	Sonya has only visited Michigan City, New Castle, Joplin, Sunnyvale, La Grande, Vermillion, Artesia, Excelsior Springs, Tuscumbia, Edmond, De Land and Bridgeport	Martha didn't visit Bridgeport	NEUTRAL
+tt-98	Mary has only visited Rotterdam and Columbia	Erika didn't visit Rotterdam	NEUTRAL
+tt-99	Deanna, Margaret, Judith, Teresa, Hilda, Courtney, Jeanne, Cora, Nancy, Sonia, Janet, Maryann, Amber, Jeanette and Violet have only visited Lexington	Sonia didn't visit Sidney	ENTAILMENT
+tt-100	Lauren, Becky, Patricia, Guadalupe, Kristina, Kristi, Marcia, Linda, Margarita, Audrey, Betty, Hattie, Gina, Laura, June, Eunice, Brandi, Beulah and Joyce have only visited Watertown	Joyce didn't visit Jeannette	ENTAILMENT
+tt-101	Evelyn and Alice have only visited Pullman	Alice didn't visit Pullman	CONTRADICTION
+tt-102	Hattie has only visited Oak Park, San Juan Capistrano, Crawfordsville, Natick, Torrington, Columbia, Manhattan, Miami, Union, Saint Louis, Lahaina, Charlotte, Lafayette, Flagstaff, Belle Fourche, Altoona, Anderson, Pharr and Hanover	Cheryl didn't visit Charlotte	NEUTRAL
+tt-103	Nina, Debra, Carla, Alma, Lorraine, Verna, Marion, Carmen, Maureen, Beatrice, Hilda, Lula, Yvette, Eunice and Lauren have only visited South Orange Village	Lauren didn't visit South Orange Village	CONTRADICTION
+tt-104	Inez, Flora, Helen, Julie, Erica, Yvette, Janice, Sally, Natasha, Lola, Marian and Violet have only visited Vancouver	Helen didn't visit New Bedford	ENTAILMENT
+tt-105	April has only visited Wyoming, El Centro, Smith Center, Camden, Pryor, Kettering, New Iberia and Webster	Georgia didn't visit Smith Center	NEUTRAL
+tt-106	Minnie has only visited Eufaula, Fontana and Mississippi	Denise didn't visit Fontana	NEUTRAL
+tt-107	Patsy has only visited Oberlin, Marion, San Simeon, Wailuku, Central City and Northfield	Katie didn't visit Wailuku	NEUTRAL
+tt-108	Toni has only visited Mason City, Oklahoma, Stillwater and Chautauqua	Kathryn didn't visit Mason City	NEUTRAL
+tt-109	Misty, Kim, Martha, Toni, Leslie, Florence, Sheila, Rosa, Lee, Heidi, Melissa, Irene, Anne and Erin have only visited Crossett	Sheila didn't visit Turlock	ENTAILMENT
+tt-110	Inez has only visited Ocean Springs, California, Campbellsville, Vandalia, Lebanon and Taunton	Marie didn't visit Ocean Springs	NEUTRAL
+tt-111	Beatrice, Charlotte, Sandy, Donna and Carrie have only visited Council Grove	Beatrice didn't visit Council Grove	CONTRADICTION
+tt-112	Iris, Miriam, Jan, Betty, Bonnie, Angie, Mamie, Jessica, Danielle, Emma, Opal, Louise, Monica, Kim, Peggy, Norma, Katrina and Faye have only visited Cape Girardeau	Mamie didn't visit Cape Girardeau	CONTRADICTION
+tt-113	Janet has only visited Dalton and Minden	Janet didn't visit Minden	CONTRADICTION
+tt-114	Samantha has only visited Shaker Heights, Bethesda-Chevy Chase, Ambridge, Shelton, Smyrna, Harwich, Canton, Moore, Las Cruces, Darien, Tiffin, Silver City, McAllen, Conway and Florida	Connie didn't visit Harwich	NEUTRAL
+tt-115	Cassandra has only visited Ajo, Garland, West Allis, Saint Augustine, Hanover, Stevens Point, Oklahoma, Vineland, Uvalde, Kalispell, Phenix City, Connecticut, Crystal City, Burlington, Wisconsin, Shelbyville, Palo Alto, Hackensack and Santa Clarita	Kay didn't visit Uvalde	NEUTRAL
+tt-116	Colleen has only visited La Grange, Yonkers, West Memphis, Gretna, Eastpointe, Davis and Kotzebue	Rita didn't visit Yonkers	NEUTRAL
+tt-117	Iris, Diana, Cynthia, Colleen and Candace have only visited Albuquerque	Cynthia didn't visit Albuquerque	CONTRADICTION
+tt-118	Jill, Dana, Judith, Annette, Marian, Minnie, Faye, Lynn, Arlene, Lula, Carolyn, Irene, Gwendolyn, Irma, Sandy and Sylvia have only visited Abingdon	Irene didn't visit Elizabethton	ENTAILMENT
+tt-119	Rita, Tamara, Sarah, Christina, Georgia, Evelyn, Tara, Leona, Maryann, Candace, Fannie, Tonya, Lucille, Debbie, Joanne, Jo and Brittany have only visited Lisle	Tonya didn't visit Lisle	CONTRADICTION
+tt-120	Lillie has only visited San Marino, Longview, Plymouth, Menominee, Aurora, Salem, Wellsburg, Pittsburg, Miami, Biloxi, Springville, Chillicothe, Hot Springs, Valparaiso, Ellensburg, Quincy, New Bedford, San Luis Obispo and Augusta	Debra didn't visit Aurora	NEUTRAL
+tt-121	Ella has only visited Stony Point, Belle Glade, Barrington, Ukiah, Shaker Heights, Dillon, Homestead, Kingsville, Chula Vista, Flushing, Palm Beach, Florissant, Glenwood Springs, Coulee Dam, Eastham, Xenia and Guntersville	Naomi didn't visit Chula Vista	NEUTRAL
+tt-122	Toni, Rose, Penny, Dana, Frances, Elaine, Maryann, Marguerite, Naomi, Eleanor, Yvonne, Claudia, Kelly, Felicia, Ana, Judith, Dawn, Annette and Nina have only visited Caribou	Toni didn't visit Middletown	ENTAILMENT
+tt-123	Rosie has only visited Huntington Beach, Berea, Essex, Fort Kent, Naperville, Lake Charles, Durham, Brookings, International Falls and New Market	Lynda didn't visit New Market	NEUTRAL
+tt-124	Jessie, Loretta and Louise have only visited Saint Cloud	Louise didn't visit Saint Cloud	CONTRADICTION
+tt-125	Dorothy has only visited Middletown, Columbia, Aliquippa, Brunswick, Norfolk, East Point, Sioux City, Charles Town, Keyser, Port Orford, Portland, Virden, Clovis, Halifax, Weston, Johnson City, Pasco, Cuyahoga Falls, Asbury Park and New Bedford	Dorothy didn't visit Johnson City	CONTRADICTION
+tt-126	Jo, Rosemary, Kristine, Charlotte, Maggie, Lynn, Esther, Georgia, Angie and April have only visited Raleigh	Charlotte didn't visit Pasadena	ENTAILMENT
+tt-127	Candace has only visited Smyrna, Genoa and El Dorado	Mamie didn't visit Genoa	NEUTRAL
+tt-128	Ida, Claudia, Megan, Lucille, Paula, Theresa, Ethel, Lucy and Gwendolyn have only visited Nome	Claudia didn't visit Missouri	ENTAILMENT
+tt-129	Lucille, Molly, Rhonda, Sabrina, Carrie, Cindy, Colleen and Ada have only visited Stillwater	Molly didn't visit Stillwater	CONTRADICTION
+tt-130	Ann, Carole, Brandi, Carolyn and Kathleen have only visited Gardiner	Carolyn didn't visit Gardiner	CONTRADICTION
+tt-131	Rhonda has only visited Harrisburg, Midwest City, Chandler, Natick, Pinehurst, Gallup, Priest River, Fullerton, Nashville, Ashland, Fairhaven and Casa Grande	Bertha didn't visit Fairhaven	NEUTRAL
+tt-132	Marlene, Cassandra, Daisy, Hattie and Lisa have only visited Rochester	Lisa didn't visit Rochester	CONTRADICTION
+tt-133	Donna, Louise, Monique, Viola, Janet, Mae, Julia, Lauren, Marsha, Katrina, Sally, Rita, Linda, Diana and Violet have only visited Brockton	Katrina didn't visit New Smyrna Beach	ENTAILMENT
+tt-134	Lillie has only visited Calhoun, Eastchester, Paterson, Miles City, Excelsior Springs, Branford and Mentor	Florence didn't visit Mentor	NEUTRAL
+tt-135	Molly and Esther have only visited Camden	Esther didn't visit Morristown	ENTAILMENT
+tt-136	Marie, Edna, Jan, Samantha, Alice, Terry, Judith, Monique, Jackie, Lori, Becky and Mattie have only visited Cooperstown	Terry didn't visit Windsor Locks	ENTAILMENT
+tt-137	Jan, Margarita, Hazel, Lucille, Kristen, Donna, Samantha and Vicki have only visited Great Neck	Lucille didn't visit Great Neck	CONTRADICTION
+tt-138	Janice, Maureen, Madeline, Hattie, Lena, Jean, Carole and Monique have only visited Anderson	Hattie didn't visit Anderson	CONTRADICTION
+tt-139	Tiffany has only visited Socorro, Manti, Stockbridge, Alamogordo, Monterey, Pontiac, Valdosta, Lewiston, Belleville, Wyoming, Connersville, Indianapolis, Alva, Edgartown, West Covina, Stony Point, Wauwatosa, Ludlow, Chester and DeKalb	Wanda didn't visit Lewiston	NEUTRAL
+tt-140	Cassandra, Sheila, Susie, Ann, Tanya, Claudia, Blanche, Lori, Alice, Allison, Ruth, Genevieve, Kristin, Willie, Priscilla and Rosie have only visited New Rochelle	Kristin didn't visit Chester	ENTAILMENT
+tt-141	Flora, Jill, Alma, Shirley, Jean, Loretta, Luz, Geraldine, Rachel, Marguerite, Wanda and Velma have only visited Provo	Alma didn't visit Taunton	ENTAILMENT
+tt-142	Peggy has only visited Huntsville, Thermopolis, Lombard, Reedsport, Fort Lauderdale, Grand Forks, Effingham, Fillmore, Tyler, Darien, Levittown, Babylon, Henderson, Bogalusa, Barrington, Minden, Grand Haven, Muskogee, Davis and Willmar	Doris didn't visit Reedsport	NEUTRAL
+tt-143	Beverly has only visited Cedar Rapids, Muncie, Shaker Heights, West Covina, Lexington, Piqua, Malibu, Menominee, Pauls Valley, Amesbury, Olean, Bowling Green, Cape Girardeau, Corning, Saint Louis and Cranford	Tiffany didn't visit Muncie	NEUTRAL
+tt-144	Brittany has only visited Greensburg, Lake Geneva, Golden, Louisiana, Abingdon, Maryland, Huron, Covington, Alta, Anchorage, Council Bluffs and Kingston	Brittany didn't visit Covington	CONTRADICTION
+tt-145	Janet, Tiffany, Melanie, Carla, Vicki, Allison, Wendy, Marjorie, Donna, Becky, Carole, Linda and Sherry have only visited Chester	Carole didn't visit Sauk Centre	ENTAILMENT
+tt-146	Yvonne and Ellen have only visited Leavenworth	Ellen didn't visit Leavenworth	CONTRADICTION
+tt-147	Glenda has only visited Chickasaw, Corinth, Sebring, Covington, Brainerd, Texarkana, Ouray, Deerfield Beach, Hanalei, Kingston, Natchez and South Hadley	Pauline didn't visit Ouray	NEUTRAL
+tt-148	Debbie has only visited Columbus and Andalusia	Gertrude didn't visit Columbus	NEUTRAL
+tt-149	Guadalupe, Lillie, Doris, Daisy, Dora, Kelly, Gertrude, Jamie, Juana, Helen, Rhonda, Beatrice, Margarita, Stacy, Josephine, Valerie, Terri, Jill and Kay have only visited Harrodsburg	Valerie didn't visit Spanish Fork	ENTAILMENT
+tt-150	Janie has only visited Galena, Tuskegee, Franklin, White Springs, Nampa, Sherman, Hawaii, Overland Park, Mandan, Fairfield, Vincennes, Alabama, Chelmsford, Searcy and Erie	Janie didn't visit Hawaii	CONTRADICTION
+tt-151	Eileen has only visited Fort Lauderdale, Aurora, Plano, Saratoga Springs and Ilion	Gwendolyn didn't visit Ilion	NEUTRAL
+tt-152	Maureen has only visited Connecticut, Casa Grande, Bath, Columbia, Clovis, McKinney, Anacortes, Lewiston, Port Angeles, La Junta, Pipestone, Goliad, West Covina, Mississippi and Lubbock	Maureen didn't visit Casa Grande	CONTRADICTION
+tt-153	Irene, Marsha, Cecilia, Jane, Natasha, Heather, Beatrice, Kristi, Lucille, Kristine, Felicia, Carol, Sherry and Candice have only visited Lewiston	Candice didn't visit East Hartford	ENTAILMENT
+tt-154	Anita, Janie, Jackie and Veronica have only visited Grafton	Jackie didn't visit Grafton	CONTRADICTION
+tt-155	Lindsey has only visited Morristown, Kearney, Belen, Prineville, Marshall, Batesville, Everett and Greenfield	Angela didn't visit Kearney	NEUTRAL
+tt-156	Bonnie and Priscilla have only visited Milford	Bonnie didn't visit Hope	ENTAILMENT
+tt-157	Kathy, Tina, Ellen, Marcia, Claire, Ramona, Frances, Naomi, Annette, Molly, Gail, April, Lisa, Amy, Teresa, Charlotte and Tara have only visited Beatrice	Teresa didn't visit Hackensack	ENTAILMENT
+tt-158	Joy, Lynn, Angela, Jackie and Marguerite have only visited Troy	Lynn didn't visit Caribou	ENTAILMENT
+tt-159	Constance has only visited Easton, Oskaloosa, Passaic, Xenia, Jacksonville, Puyallup, Stockbridge, Pharr and Fremont	Nellie didn't visit Oskaloosa	NEUTRAL
+tt-160	Nina has only visited Plano, Huntsville, Tiffin, South Bend, Spring Green, Cuyahoga Falls, Denison, Bronx, Honaunau, Akron, New Hampshire, Skagway, Wheaton, Newton, Winston-Salem, Elkhart, Walsenburg and Plattsburgh	Jacqueline didn't visit Cuyahoga Falls	NEUTRAL
+tt-161	Marsha has only visited Peekskill, Alva, Red Bluff, Scarsdale, Bordentown, Palmyra, Towson, De Smet, Stony Point, Columbia and West Hartford	Marsha didn't visit Palmyra	CONTRADICTION
+tt-162	Natasha, Frances, Rita, Kathryn, Leah, Sheryl, Caroline, Vicki, Candace, Terry and Jessica have only visited Millburn	Candace didn't visit Millburn	CONTRADICTION
+tt-163	Janice has only visited Tahlequah, Oak Harbor, Warm Springs, Sauk Centre, San Clemente, Charles Town, Hollywood, Wheeling, Ishpeming and Marion	Janice didn't visit Hollywood	CONTRADICTION
+tt-164	Kelly has only visited Pryor, Utica, West Hartford, Fairbanks, Jackson, Hillsborough, Amherst, Covington, Santa Monica, Amsterdam, Hamilton, Cortez and Lubbock	Ramona didn't visit Fairbanks	NEUTRAL
+tt-165	Florence and Sabrina have only visited East Liverpool	Sabrina didn't visit New York City	ENTAILMENT
+tt-166	Jane, Violet, Sonia, Marcia, Lori, Sandra, Teresa, Crystal, Louise, Jessie, Geraldine and Nora have only visited Coney Island	Sonia didn't visit Opelousas	ENTAILMENT
+tt-167	Sheryl, Edith, Emily, Stella, Fannie, Tanya, Kathleen, Brandi, Peggy, Lorraine, Dana, Shannon, Cecilia, Irene, Regina, Norma, Joy and Claire have only visited Caldwell	Regina didn't visit Greenfield	ENTAILMENT
+tt-168	Elsie has only visited Shelbyville, Abilene, Athens, Alamogordo, Osceola, Illinois, San Bernardino, Harmony, Lodi, North Las Vegas and Rock Island	Kristina didn't visit North Las Vegas	NEUTRAL
+tt-169	Carla, Eleanor, Wilma, Jean, Lydia, Tammy, Sherry, Melissa, Christy, Joanna and Terry have only visited East Chicago	Eleanor didn't visit East Chicago	CONTRADICTION
+tt-170	Julia, Brittany, Verna, Irma, Sandy, Judy and Olivia have only visited Fairfield	Olivia didn't visit Pocatello	ENTAILMENT
+tt-171	Sara, Betty, Dorothy, Robin, Joanna, Lillian, Judith, Charlotte, Sandy, Barbara, Jean and Joy have only visited Canton	Dorothy didn't visit Canton	CONTRADICTION
+tt-172	Michelle has only visited Titusville, Winslow, Prairie du Chien, Anchorage, Stockton, Bellefontaine, Lexington, Central City, Burlington, Aberdeen, Miles City, Tucumcari, Sheboygan and Centralia	Natalie didn't visit Stockton	NEUTRAL
+tt-173	Hattie has only visited Brookfield and Freeport	Elizabeth didn't visit Brookfield	NEUTRAL
+tt-174	Rose has only visited Atchison, Amsterdam, Naugatuck, Belle Glade, Boone, Yankton, Jamestown, Lompoc, Homestead, Charleston, Ashland, Alva, Casper, Harlan, New Windsor and Reston	Julie didn't visit Ashland	NEUTRAL
+tt-175	Minnie has only visited Costa Mesa, Mackinaw City, Chanute, Hempstead, San Luis Obispo, Warren, Oconto, Oregon City and Marietta	Minnie didn't visit Warren	CONTRADICTION
+tt-176	Julia, Jessica, Kim, Candice, Alice, Helen, Laura, Margarita, Jeanne, Brandi, Brenda, Cora, Susan, Dolores, Tamara, Heidi, Amy, Deanna and Monica have only visited Akron	Brenda didn't visit Coronado	ENTAILMENT
+tt-177	Claire has only visited Ferguson and Del Rio	Claire didn't visit Del Rio	CONTRADICTION
+tt-178	Vicki has only visited East Chicago, Monroeville, Globe, Cheektowaga, Elgin, Winter Haven, Iowa City, Manassas, Martinsburg, Winslow, Great Neck, Estherville, Kingsville, Marietta, Helena and Columbia	Cassandra didn't visit Elgin	NEUTRAL
+tt-179	Shirley, Frances, Sara, Olga, Annie, Kathy, Ida, Ruth, Jane and Yvonne have only visited Waco	Annie didn't visit Waco	CONTRADICTION
+tt-180	Roberta has only visited West New York, Traverse City, Groton, Hanalei, Northfield, Hinton, Kinston, Bristol, Sun Valley, Old Saybrook, Lexington, Sterling, Palm Beach, Meadville, Moore, Silver City, West Bend, Alabama and Palo Alto	Hilda didn't visit Alabama	NEUTRAL
+tt-181	Fannie has only visited Jacksonville, McKinney, Laie, New Castle, Santa Monica, Durango, Newcastle, Interlochen, Cohoes, Peekskill, Highland Park, Bowling Green, Great Neck, Cocoa-Rockledge, Southampton, Port Orford, Johnstown, Saranac Lake and Sonoma	Pauline didn't visit Jacksonville	NEUTRAL
+tt-182	Wendy has only visited Sunbury, Guntersville, Wisconsin Dells, McMinnville, Breckenridge, Sauk Centre, Venice, Alhambra, New Philadelphia, Grants, Millville and Durham	Wendy didn't visit Guntersville	CONTRADICTION
+tt-183	Madeline, Sonya, Kristin, Ashley, Carolyn, Dianne, Julia, Joyce and Leona have only visited Grayling	Dianne didn't visit Wheaton	ENTAILMENT
+tt-184	Debra has only visited Ysleta, Harlan, Seneca Falls, Dixon, Saint Paul, Wayne, Glenview, Braintree, Indiana, Salem, Henderson, Lakewood, Nauvoo, Kahului, Holly Springs, Clinton, Sainte Genevieve, Illinois and Boone	Charlene didn't visit Clinton	NEUTRAL
+tt-185	Ana, Carla and Lucy have only visited Ames	Carla didn't visit Delaware	ENTAILMENT
+tt-186	Nina has only visited Pekin, Oroville, Yuma, Sun Valley, Springfield, Providence, Searcy, Longview, Los Alamos, Tullahoma, Granite City, Plainview, Seattle and Hampton	Nina didn't visit Pekin	CONTRADICTION
+tt-187	Cynthia has only visited Central City, Haddonfield and Saint Augustine	Natasha didn't visit Saint Augustine	NEUTRAL
+tt-188	Naomi, Bernice, Nicole, Natalie, Sonia, Lynn, Rosa, Erica, Edith, Angie, Bertha, Georgia, Erin, Colleen, Lindsay, Katherine, Melody, Amanda and Dora have only visited Hugo	Amanda didn't visit Stevens Point	ENTAILMENT
+tt-189	Sue, Charlene, Tracey, Candace, Marian, Ramona, Ruby, Maria, Velma, Lucy, Tanya, Shelly, Mae, Sandra, Nora, Cheryl, Alicia, Shirley and Cindy have only visited Alhambra	Shirley didn't visit Roselle	ENTAILMENT
+tt-190	Theresa has only visited Lake Oswego, Little Rock, Clifton, San Francisco, Lahaina, Elkhart, Talladega, Indiana, Waterloo and Eastpointe	Theresa didn't visit Elkhart	CONTRADICTION
+tt-191	Josephine has only visited Henderson, Carthage, Macon, Middletown, Nags Head, Trinidad, Lancaster, Hanover, Port Lavaca, Menlo Park, Homestead, Portland and Ogden	Josephine didn't visit Macon	CONTRADICTION
+tt-192	Lorraine has only visited Longmont, Venice, Forest Hills, Rantoul, Ames, Lake Charles and Oklahoma	Cheryl didn't visit Forest Hills	NEUTRAL
+tt-193	Wanda has only visited Alexandria, Glendive, Bedford, Owensboro, Corinth, Vallejo, Hammondsport, Chautauqua, Fergus Falls, Johnstown, Canton, Skokie and Greenville	Felicia didn't visit Owensboro	NEUTRAL
+tt-194	Lula has only visited Mesquite, Mitchell, Lynchburg, Englewood, Clinton, Dallas, Eagle Pass, Haddonfield, Garden Grove and San Mateo	Lula didn't visit Mitchell	CONTRADICTION
+tt-195	Stacey has only visited Arizona, Oswego, Lockport, Bartlesville, Crystal City, Hudson, Lower Southampton, Kennewick, Stony Brook, State College, Climax, Wyandotte, Ventura, Rye, Gloversville, Carlinville, Sitka, Salem and Emporia	Stacey didn't visit Gloversville	CONTRADICTION
+tt-196	Yvette has only visited Schenectady, Asheville, Oskaloosa, De Smet, Downey, Corona, Menominee, Tuskegee, Johnstown, Elkins, Glassboro, Lubec, Tillamook, Fort Lauderdale, Irvine, Ecorse, Big Spring, Beverly, Crown Point and Chickasha	Andrea didn't visit Irvine	NEUTRAL
+tt-197	Jeanette, Helen, Angela, Georgia, Cheryl, Kathy and Tracey have only visited Fort Kent	Jeanette didn't visit Westminster	ENTAILMENT
+tt-198	Lucy, Kayla, Nancy, Marsha, Lillian, Emma, Virginia, Wilma and Miriam have only visited College Station	Virginia didn't visit Madison	ENTAILMENT
+tt-199	Olivia, Courtney, Connie, Brandi, Genevieve and Rachel have only visited Colorado	Courtney didn't visit Provincetown	ENTAILMENT
+tt-200	Emily, Heidi, Kristy, Stacey, Heather, Marian, Teresa, Katie, Melody and Renee have only visited Cleburne	Heather didn't visit Fond du Lac	ENTAILMENT
+tt-201	Hazel, Lindsey, Lynn, Natasha, Willie, Lillie, Misty, Geneva, Cindy and Phyllis have only visited Bainbridge	Lillie didn't visit Bainbridge	CONTRADICTION
+tt-202	Dolores, Ada, Margaret, Fannie, Erika, Dorothy, Ramona, Teresa, Kristina, Pearl, Blanche, Katie and Madeline have only visited Ketchikan	Dorothy didn't visit Valparaiso	ENTAILMENT
+tt-203	Betty has only visited San Mateo, Owatonna, Bedford, Nyack, Phenix City, Lancaster, Ysleta, Dahlonega, Skagway, Port Orford, Huntington, Kokomo, Point Pleasant, Charles Town, San Clemente and Orangeburg	Kelly didn't visit Skagway	NEUTRAL
+tt-204	Dolores, Peggy, Angie and Mae have only visited Bloomfield	Mae didn't visit Enfield	ENTAILMENT
+tt-205	Valerie has only visited Darien, Kansas City, Ironwood, Atlanta, Gatlinburg, Braintree, Saint Marys City, Newton, Conway, Shaker Heights, Ames, Pompano Beach, Vancouver, Alamosa, Quincy, New Milford and Cookeville	Sharon didn't visit Conway	NEUTRAL
+tt-206	Monica has only visited Sallisaw, Enid, Warren, Newburgh, Rawlins, Lubbock, Port Huron, Forest Hills, Billings, Champaign, Newport, Menominee and Fort Walton Beach	Violet didn't visit Newport	NEUTRAL
+tt-207	Sherri, Sally, Patsy, Viola, Julia, Ada, Carla, Judy, Erika, Ashley, Sheryl, Patricia, Bessie, Nellie, Becky, Yvonne and Crystal have only visited Oceanside	Becky didn't visit Oneonta	ENTAILMENT
+tt-208	Nora, Lee, Annie, Vera, Sara, Erin, Helen, Maureen, Ada, Molly, Sherri, Monique, Nellie, Marie, Sheila, Beverly, Maria, Anita, Sonia and Marion have only visited Wahiawa	Erin didn't visit Wahiawa	CONTRADICTION
+tt-209	Cindy, Susan, Luz, Barbara, Jacqueline, Jeanette, Stacy and Bonnie have only visited Dickinson	Susan didn't visit Dickinson	CONTRADICTION
+tt-210	Courtney has only visited Huntington, Chester, Lock Haven, East Hartford, McKeesport, Warren, Pittsfield and Sharon	Georgia didn't visit McKeesport	NEUTRAL
+tt-211	Janie, Maureen, Charlene and Flora have only visited Philadelphia	Janie didn't visit Lompoc	ENTAILMENT
+tt-212	Michelle has only visited Wilson, Wahpeton, Sebring, Alton, Greeneville, Little Falls, Winston-Salem, Window Rock, Henderson, Topeka, Norristown, Nashville, Berlin, Saint Albans, DeKalb, Groton, Ocean City, Glendale and Bayonne	Rosie didn't visit Wilson	NEUTRAL
+tt-213	Geneva has only visited Shelbyville, Lincoln, Waco, Delaware, Dillon, Lexington, Clarksburg, Escanaba, Kenosha, Mobridge, Casa Grande, Norwalk, Wewoka, Pullman, Houma, Harlem and Randolph	Geneva didn't visit Escanaba	CONTRADICTION
+tt-214	Heidi, Hilda, Vickie, Sara, Carol, Grace and Myrtle have only visited Asheville	Heidi didn't visit Prineville	ENTAILMENT
+tt-215	Janet and Gladys have only visited Wethersfield	Janet didn't visit Chicago Heights	ENTAILMENT
+tt-216	Maureen has only visited Queens, Pompano Beach, Herrin, Lake Placid, Saint Charles, Westminster, Tooele, Priest River, Petersburg, Morehead City, Williston, Warren, Athens, Warrensburg, Maryland, Aspen and Redlands	Juana didn't visit Warrensburg	NEUTRAL
+tt-217	Renee, Melanie, Caroline, Holly, Billie, Marlene, Sheila and Guadalupe have only visited North Las Vegas	Renee didn't visit Johnstown	ENTAILMENT
+tt-218	Natasha has only visited Highland Park, Tewksbury, Nebraska, Rensselaer, Simi Valley, New Orleans, Flagstaff, Sainte Genevieve, Douglas, Tiffin, Sturbridge, Shelby, Lexington, Winter Haven, Newport and Lebanon	Natasha didn't visit Rensselaer	CONTRADICTION
+tt-219	Lorraine, Louise, Danielle, Terri, Ruth, Kathy, Sherri, Christine, Connie and Eva have only visited Alhambra	Terri didn't visit Atchison	ENTAILMENT
+tt-220	Bertha has only visited Dalton, Utica, Estherville, Baytown, Milan, Portland, Roseville, Payson, Douglas, Willmar, Marion, Arthur, Canton and New Kensington	Bertha didn't visit Utica	CONTRADICTION
+tt-221	Catherine has only visited Salem, Wickford, Hutchinson, Pittsfield and Chico	Catherine didn't visit Salem	CONTRADICTION
+tt-222	Florence has only visited Columbus, Springfield, Jonesborough and Gastonia	Sabrina didn't visit Springfield	NEUTRAL
+tt-223	Mary, Diane, Sherry, Anne, Tanya, Flora, Viola, Bobbie, Fannie, Martha, Priscilla, Julie, Gwendolyn, Thelma, Samantha, Claire, Michelle, Melanie, Mamie and Leslie have only visited Newport	Samantha didn't visit Randolph	ENTAILMENT
+tt-224	Joan has only visited Niagara Falls, Jim Thorpe, South San Francisco, Waimea, Natchitoches, Kinston and Menlo Park	Joan didn't visit Niagara Falls	CONTRADICTION
+tt-225	Alison, Diane, Olga, Antoinette, Angela, Dana, Elaine, April, Dolores, Kristen, Mary, Ruby, Tracy, Doris, Angie, Nicole, Marlene, Maxine, Marilyn and Denise have only visited Cumberland	Ruby didn't visit Chadron	ENTAILMENT
+tt-226	Dorothy, Gail, Jessica, Brittany, Ethel, Yvonne, Esther, Pamela, Lydia, Maureen, Juanita, Beth, Jeanette, Olivia, Deborah, Alice, Lindsey, Shannon and Mamie have only visited Deerfield Beach	Shannon didn't visit Worland	ENTAILMENT
+tt-227	Martha has only visited Grenada, Goshen, Jamestown, Dallas, Durham and Clarksburg	Nina didn't visit Jamestown	NEUTRAL
+tt-228	Constance has only visited Duluth, Wood River, Chester, Starkville and Norwich	Constance didn't visit Starkville	CONTRADICTION
+tt-229	Michele, Marcia, Jeanette, Anita, Catherine, Lindsay, Shannon, Stacy, Sheila, Jennie, Hattie and Rosa have only visited Bellevue	Catherine didn't visit Glassboro	ENTAILMENT
+tt-230	Lillian has only visited Glen Ellyn, Morehead City and Newport	Lillian didn't visit Newport	CONTRADICTION
+tt-231	Pamela has only visited Herrin, Kingsport, Gunnison and Hinton	Delores didn't visit Herrin	NEUTRAL
+tt-232	Kim has only visited Fort Payne, Pueblo, Gaffney, Portsmouth, Lompoc, Carrollton, Lake Charles, Bloomsburg, Port Angeles, Rocky Mount, Northfield, Corpus Christi, Lexington, Nebraska City, Pompano Beach, Muskogee, Coronado, Malden, Middlebury and Morgantown	Kim didn't visit Northfield	CONTRADICTION
+tt-233	Rachel, Gloria, Myrtle, Misty, Vera, Evelyn, Ashley, Cynthia, Jeanne, Bonnie, Beatrice, Katherine, Lindsey, Caroline, Velma, Marilyn, Kay and Tracey have only visited Norristown	Rachel didn't visit Dedham	ENTAILMENT
+tt-234	Alice has only visited Yuba City, Lebanon, Everett and Oregon City	Katrina didn't visit Lebanon	NEUTRAL
+tt-235	Jane has only visited Peru, Arkansas, Waukegan, Klamath Falls, Dodge City and Bristol	Joy didn't visit Dodge City	NEUTRAL
+tt-236	Vicki, Ida, Caroline, Diane, Shelly, Lula, Christy, Lucille, Florence, Cynthia, Delores, Renee, Toni, Lauren, Kayla and Karen have only visited Union City	Karen didn't visit Union City	CONTRADICTION
+tt-237	Sonya has only visited Canton, Downey, Garland, McKinney, Knoxville, Columbia, San Juan Capistrano and Fitchburg	Heidi didn't visit Fitchburg	NEUTRAL
+tt-238	Lula has only visited Temple, Butte, Fergus Falls and Escondido	Erin didn't visit Temple	NEUTRAL
+tt-239	Nora, Joanna, Heather, Annie, Colleen, Katie, Maxine and Sabrina have only visited Turlock	Annie didn't visit Turlock	CONTRADICTION
+tt-240	Laura, Deborah and Charlene have only visited Boise	Deborah didn't visit Portsmouth	ENTAILMENT
+tt-241	Antoinette has only visited Rumford, Weatherford and Evanston	Jill didn't visit Rumford	NEUTRAL
+tt-242	Irene has only visited Harlan, North Adams, Greenwood, Oswego, Martinsburg, Sheffield and Waterloo	Irene didn't visit Harlan	CONTRADICTION
+tt-243	Candace has only visited Cleveland, Morganton, Milford, Royal Oak, Ames, Grand Island and Mandan	Irene didn't visit Royal Oak	NEUTRAL
+tt-244	Verna has only visited Springfield, Norton, College Station, Barre, Sandwich, Twin Falls, New Orleans, Winona, Sheboygan, Cedar Rapids, Warrensburg, South Orange Village, Pittsburgh, Window Rock, Hamilton, Tewksbury, Nashville, McAlester and Aspen	Verna didn't visit Nashville	CONTRADICTION
+tt-245	Norma, Erin, Alice, Beverly, Willie, Cindy, Sylvia, Samantha, Megan, Kristin, Robin, Vicki, Deborah and Thelma have only visited Fort Wayne	Robin didn't visit Fort Wayne	CONTRADICTION
+tt-246	Jackie has only visited Omaha, Jackson, Coffeyville, Lewes, Brigham City, Fargo, Fillmore, Rotterdam, Sonoma, Carrollton, Wellesley and Springfield	Jackie didn't visit Rotterdam	CONTRADICTION
+tt-247	Joanne has only visited Kent, Erie, Bay City and Princeton	Anna didn't visit Kent	NEUTRAL
+tt-248	Vickie, Diana, Erika and Eva have only visited Shaker Heights	Erika didn't visit Shaker Heights	CONTRADICTION
+tt-249	Violet, Grace, Juana, Veronica, Michelle, Samantha, Margaret, Julie, Jackie, Vickie and Kristi have only visited Fort Valley	Jackie didn't visit Cooperstown	ENTAILMENT
+tt-250	Eunice has only visited Pampa, Camden, Canyon, Tullahoma and Jeannette	Jeanette didn't visit Jeannette	NEUTRAL
+tt-251	Norma has only visited Richmond, Frederick, Port Washington, Alton, Phenix City, Reno, Menlo Park, Coventry, Carlsbad, Douglas, Jackson, Kelso, Stony Brook, Pasco, Springfield, Ogdensburg, Grosse Pointe and Norwich	Norma didn't visit Frederick	CONTRADICTION
+tt-252	Antoinette, Loretta, Kristina, Anna, Nina, Annie, Leona and Hazel have only visited American Fork	Loretta didn't visit San Diego	ENTAILMENT
+tt-253	Jessica has only visited Waterloo, Albany, Paducah, Council Grove, Yellow Springs, Pottstown, Hackensack, Jacksonville, Belfast, East Moline, Berlin, Canton, South Dakota, Hanover, Potsdam, Ely, Conway, San Leandro, Ripon and Rye	Christy didn't visit South Dakota	NEUTRAL
+tt-254	Gina, Veronica, Lindsey, Lisa, Kristy, Betty, Iris, Kathleen, Yvonne, Doris, Carole and Fannie have only visited Niagara Falls	Lisa didn't visit Bay Saint Louis	ENTAILMENT
+tt-255	Harriet has only visited Fairfield, Bardstown, Taunton, Titusville, Newark, New Jersey, Eau Claire, Pawtucket and San Angelo	Harriet didn't visit New Jersey	CONTRADICTION
+tt-256	Lynn has only visited Lincoln, New Harmony, Alamogordo, Clovis, Waukegan, Carson City, Owatonna, Port Lavaca, Lancaster and Edenton	Christina didn't visit New Harmony	NEUTRAL
+tt-257	Mabel has only visited State College, Lehi, Dover, Idaho City, Palatine, Pottsville, Norwich and Stockbridge	Mabel didn't visit Stockbridge	CONTRADICTION
+tt-258	Melissa, Sonya, Lois, Kathy, Jo, Ethel, Carla, Sharon, Michele, Melody, Tina, Sherry, Kayla, Victoria, Lee, Cathy, Stella, Ramona and Yolanda have only visited Talladega	Stella didn't visit Spring Green	ENTAILMENT
+tt-259	Jacqueline has only visited Deerfield Beach, Portsmouth, Warner Robins, Brainerd, Vincennes, Cortland, Meridian, Watkins Glen, Bisbee, Stockbridge, Abbeville, Bellingham and Leavenworth	Rose didn't visit Vincennes	NEUTRAL
+tt-260	Katherine, Helen, Sandy, Shannon, Rosemary, Irma, Miriam, Deanna, Christy, Stacy, Christina, Gloria, Anita and Janie have only visited Bristol	Gloria didn't visit Pueblo	ENTAILMENT
+tt-261	Jean has only visited Calais, Kingston, Austin, Bay City and Renton	Agnes didn't visit Austin	NEUTRAL
+tt-262	Monica, Pauline, Denise, Angela, Alberta, Erin, Helen, Gina, Tonya, Mamie, Amelia, Eva, Pamela, Lynn and Norma have only visited Annapolis	Erin didn't visit Homer	ENTAILMENT
+tt-263	Karen, Veronica, Pearl, Beatrice, Evelyn, Gail, Sheila, Nicole, Nellie, Harriet, Marguerite, Marcia, Regina, Kristy, Willie, Erica, Natalie, Cheryl, Tiffany and Heidi have only visited Borger	Beatrice didn't visit Longview	ENTAILMENT
+tt-264	Mae has only visited Bogalusa, Golden, Hancock, Richmond, North Platte, Ambridge, Pocatello, New Braunfels, Ruston, Weatherford, Falmouth and Fairhaven	Darlene didn't visit Ambridge	NEUTRAL
+tt-265	Margie has only visited Kettering, Myrtle Beach, Bloomington, Menlo Park, Plainfield, Niles, Sunnyvale, Morgan City, Carthage, Hattiesburg, Santa Rosa, Groton, Red Bluff, Alta, Harpers Ferry, New Mexico and Guntersville	Felicia didn't visit Morgan City	NEUTRAL
+tt-266	Amber, Claudia, Jenny, Josephine, Kimberly, Emma, Maureen, Heather, Gladys, Sally, Carole, Jill and Maggie have only visited Wheaton	Josephine didn't visit Wheaton	CONTRADICTION
+tt-267	Amy, Sharon, Maria, Lula, Jacqueline, Daisy, Kristen, Eileen, Sherri, Jill, Nicole, Irma, Sara, Louise, Esther and Connie have only visited Allentown	Sharon didn't visit Allentown	CONTRADICTION
+tt-268	Cassandra has only visited Cedar Rapids, Providence, John Day and Missouri	Cassandra didn't visit Missouri	CONTRADICTION
+tt-269	Amy, Irma, Eva, Deanna, Charlotte, Doris and Candice have only visited Powell	Deanna didn't visit Waimea	ENTAILMENT
+tt-270	Megan, Lindsay, Myrtle, Sara, Anne, Kristy, Maria, Penny, Robin, Victoria, Iris, Hattie and Viola have only visited Winchester	Viola didn't visit Columbia	ENTAILMENT
+tt-271	Natasha has only visited Levittown, Roswell, Fort Walton Beach, New Mexico, New Glarus and Arlington	Natasha didn't visit New Mexico	CONTRADICTION
+tt-272	April, Rita, Flora, Dolores, Josephine, Becky, Yvette, Maxine, Christine and Agnes have only visited Lebanon	Rita didn't visit Presque Isle	ENTAILMENT
+tt-273	Jenny, Beulah, Pauline, Sharon, Anne, Amelia, Joanne, Michelle, Geraldine and Beatrice have only visited Peabody	Michelle didn't visit Keyser	ENTAILMENT
+tt-274	Kathy, Beulah, Erin, Sara, Christina, Harriet, Tara, Kim, Sandra, Andrea, Bertha, Willie, Bonnie, Roberta and Jane have only visited Vinita	Beulah didn't visit Renton	ENTAILMENT
+tt-275	Dana has only visited Meadville, Coos Bay, Red Cloud, East Greenwich, Sag Harbor, Grosse Pointe, Oyster Bay, Mamaroneck, Cincinnati, Sidney, Boulder City, Hodgenville, Pacific Grove, Framingham, Del Rio, Hamden, Ojai, Guilford and Oshkosh	Doris didn't visit East Greenwich	NEUTRAL
+tt-276	Marjorie, Peggy, Susan, Kelly, Bessie, Dolores, Robin, Norma, Constance, Joanna, Alberta, Tamara, Janet, Lillie, Gail, April and Olivia have only visited Arcadia	Lillie didn't visit Arcadia	CONTRADICTION
+tt-277	Candace has only visited Manistee, Bossier City, Beverly, Middlebury, Oraibi, Missoula, Binghamton, Montrose, Maysville, Sand Springs, Stoughton, Flushing, New York City, Shawnee, Demopolis, Burns and Marion	Candace didn't visit Stoughton	CONTRADICTION
+tt-278	Carla has only visited Nahant, Stamford, Abington, Maryville, Montclair, Queens, Simi Valley, Elkhart, Sherman, Pontiac, Homer, San Diego, Providence, Massillon, Maine and Gulfport	Carla didn't visit Abington	CONTRADICTION
+tt-279	Myrtle, Miriam, Cassandra, Lori, Minnie and Sherri have only visited Willmar	Minnie didn't visit Bloomsburg	ENTAILMENT
+tt-280	Sharon has only visited Burlington, Liberal, Atlantic City and Tullahoma	Julie didn't visit Atlantic City	NEUTRAL
+tt-281	Edith has only visited Plains, Simi Valley, Medicine Lodge, New York, Lewiston, Peru, Manchester, Hope, Missouri, Manistee, Jackson, Virginia, Mesa, Columbus, Los Angeles, Tempe, Cahokia, Lexington and El Centro	Edith didn't visit Jackson	CONTRADICTION
+tt-282	Amelia has only visited Sierra Vista, Rancho Cucamonga, Salem, Provincetown, Sonoma, Baltimore, Terre Haute, Union, Albany, Norwich, Riverside, Lewes, Douglas, Estherville, Ann Arbor, Rutland and Concord	June didn't visit Lewes	NEUTRAL
+tt-283	Sarah has only visited Granite City, Lexington, Van Buren, North Platte, Calexico, Pass Christian, Massena, Abington, Missouri, Westminster, Takoma Park, Springville, La Crosse, Woodbridge, Bastrop, Belleville, Fremont, Alma, Keokuk and Elkins	Sarah didn't visit Belleville	CONTRADICTION
+tt-284	Miriam has only visited South Dakota, Fort Pierce, Moses Lake, Hingham, Steubenville, Cedar City, East Providence, Framingham, Bowling Green, Lock Haven, Shawnee, Worland, Eastchester and Westminster	Robin didn't visit Bowling Green	NEUTRAL
+tt-285	Rachel, Monique and Candace have only visited Ithaca	Candace didn't visit Xenia	ENTAILMENT
+tt-286	Alberta, Sabrina, Daisy, Maria, Helen, Carolyn, Faye, Stephanie, Louise, Heidi, Bobbie, Billie, Gladys, Sherri, Annie, Charlotte, Natalie and Jennie have only visited Fernandina Beach	Faye didn't visit Canton	ENTAILMENT
+tt-287	Bertha has only visited Heber City, Cuyahoga Falls, Laguna Beach and Harpers Ferry	Marguerite didn't visit Laguna Beach	NEUTRAL
+tt-288	Naomi has only visited Somerville, Hastings, Calhoun, Durham, Point Pleasant, Lake Geneva, Scottsboro, Globe, Jefferson City, Crystal City, Oberlin, Kansas City, Anniston, Sausalito and Red Wing	Naomi didn't visit Calhoun	CONTRADICTION
+tt-289	Constance, Margarita, Patsy, Molly and Deborah have only visited Kingston	Margarita didn't visit Port Washington	ENTAILMENT
+tt-290	Olga, Peggy, Jennifer, Rachel and Alison have only visited Greenville	Peggy didn't visit Washington	ENTAILMENT
+tt-291	Heather, Theresa, Joan, Dolores, Madeline, Toni, Norma, Sharon, Velma, Dianne, Beth, Samantha and Joann have only visited Auburn	Dianne didn't visit Auburn	CONTRADICTION
+tt-292	Jenny has only visited Hazard, North Hempstead, Chillicothe, Kapaa, Hampton, Dalton, Southington, Brattleboro, Keyser, Lawrence, Hood River, Saint Louis, Hamilton, Port Arthur and Mishawaka	Claudia didn't visit Mishawaka	NEUTRAL
+tt-293	Lillie, Olga, Phyllis, Barbara, Flora, Roberta, Maxine, Jodi, Colleen, June, Brandi, Priscilla, Gwendolyn, Katie, Sandy, Vera, Ann, Edith, Evelyn and Shirley have only visited College Park	Sandy didn't visit College Park	CONTRADICTION
+tt-294	Michelle, Ellen, Wilma, Emily, Allison, Danielle, Renee, Christy, Bertha, Lorraine, Marilyn, Catherine, Kristy, Lois, Thelma, Rosemary and Cynthia have only visited Webster City	Emily didn't visit New Market	ENTAILMENT
+tt-295	Lula, Nina, Margie, Nicole, Jodi, Rachel, Judith, Nancy, Dianne, Annette, Nellie, Lillian, Opal, Natasha, Candace, Roberta, Violet, Karen and Ida have only visited Sterling	Lillian didn't visit Sterling	CONTRADICTION
+tt-296	Brittany has only visited Aurora, West Des Moines, Oklahoma, White Plains, San Bernardino, South Carolina, Tooele, Bedford, Monett, Winston-Salem, Homestead, Auburn, Waycross, Bound Brook, Muskegon, Florence, Winchester, New Glarus and Nebraska	Amelia didn't visit San Bernardino	NEUTRAL
+tt-297	Jacqueline has only visited Florida, Exeter, Dayton, Logan, Corning, Laurel, Chicago Heights, Tuskegee, Ysleta, Elkhart, Saugus and Gallipolis	Jacqueline didn't visit Dayton	CONTRADICTION
+tt-298	Gail has only visited Harlan, Woodland, Blairsville, Eureka, Seminole, Southampton, Sunnyvale, Kingston, Joplin, Enterprise, Greenville, Norman, Stonington, Woods Hole, Fairfield, Mobile and Delta	Gail didn't visit Delta	CONTRADICTION
+tt-299	Marilyn has only visited Groton, McKinney, French Lick, Romney, Philadelphia, Clayton, Blairsville, Anniston and Thousand Oaks	Marilyn didn't visit Anniston	CONTRADICTION
+tt-300	Yvonne has only visited Wilmington and Gadsden	Maggie didn't visit Wilmington	NEUTRAL
+tt-301	Opal, Tiffany, Anna, Grace, Megan, Inez, Bertha, Jean, Michelle, Antoinette, Rhonda, Theresa, Sally, Jacqueline and Andrea have only visited Elizabethtown	Rhonda didn't visit Boonesborough	ENTAILMENT
+tt-302	Anna has only visited Hayward, El Dorado, Orange, Ottumwa, Orono, Lower Southampton, Exeter, Tucson, Sparks, Greenville, Chicago, Raleigh, Brattleboro, East Providence, Wahiawa, San Juan Capistrano, Milbank, Shawnee and East Cleveland	Colleen didn't visit Greenville	NEUTRAL
+tt-303	Emily has only visited Wayne, Sand Springs, Alaska, Charlevoix, Belmont, Pacific Grove, Oroville, Marlborough, Waterbury, Culver City, Cushing, Terre Haute, Tucumcari, Cocoa Beach, Beatrice, San Gabriel, East Hartford, Maryville and West Plains	Emily didn't visit Alaska	CONTRADICTION
+tt-304	Jessica, Antoinette, Vivian, Peggy, Donna, Kathleen, Mildred, Kristy, Kay, Naomi, Elaine, Kathy, Helen, Valerie and Julia have only visited Naperville	Julia didn't visit Naperville	CONTRADICTION
+tt-305	Yvonne, Colleen, Dorothy, Pamela, Beverly, Lillian, Christine, Margie, Marcia, Evelyn, Doris, Terry, Louise, Delores, Ruby, Shelly, Suzanne, Lorraine and Joann have only visited Johnson City	Lillian didn't visit Aberdeen	ENTAILMENT
+tt-306	Donna, Patsy, Kristy, Hazel, Jennie, Melody, Stephanie, Josephine, Lynda, Bobbie, Dolores, Jill, Verna, Mabel, Jamie, Karen, Nellie, Julia and Brandi have only visited Longview	Brandi didn't visit Longview	CONTRADICTION
+tt-307	Amy, Shelly, Susan, Georgia, Inez, Courtney, Robin, Lula and Tiffany have only visited Raleigh	Courtney didn't visit Greeley	ENTAILMENT
+tt-308	Cecilia has only visited Independence, Bristol, Woodward, Bowling Green, Mount Holly, Weston, Defiance, Mentor, Grand Island, Fresno, Globe, Worthington, Brookline, Truth or Consequences, Demopolis, Seymour, Perry, Paducah, Salina and Irvine	Cecilia didn't visit Bristol	CONTRADICTION
+tt-309	Bobbie has only visited Mount Pleasant, Elko, Pullman and South Holland	Kathy didn't visit Mount Pleasant	NEUTRAL
+tt-310	Christina has only visited Camden, Jacksonville, Forrest City, Guilford, Alma, Greensboro and Coney Island	Rose didn't visit Camden	NEUTRAL
+tt-311	Lucy, Jenny, Norma, Kristina, Joanna, Melissa, Joann, Gwendolyn, Myrtle, Sonya, Shirley, Ada, Nina, Sue, Genevieve, Phyllis, Guadalupe, Jan and Billie have only visited Santa Ana	Jenny didn't visit Saginaw	ENTAILMENT
+tt-312	Kristy has only visited Tulsa, West New York, Saint Cloud, Ashtabula, Irving, Hoboken, Aliquippa, Hobart, Auburn, Plains, Eastchester, Houlton, Virginia, Peekskill, Miami Beach, Lumberton, Eureka, Carbondale and Randolph	Antoinette didn't visit Peekskill	NEUTRAL
+tt-313	Rhonda has only visited San Simeon and Pawhuska	Rhonda didn't visit Pawhuska	CONTRADICTION
+tt-314	Karen has only visited New Windsor, Rexburg, Weirton, Tacoma, Newport, Lamar and Rochester	Rita didn't visit Rexburg	NEUTRAL
+tt-315	Tiffany, Amber, Marian, Eva, Marlene, Leah, Lori, Amy, Rachel, Tina and Katherine have only visited Grafton	Katherine didn't visit Hot Springs	ENTAILMENT
+tt-316	Sandra, Olivia, Brandi, Kathleen, Vivian, Kristi, Rosie, Alberta and Carrie have only visited Estes Park	Olivia didn't visit Pinehurst	ENTAILMENT
+tt-317	Martha has only visited Fairfield, La Grande, Aiken, Muncie, Cincinnati, Maryville, Gretna, Cambridge, Dahlonega, Lock Haven, North Little Rock and Dover	Maryann didn't visit Muncie	NEUTRAL
+tt-318	Renee has only visited Fitchburg, Gloversville, Cody, Tiverton, Merced, Sunnyvale, Buena Park, Laurel, Madison, Cocoa-Rockledge, Warren, Tillamook, Mount Pleasant, Lake Wales, Topeka, East Lansing and Danbury	Claudia didn't visit Tillamook	NEUTRAL
+tt-319	Pauline has only visited Corvallis, Bellingham, Reno, Bloomington, Garden Grove, Tempe, New Market, Lenox, Bradford, Worland, Victoria, Nauvoo, Greenville and Norwood	Bernice didn't visit Bloomington	NEUTRAL
+tt-320	Joan, Beverly, Helen, Tracey, Candace, Violet, Sonia, Juana, Alma and Dolores have only visited Huntington	Dolores didn't visit Huntington	CONTRADICTION
+tt-321	Crystal, Amber, Lindsay, Anna, Esther, Alberta, Janice, Naomi, Wendy, Tina, Inez, Grace, Erika, Brandi, Candice, Sara, Cora, Betty and Roberta have only visited Libertyville	Anna didn't visit Northfield	ENTAILMENT
+tt-322	Lynda has only visited Anchorage, Farmington, Cocoa Beach, Columbus, Tucson, Concord, Bristol, Barre, Englewood, Mamaroneck, Philadelphia, Springfield, Sarasota, Portsmouth, Janesville, Bath, Lake Wales and Casa Grande	Doris didn't visit Anchorage	NEUTRAL
+tt-323	Tracy has only visited Hazleton, Faribault, Sainte Genevieve, Hershey, West Bridgewater, East Hampton, Steubenville, North Adams, Corning, Elizabeth City and Culver City	Tracy didn't visit Hershey	CONTRADICTION
+tt-324	Esther has only visited Abington, Natick, Ludington, Pine Bluff, Monmouth, Newberg, Hillsborough and Danville	Danielle didn't visit Natick	NEUTRAL
+tt-325	Suzanne has only visited Auburn, Englewood, Groton, Freeport, Bethany, Dickinson, Palmer, Willingboro, Grand Junction, Pipestone, Spartanburg, Abingdon, Lompoc, Nyack, Southampton, Morristown and Bossier City	Suzanne didn't visit Dickinson	CONTRADICTION
+tt-326	Samantha has only visited Annapolis, New Rochelle, Tooele, Albany, Rawlins, Berkeley, Kaneohe, Prescott, Derry, Darien, Oyster Bay, Laramie, Lebanon, Blytheville, Shiprock, Lexington and Fairfield	Becky didn't visit Rawlins	NEUTRAL
+tt-327	Alison has only visited Waimea, Wellesley, Oneonta, Skagway, Brooklyn, Saginaw, Tupelo, Kilgore, Springfield, Columbia, Anchorage, Germantown, North College Hill and Topeka	Martha didn't visit Kilgore	NEUTRAL
+tt-328	Melinda has only visited West Chester, Pueblo, Starkville and Easton	Minnie didn't visit Pueblo	NEUTRAL
+tt-329	Wendy, Ethel, Brandi, Diane, Ana, Tamara, Ruby and Sheila have only visited Point Pleasant	Ruby didn't visit White Sulphur Springs	ENTAILMENT
+tt-330	Martha, Wendy, Paula, Verna, Margarita, Emily, Tamara, Rose, Darlene, Denise, Sue, Beth, Brenda, Eleanor, Erica, Antoinette, Tammy and Maureen have only visited Scottsdale	Tamara didn't visit Alpine	ENTAILMENT
+tt-331	Margaret has only visited Marietta, Newton, Mattoon, Lenox, Gardiner, Pryor, Columbus, Hershey and Norwood	Beth didn't visit Hershey	NEUTRAL
+tt-332	Lindsey and Lisa have only visited Bogalusa	Lindsey didn't visit Brattleboro	ENTAILMENT
+tt-333	Catherine, Edith, Vickie, Louise, Vicki, Elsie, Lorraine, Rose, Daisy, Tina, Amanda, Angela, Sheila, Erin, Claudia, Julie, Marguerite, Rhonda and Maureen have only visited Warren	Amanda didn't visit Warren	CONTRADICTION
+tt-334	Mildred, Victoria and Gloria have only visited Cape Girardeau	Mildred didn't visit Cape Girardeau	CONTRADICTION
+tt-335	Molly, Marjorie, Peggy, Melinda, Amelia and Lorraine have only visited Hayward	Marjorie didn't visit Hayward	CONTRADICTION
+tt-336	Josephine, Jamie, Jennie, Lindsay, Vera, Megan, Natasha, Maureen, Shirley, Joy, Ada, Guadalupe, Carole and Dolores have only visited Marion	Joy didn't visit Marion	CONTRADICTION
+tt-337	Joy has only visited Newport, Minnesota, Ouray, Bradford, Collinsville and Nacogdoches	Phyllis didn't visit Minnesota	NEUTRAL
+tt-338	Jo has only visited Morrilton, Santa Monica, Redding, Spearfish, Denison, Geneva, Alma, Caribou, Palmyra, Stockbridge and Ossining	Joy didn't visit Redding	NEUTRAL
+tt-339	Tammy, Christina, Ana, Sherry, Erin, Kay, Emma, Cynthia and Cindy have only visited Independence	Christina didn't visit Independence	CONTRADICTION
+tt-340	Alicia, Thelma, Wilma, Hattie, Colleen, Lula, Joan, Mildred and Megan have only visited Peabody	Thelma didn't visit Peabody	CONTRADICTION
+tt-341	Irene, Cynthia and Valerie have only visited Astoria	Valerie didn't visit Granite City	ENTAILMENT
+tt-342	Charlene, Katie, Verna, Marie, Shelley, Constance, Valerie, Dolores, Joy, Heather, Belinda, Pamela, Emily, Kristina, Cassandra and Jennie have only visited Thermopolis	Dolores didn't visit Thermopolis	CONTRADICTION
+tt-343	Elizabeth has only visited Sacramento, Memphis, Simsbury, Cahokia, San Antonio, Silverton and Cumberland	Joann didn't visit Simsbury	NEUTRAL
+tt-344	Colleen has only visited Towson, Galena, Roselle, West Springfield, Gillette, Freeport, Massillon, Mount Vernon, Duluth, Sebring, Franklin, Minot, Wabash, Huntington, Wailuku, Indiana and Fernandina Beach	Colleen didn't visit Gillette	CONTRADICTION
+tt-345	Eleanor has only visited Mandan, Bound Brook, Muskogee, Kewanee, Laurel, Kelso, Canon City, Littleton, Caldwell, Glendale, Corydon, Artesia, Portland, Daytona Beach, Culver City, Traverse City, Clayton and Searcy	Leah didn't visit Culver City	NEUTRAL
+tt-346	Ana, Tara, Myrtle, Megan, Marie, Victoria, Penny, Maria, Kristina, Eleanor, Linda, Marguerite and Maxine have only visited Hillsboro	Myrtle didn't visit Salem	ENTAILMENT
+tt-347	Beulah has only visited Powell, Central City, Oil City, Saint Augustine, Sapulpa and Albany	Ruby didn't visit Oil City	NEUTRAL
+tt-348	Tina has only visited Oxford, Parsippany–Troy Hills, Sharon, Neenah, East Saint Louis, Hoquiam and South Hadley	Tanya didn't visit South Hadley	NEUTRAL
+tt-349	Wendy, Patsy, Nicole, Tina, Robin, Katherine, Tracy, Donna, Viola, Brenda, Megan, Marion and Roberta have only visited Washington	Robin didn't visit San Jose	ENTAILMENT
+tt-350	Kathy, Lynda, Teresa, Kristi, Beulah, Iris, Cindy, Ida, Luz, Karen, Tammy, Opal, Katie, Gwendolyn, Cheryl, Edith and Candace have only visited Harlingen	Beulah didn't visit Kingsport	ENTAILMENT
+tt-351	Candice has only visited Williamson, Williamsport, Greensboro, Astoria, Middletown and Alamosa	Candice didn't visit Middletown	CONTRADICTION
+tt-352	Antoinette, Jessica, Mamie, Deborah, Marie and Minnie have only visited Pine Bluff	Deborah didn't visit Pine Bluff	CONTRADICTION
+tt-353	Margaret has only visited Renton, Scottsboro, Marlborough, The Dalles, Bellefontaine, New Albany, Downey, La Grange, Lakeland, Buffalo, Lenox, Great Neck, Bay Saint Louis, Lovington, Kewanee, Calexico, Fort Wayne, Muskogee and Moses Lake	Margaret didn't visit Bellefontaine	CONTRADICTION
+tt-354	Alison has only visited Eastchester, Youngstown, Jersey City, Natick, Albany, Dayton, Kewanee, Portage, Bellevue, Bountiful, Lakeland, Falmouth, Sparks, El Monte, Kellogg and Williamstown	Christina didn't visit El Monte	NEUTRAL
+tt-355	Carmen, Lillie, Alma, Kristen, Suzanne, Jeanette, Courtney, Emma, Regina, Anna, Leona, Cathy, Willie, Nellie, Tamara, Margarita, Joanne, Juana, Betty and Julie have only visited Longmont	Juana didn't visit Sitka	ENTAILMENT
+tt-356	Edna has only visited Trenton, Eastpointe, McMinnville, Yellow Springs, Nebraska City, Tucumcari, New Castle, Delaware, Tillamook, Columbia, Naples, Greenville, Telluride and White Plains	Jean didn't visit Columbia	NEUTRAL
+tt-357	Joann has only visited Levittown, Salem, Emmitsburg, Osceola, Van Buren, Monroeville, Welch, Oakland and Morganton	Joann didn't visit Monroeville	CONTRADICTION
+tt-358	Heidi, Monique, Amelia, Deborah, Laurie, Lillian, Arlene, Vivian, Delores, Genevieve, Sally, Rachel, Mae, Opal, Vera, Juanita, Brittany, Sandy and Shannon have only visited Bedford	Juanita didn't visit Bedford	CONTRADICTION
+tt-359	Melissa, Maureen, Gertrude and Leslie have only visited Delta	Gertrude didn't visit Walla Walla	ENTAILMENT
+tt-360	Janet, Nellie and Marlene have only visited Visalia	Janet didn't visit Westminster	ENTAILMENT
+tt-361	Molly, Stacey, Samantha, Pamela, Esther, Beatrice, Rebecca, Cheryl, Lindsay, Betty, Mary, Hilda, Eunice, Paula, Candice, Kristine and Carmen have only visited Holland	Beatrice didn't visit Holland	CONTRADICTION
+tt-362	Lynda has only visited Seymour, Knoxville, Madison, Maine, Vermont, Holland, Anderson, Cranford and Elkton	Donna didn't visit Maine	NEUTRAL
+tt-363	Georgia, Rachel, Debra, Lisa, Viola, Nina, Molly, Marguerite, Beatrice, Sonia, Belinda, Janie, Jacqueline, Irma, Myrtle, Joann, Ida and Tracy have only visited Longview	Debra didn't visit Longview	CONTRADICTION
+tt-364	Nicole has only visited Pennsylvania, Dedham, Goldsboro, Opelika, Augusta, Longview, Quincy, Idaho Falls, Bristol, Beatrice and Kingston	Maria didn't visit Pennsylvania	NEUTRAL
+tt-365	Tammy, Virginia, Shannon, Kay, Mamie, Marguerite, Jill, Charlotte, Dana and Myrtle have only visited Hillsboro	Virginia didn't visit Hillsboro	CONTRADICTION
+tt-366	Marsha has only visited Texarkana, Oregon, Waycross and Minden	Marsha didn't visit Minden	CONTRADICTION
+tt-367	Jacqueline, Gina, Gail, Lorraine, Carmen, Laurie, Kathleen, Lindsay, Rachel, Sherri, Kristi, Jessica, Lucy and Esther have only visited Chicago	Carmen didn't visit Sidney	ENTAILMENT
+tt-368	Robin, Lula and Rosemary have only visited Andover	Robin didn't visit Kettering	ENTAILMENT
+tt-369	Elaine has only visited Bisbee, West Bridgewater, Beverly Hills, Melbourne and McKinney	Elaine didn't visit Bisbee	CONTRADICTION
+tt-370	Jill has only visited Englewood, Albany, Jonesboro, Moore and Hickory	Jill didn't visit Hickory	CONTRADICTION
+tt-371	Kristina, Emily, Ann, Mabel, Tracey, Brittany, Stephanie, Carrie, Ana and Ruth have only visited Little Rock	Mabel didn't visit Little Rock	CONTRADICTION
+tt-372	Genevieve, Yvonne, Mae, Cynthia, Gina, Juana and Glenda have only visited Weirton	Mae didn't visit Weirton	CONTRADICTION
+tt-373	Rachel, Debra, Doris, Cassandra, Alicia, Leslie, Hattie, Caroline, Kristen, Irene, Theresa, Delores and Katie have only visited Tulsa	Rachel didn't visit Tulsa	CONTRADICTION
+tt-374	Olivia has only visited Skagway, Elk City, Farmington, New Glarus, Seward, West Bend, Shawneetown, Montana and Maryville	Laurie didn't visit Farmington	NEUTRAL
+tt-375	Wendy has only visited Palmer, Pass Christian, Lahaina, Bath, Kingsport, De Land, Gillette, New York City, Mayfield, Ashland, Monroe, Waterbury, Steamboat Springs, Lebanon, Bridgeport, Elk City, Bessemer, Johnson City and Boston	Wendy didn't visit Bessemer	CONTRADICTION
+tt-376	Carla has only visited Binghamton, Orangeburg, Cahokia, Steamboat Springs, Asbury Park, Memphis, Waycross, Homer, Pontiac, Ambridge, Yonkers, Charlestown, Huntington and Manistee	Dana didn't visit Waycross	NEUTRAL
+tt-377	Lee, Erica and Mabel have only visited Chicago Heights	Mabel didn't visit Chicago Heights	CONTRADICTION
+tt-378	Annette, Jackie, Gwendolyn, Tracy, Nina, Michele, Marie, Cathy, Gloria, Rosa, Sally, Tara, Stephanie, Loretta and Marian have only visited Walla Walla	Gloria didn't visit Conway	ENTAILMENT
+tt-379	Sandra has only visited Pennsylvania, San Gabriel, Louisville, Prichard, Taos, Johnstown, Miami, Clifton, Rugby, Connersville, Norwalk, Camden, Eagle Pass and Orlando	Carla didn't visit Connersville	NEUTRAL
+tt-380	Jeanette has only visited Scottsboro, Somersworth, Sherman, La Habra, Romney, Greenville, Keokuk, Sunnyvale, Newberg, Champaign, Silverton and Adams	Molly didn't visit La Habra	NEUTRAL
+tt-381	Ida, Lucille, Renee, Tonya, Michele, Annette and Violet have only visited Amarillo	Ida didn't visit Amarillo	CONTRADICTION
+tt-382	Madeline has only visited Magnolia, Honaunau, North Adams, Shelby, Lubbock, Great Falls, Bloomfield Hills, Boise, East Aurora, Custer, Catonsville, Needles and Brunswick	Elsie didn't visit Shelby	NEUTRAL
+tt-383	Brandy, Tina, June, Veronica, Christina, Maria, Kayla and Maggie have only visited El Dorado	Tina didn't visit Charleston	ENTAILMENT
+tt-384	Naomi has only visited Carbondale, Astoria, Sudbury, Libertyville, Point Pleasant, Saint Joseph, Danville, Bath, New Madrid, Milbank, Clifton, Bridgeton, Madison, Wabash, Michigan and West Seneca	Naomi didn't visit Michigan	CONTRADICTION
+tt-385	Lois, Barbara, Blanche, Ada, Thelma, Suzanne, Crystal, Ellen, Roberta, Victoria, Kristen, Carrie, Sandra, Valerie, Wilma, Dolores and Jeanne have only visited Glenview	Victoria didn't visit Orange	ENTAILMENT
+tt-386	Molly, Marion, Georgia, Jo, Sonya, Donna and Sylvia have only visited Jasper	Donna didn't visit Bay City	ENTAILMENT
+tt-387	Heather, Rose and Christina have only visited Bristol	Heather didn't visit Bristol	CONTRADICTION
+tt-388	Joan has only visited Oyster Bay, Claremore, Edenton, Staten Island, Tiverton, Ajo, West Lafayette, Hobart, Port Angeles, Austin, Orangeburg, Mission and Mitchell	Erin didn't visit West Lafayette	NEUTRAL
+tt-389	Pamela has only visited Athens, Ogden, Danbury, Centralia, Waycross, Columbus and Castine	Pamela didn't visit Castine	CONTRADICTION
+tt-390	Constance, Stacey, Janice, Lillian, Susie, Joyce and Peggy have only visited Winooski	Janice didn't visit Herkimer	ENTAILMENT
+tt-391	Jodi has only visited Dennis and Holyoke	Wilma didn't visit Dennis	NEUTRAL
+tt-392	Rosie has only visited Branford, Simi Valley, Hibbing, Sparks, Birmingham, Lakehurst, Globe, Saint George, Genoa, Seaside, Princeton, Cambridge, Valdosta, Middletown, Chapel Hill, Scarborough, Des Moines, Sebring and San Angelo	Rosie didn't visit Sparks	CONTRADICTION
+tt-393	April has only visited New Castle, Nahant, Olathe, Orderville, Jacksonville, Englewood, Brea, Plymouth, Newport, Tucson and Windsor Locks	Pamela didn't visit Orderville	NEUTRAL
+tt-394	Janice, Carla and April have only visited Muskegon	Janice didn't visit Orlando	ENTAILMENT
+tt-395	Julia has only visited Charlottesville and Gulfport	Julia didn't visit Charlottesville	CONTRADICTION
+tt-396	Naomi, Kristy, Shelly, Alice, Florence, Cathy, Lynda, Lola, Vera, Becky, Juanita and Nina have only visited Newport Beach	Juanita didn't visit Newport Beach	CONTRADICTION
+tt-397	Tonya has only visited Salisbury, Manistee, Danville, Tonawanda, North Carolina, Geneva, Watts, Spokane and Winona	Vera didn't visit Tonawanda	NEUTRAL
+tt-398	Anne, Leslie, Molly, Deborah, Lillian and Cora have only visited Nacogdoches	Cora didn't visit Nacogdoches	CONTRADICTION
+tt-399	Marcia has only visited Oswego, Beacon, Weirton, Menasha, Santa Claus, Ashland, Hilo, Crossett, Crystal City, Wenatchee, Warner Robins, Alpine, Potsdam, South Holland and Naperville	Jill didn't visit Alpine	NEUTRAL
+tt-400	Jennifer and Katie have only visited Canon City	Jennifer didn't visit Barre	ENTAILMENT
+tt-401	Megan has only visited New Milford, Norristown, Alma, Marshall, Fort Worth, Truro, Champaign, Ojai, Stuttgart, Deerfield Beach, Bristol, Goshen and Bourne	Megan didn't visit Fort Worth	CONTRADICTION
+tt-402	Edith has only visited Chico, Abbeville, Fort Myers and Laguna Beach	Edith didn't visit Chico	CONTRADICTION
+tt-403	Lindsay has only visited Visalia, Mount Holly, Orem, Panguitch, Cranston, Jonesboro, Norwich, Yorba Linda, Minot, Winchester, Hyde Park and Interlochen	Beulah didn't visit Cranston	NEUTRAL
+tt-404	Evelyn has only visited Morristown, Cuyahoga Falls, Stamford, Erie, Moundsville, Vincennes, Brookline, Sherman, Richland, Saint Joseph, Duluth, Fort Valley, Johnson City and College Park	Evelyn didn't visit Morristown	CONTRADICTION
+tt-405	Beth, Kayla, Jackie, Natalie, Evelyn, Nora, Carolyn and Helen have only visited Maryville	Beth didn't visit Maryville	CONTRADICTION
+tt-406	Karen has only visited Olean and Zion	Linda didn't visit Zion	NEUTRAL
+tt-407	Lori, Carmen, Joyce, Yvonne and Lindsey have only visited Orono	Carmen didn't visit Mountain View	ENTAILMENT
+tt-408	Loretta, Darlene, Patricia and Jeanne have only visited Petersburg	Loretta didn't visit Chickasaw	ENTAILMENT
+tt-409	Laurie, Stephanie, Erin, Dianne, Caroline, Dora, Laura, Hilda, Victoria, Pamela, Teresa, Esther, Melinda and Michelle have only visited Douglas	Erin didn't visit Beaverton	ENTAILMENT
+tt-410	Lisa, Alicia, Carole, Irene, Connie, Faye, Kristin, Nina, Amy, Iris, Megan, Kristina, Alma and Cindy have only visited South Dakota	Nina didn't visit Midland	ENTAILMENT
+tt-411	Julie has only visited Alexandria, Presque Isle, San Simeon and Portage	Molly didn't visit San Simeon	NEUTRAL
+tt-412	Tammy, Belinda, Florence, June, Amanda, Carla, Rosa, Erin, Beatrice, Ethel, Rose, Vera, Brittany and Lauren have only visited Batavia	Erin didn't visit Goldfield	ENTAILMENT
+tt-413	Elaine has only visited Cleveland, Park City, Riverton, Eastham, Weehawken, Westminster, Braintree, Nags Head, Highland Park, Oregon, Bedford and Moore	Ann didn't visit Moore	NEUTRAL
+tt-414	Eunice, Glenda, Velma, Tanya, Beulah, Geneva, Carole, Kayla, Maureen and Irene have only visited Toledo	Glenda didn't visit Toledo	CONTRADICTION
+tt-415	Tracey has only visited Hastings, Huntington, Ouray, Coupeville, Alameda, Schenectady and Minot	Kay didn't visit Huntington	NEUTRAL
+tt-416	Annette has only visited New Braunfels, Sitka, Haddonfield, Milford, Golden, Jacksonville, Brockton, Auburn, Peterborough, Centralia, Nahant, Chandler, Miami, Cuyahoga Falls, Detroit, Sharon, Compton and Arkadelphia	Pauline didn't visit Brockton	NEUTRAL
+tt-417	Juana and Geraldine have only visited Brattleboro	Juana didn't visit Amsterdam	ENTAILMENT
+tt-418	Erika, Constance, Maria, Maggie, Ana, Julia, Gertrude, Andrea, Terri and Sonia have only visited Tennessee	Terri didn't visit Huntington	ENTAILMENT
+tt-419	Yvonne has only visited Newport News, Grand Rapids, South Saint Paul, Lake Forest, Carthage, Thousand Oaks, Corona, Ypsilanti, West Bend, Cheektowaga, Palm Bay, Buffalo, Sand Springs, Benton, Wisconsin and Cocoa Beach	Carla didn't visit Wisconsin	NEUTRAL
+tt-420	Ramona has only visited Goldsboro, Fresno, Melbourne, Corvallis, Cripple Creek, Troy, Albany, Bartlesville, Athens and Oberlin	Stacey didn't visit Athens	NEUTRAL
+tt-421	Angela has only visited Greensburg, Billings, Elgin, New Hampshire, Escondido, Ohio, Hinton, West Point, Cleburne, Everett, Oregon City and Worcester	Amelia didn't visit Everett	NEUTRAL
+tt-422	Anna has only visited Greenville, Virginia Beach, Kinston, Vancouver, Oakland and Riverside	Anna didn't visit Vancouver	CONTRADICTION
+tt-423	Yvonne, Wendy, Dorothy, Mattie, Regina, Sharon, Miriam, Beulah, Courtney, Nina, Linda, Juanita, Kristina, Glenda, Cathy, Joanne and Bonnie have only visited Aberdeen	Dorothy didn't visit Alabama	ENTAILMENT
+tt-424	Stephanie has only visited Newport, Crookston, Bastrop, Colorado Springs, Saranac Lake, Mount Pleasant, Opelika, Price, Eastpointe, Englewood and Havre	Stephanie didn't visit Englewood	CONTRADICTION
+tt-425	Sue has only visited Utah, Clanton, Collinsville, Manhattan, Ponca City, Kotzebue, Ipswich and Eastport	Sue didn't visit Ponca City	CONTRADICTION
+tt-426	Maxine has only visited Ashland, Delaware, Anderson, Fall River, Canton, Haddonfield, Fort Wayne, Lawrence, Shreveport, Kingsport, Central Falls, Abington, Charles City, Sapulpa, Ely, Goldfield, Portland, Hibbing, Elizabethtown and Whitman	Maxine didn't visit Portland	CONTRADICTION
+tt-427	Margaret has only visited Norris, West Allis, Phoenixville, Tamaqua, Rotterdam, Uvalde, Ashland, Galena and Union City	Margaret didn't visit Rotterdam	CONTRADICTION
+tt-428	Melinda has only visited Nevada, Chelmsford, International Falls, Kitty Hawk, Denton, Helena and Overland Park	Penny didn't visit Overland Park	NEUTRAL
+tt-429	Melanie, Shannon, Sue, Melissa and Marilyn have only visited Redwood City	Melissa didn't visit Redwood City	CONTRADICTION
+tt-430	Holly, Monica, Alice, Kristi, Allison, Courtney, Eunice, Patsy, Tamara, Margie, Opal, Emma, Isabel, Joanna, Katie, Patricia, Amelia, Samantha and Darlene have only visited Window Rock	Amelia didn't visit Longmont	ENTAILMENT
+tt-431	Lauren has only visited Norfolk, Kingston, Garden City, Seymour, Portage, Daytona Beach, Winslow, Dedham, Norris, Chicago Heights, Minnesota and Manhattan	Olga didn't visit Chicago Heights	NEUTRAL
+tt-432	Regina has only visited Bethesda-Chevy Chase, Indiana, Boone, Port Washington, Stonington, Downey, Tacoma, Tulsa, Arkansas Post, San Jose, West Seneca, Berlin, Laguna Beach and Alhambra	Brandy didn't visit Downey	NEUTRAL
+tt-433	Annie, Irene, Grace, Sally, Jill, Sheila, Mary, Eleanor, Bessie, Carol, Vickie, Helen, Vanessa, Tonya and Hattie have only visited Philadelphia	Tonya didn't visit Avondale	ENTAILMENT
+tt-434	Kim has only visited Newport and Danbury	Susie didn't visit Newport	NEUTRAL
+tt-435	Yolanda, Samantha, Sue, Marlene, Lena, Roberta, Cora, Jeanne, Irene, Gladys, Beth and Brandi have only visited Plymouth	Jeanne didn't visit Plymouth	CONTRADICTION
+tt-436	Teresa, Susie, Harriet, Crystal, Wilma, Andrea, Amanda, Florence, Sara, Connie, Molly, Edna, Anita and Nicole have only visited Little Rock	Molly didn't visit Little Rock	CONTRADICTION
+tt-437	Dawn, Angie, Erica and Dianne have only visited Lower Southampton	Erica didn't visit Homestead	ENTAILMENT
+tt-438	Candice has only visited Fort Worth, Streator, Andersonville, Arizona, Fitchburg, Venice, Gloversville and Alamosa	Georgia didn't visit Gloversville	NEUTRAL
+tt-439	Deanna has only visited Meriden, Fort Lee, Woods Hole, Norton, Plano, Moscow and Mount Pleasant	Viola didn't visit Moscow	NEUTRAL
+tt-440	Dorothy has only visited Normal, Bristol, Sparks, Torrington, Beaverton, Athens, Seattle, Mitchell, Columbus and Mattoon	Lena didn't visit Mattoon	NEUTRAL
+tt-441	Katie, Debbie, Virginia, Grace, Carmen, Molly, Sally, Christy, Leslie, Elsie, Gail, Jan, Bonnie, Yolanda, Jane, Georgia, Claire and Priscilla have only visited Compton	Sally didn't visit Compton	CONTRADICTION
+tt-442	Ethel, Cynthia, Erika, Charlotte, Brittany, Karen, Mamie, Cecilia, Erin, Kristy, Amber and Leah have only visited Saint Joseph	Erika didn't visit Ogden	ENTAILMENT
+tt-443	Kristine has only visited Tucumcari, Saint George, New Albany, Camden, Windsor, Homestead, Brockton, Lakewood and Ventura	Kristine didn't visit Camden	CONTRADICTION
+tt-444	Blanche and Marian have only visited Aurora	Marian didn't visit Aurora	CONTRADICTION
+tt-445	Alison has only visited Buffalo, Hazleton, Maryville, Apalachicola, Racine and Harlan	Alison didn't visit Racine	CONTRADICTION
+tt-446	Lydia, Jean, Jacqueline, Terry, Dolores, Alicia, Margaret, Elaine, Virginia and Courtney have only visited Mount Pleasant	Lydia didn't visit Mount Pleasant	CONTRADICTION
+tt-447	Lula, Candice, Janet, Charlene, Becky, Grace, Suzanne, Beatrice, Naomi, Monica, Brittany and Jenny have only visited Murfreesboro	Beatrice didn't visit East Lansing	ENTAILMENT
+tt-448	Loretta has only visited Neenah, Atlanta, La Crosse, Hampton, New Hope, Braintree, Rome, Mandan, Alamosa, Hanalei, Cheboygan, Derry, Ossining, Titusville, Oneida, Lakehurst, Riverside, Delray Beach, Silver Spring and Durant	Janie didn't visit Alamosa	NEUTRAL
+tt-449	Lillie, Margie, Joanne, Wanda, Brandy, Lucille, Audrey and Lena have only visited Quincy	Audrey didn't visit Quincy	CONTRADICTION
+tt-450	Michelle has only visited Carbondale and Truth or Consequences	Rosemary didn't visit Carbondale	NEUTRAL
+tt-451	Katherine, Jessie, Dorothy, Lauren, Lori, Fannie, Felicia, Heidi and Esther have only visited Janesville	Jessie didn't visit Janesville	CONTRADICTION
+tt-452	Kristin, Kristi, Carmen, Kimberly, Luz and Vicki have only visited Glendale	Luz didn't visit Glendale	CONTRADICTION
+tt-453	Tonya and Ruby have only visited Fitchburg	Ruby didn't visit Fitchburg	CONTRADICTION
+tt-454	Isabel has only visited Gastonia, Winchester, Irving, Taunton, Belen, Malden, Nacogdoches and Fort Dodge	Faye didn't visit Malden	NEUTRAL
+tt-455	Joanna, Nina, Naomi, Edna, Carol, Kathryn, Leslie, Jeanette, Beth, Sabrina, Jo and Opal have only visited Baton Rouge	Naomi didn't visit Baton Rouge	CONTRADICTION
+tt-456	Beth, Bertha, Gail, Carolyn and Erin have only visited Nevada	Gail didn't visit Nevada	CONTRADICTION
+tt-457	Susie, Carole, Carmen, Ella, Michelle, Brandi, Roberta, Emily, Angie, Yvette, Sue, April, Kay and Joann have only visited Barberton	Yvette didn't visit Barberton	CONTRADICTION
+tt-458	Rosa, Bertha, Charlene and Robin have only visited Fall River	Bertha didn't visit Fall River	CONTRADICTION
+tt-459	Charlotte and Judith have only visited Philadelphia	Judith didn't visit Philadelphia	CONTRADICTION
+tt-460	Beatrice has only visited Clarksburg, Manhattan, Nahant and Illinois	Megan didn't visit Clarksburg	NEUTRAL
+tt-461	Diane, Mabel, Emma, Erin, Margaret, Agnes, Robin, Carrie, Erica, Stephanie, Sonia, Norma, Cheryl, Laura and Beverly have only visited Rocky Mount	Emma didn't visit Jersey City	ENTAILMENT
+tt-462	Julia has only visited Mesquite, Perry, Anchorage, Carlsbad, Passaic, Rexburg, Honaunau and Neenah	Julia didn't visit Neenah	CONTRADICTION
+tt-463	Deborah has only visited Tacoma, Clarksdale, Hickory and Menasha	Deborah didn't visit Menasha	CONTRADICTION
+tt-464	Wilma has only visited Columbus, Laurel, Hood River, Shawnee, Oxford, Covington, Kewanee and Saint Charles	Roberta didn't visit Laurel	NEUTRAL
+tt-465	Faye, Annie, Renee, Doris and Shelley have only visited Asbury Park	Annie didn't visit White Springs	ENTAILMENT
+tt-466	Margaret has only visited Georgia, Essex, Sylacauga, Moorhead, Saint Charles, French Lick, Ripon, Idaho City, Edison, Conneaut, Welch and Garden Grove	Eileen didn't visit Welch	NEUTRAL
+tt-467	Hazel, Michele, Rhonda, Nicole, Angie, Veronica, Laurie, Viola, Flora, Amber, Erin, Sue, Leslie, Monica, Brandy and Kathy have only visited Adrian	Brandy didn't visit Adrian	CONTRADICTION
+tt-468	Maureen has only visited Dickinson, North Hempstead, Bartow, Cambridge, Elkhart, Clinton, Chico, Sheridan, Lowell, Inglewood, Peabody, New Albany, Gettysburg, Hollywood, Batesville, Sacramento and Saco	Maureen didn't visit Peabody	CONTRADICTION
+tt-469	Virginia has only visited South Bend, Grand Forks, Andover, Saint Charles, Lower Southampton, Peekskill, Quincy, Demopolis, Naples, Panama City, Worthington, Dahlonega, Mobile and Boonville	Kelly didn't visit Naples	NEUTRAL
+tt-470	Lula has only visited Pasco, Lafayette, Norwalk, Macomb, Moorhead, Rock Springs, Gary, Levittown, Weehawken, Claremont, Eufaula and South Charleston	Lula didn't visit Weehawken	CONTRADICTION
+tt-471	Flora, Anita, Kristine, Vickie, Donna, Megan, Carrie, Annette, Amy, Debbie, Anne, April, Jamie, Juanita, Amanda, Mary, Kathryn, Kim and June have only visited Watts	Annette didn't visit Watts	CONTRADICTION
+tt-472	Hazel, Arlene, Jenny, Lee, Beatrice, Hattie and Sabrina have only visited River Forest	Jenny didn't visit River Forest	CONTRADICTION
+tt-473	Vera, Amanda, Willie and Heidi have only visited Plainview	Willie didn't visit East Chicago	ENTAILMENT
+tt-474	Joann and Rosemary have only visited Biddeford	Joann didn't visit Lisle	ENTAILMENT
+tt-475	Jacqueline, Lynda, Stacey, Evelyn, Rose, Pauline, Florence, Lydia, Jeanette, Gwendolyn, Lindsey, Lauren, Patricia, Tracy, Yvette, Maggie, Marion and Stephanie have only visited Moses Lake	Lindsey didn't visit Huron	ENTAILMENT
+tt-476	Shelley has only visited Pawtucket, Indianola, Simsbury, Gadsden, Rexburg, Duxbury, Harlan, Caribou, Torrance, Rochester, Selma and Estherville	Kathy didn't visit Caribou	NEUTRAL
+tt-477	Ethel and Jacqueline have only visited Palm Beach	Jacqueline didn't visit Palm Beach	CONTRADICTION
+tt-478	Rosie, Willie, Josephine, Victoria and Tracey have only visited Emmitsburg	Victoria didn't visit Emmitsburg	CONTRADICTION
+tt-479	Marsha, Tamara, Gertrude, Naomi, Shannon, Wilma and Linda have only visited Randolph	Wilma didn't visit Tarpon Springs	ENTAILMENT
+tt-480	Carol, Annie, Cecilia, Claudia, Clara, Edna and Nicole have only visited New Hampshire	Cecilia didn't visit Wisconsin	ENTAILMENT
+tt-481	Hilda, Jane, Rosie, Veronica, Rebecca, Charlene, Pauline, Laurie and Joann have only visited Ilion	Charlene didn't visit Ilion	CONTRADICTION
+tt-482	Cora has only visited Mississippi, Osceola, Cape Coral, Anacortes, Woodland, Cordova, Opelousas, Portland, New Market, Springfield, Caldwell, Grenada, Perry, Ogden, Boone, Jefferson City, Paducah, Chanute, New Bedford and Scottsdale	Naomi didn't visit Paducah	NEUTRAL
+tt-483	Lillie, Marjorie, Lois, Audrey, Amanda, Debbie, Felicia, Holly, Janie and Mabel have only visited Bath	Debbie didn't visit Newport News	ENTAILMENT
+tt-484	Delores has only visited Clifton and New Braunfels	Sonia didn't visit New Braunfels	NEUTRAL
+tt-485	Crystal, Virginia, Eleanor, Jodi, Dana, Jennifer, Sarah, Flora, Brenda, Constance, Beulah, Wilma, Charlotte, Kayla and Verna have only visited Abilene	Virginia didn't visit Elizabethton	ENTAILMENT
+tt-486	Ana has only visited Farmington, Brookings, Aberdeen, Ludlow, Columbia, Deadwood, Bay Saint Louis, Kentucky, Denton, Charlotte and Camden	Mamie didn't visit Aberdeen	NEUTRAL
+tt-487	Samantha, Debbie, Erica, Jane, Jessie, Carole, Charlotte, Nancy, Christina, Lorraine and Cecilia have only visited Lead	Jane didn't visit Raton	ENTAILMENT
+tt-488	Velma has only visited Compton, Laguna Beach, Plattsmouth, Socorro, Athens, Red Wing, Evanston, Escondido, High Point, East Chicago, North College Hill and Fort Dodge	Shannon didn't visit East Chicago	NEUTRAL
+tt-489	Marion has only visited Seaside, Kilgore, Murfreesboro, Buckhannon, Sterling, Anaconda, Atmore, Mankato, Albany, Anderson, Grand Haven, Washington, Eagle Pass and Belmont	Cheryl didn't visit Belmont	NEUTRAL
+tt-490	Mamie, Sharon, Roberta, Janie, Christina, Evelyn, Kelly, Lillie, Elsie, Dianne and Blanche have only visited Wheeling	Elsie didn't visit Anchorage	ENTAILMENT
+tt-491	Jan has only visited Chicago, Hot Springs, Passaic, Canton, Lake Havasu City, Richmond, Longview, Dothan, Marshall, Pontiac, Marinette, Everett, De Smet, San Antonio and Lowell	Thelma didn't visit Longview	NEUTRAL
+tt-492	Leslie, Ida, Katherine, Heather, Lindsay, Irene and Joyce have only visited Santa Monica	Katherine didn't visit North Adams	ENTAILMENT
+tt-493	Lynda, Lillian, Wendy, Willie, Arlene, Susie, Kathleen, Lillie, Monique, Amber, Heidi, Vera and Luz have only visited Danville	Kathleen didn't visit Fond du Lac	ENTAILMENT
+tt-494	Bessie, Sherri, Danielle and Genevieve have only visited Oak Ridge	Sherri didn't visit Oak Ridge	CONTRADICTION
+tt-495	Dana, Joy, Nellie, Colleen, Beth, Alice, Georgia, Naomi, Eleanor, Ida, Tammy, Patsy, Betty, Lori, Gina, Erika, April and Jennie have only visited Newton	Naomi didn't visit Los Angeles	ENTAILMENT
+tt-496	Phyllis has only visited Alpine, Susanville, Lebanon, Downey and Gainesville	Phyllis didn't visit Lebanon	CONTRADICTION
+tt-497	Stacy has only visited Denver, New Castle, Batavia, Wenatchee, Muskogee, Cedar City, Paris, Martinsville, Fairbanks, Missouri, San Rafael and Salem	Sabrina didn't visit Muskogee	NEUTRAL
+tt-498	Misty has only visited Clinton, Lake Geneva, Georgetown, Cranston, Flagstaff, Perry, Harwich, Tarpon Springs, Idaho Falls and Plattsmouth	Misty didn't visit Perry	CONTRADICTION
+tt-499	Amy, Beulah and Renee have only visited Clifton	Amy didn't visit Dartmouth	ENTAILMENT
+tt-500	Kathy has only visited Mount Pleasant, Tiffin and Leominster	Danielle didn't visit Tiffin	NEUTRAL
+tt-501	Ashley has only visited South Bend, Port Arthur, Springfield, Enterprise, Kitty Hawk, Baltimore, Binghamton, Escondido, Franklin, Oswego, Harrison and Mason City	Ashley didn't visit Springfield	CONTRADICTION
+tt-502	Eva, Sherri, Ethel, Christine, Donna, Cathy, Kim, Dianne, Darlene, Ramona, Beverly, Claudia, Mabel and Annette have only visited Cheektowaga	Kim didn't visit Idaho City	ENTAILMENT
+tt-503	Anne has only visited Englewood, Hickory, Heber City and Bloomfield	Anne didn't visit Heber City	CONTRADICTION
+tt-504	Christine, Cynthia, Cassandra, Katie, Kathryn, Lisa, Virginia, Ann, Stacey, Tracy, Penny, Sally, Faye, Kathy and Karen have only visited Conway	Tracy didn't visit Trinidad	ENTAILMENT
+tt-505	Viola has only visited Hialeah, Kingston, Longview, Dedham, Oregon, Boonesborough, Pekin, Marietta, Canyon, Woodward, Plains, Garden City, Virginia Beach, Cadillac and Point Roberts	Tracy didn't visit Canyon	NEUTRAL
+tt-506	Sue has only visited Lompoc, Edison, Rockville, Somersworth, Wabash, North Dakota, Arkansas City, Independence, Biddeford, Mamaroneck, Salem, Helena, Boonesborough, Bath and Sidney	Belinda didn't visit Helena	NEUTRAL
+tt-507	Rhonda has only visited El Dorado, Chillicothe, Washington, Salem, Kewanee, Webster City, Asbury Park, Turlock, Clarksburg, Lansing, Thibodaux, Chickasaw, McAllen, New Kensington, Webster, Salt Lake City, Seminole, Cohasset and Naperville	Ramona didn't visit Asbury Park	NEUTRAL
+tt-508	Joan has only visited Durango, Kirksville, Ely, Athens, New Castle and Hammondsport	Charlene didn't visit Kirksville	NEUTRAL
+tt-509	Beatrice has only visited Shamokin, Abbeville and Pierre	Fannie didn't visit Pierre	NEUTRAL
+tt-510	Sally has only visited Charleston, Lincoln, Independence, Sunbury, Tuscumbia, Susanville, Liberal and Cheyenne	Sally didn't visit Cheyenne	CONTRADICTION
+tt-511	June, Ada, Carolyn, Mary, Pauline, Kimberly, Maggie, Juanita, Joyce, Diana, Nicole and Dawn have only visited Clearwater	Nicole didn't visit Clearwater	CONTRADICTION
+tt-512	Jan, Carole, Megan, Nora, Gwendolyn, Jackie, Cassandra, Pauline, Blanche, Lynn, Shirley, Cecilia and Evelyn have only visited Wauwatosa	Megan didn't visit Klamath Falls	ENTAILMENT
+tt-513	Melinda has only visited Red Wing, Malden, Lima, Skokie, De Smet, Monroe, Asheville, Indiana, Hanover, Albany, Temple, Dearborn, San Marino, Oswego, Palmdale, Santa Rosa and Haverhill	Kathryn didn't visit Albany	NEUTRAL
+tt-514	Nellie has only visited Sunnyvale and Kankakee	Nellie didn't visit Kankakee	CONTRADICTION
+tt-515	Nina, Marjorie, Gail, Edna, Lois, Ada, Geneva, Yvonne and Sandra have only visited Williston	Sandra didn't visit Glendale	ENTAILMENT
+tt-516	Charlene has only visited Pascagoula, Peabody, Oconto, Warrensburg and Texas	Ellen didn't visit Peabody	NEUTRAL
+tt-517	Jackie, Christy, Tonya and Rosemary have only visited Houston	Rosemary didn't visit Rock Hill	ENTAILMENT
+tt-518	Melody, June, Alicia, Angela, Claudia, Karen, Debra, Margie, Candace, Julie, Eunice, Carla, Maxine, Genevieve, Sonia, Doris, Melanie, Nora and Janice have only visited Brigham City	Carla didn't visit Auburn	ENTAILMENT
+tt-519	Jamie has only visited Orangeburg, Oil City, Enid, Lexington, Fayetteville, Middletown, Modesto, Saint Marys City, Coronado, Temple, Campbellsville, Waukesha, White Springs, Olean, Interlochen, Akron, Bloomington and Bloomfield Hills	Jamie didn't visit Olean	CONTRADICTION
+tt-520	Maxine has only visited Mobile, Ashtabula, Wailuku, Bristol, Victoria, Canton and San Clemente	Katherine didn't visit Mobile	NEUTRAL
+tt-521	Candace, Sherri, Vivian, Yvonne, Natalie, Kimberly, Sandra, Pearl, Verna, Constance and Erica have only visited Columbus	Candace didn't visit Middletown	ENTAILMENT
+tt-522	Joanna has only visited Baltimore, Palmer, Saint Augustine, Scarsdale, Moscow, Coney Island, Saint Charles, Apalachicola, Highland Park, Port Orford, Logan, Olympia, Los Angeles and Eugene	Ramona didn't visit Logan	NEUTRAL
+tt-523	Monique has only visited Asheville, Herkimer, Cookeville and Fullerton	Susie didn't visit Asheville	NEUTRAL
+tt-524	Kathy has only visited Fort Morgan, Clarksburg, Henderson, Santa Barbara, Springfield, Kearney, Martinsburg, Worcester, Tuscaloosa, New Albany, Kalamazoo and Babylon	Margaret didn't visit Kearney	NEUTRAL
+tt-525	Joanne has only visited Falmouth, Durant, Minneapolis, Leadville, Conway, Nanticoke, Seminole, Palm Bay, Exeter, Red Cloud, Ecorse, Rocky Mount, Lumberton, Nogales, Natick, Livingston, Sioux City and Salem	Joanne didn't visit Salem	CONTRADICTION
+tt-526	Kimberly, Ellen, June, Ella, Tammy, Jill, Melinda, Audrey, Beatrice, Joanne, Paula, Colleen, Anita, Marjorie, Sonia, Ashley and Tonya have only visited French Lick	Ella didn't visit French Lick	CONTRADICTION
+tt-527	Christina has only visited Sunbury, Davis, York, Odessa, Texarkana, Honolulu, Raton, Greensburg, Lewistown, Aberdeen, Talladega, Rye, Kansas City, Sioux Falls, Waterloo, Lovington and Sweetwater	Christina didn't visit Sioux Falls	CONTRADICTION
+tt-528	Jan, Elsie, Lena, Nina, Bessie, Roberta, Wendy, Tanya, Michelle, Stacey, Lee and Minnie have only visited Geneva	Michelle didn't visit San Juan Capistrano	ENTAILMENT
+tt-529	Christine, Jackie, Billie, Shelly, Christina, Agnes, Cheryl, Catherine, Anna, Violet, Sandra, Elsie, Hilda, Kristina and Ann have only visited Evansville	Violet didn't visit Evansville	CONTRADICTION
+tt-530	Georgia has only visited Bellingham, Exeter, Trenton, Saint Albans, Puyallup, South Charleston and Fort Lauderdale	Carolyn didn't visit Bellingham	NEUTRAL
+tt-531	Jamie, Bessie, Kimberly, Minnie, Christy and Sarah have only visited Wilkes-Barre	Jamie didn't visit Holland	ENTAILMENT
+tt-532	Ellen has only visited New Haven, Clinton, Brigham City, Fond du Lac and Barberton	Belinda didn't visit Brigham City	NEUTRAL
+tt-533	Geneva has only visited Ontario, Euclid, Litchfield, Chattanooga, New Castle, Mobile, Clearwater, Pecos, Kalamazoo, Virginia City, Morrilton, Irvine, Rockville, Schenectady, Fernandina Beach, Clearfield, Newport, Lewistown, Livonia and Cleburne	Eileen didn't visit Chattanooga	NEUTRAL
+tt-534	Kimberly, Madeline, Lynn, Marion, Laura, Maggie, Irma, Kathy, Josephine, Charlotte, Cecilia, Bobbie, Beulah and Christina have only visited Washington	Marion didn't visit Washington	CONTRADICTION
+tt-535	Mary, Maureen, Yolanda, Cindy, Bernice, Lula, Rosie, Joanne, Andrea, Anita, Alicia and Marjorie have only visited Somerville	Yolanda didn't visit North Dakota	ENTAILMENT
+tt-536	Clara has only visited Sedalia, Parkersburg, Palatine, Batesville, Hoquiam, Salisbury, Atchison, Santa Barbara, Herkimer, Bloomington, El Paso, Bridgeport, Lincoln, DeKalb and Hartford	Edna didn't visit Salisbury	NEUTRAL
+tt-537	Toni has only visited Central City, Athens, Belle Fourche, Elizabethton, Lewistown, Jeffersonville, Hobbs, Redondo Beach, Woods Hole, Springfield, Greenwood, Shawneetown, Marietta, Falls Church, Oak Harbor and Port Angeles	Toni didn't visit Jeffersonville	CONTRADICTION
+tt-538	Claudia, Josephine, Kristina, Evelyn, Sarah, Heather, Deanna, Rita, Tonya, Loretta, Tina, Yvonne, Tracey, Pearl, Holly, Alberta, Yolanda, Lydia and Cynthia have only visited Brunswick	Pearl didn't visit Dothan	ENTAILMENT
+tt-539	Bobbie has only visited Central City, Asheville, Coney Island, Groton, Stroudsburg and Marysville	Teresa didn't visit Groton	NEUTRAL
+tt-540	Pauline, Gwendolyn, Danielle, Claire, Tammy, Doris, Michele, Margarita, Tina, Bonnie, Jessie, Betty, Belinda, Sally, Kristin, Rosa and Darlene have only visited Shelbyville	Tammy didn't visit Delray Beach	ENTAILMENT
+tt-541	Jan has only visited Douglas, Brookings, Cushing, Cohoes, Ithaca, Laredo, Abingdon and Ironwood	Jan didn't visit Brookings	CONTRADICTION
+tt-542	Christine, Marion, Erin, Becky, Jessica, Rosa, Debra, Shirley, Tara, Colleen, Nancy, Kristen, Kimberly, Lucy, Sherri, Melody and Tiffany have only visited Anaconda	Christine didn't visit Anaconda	CONTRADICTION
+tt-543	Amber, Becky, Shannon, Opal, Leslie, Donna, Pauline, Sherri, Sandra, Maureen, Lisa, Grace, Dana, Claire, Hilda and Ramona have only visited Gunnison	Grace didn't visit Raleigh	ENTAILMENT
+tt-544	Colleen has only visited Riverton, Narragansett, Worcester, Lebanon, Anacortes, Coulee Dam, Fallon, Butte, Sheboygan, Lombard, Ventura, Titusville, Bradenton, Nyack, Mishawaka, Crookston and Clayton	Caroline didn't visit Titusville	NEUTRAL
+tt-545	Jill has only visited Palm Springs, Greenville, Bethlehem, Tulsa, Lexington, Garland, Defiance, Willmar, Rogers, Antioch, Salem, Demopolis, Alpine and Kewanee	Jill didn't visit Palm Springs	CONTRADICTION
+tt-546	Jennie has only visited Harpers Ferry, Lansing, Bound Brook, Saco, Van Buren, Leominster, Fall River and Port Lavaca	Leona didn't visit Lansing	NEUTRAL
+tt-547	Glenda, Gwendolyn, Naomi, Leona, Emma, Bonnie, Dana, Katherine, Sandy, Edna, Crystal, Ida, Lori, Eileen, Thelma, Claudia and Evelyn have only visited Pawtucket	Emma didn't visit Corpus Christi	ENTAILMENT
+tt-548	Monique has only visited Elkins, Springfield and Clovis	Monique didn't visit Springfield	CONTRADICTION
+tt-549	Janie, Carole, Ella, Faye, Kristen, Joanna, Mattie, Sally, Samantha, Katherine, Molly, Violet, Joyce, Amelia and Lola have only visited Custer	Amelia didn't visit Orange	ENTAILMENT
+tt-550	Luz, Blanche, Olga, Gail, Paula, Maureen, Constance, Shelley, Myrtle and Joyce have only visited Lebanon	Olga didn't visit Wethersfield	ENTAILMENT
+tt-551	Lucille, Jennie, Ana, Velma, Kathy, Belinda, Jean, Irma and Lillian have only visited Harrisburg	Lucille didn't visit Bogalusa	ENTAILMENT
+tt-552	Penny has only visited Montclair, Virginia City, Watertown, Newark, Anderson, Elyria, Downey, Lockport, Belvidere, Long Beach, Nags Head, Colorado, Modesto, Indianola, Murfreesboro and Grafton	Penny didn't visit Downey	CONTRADICTION
+tt-553	Stacy, Carla, Courtney, Bessie, Shelly, Carmen, Cora, Tanya, Susie, Lydia, Sharon, Dana and Ruth have only visited Ridgewood	Susie didn't visit Ridgewood	CONTRADICTION
+tt-554	Mattie has only visited Bellefontaine, Redmond, Shreveport, Cheektowaga, Danvers, Eastchester, Wahpeton, El Paso, Hattiesburg, The Village, Pittsburg, Sturbridge, Titusville, Turlock, Milton, Chesapeake, Beckley and Davis	Mattie didn't visit Wahpeton	CONTRADICTION
+tt-555	Brittany has only visited Scottsboro, Columbus, Shaker Heights, Jackson and Fairfield	Yvette didn't visit Scottsboro	NEUTRAL
+tt-556	Annette has only visited East Providence, Crookston, Mitchell, Willimantic, Edgartown, Saint Charles, West Allis, Erie, Carlinville, Williamstown, Hillsboro and Missouri	Marion didn't visit East Providence	NEUTRAL
+tt-557	Victoria has only visited Clifton, Manassas, Wausau, Miles City, Baraboo, Hot Springs, Buffalo, Saint Augustine, West Covina, Murray, Everett, Barre, Batavia, California, Mount Vernon, Gainesville, Bloomington, Norman and Cooperstown	Victoria didn't visit Batavia	CONTRADICTION
+tt-558	Beulah, Rachel, Cathy, Lucy, Flora, Yolanda, Gladys, Minnie, Karen, Susan, Beatrice, Courtney, Marion, Debra, Robin and Tracey have only visited Council Bluffs	Gladys didn't visit Long Beach	ENTAILMENT
+tt-559	Stacy has only visited Salem, Montgomery, Greenville, Maryville, Lewistown and Lahaina	Anita didn't visit Lewistown	NEUTRAL
+tt-560	Sonia, Wanda, Vivian, Sherry, Cora, Ethel, Luz, Dorothy, Gina and Naomi have only visited Grand Island	Sonia didn't visit Grand Island	CONTRADICTION
+tt-561	Brandi, Kayla, Dianne, Andrea, Carla, Sarah, Dora, Ida, Shirley, Pamela, Dawn, Joyce, Elizabeth and Claudia have only visited Idaho City	Pamela didn't visit Costa Mesa	ENTAILMENT
+tt-562	Paula, Tonya, Katrina, Ellen, Elaine, Theresa, Florence, Deanna, Patricia and Marsha have only visited Marinette	Patricia didn't visit Marinette	CONTRADICTION
+tt-563	Leona, Olivia, Julie, Shelly, Ethel, Erica, Theresa, Beulah, April, Alma, Rose, Nora, Betty, Samantha, Brandy, Lydia, Sandy, Stacey, Laurie and Terry have only visited Rolla	Ethel didn't visit Visalia	ENTAILMENT
+tt-564	Belinda has only visited Glenwood Springs, Columbia, Huntington Beach, Gainesville, Cahokia, East Providence, Alliance, Menominee, Whitman, Norton, Bloomfield and West Allis	Belinda didn't visit West Allis	CONTRADICTION
+tt-565	Maureen has only visited Fullerton, Fort Morgan, Wellsburg, Shaker Heights, Massena, Summersville, Ridgewood, Oyster Bay, Daytona Beach and Tacoma	Sonya didn't visit Tacoma	NEUTRAL
+tt-566	Marie, Joy, Geraldine, Lindsay, Iris, Kristine, Sonia, Beth, Emma, Brenda, Janice, Emily, Kristina, Tina, Stacey, Bobbie, Courtney and Catherine have only visited Redondo Beach	Iris didn't visit Kansas City	ENTAILMENT
+tt-567	Heidi has only visited Riverside, Los Angeles, Carson City, Longmont, Sunbury, Arizona, Greenwich and Hillsboro	Lillie didn't visit Arizona	NEUTRAL
+tt-568	Audrey, Judy, Hazel, Gloria, Alison, Terri, Wanda, Bonnie, Emily, Naomi, Nina, Olga, Eva, Mattie, Laura, Beverly, Thelma and Courtney have only visited Fernandina Beach	Alison didn't visit Warren	ENTAILMENT
+tt-569	Marsha has only visited Colorado Springs, Oberlin, Dartmouth, Long Branch, Greenwich, Morgan City, Jacksonville, Holyoke, Simsbury, Oneida, Carlisle, Prairie du Chien, Dixon, Coronado, Fitchburg, Urbana, Marlborough and Bismarck	Carla didn't visit Dartmouth	NEUTRAL
+tt-570	Olga has only visited Payson, Mission, Kennebunkport, Naperville, Buena Park, Ocean City and Harlan	Olga didn't visit Payson	CONTRADICTION
+tt-571	Lucille, Jacqueline, Dana, Karen and Victoria have only visited Palm Bay	Lucille didn't visit Palm Bay	CONTRADICTION
+tt-572	Kim, Marjorie, Lee, Kristine, Irene, Anna, Lillie, Barbara, Rosa, Jamie, Emily, Joan, Renee, Vanessa and Joy have only visited Yazoo City	Rosa didn't visit Yazoo City	CONTRADICTION
+tt-573	Mildred has only visited Havre, Fairfield, Winnemucca, Riverside, Nacogdoches, Goshen, Edenton, Garden City, Chelsea, San Gabriel, Crawfordsville and Ludington	Joann didn't visit Havre	NEUTRAL
+tt-574	Kristina, Janet, Inez, Eva, Tina, Kimberly, Melissa, Faye, Rosa, Stacy, Carole, Samantha, Mary, Lisa, Dora and Elizabeth have only visited Canton	Janet didn't visit Montrose	ENTAILMENT
+tt-575	Annette has only visited Lebanon, Cranston, Bridgeton, Fort Valley, Forrest City, Americus, Saint Cloud, Athens, Morganton, Eureka, Paris, Charlottesville, Belmont, Manchester, Pendleton, Connecticut and Woodbridge	Annette didn't visit Pendleton	CONTRADICTION
+tt-576	Leslie has only visited Santa Clara, Hood River, Brookfield, Plymouth, Harpers Ferry, Denison, Guymon, Lynn, Evansville, Owensboro, River Forest, Virginia, Jacksonville, Columbia, Bartow, Pasco, French Lick and Indianola	Alice didn't visit Harpers Ferry	NEUTRAL
+tt-577	Cindy has only visited Burlington, Janesville, Pacific Grove, Lenox, Adrian, Beaufort, Saint Albans, Brooklyn, Hillsboro and Manti	Elsie didn't visit Manti	NEUTRAL
+tt-578	Linda, Joy, Carolyn, Jenny, Carmen, Sally, Leslie, Carla, Jo, Tracey, Irene, Elaine, Rhonda, Ethel, Judy, Margaret, Tammy and Lindsey have only visited Austin	Judy didn't visit Fernandina Beach	ENTAILMENT
+tt-579	Janet, Colleen, Jo, Ana, Kelly, Rhonda and Vickie have only visited Port Hueneme	Janet didn't visit Alva	ENTAILMENT
+tt-580	Penny, Nina, Helen, Myrtle, Ann, Lucy, Sheila, Suzanne, Leslie, June, Lindsay, Kelly and Mildred have only visited North Adams	Sheila didn't visit North Adams	CONTRADICTION
+tt-581	Tonya has only visited Fort Wayne, Fort Smith and Nashua	Tonya didn't visit Fort Wayne	CONTRADICTION
+tt-582	Ana has only visited Fitzgerald, Corydon, Chickasaw and Burlington	Becky didn't visit Corydon	NEUTRAL
+tt-583	Donna, Melissa, Ruth, Maggie, Toni and Antoinette have only visited Pittsburgh	Ruth didn't visit Pittsburgh	CONTRADICTION
+tt-584	Sara, Louise, Inez, Terry, Cora, Kimberly, Mary, Theresa, Kristina, Nellie, Katie, Amelia, Shelley, Leslie, Belinda, Erika, Rita, Elsie, Tammy and Tonya have only visited Pharr	Theresa didn't visit Pharr	CONTRADICTION
+tt-585	Penny, Jeanette, Eva, Audrey, Shirley, Pamela, Marian, Beatrice, Sherri, Irene, Alice, Ramona, Jane, Tamara, Tammy, Gwendolyn, Dianne, Bessie and Alma have only visited Genoa	Dianne didn't visit Genoa	CONTRADICTION
+tt-586	Alison has only visited Worcester, Ruston, Edmond, Wheaton, Auburn, East Chicago, Palo Alto, Hastings and Victorville	Maxine didn't visit Hastings	NEUTRAL
+tt-587	Ruby, Kristin, Rachel, Jeanne, Joyce, Faye, Vera, Marion, Colleen, Verna and Florence have only visited Johnson City	Florence didn't visit Johnson City	CONTRADICTION
+tt-588	Ethel has only visited Cumberland, Bellingham, New London, Fairhaven, Santa Clarita, Bluefield, Ten Sleep, Boys Town, Windsor Locks, Beaumont, Saint Petersburg, Jonesborough and Wichita Falls	Ethel didn't visit Bellingham	CONTRADICTION
+tt-589	Florence, Michelle, Kayla, Kelly, Wilma, Ida, Faye, Juana, Annette, Elsie, Norma, Kristin, Sarah and Sandy have only visited Willmar	Faye didn't visit Willmar	CONTRADICTION
+tt-590	Hattie has only visited Cherokee, Scottsdale, Aberdeen, Poughkeepsie, Pampa, Marshall, Ashtabula, Sterling, Gallatin, Wichita Falls, Takoma Park, Tarpon Springs, Colorado Springs, Rockford and West Lafayette	Hattie didn't visit Marshall	CONTRADICTION
+tt-591	Thelma has only visited McAllen, Ocala, Jackson, Charles Town, Fort Dodge, Moore, Guntersville, Spanish Fork, Put-in-Bay, Big Spring, Springfield, Fayetteville, Smith Center, Martinsburg and Tullahoma	Thelma didn't visit Charles Town	CONTRADICTION
+tt-592	Danielle, Patsy, Beverly, Samantha and Sabrina have only visited Iowa City	Patsy didn't visit Iowa City	CONTRADICTION
+tt-593	Rita has only visited Geneva, Atmore, Machias, West Hartford, Oskaloosa, Elizabeth, Oil City, Frederick and Green River	Colleen didn't visit Frederick	NEUTRAL
+tt-594	Marguerite and Kathy have only visited Tampa	Marguerite didn't visit Old Saybrook	ENTAILMENT
+tt-595	Evelyn has only visited Sapulpa, Uvalde, Lexington, West Memphis, Concord, Bowling Green, Point Pleasant, Layton, Cape Coral, Gulfport, Greensburg, Guilford and Lewistown	Christine didn't visit Cape Coral	NEUTRAL
+tt-596	Lois, Felicia, Miriam, Lisa, Darlene, Crystal, Toni, Agnes, Thelma, Melanie, Sara, Julia, Colleen, Kathleen, Mae and Lydia have only visited Camden	Lois didn't visit Walsenburg	ENTAILMENT
+tt-597	Stella has only visited Prichard, Calumet City, Lebanon, New Castle, Aberdeen, Woburn, Ardmore, Cleburne, Littleton, Evansville, Gillette, Woodland, Nanticoke and Kirksville	Susie didn't visit Littleton	NEUTRAL
+tt-598	Minnie, Geraldine and Holly have only visited Dayton	Minnie didn't visit Wellfleet	ENTAILMENT
+tt-599	Candace has only visited Seneca Falls, Belfast, Bourne, Englewood, Oswego, Colorado, Warrensburg, Northfield, Lake Forest, Beverly Hills, Hoquiam, Logan, Stevens Point, Fontana, Calhoun, Saint Albans and Taunton	Candace didn't visit Beverly Hills	CONTRADICTION
+tt-600	Maryann, Luz, Bessie, Rosie, Lindsay, Iris, Rita, Kristine and Sherri have only visited Woodward	Rita didn't visit Woodward	CONTRADICTION
+tt-601	Inez has only visited Grants Pass, Coos Bay, Williamson, Canon City, Wahiawa, Minnesota, Washington, Loveland, Pekin, Pottstown, Nags Head, Crown Point, Meridian, West Covina, Plymouth, Natchez, Lombard, Barberton and Hialeah	Inez didn't visit Pekin	CONTRADICTION
+tt-602	Geneva has only visited Ottumwa, Boonville, San Felipe, Framingham, Newport Beach, Eufaula, Cleveland, Marquette, Klamath Falls, Massachusetts, Valdosta, Baton Rouge, Sausalito, Cushing, Pipestone, Clearwater and New Orleans	Geneva didn't visit Newport Beach	CONTRADICTION
+tt-603	Rosemary, Misty, Gladys, Marian, Toni, Terri, Annette, Sheryl, Christine, Cheryl, Juanita, Tara, Anita and Donna have only visited Tahlequah	Christine didn't visit Tahlequah	CONTRADICTION
+tt-604	Connie has only visited Yakima, Atlanta, Newburyport, Kingston, Emporia, Kodiak, Inglewood, Tampa and Hinton	Molly didn't visit Newburyport	NEUTRAL
+tt-605	Beth has only visited Nephi, Georgetown, Indianapolis, Elizabeth City, Lorain, Lebanon, Corpus Christi, Anderson, Bay City, Glen Ellyn, Wichita, East Lansing, Bartlesville, Chicago, Pasadena, Mountain View, Aiken, Grand Rapids and Palm Bay	Beth didn't visit Lorain	CONTRADICTION
+tt-606	Monica, Marian, Pauline, Dora, April, Iris, Juanita, Mary, Flora, Gina, Evelyn, Renee, Heidi and Kristen have only visited Norman	Kristen didn't visit Fort Smith	ENTAILMENT
+tt-607	Tonya has only visited Delaware and Northampton	Tonya didn't visit Delaware	CONTRADICTION
+tt-608	Jennifer has only visited Louisville, Miami Beach, Glens Falls, Akron, Muskegon, Eau Claire, Hanover, Winslow, Falmouth, Norris, Grenada, Parsippany–Troy Hills and Holly Springs	Penny didn't visit Louisville	NEUTRAL
+tt-609	Carrie has only visited Beacon, Carthage, Alameda, Narragansett, Jacksonville, Yakima, East Hartford, Kapaa, Rochester and Austin	Victoria didn't visit East Hartford	NEUTRAL
+tt-610	Olga has only visited Centralia, Gloversville, Manhattan and Prichard	Marjorie didn't visit Gloversville	NEUTRAL
+tt-611	Barbara has only visited Pullman, Meadville, Durham, New Rochelle, Lake Wales, Washington, Falmouth, Joliet, Warren, Lock Haven, Waimea and Dickinson	Ellen didn't visit Waimea	NEUTRAL
+tt-612	Constance, Karen, Lois, Florence, Evelyn, Dana, Lucille, Jessie, Hattie, Lori, April, Arlene, Samantha, Sherri, Kathy, Marguerite, Kathryn, Debbie, Sheila and Peggy have only visited Peru	Lucille didn't visit Pueblo	ENTAILMENT
+tt-613	Cora, Vera, Tamara, Caroline and Brandy have only visited Bremerton	Cora didn't visit Bremerton	CONTRADICTION
+tt-614	Valerie has only visited Susanville, Greeley, Olympia, Seneca Falls, Chelsea, Cheboygan and Bloomfield	Mamie didn't visit Seneca Falls	NEUTRAL
+tt-615	Mabel has only visited Reno, Starkville, Washington, Watkins Glen, Prichard, McKeesport, Hodgenville, Wilkes-Barre, Carbondale, Dunkirk, Hays, Florissant, River Forest, Scottsboro, Billings and Parsippany–Troy Hills	Mildred didn't visit Hodgenville	NEUTRAL
+tt-616	Ruth has only visited Fresno, Prineville, Westerly, Salem, Quincy and Tewksbury	Suzanne didn't visit Fresno	NEUTRAL
+tt-617	Ann, Ella, Viola, Sylvia, Julie, Josephine, Hazel, Mildred, Rosie, Lois, Cecilia, Katie, Wilma, Terri, Brittany and Jo have only visited Glendale	Josephine didn't visit Greenville	ENTAILMENT
+tt-618	Bessie, Vanessa and Kristen have only visited Dunkirk	Vanessa didn't visit Edgartown	ENTAILMENT
+tt-619	Catherine, Susie, Rosemary, Jackie, Lorraine and Tonya have only visited Irvine	Jackie didn't visit Bemidji	ENTAILMENT
+tt-620	Doris has only visited Lake Wales, Elizabeth City, Cooperstown, San Clemente, Palm Springs, Worthington, Ann Arbor, Tucson, Yuma, Nampa, Hastings, Takoma Park, Martins Ferry, Wallingford, Juneau, Ashland and Farmington	Doris didn't visit Juneau	CONTRADICTION
+tt-621	Esther, Wendy, Sylvia, Mary, Norma, Maggie, Nora, Janie, Priscilla, Margie, Caroline, Nina and Yvette have only visited Texas City	Nina didn't visit Largo	ENTAILMENT
+tt-622	Holly, Regina, Lillie, Anna, Anne, Marguerite, Shirley, Gwendolyn and Claire have only visited Hobbs	Shirley didn't visit Hobbs	CONTRADICTION
+tt-623	Victoria has only visited White Plains, Newcastle, Decatur and Rantoul	Victoria didn't visit Rantoul	CONTRADICTION
+tt-624	Audrey, Janie, Crystal, Bobbie, Frances, Delores, Elizabeth, Deanna, Jean, Becky, Amy, Colleen, Tara, Sherri, Susan, Sally and Marsha have only visited Lewes	Elizabeth didn't visit Mountain View	ENTAILMENT
+tt-625	Erika has only visited Ferguson, Springfield, Skagway, Pecos, Buffalo, Window Rock, Magnolia, Chickasha, Chillicothe, Tiffin, Indiana, Wickford and Tuscumbia	Erika didn't visit Pecos	CONTRADICTION
+tt-626	Sonya, Dianne, Jo, Doris, Eleanor, Lillie, Frances, Audrey and Nora have only visited Douglas	Lillie didn't visit Douglas	CONTRADICTION
+tt-627	Janie has only visited New Albany, Riverside, Marysville, Salem, Middlebury, Phenix City, Houghton, Oxford, Clayton, Naperville, Saint George, Maysville, Waycross, Ruston, Kelso and Bethany	Janie didn't visit Maysville	CONTRADICTION
+tt-628	Tammy has only visited Vinita, Great Neck and Cortland	Tammy didn't visit Cortland	CONTRADICTION
+tt-629	Margarita, Gina, Joann, Denise, Martha, Eleanor, Anita and Marilyn have only visited Peterborough	Anita didn't visit Moundsville	ENTAILMENT
+tt-630	Marsha has only visited Greenfield, Visalia, Batesville, Fort Myers, Hilo, Hackensack, Anniston, Tuscaloosa, Roseville, Granite City, Easton, Elgin, Salt Lake City, Chattanooga, Bath, Durham and Queens	Mattie didn't visit Easton	NEUTRAL
+tt-631	Maureen has only visited Redmond, Elwood, Jeannette, Victoria, Coronado, Douglas, Yankton, Yazoo City, Webster City, Ottumwa, Harlem and Portland	Laura didn't visit Yankton	NEUTRAL
+tt-632	Dorothy has only visited Roseville, Norwood, Greenville, Waterloo, Oak Park, Wahpeton, New York City, Kingman, Tyler, Lorain, Macomb and Shelton	Suzanne didn't visit Wahpeton	NEUTRAL
+tt-633	Denise has only visited Crossett, Batesville, Rock Hill, Martinsburg, Fitchburg, International Falls, Fresno, Ogden, Fremont, Trinidad, Tiffin, Saint George, Livermore, Groton, Pontiac, Hoboken and New Milford	Florence didn't visit Groton	NEUTRAL
+tt-634	Heather has only visited Nephi, Calistoga, Pasadena, Honaunau, White Sulphur Springs, Middlesboro, Nome, Canyon, Mount Vernon, Alcoa, Bellevue, Waukesha, Coos Bay, Oklahoma and Casper	Heather didn't visit Casper	CONTRADICTION
+tt-635	Tanya has only visited Marietta, Alpine and Longview	Michelle didn't visit Alpine	NEUTRAL
+tt-636	Fannie has only visited Eveleth, Arkansas, Americus, Danville, Jamestown, Apalachicola, Williamsport, Lubec, Herkimer and Clarksburg	Janie didn't visit Williamsport	NEUTRAL
+tt-637	Evelyn has only visited Evanston, Beatrice, Manhattan, Searcy, Glenwood Springs, Petoskey, Greenwood, West Memphis, Massachusetts, Oneonta, Farmington, Mount Pleasant, Birmingham, Biloxi, Hillsborough, Elyria, Washington and Millburn	Shelly didn't visit Glenwood Springs	NEUTRAL
+tt-638	Bessie, Dolores, Kimberly, Melanie, Erin, Sally, Beth, Wendy, Eileen, Katrina, Cathy, Felicia, Melody, Debra, Violet, Ruth, Lindsey and Renee have only visited Williamsburg	Kimberly didn't visit Nappanee	ENTAILMENT
+tt-639	Tiffany has only visited Durham, Nauvoo, Oneonta, Claremont, Gallatin and Vincennes	Tiffany didn't visit Nauvoo	CONTRADICTION
+tt-640	Yvette, Nina, Charlotte, Linda, Lydia, Brandy, Dorothy, Melody, Allison, Edith, Tiffany, Shelley, Eleanor, Mattie, Virginia, Claudia and Constance have only visited Connersville	Lydia didn't visit Plymouth	ENTAILMENT
+tt-641	Clara, Rhonda, Denise, Phyllis, Sherry and Jessie have only visited New York	Phyllis didn't visit Uvalde	ENTAILMENT
+tt-642	Christy, Emma, Tracey, Lucy, Katie, Velma, Judy, Maggie, Willie and Marilyn have only visited Chester	Christy didn't visit Boys Town	ENTAILMENT
+tt-643	Beulah has only visited Ishpeming and Sparks	Esther didn't visit Sparks	NEUTRAL
+tt-644	Norma and Ella have only visited Anniston	Ella didn't visit Anniston	CONTRADICTION
+tt-645	Bessie has only visited Fort Pierce, Ferguson, Kansas City, Ludington, Mason City and Keokuk	Bessie didn't visit Ludington	CONTRADICTION
+tt-646	Mabel has only visited Pharr, Lexington, East Moline, Washington, Avondale, Hillsborough, Philippi, Brooklyn, Pomona, Norwalk, Burbank and Joliet	Kim didn't visit Burbank	NEUTRAL
+tt-647	Sara, Marilyn, Eva, Melissa, Crystal, Lindsey, Janie and Sheila have only visited New York City	Jan didn't visit New York City	ENTAILMENT
+tt-648	Jeanette has only visited Iowa City, Walsenburg, Harlan, Bartlesville, Florence, Fort Walton Beach, Ely, San Mateo, Saint Joseph, Huntington Beach, Plainview, Galveston, Kearney, Abilene, Warm Springs, Plymouth, Roseburg, Corvallis and Greenville	Jeanette didn't visit Walsenburg	CONTRADICTION
+tt-649	Kim, Gloria, Dawn, Melissa, Dora, Glenda, Megan, Jamie, Sheila, Veronica, Becky, Robin and Antoinette have only visited Price	Antoinette didn't visit Jacksonville	ENTAILMENT
+tt-650	Kristine has only visited Cookeville, Neenah, Shaker Heights, Des Plaines, Madison, Mount Pleasant, Pacific Grove, Sioux City, Rancho Cucamonga, Plymouth, Mason City and Lahaina	Kristine didn't visit Mason City	CONTRADICTION
+tt-651	Annette, Hattie, Yolanda, Susan, Candice, Kathleen, Terri, Megan, Diana, Tracy, Erika, Carol, Monique, Claire, Leona, Margie and Cassandra have only visited Henderson	Monique didn't visit Henderson	CONTRADICTION
+tt-652	Christine has only visited New London, Shiprock, Groton, Welch, West Memphis and Redwood City	Lisa didn't visit West Memphis	NEUTRAL
+tt-653	Samantha has only visited Sharon, Montana, Springfield, Cookeville, Vermont, Altoona, Winooski, Logan, Saugus, Stuttgart, York and Ashland	Veronica didn't visit Cookeville	NEUTRAL
+tt-654	Sylvia has only visited Amesbury, Martins Ferry, West Allis, Durham, Pittsfield, Prineville, New Hampshire, Boone, Hays, Jacksonville and Sturgeon Bay	Sylvia didn't visit New Hampshire	CONTRADICTION
+tt-655	Josephine has only visited Okmulgee, Helena, Ishpeming, Galesburg, Williamstown, Petersburg, West Des Moines, Belmont, Bristol, Mandan, Elmhurst, Laurel and Hanover	Kathleen didn't visit Petersburg	NEUTRAL
+tt-656	Linda, Amy, Brenda, Stacey, Gertrude, Penny, Ellen, Gina, Rose, Debbie, Erica, Melinda, Joanna, Belinda and Amelia have only visited Rogers	Belinda didn't visit Rogers	CONTRADICTION
+tt-657	Joan, Ruby, Mary, Sheryl, Alicia, Kristine, Victoria, Eva, Toni, Marion, Viola, Elaine and Lindsey have only visited Mount Vernon	Alicia didn't visit Clinton	ENTAILMENT
+tt-658	Melinda, Amelia, Blanche, Angela, Ada, Charlotte, Mamie, Julie, Faye, Ramona and Janie have only visited Los Alamos	Ada didn't visit Los Alamos	CONTRADICTION
+tt-659	Andrea has only visited Fort Kent, Hazleton, Douglas, Joplin, Clarksdale, Las Cruces, Lake Placid, Binghamton, Passaic, Olean, Schenectady, Springfield, Abington, Cape May and Union	Courtney didn't visit Cape May	NEUTRAL
+tt-660	Ida has only visited Wausau, Benton Harbor and Haines	Ida didn't visit Haines	CONTRADICTION
+tt-661	Lucy, Peggy, Carmen, Ana, Blanche, Carole, Doris, Theresa and Terri have only visited Hope	Doris didn't visit Bemidji	ENTAILMENT
+tt-662	Loretta, Gloria, Joan, Yvonne, Shirley, Arlene, Jane, Eileen and Lucy have only visited York	Gloria didn't visit York	CONTRADICTION
+tt-663	Tracy, Monique, Melanie, Leah, Myrtle, Juana, Edna, Arlene, Delores, Debbie, Nicole, Kim, Mamie, Olga, Lindsey, Wendy, Shirley and Audrey have only visited West Hartford	Olga didn't visit West Hartford	CONTRADICTION
+tt-664	Vivian, Renee, Sabrina, Rita, Beth, Gwendolyn and Carrie have only visited Waukegan	Vivian didn't visit Waukegan	CONTRADICTION
+tt-665	Antoinette has only visited Boys Town, Beckley, Boca Raton, Concord, Walsenburg, Huntington, Charlevoix, Stratford, Portsmouth, Elizabeth City, College Station, West Allis, Waco, Palm Beach, Lamar and Boonesborough	Minnie didn't visit Boys Town	NEUTRAL
+tt-666	Candace has only visited Hayward, Santa Monica, Levittown, Port Arthur, Las Vegas, South Orange Village, Yazoo City, Harwich, Lisle, Peekskill, Montrose, Panguitch, Glendale, Nebraska City and Moscow	Candace didn't visit Hayward	CONTRADICTION
+tt-667	Maxine, Wanda, Lena, Lillie, Maria, Ethel, Nicole, Josephine, Edna, Shannon, Andrea, Lauren, Pearl, Wilma and Peggy have only visited White Plains	Lauren didn't visit Farmington	ENTAILMENT
+tt-668	Jamie, Tanya, Elsie, Olga, Jill, Jan, Lynn, Felicia, Loretta, Erin, Sally, Lauren, Sharon, Jodi and Juana have only visited Fairfax	Olga didn't visit Flint	ENTAILMENT
+tt-669	Velma, Betty, Virginia, Esther, Priscilla, Tammy, Marlene, Marjorie, Edna, Ann and Margarita have only visited Bedford	Edna didn't visit Bedford	CONTRADICTION
+tt-670	Patsy has only visited Alcoa and Englewood	Blanche didn't visit Alcoa	NEUTRAL
+tt-671	Wendy has only visited Abbeville, Rutland, West Covina, Fond du Lac, Keyser, Niles, Natchez, Ely, Bellingham, Boonville, Bar Harbor, Oak Ridge, Rock Springs, Cape May and Bismarck	Minnie didn't visit Keyser	NEUTRAL
+tt-672	Verna, Joanne, Bertha and Molly have only visited Skagway	Joanne didn't visit Saint Charles	ENTAILMENT
+tt-673	Heidi has only visited Cleveland, Danbury, San Marino, Deadwood, Knoxville, Hingham, Warren, Albany, Summersville, Nashville, Somersworth, Union, Charlotte, Adrian, Nashua, West Lafayette and Pawhuska	Nancy didn't visit Danbury	NEUTRAL
+tt-674	Eleanor, Faye, Antoinette, Alice, Mamie, Katie, Samantha, Barbara, Rachel, Courtney, Marjorie, Penny, Marguerite, Guadalupe, Jessie, Sherry, Florence and Angela have only visited Reading	Alice didn't visit Reading	CONTRADICTION
+tt-675	Elaine has only visited Bordentown, Freeport and Daly City	Diana didn't visit Bordentown	NEUTRAL
+tt-676	Elaine, Tammy, Dawn, Antoinette, Tara, Crystal, Erin, Kathy, April, Juana, Kay, Carolyn, Monica, Ann, Pauline, Wanda and Brandy have only visited Havre	Antoinette didn't visit Savannah	ENTAILMENT
+tt-677	Claudia, Becky, Naomi, Lillian, Rose, Teresa, Jan, Stacy, Natasha, Kimberly, Harriet and Nora have only visited Artesia	Becky didn't visit Artesia	CONTRADICTION
+tt-678	Thelma has only visited Sudbury, Pine Bluff, Mount Pleasant, Sanford, Texas, Fort Valley, Bluefield, Clarksdale, Tewksbury, Ludlow, Anchorage, Fort Lauderdale, Milton, Fond du Lac, Bossier City, Saint Johnsbury and Harrodsburg	Thelma didn't visit Tewksbury	CONTRADICTION
+tt-679	Mary has only visited Hanover, San Simeon, Gainesville and Rock Springs	Stacy didn't visit Gainesville	NEUTRAL
+tt-680	Jacqueline, Florence, Cheryl, Cora, Patsy, Anna, Vickie, Sonya, Heather, Sherri, Brittany, Ruth and Verna have only visited Kansas City	Cora didn't visit Kansas City	CONTRADICTION
+tt-681	Joyce has only visited Dayton, Rotterdam, Orangeburg, Austin, Columbus, Miles City, Milford and Lafayette	Erin didn't visit Austin	NEUTRAL
+tt-682	Katrina, Maureen, Regina, Margarita, Janice, Judith, Guadalupe and Sylvia have only visited Plano	Katrina didn't visit Plano	CONTRADICTION
+tt-683	June, Yvonne, Pamela, Grace, Mary, Marion, Virginia, Maggie, Carole, Doris, Sue, Holly, Deanna, Kim, Geneva, Patricia, Harriet, Kathy and Dianne have only visited Edmond	Patricia didn't visit Edmond	CONTRADICTION
+tt-684	Dolores has only visited Hobart, Winter Park, Laurel, Hillsboro, Anderson, Centralia, Branford, Houma, Weirton, Saratoga Springs, Pensacola, Natchitoches, Huntsville, Stroudsburg, Zion, Utica, Eufaula, Greenville and Manchester	Dolores didn't visit Anderson	CONTRADICTION
+tt-685	Carmen has only visited Canton, Bayonne, Bainbridge, Pensacola, Camden, Pipestone, Hot Springs, Claremont, Ipswich and Harmony	Sandy didn't visit Hot Springs	NEUTRAL
+tt-686	Andrea has only visited Crystal City, Union and Moscow	Ellen didn't visit Union	NEUTRAL
+tt-687	Evelyn, Judith, Gertrude, Sandra and Laura have only visited Napa	Gertrude didn't visit Napa	CONTRADICTION
+tt-688	Beulah has only visited Virginia City, Johnstown, Napa, Biddeford, San Felipe, Fontana, Williston, Wyoming, Memphis and Winnetka	Beulah didn't visit Fontana	CONTRADICTION
+tt-689	Cassandra has only visited Ely, Eveleth, Belen, Exeter, Lamar, West Virginia, Starkville, Wooster, Williamsburg, Henderson, Newberg, Fairfield, Knoxville, North Kingstown, Niles and Norwalk	Jenny didn't visit Exeter	NEUTRAL
+tt-690	Guadalupe, Rita, Vanessa, Joanna, Jamie, Regina, Juanita, Joann, Beulah, Carolyn, Felicia, Crystal and Priscilla have only visited Thibodaux	Priscilla didn't visit Powell	ENTAILMENT
+tt-691	Lillie, Kay, Lorraine, Nancy, Nina, Joanna and Carla have only visited Manhattan	Nina didn't visit Manhattan	CONTRADICTION
+tt-692	Christine, Ellen, Jessie, Yvonne and Tina have only visited Stevens Point	Christine didn't visit Olathe	ENTAILMENT
+tt-693	Vera, Eva, Jessie, Rhonda, Carla, Vivian, Ramona, Lillie and Irma have only visited Idaho City	Eva didn't visit La Grande	ENTAILMENT
+tt-694	Luz, Yvonne and Rosa have only visited Genoa	Rosa didn't visit Genoa	CONTRADICTION
+tt-695	Kayla has only visited East Chicago, Johnstown, Alta, Edison and Beacon	Susie didn't visit Edison	NEUTRAL
+tt-696	Mildred has only visited Fond du Lac, La Grange, Deadwood and West Springfield	Mildred didn't visit Fond du Lac	CONTRADICTION
+tt-697	Diana has only visited Granite City, Houston, Cody, Newburgh, Johnstown, Smyrna, Gillette, Roseville, College Park, Eufaula, Kingsport, Greenwood and Kentucky	Diana didn't visit Roseville	CONTRADICTION
+tt-698	Irene, Kathy, Rosemary, Josephine, Catherine, Jodi, Angela, Jean, Cathy and Lucille have only visited Menlo Park	Jodi didn't visit Menlo Park	CONTRADICTION
+tt-699	Luz, Mary, Madeline, Danielle, Ashley, Allison, Sandy, Kay, Josephine, Sandra, Annette, Jill, Janet, Carmen, Margarita and Jean have only visited Albany	Carmen didn't visit Albany	CONTRADICTION
+tt-700	Lola has only visited Las Vegas, Kennebunkport, Merced, Middletown, Heber City, South Carolina, Easton, Greenbelt, Elizabeth, Livingston, Newport, Florissant, South Saint Paul and Rotterdam	Lola didn't visit Newport	CONTRADICTION
+tt-701	Amanda, Violet, Nicole, Nina, Nellie and Marilyn have only visited Sioux Falls	Nellie didn't visit Sioux Falls	CONTRADICTION
+tt-702	Joanne has only visited Whitman, Oskaloosa, Fernandina Beach, Johnson City, Chelsea, Mineola, Skokie, Medicine Lodge, Mentor, Tillamook and New London	Joanne didn't visit Mentor	CONTRADICTION
+tt-703	Sonya, Mildred, Marie, Kristina, Louise, Evelyn and Lucy have only visited Baker City	Marie didn't visit Independence	ENTAILMENT
+tt-704	Sally has only visited Hillsborough, Ipswich, Morganton, Saint Cloud, Eau Claire, Rantoul, Madison, Lake Charles, Winchester, Hingham, Halifax, Arkansas City, Williston and Newport	Lois didn't visit Rantoul	NEUTRAL
+tt-705	Clara, Denise, Claire, Sabrina, Beatrice, Crystal, Marie, Minnie, Natasha, Stacey, Tina, Lee, Annette, Bessie, Lucy, Laura, Jane, Carol and Tamara have only visited Wahpeton	Claire didn't visit Champaign	ENTAILMENT
+tt-706	Annette has only visited Richmond, Trinidad, Manhattan, Jackson, Cuyahoga Falls, Saratoga Springs, Kinston, Homer, Reading, Elko, Bath, Berlin and Princeton	Annette didn't visit Princeton	CONTRADICTION
+tt-707	Jeanne, Sheryl, Valerie, Yolanda, Marion, Veronica, Ruth, Deanna, Melody and Marlene have only visited Silverton	Valerie didn't visit Silverton	CONTRADICTION
+tt-708	Shirley, Agnes, Emily, Kristy, Joy, Leona, Sandra, Elsie, Madeline, Violet, Margie, Clara, Annie, Florence, Marguerite, Mae, Terri and Vera have only visited Hamilton	Margie didn't visit Arlington	ENTAILMENT
+tt-709	Martha, Carmen, Valerie, Jean, Linda, Jan, Claire, Ida, Glenda, Fannie, Michele, Sarah and Opal have only visited Norfolk	Opal didn't visit Barberton	ENTAILMENT
+tt-710	Judith, Lucy, Kristi, Blanche, Candace and Sally have only visited Shelbyville	Blanche didn't visit Shelbyville	CONTRADICTION
+tt-711	Kristina, Juanita, Ruby, June, Marian, Annie, Ramona, Renee, Brandi, Diane, Rose, Teresa, Catherine and Rhonda have only visited Mount Holly	Ruby didn't visit Yankton	ENTAILMENT
+tt-712	Marilyn has only visited Kinston, Milford, Neosho, Amesbury, Ithaca, Farmington, Worland, Lincoln, De Land, Excelsior Springs, Bountiful, Roselle, Coventry, Irvington, Hialeah, Fort Lauderdale, Dunkirk, Salem, Kirksville and Glens Falls	Patricia didn't visit Lincoln	NEUTRAL
+tt-713	Juanita has only visited Steamboat Springs, Wood River, Tooele, Starkville, Grand Island, Lead, Milledgeville, Mansfield, Idaho Falls, Cohoes, Cambridge and Saint Augustine	Glenda didn't visit Wood River	NEUTRAL
+tt-714	Bertha, Gertrude, Guadalupe, Cheryl, Angie, Lindsey, Yvette, Miriam, Ada, Deanna, Ella, Laura, Misty, Rita, Luz, Edith, Verna, Nancy, Joan and Kathryn have only visited Pawhuska	Laura didn't visit Hodgenville	ENTAILMENT
+tt-715	Theresa has only visited Lexington, Kennewick, New Martinsville, Hopkinsville, Menlo Park, Pasadena, Boca Raton, Newburyport, Columbia, Lewes, Marietta, South Saint Paul, Monticello, Littleton, San Angelo, Pryor, Mount Vernon, Saint Louis, Kotzebue and Athens	Agnes didn't visit Newburyport	NEUTRAL
+tt-716	Emily, Rose, Colleen, Bobbie, Marlene, Diana, Margarita and Susan have only visited Valdosta	Susan didn't visit Valdosta	CONTRADICTION
+tt-717	Bertha has only visited Rantoul, Anniston, Winona, Freeport, Grand Haven and Jamestown	Bertha didn't visit Anniston	CONTRADICTION
+tt-718	Mabel has only visited Woodstock, Barrington, New Bedford, Columbus, Plymouth, Glendale, Decatur, Bay Saint Louis, San Simeon, Springfield, Washington and Vicksburg	Nina didn't visit Plymouth	NEUTRAL
+tt-719	Megan has only visited Woburn, Waimea, Toccoa, Connecticut, Ontario, Xenia, New Martinsville, Pontiac, Emporia, Muncie, Hayward, Orem, Petaluma, Essex and East Providence	Tanya didn't visit Pontiac	NEUTRAL
+tt-720	Julia has only visited Nyack, Essex, Spartanburg, Reading, Santa Monica, Culver City, Kewanee, Anderson and Columbia	Betty didn't visit Culver City	NEUTRAL
+tt-721	Becky has only visited Ashland, Buckhannon, Rotterdam, Chicopee, Daly City and Pierre	Kelly didn't visit Ashland	NEUTRAL
+tt-722	Dawn has only visited Virginia Beach, Elkton, East Aurora, Manassas, York, Opelika, Vicksburg, Naugatuck, New Martinsville and Plainview	Diane didn't visit Elkton	NEUTRAL
+tt-723	Naomi, April and Ruth have only visited San Pedro	Naomi didn't visit Kokomo	ENTAILMENT
+tt-724	Gwendolyn has only visited Elizabethtown, Beaufort, West Plains and Victoria	Judith didn't visit Elizabethtown	NEUTRAL
+tt-725	Marian, Emma, Jo, Erin, Wanda, Marlene, Jennie, Antoinette, Lindsay, Carol, Rita, Rosemary, Tara and Megan have only visited Carlisle	Jo didn't visit Carlisle	CONTRADICTION
+tt-726	Ada, Bertha, Megan, Elaine, Lindsey, Viola, Deborah, Carla, Jennie, Madeline, Jane, Belinda, Kristin, Debra, Denise and Irma have only visited Sheffield	Belinda didn't visit Truro	ENTAILMENT
+tt-727	Beatrice and Elsie have only visited Redondo Beach	Beatrice didn't visit Kalispell	ENTAILMENT
+tt-728	Natasha, Amber, April and Mary have only visited Waimea	April didn't visit Waimea	CONTRADICTION
+tt-729	Florence has only visited Bowie, West Bend, Bellefontaine, Asbury Park, Milton, Chillicothe, New Hampshire, Fresno, Denton, Ansonia, Malden, Norwalk, Troy and Chester	Harriet didn't visit Fresno	NEUTRAL
+tt-730	Stella and Vicki have only visited Fort Kent	Vicki didn't visit Coronado	ENTAILMENT
+tt-731	Caroline, Alice, Dolores, Lorraine and Linda have only visited Turlock	Caroline didn't visit Turlock	CONTRADICTION
+tt-732	Ida has only visited Roanoke, Elkins, Bowling Green, Union and Hilo	Martha didn't visit Bowling Green	NEUTRAL
+tt-733	Maria, Mae, Belinda, Yolanda and Shannon have only visited Oregon	Belinda didn't visit Jefferson City	ENTAILMENT
+tt-734	Eleanor, Kristen, Margie, Eva, Belinda, Ellen, Ella, Kim, Yvette, Megan, Claudia, Melanie, Clara, Margaret, Irma, Susan, Regina and Gail have only visited Modesto	Susan didn't visit Huntington Beach	ENTAILMENT
+tt-735	Sally has only visited Litchfield, Bend, Jersey City, Clarksburg and White Plains	Paula didn't visit Clarksburg	NEUTRAL
+tt-736	Verna has only visited Derry, Kittery, Waterloo, Manassas, Cheektowaga, Haines, Chanute, Wauwatosa, Largo, Oak Ridge and East Aurora	Verna didn't visit Wauwatosa	CONTRADICTION
+tt-737	Courtney has only visited Illinois, Whitman, Aberdeen, Carson City, Greenfield, Bangor, Palatka, Forest Hills and Willmar	Courtney didn't visit Forest Hills	CONTRADICTION
+tt-738	Theresa, Debra, Janice, Dora, Bobbie, Vanessa and Flora have only visited Scranton	Flora didn't visit Scranton	CONTRADICTION
+tt-739	Lena has only visited Charleston and Barstow	Lena didn't visit Charleston	CONTRADICTION
+tt-740	Joan has only visited Corpus Christi, Mount Pleasant, Clayton, Painesville, Miami Beach, Pennsylvania, Amesbury, Newton and Opelousas	Melissa didn't visit Painesville	NEUTRAL
+tt-741	Gail, Florence, Brandi, Nora, Brandy, Louise, Heidi, Yvette, Amanda, Flora, Joann and Christy have only visited Saint Augustine	Yvette didn't visit Saint Augustine	CONTRADICTION
+tt-742	Stacey has only visited Astoria, Martinez, Meriden, Brooklyn, Anderson, Panguitch, Marquette, Lakewood, Nebraska City, Stratford, Ossining, Fredericksburg, Sturbridge, East Moline, Swarthmore, Carlsbad, Amarillo and Somersworth	Jill didn't visit Nebraska City	NEUTRAL
+tt-743	Janet, Gwendolyn, Brandy, Margarita, Candace, Lori, Dana, Natalie, Lynn, Shelly, Erika, Allison and Joy have only visited Freeport	Gwendolyn didn't visit Nags Head	ENTAILMENT
+tt-744	Sabrina has only visited Lebanon, Custer, Easton, The Dalles, Rochester, Avondale, Westminster, Chanute, Los Alamos, Tewksbury, Chickasha, Galveston, Coventry, Devils Lake and Waynesboro	Sabrina didn't visit Waynesboro	CONTRADICTION
+tt-745	Ida has only visited Anderson, Palm Beach, Oregon, Oshkosh, San Marcos, Saint Martinville, Jefferson City, Oakland, Olympia, Sumter, Everett, Loveland and Old Saybrook	Alicia didn't visit Sumter	NEUTRAL
+tt-746	Bernice has only visited Presque Isle, South Saint Paul, Wailuku, Palatine, White Springs, Portland, Independence, Jackson, Hillsborough, Delta, Santa Rosa, Fernandina Beach, Winona, Harrisburg and Boonesborough	Bernice didn't visit Jackson	CONTRADICTION
+tt-747	Bertha, Joanna, Jamie, Viola, Yvette, Mamie, Sheila, Kristin, Catherine and Evelyn have only visited Coronado	Jamie didn't visit Liberal	ENTAILMENT
+tt-748	Jan, Willie, Vicki, Vanessa, Jo, Charlotte, Marjorie, Sandra, Terri, Sharon and Bernice have only visited Fort Dodge	Marjorie didn't visit Fort Dodge	CONTRADICTION
+tt-749	Jeanette, Marion, Opal, Andrea, Juanita, Tina, Monica, Blanche, Jacqueline, Melissa, Shelly, Claire and Debra have only visited Fort Lauderdale	Debra didn't visit Fort Lauderdale	CONTRADICTION
+tt-750	Lorraine has only visited El Paso, Enfield, Lakeland, Mount Pleasant, Salem, Saint Louis, Amarillo, Winooski, Delta, Newton, Yonkers, Burlington, Phoenixville, Laconia, Farmington, South Charleston, Cicero, Omaha and Alexandria	Cassandra didn't visit Cicero	NEUTRAL
+tt-751	Martha has only visited Lexington, Lake Placid, Baltimore, Lebanon, Charlotte, Bradford, Plano, Saint George, Passaic, Roselle, Monticello, Ojai, Breckenridge, Bourne and Conneaut	Martha didn't visit Lake Placid	CONTRADICTION
+tt-752	Holly has only visited Monett, La Salle, Casa Grande, Hampton, Palmdale, Burlington, Kelso, West Point, Bardstown, Cedar City, Magnolia, Port Hueneme, Wisconsin, Pennsylvania, Centralia and Chanute	Violet didn't visit Bardstown	NEUTRAL
+tt-753	Terry, Mary, Rita and Bobbie have only visited Cheyenne	Mary didn't visit Madison	ENTAILMENT
+tt-754	Kristina, Andrea, Sonya, Kristen, Kathryn, Eunice, Pauline, Lydia, Sharon, Shelly, Debbie, Wendy, Susan, Melissa, Jane and Maggie have only visited West Plains	Wendy didn't visit Oregon	ENTAILMENT
+tt-755	Stephanie, Shelley, Guadalupe, Madeline, Lula, Sheila, Tara, Victoria, Juana, Delores, Brittany, Margarita, Jacqueline, Eileen, Kim, Willie and Sylvia have only visited Adams	Sheila didn't visit Adams	CONTRADICTION
+tt-756	Bertha has only visited Concord, Davis, Amherst, Collinsville, Grand Forks and Albert Lea	Kimberly didn't visit Amherst	NEUTRAL
+tt-757	Annie has only visited Racine, Bridgeton, Gastonia, Temple, New Britain, Camden, De Smet, Binghamton and Williston	Annie didn't visit Gastonia	CONTRADICTION
+tt-758	Jacqueline has only visited Novato, Nashville, Layton, Joplin, Twin Falls, Burlington, Guymon, Frankfort, Santa Rosa, Venice, Pittsburg, South Carolina, Fort Lee, Ruston and Dixon	Jacqueline didn't visit Nashville	CONTRADICTION
+tt-759	Carla and Susie have only visited Waterbury	Carla didn't visit Waterbury	CONTRADICTION
+tt-760	Ramona has only visited Newport, Wheaton, Marion, Marlborough, Alaska, Jersey City, Yuba City, Grand Rapids, Palmdale, State College, Oakland, Greenville, Mission, Grants Pass, Connersville, Cairo, Bartlesville, Thousand Oaks, Meriden and Talladega	Ramona didn't visit Bartlesville	CONTRADICTION
+tt-761	Claire has only visited Lewistown, East Chicago, La Junta, Claremont, Greenfield, Winston-Salem, Atmore, Avondale, Delray Beach and Kennewick	Claire didn't visit Winston-Salem	CONTRADICTION
+tt-762	Sonia has only visited DeKalb, Kanab, Warrensburg, Clinton, Menlo Park, Columbus, Joplin, Meadville, Rutland, Charleston, El Monte, Portales, Effingham, Mount Pleasant and Irvington	Anne didn't visit Irvington	NEUTRAL
+tt-763	Agnes, Deanna, Kathy, Edna, Yvonne, Mabel, Myrtle, Wilma, Evelyn, Heather, Esther, Claudia, Ruby, Marilyn, Josephine and Amanda have only visited Huntington Beach	Mabel didn't visit Ponca City	ENTAILMENT
+tt-764	Inez, Constance, Vanessa, Violet, Gertrude, Josephine, Marjorie, Annette, Erika, Beverly and Flora have only visited Shawneetown	Annette didn't visit Fallon	ENTAILMENT
+tt-765	Frances has only visited Marion, New Jersey, Austin, Claremont, Chanute, Colorado, Borger, Waycross, Point Pleasant, Emporia, Calumet City, Staunton, Cumberland, Clearwater, Tuscumbia, Casper and Thibodaux	Amber didn't visit Staunton	NEUTRAL
+tt-766	Sandy, Arlene, Holly, Glenda, Erin, Tracy, Stacey, Rose, Nicole, Heather, Viola, Martha, Grace, Jennie, Veronica, Margaret and Fannie have only visited Chicopee	Grace didn't visit Rock Springs	ENTAILMENT
+tt-767	Stacey has only visited Carlisle, Westminster, West Hartford, Mobile, Barrington, Herrin, Quincy, Peterborough, New Kensington, Randolph, Calumet City, Richland, Florence, Athens and Salem	Isabel didn't visit Peterborough	NEUTRAL
+tt-768	Tara, Regina, Maxine, Leona, Shannon, Ethel, Janie, Doris, Eva, Mildred, Dana, Cassandra and Laurie have only visited Havre	Tara didn't visit Havre	CONTRADICTION
+tt-769	Cecilia has only visited Grand Rapids, Anaconda, New Glarus, Portland and Jefferson City	Roberta didn't visit New Glarus	NEUTRAL
+tt-770	Susan, Robin, Ida, Yvonne, Ella, Charlotte, Pamela, Juanita, Rachel and Janie have only visited Spartanburg	Janie didn't visit Spartanburg	CONTRADICTION
+tt-771	Ramona, Verna, Lynda, Agnes, Tina and Kathryn have only visited Decatur	Tina didn't visit Havre	ENTAILMENT
+tt-772	Lorraine, Amelia, Lee, Rosemary, Anita, Alison, Terry, Cheryl, Beverly, Maxine, Sylvia, Shelly, Charlotte, Erica, Eileen, Candace and Yvonne have only visited Cocoa Beach	Anita didn't visit Corona	ENTAILMENT
+tt-773	Brandy has only visited Dillon, Cleburne, Keene, Lackawanna, Malibu, Springfield, Bartlesville, Superior, Havre, Brunswick, San Fernando, Findlay and Abilene	Christy didn't visit Malibu	NEUTRAL
+tt-774	Allison has only visited Springfield, Laconia, Holyoke, Tarpon Springs, Barbourville, Davis, Xenia, Hobart, Mitchell, Weston, Oakland and Ironwood	Allison didn't visit Oakland	CONTRADICTION
+tt-775	Allison has only visited Woodbridge, Fort Myers, Astoria, Fort Morgan, Chesapeake, Norwich, Bedford, Clifton, Deadwood, Santa Ana, Easton, Southington, Springfield, White Plains, Mandan, Paris, Enfield, Highland Park, McCook and Oakland	Emma didn't visit Clifton	NEUTRAL
+tt-776	Naomi has only visited Danville, Middlesboro, Aurora, Jonesboro, Cape May, Shelton, Lebanon, Canton, Trenton, Winslow, Fort Myers, Sand Springs, Prescott, Anacortes, Thousand Oaks, Sioux Falls, Hudson, Alaska, Lumberton and McKinney	Naomi didn't visit Hudson	CONTRADICTION
+tt-777	Sabrina has only visited Chester, Barrington, Ojai, Easton, Lehi, Escondido, Arlington, Ruston, Priest River, Adrian, Aliquippa and Milan	Sabrina didn't visit Easton	CONTRADICTION
+tt-778	Nora, Michele, Laurie, Felicia, Frances, Nina, Lucille, Megan, Shelley, Agnes, Joann, Lindsey, Velma, Inez, Margie, Geneva, Samantha, Sonya, Tina and Vera have only visited Georgetown	Vera didn't visit Georgetown	CONTRADICTION
+tt-779	Lorraine has only visited Myrtle Beach, Cooperstown, Key West, North Hempstead, Eufaula and Marietta	Joyce didn't visit Key West	NEUTRAL
+tt-780	Carolyn, Judith, Melinda, Joyce, Ramona, Carmen, Lindsay, Kathryn, Sara, Candace, Faye, Olivia, Allison and Lauren have only visited Middlebury	Faye didn't visit Middlebury	CONTRADICTION
+tt-781	Josephine has only visited Cicero, Marion, Rhode Island, La Salle, Bisbee, Morehead City, Helena, Virginia City, Rochester, College Park, Sault Sainte Marie, Pontiac, The Village, Fredericksburg, Jefferson City, Geneva, Milan and Ithaca	Olga didn't visit Fredericksburg	NEUTRAL
+tt-782	Carole, Debra, Michelle, Tammy, Ann, Shelley, Victoria, Becky, Nina, Amanda, Claudia and Eleanor have only visited Bellevue	Becky didn't visit New Castle	ENTAILMENT
+tt-783	Lindsay, Lynn, Kathy, Anita, Ida, Connie, Paula, Wanda and Diane have only visited Huron	Lynn didn't visit Cicero	ENTAILMENT
+tt-784	Juanita, Lee, Yolanda, Candace, Bernice, Joanne, Lola, Kristina, Constance, Wilma, Rose, Olga, Eleanor, Yvonne, Caroline, Pamela, Jeanne, Joy and Lauren have only visited Newark	Lee didn't visit Newark	CONTRADICTION
+tt-785	Hazel has only visited Normal, La Grange, Huntington, Martinsville, Newport, Tullahoma, Jacksonville, Lebanon, Coronado, Plattsburgh and Niles	Evelyn didn't visit Jacksonville	NEUTRAL
+tt-786	Samantha, Lori, Ada, Denise, Velma, Hazel, Opal, Terry, Cynthia, Beulah, Shelly, Kay, Fannie, Margaret, Margie, Audrey, Minnie and Verna have only visited San Angelo	Opal didn't visit Concord	ENTAILMENT
+tt-787	Kim, Vicki, Bertha, Barbara, Joan, Evelyn, Maria, Shelly, Tara, Felicia, Diana, Julia, Emma, Tanya, Kayla and Monica have only visited Smyrna	Felicia didn't visit Smyrna	CONTRADICTION
+tt-788	Brandi, Patricia, Megan, Candace, Joanna, Shirley, Alberta, Peggy, Ella, Carole, Katie, Bessie, Antoinette, Eva, Mamie, Anne and Olga have only visited La Habra	Alberta didn't visit Fort Dodge	ENTAILMENT
+tt-789	Diana has only visited Windsor, Norris, East Cleveland, Leominster, Nogales, Taunton, Framingham, Johnstown, Geneva, Manhattan, Greenwood, Ishpeming, Pawtucket and Richardson	Diana didn't visit Nogales	CONTRADICTION
+tt-790	Virginia has only visited Oxford, Fitzgerald, Harlingen, West Virginia, Saint Martinville, Utica, Dallas, Milbank, Rock Springs and Newcastle	Christina didn't visit Newcastle	NEUTRAL
+tt-791	Deanna has only visited Deming, Minden, Walla Walla and Utah	Blanche didn't visit Minden	NEUTRAL
+tt-792	Amanda, Nina, Rita, Yvonne, Gwendolyn, Judy, Nellie, Deanna, Barbara and Jessie have only visited Willingboro	Nellie didn't visit Willingboro	CONTRADICTION
+tt-793	Melinda has only visited McKeesport, Grinnell, Petoskey, Davis and Prescott	Melinda didn't visit Davis	CONTRADICTION
+tt-794	Carmen, Georgia, Charlene, Velma, Pauline, Betty, Valerie, Michelle, Bessie, Clara, Gwendolyn, Sandy and Iris have only visited Princeton	Bessie didn't visit Geneva	ENTAILMENT
+tt-795	Helen, Florence, Stacy, Courtney, Heather, Judith, Myrtle and Dianne have only visited Belleville	Myrtle didn't visit Newport	ENTAILMENT
+tt-796	Christy has only visited Bloomfield, Lakehurst, Denison, Baker City, Gainesville, Douglas, Goliad and Cortland	Esther didn't visit Goliad	NEUTRAL
+tt-797	Edna, Lillie, Kimberly, Alberta, Arlene, Allison, Yvonne, Lillian, Audrey, Jean, Belinda, Erica, Shelley, Grace, Peggy, Lori, Dawn, Megan and Sheila have only visited Bowie	Peggy didn't visit Bowie	CONTRADICTION
+tt-798	Roberta, Lisa, Katherine, Elsie, Heidi, Frances, Brittany, Michele, Debbie, Tonya, April, Evelyn, Tammy, Dianne, Elizabeth and Marguerite have only visited Lewes	Katherine didn't visit Lewes	CONTRADICTION
+tt-799	Yolanda, Grace and Jessie have only visited Delaware	Jessie didn't visit Delaware	CONTRADICTION
+tt-800	Lucille, Kristina, Dawn, Ellen, Norma, Hattie, Eva, Velma, Nicole, Ramona, Lena, Wilma and Maryann have only visited North Adams	Lucille didn't visit North Adams	CONTRADICTION
+tt-801	Marguerite, Maxine, Thelma, Vicki, Maureen, Sandy and Rachel have only visited Cedar Falls	Marguerite didn't visit Cedar Falls	CONTRADICTION
+tt-802	Virginia has only visited Exeter, Dixon, Downey, Woodbridge, Royal Oak, Brea, Oak Ridge, Cuyahoga Falls, Carthage and Rutland	Virginia didn't visit Dixon	CONTRADICTION
+tt-803	Donna has only visited San Pedro, Lumberton, Charlevoix, Leominster, Columbia, Fredonia, Honaunau, Aspen, Montrose and Fort Wayne	Donna didn't visit Charlevoix	CONTRADICTION
+tt-804	Angie, Antoinette, Maryann, Sara, Emily, Lori, Stacy and Shirley have only visited Pasadena	Angie didn't visit Greensburg	ENTAILMENT
+tt-805	Rita has only visited Houma, Las Vegas, Lexington, Mineola, Asheville, Del Rio, Sebring, Culver City, Aberdeen, Walnut Creek, Danvers, Bowling Green, Lewistown, Concord, Winslow, Montclair and Anacortes	Rita didn't visit Anacortes	CONTRADICTION
+tt-806	Marilyn and Becky have only visited Gretna	Becky didn't visit Ephrata	ENTAILMENT
+tt-807	Crystal, Tracy, Natasha, Marilyn, Luz, Bernice, Rosie, Yvonne, Roberta, Eileen, Veronica, Kim, Kathryn, Tamara, Verna, Melissa, Annie, Sheila, Ellen and Sue have only visited Norton	Crystal didn't visit Norton	CONTRADICTION
+tt-808	Naomi has only visited Cedar Rapids, Bath, West Hartford, Hobart, Lincoln and Jamestown	Naomi didn't visit Lincoln	CONTRADICTION
+tt-809	Norma has only visited Biddeford, Riverton, Fort Payne, Neenah, Lima, Hanalei, Opelika, Niles and Greenville	Ada didn't visit Fort Payne	NEUTRAL
+tt-810	Jean, Alison, Kristi, Caroline, Nina, Vera, Sonya, Tina, Genevieve, Margarita, Helen and Heather have only visited Arkansas	Heather didn't visit Arkansas	CONTRADICTION
+tt-811	Mabel, Inez, Rhonda, Hilda, Antoinette, Darlene, Verna, Danielle, Barbara, Bernice and Jeanne have only visited Winnetka	Jeanne didn't visit Cushing	ENTAILMENT
+tt-812	Wilma has only visited Goldsboro, Parma, Oak Ridge, Anaheim, Ogdensburg, Provo, Maryland, Devils Lake, Lombard, Dearborn, Monett, Estherville and Newport	Wilma didn't visit Parma	CONTRADICTION
+tt-813	Jackie, Connie, Kathy, Diane, Kayla, Iris, Delores, Wendy, Clara, Faye, Gertrude and Mae have only visited Florence	Connie didn't visit Florence	CONTRADICTION
+tt-814	Willie has only visited Watertown, Freeport, Fort Scott, Nauvoo, Darien, Kingsville, Sharon, Trenton, Lebanon, Council Grove, Saginaw, Davenport, Bound Brook, Princeton, Braintree, Norfolk, Johnson City, Charleston and Bastrop	Anita didn't visit Braintree	NEUTRAL
+tt-815	Laura and Jennifer have only visited Jackson	Jennifer didn't visit Aurora	ENTAILMENT
+tt-816	Vanessa, Bernice, Ella, Kayla, Lula, Juana, Harriet, Tiffany and Dianne have only visited Cookeville	Juana didn't visit Urbana	ENTAILMENT
+tt-817	Caroline has only visited Gary, Littleton and Bryan	Delores didn't visit Littleton	NEUTRAL
+tt-818	Angie, Lydia, Ruth, Sally, Sonya, Kelly, Ada, Norma, Charlotte and Elsie have only visited Middletown	Ruth didn't visit Middletown	CONTRADICTION
+tt-819	Julie, Donna, Dorothy, Minnie, Melinda, Ramona and Bernice have only visited Cheektowaga	Ramona didn't visit Cheektowaga	CONTRADICTION
+tt-820	Eileen, Christy, Irma, Megan, Alma, Shirley, Jessie, Carole, Pearl, Ellen and Nina have only visited Lorain	Nina didn't visit Lorain	CONTRADICTION
+tt-821	Sonya has only visited Pittsfield, International Falls, Elmhurst, Gretna, Riverside, Hibbing, West Hartford, Clinton, Abington, Ohio and Winchester	Sonya didn't visit Clinton	CONTRADICTION
+tt-822	Edith, Elaine, Tonya, Leah, Sonya, Marcia, Courtney and Sonia have only visited Danville	Leah didn't visit Farmington	ENTAILMENT
+tt-823	Marlene, Gladys, Isabel, Bonnie, Judith, Madeline, Ida, Kay, Edna and Louise have only visited Louisville	Isabel didn't visit Belle Fourche	ENTAILMENT
+tt-824	Kristi, Tara, Myrtle, Geneva, Tamara, Gina, Yolanda, Marilyn, Jean, Bobbie, Ana and Caroline have only visited Weehawken	Gina didn't visit Midland	ENTAILMENT
+tt-825	Marlene has only visited Bessemer, Redlands, Junction City and South Carolina	Marlene didn't visit Bessemer	CONTRADICTION
+tt-826	Yvonne has only visited Ticonderoga, White Springs, Auburn, Tennessee, Norwood, San Mateo, Henderson, Blairsville, Kawaihae, Claremont, Covington, Palmyra, Manchester, Springfield, Bangor, New Orleans, West Chester, Machias and Herkimer	Willie didn't visit Machias	NEUTRAL
+tt-827	Jean, Julia, Beverly, Roberta and Mary have only visited Dodge City	Mary didn't visit Dodge City	CONTRADICTION
+tt-828	Cecilia has only visited Saranac Lake, Utica, Hagerstown, Hibbing, Centralia, Jonesborough, Hodgenville, Athens, Phoenixville, Arkadelphia and Moline	Kathryn didn't visit Arkadelphia	NEUTRAL
+tt-829	Courtney has only visited Baker City, North Adams, Tupelo, Butte, Webster, Libertyville, Waterville, Mount Pleasant, Springville, New Castle, New Philadelphia, Ogden, Seaside, Hanover, Rocky Mount and Lancaster	Amelia didn't visit Tupelo	NEUTRAL
+tt-830	Denise has only visited Hodgenville, Muscatine, Staunton, Bloomfield, Fredericksburg, Saint Joseph, Englewood, Houston, Burlington, Abilene, Portsmouth, Monett and Wickford	Lorraine didn't visit Hodgenville	NEUTRAL
+tt-831	Georgia has only visited Saint George, Elyria, Charleston, International Falls, East Hartford, San Fernando, Revere, Ellsworth, Anderson, East Liverpool, Perth Amboy, Kaskaskia, Milford, Needles, Pagosa Springs and Jefferson City	Judith didn't visit Needles	NEUTRAL
+tt-832	Evelyn has only visited Oregon City, Lexington, Marion, Loveland, Lafayette, Needles, Borger, Levittown, Denver, Durango, Winona, Campbellsville, Wellfleet, Overland Park, Carlsbad, Oak Park, Yonkers, Clifton and Frederick	Evelyn didn't visit Yonkers	CONTRADICTION
+tt-833	Wilma and Mary have only visited Charleston	Mary didn't visit Peabody	ENTAILMENT
+tt-834	Stacey, Terry, Marilyn and Violet have only visited Mackinaw City	Terry didn't visit New Market	ENTAILMENT
+tt-835	Pearl, Jessie, Valerie, Erin, Caroline, Marsha, Elizabeth, Olga, Myrtle, Lois, Willie, Shelly, Tara, Nellie, Andrea, Eunice, Louise, Gail, Ruby and Tracey have only visited Carlinville	Louise didn't visit Windsor	ENTAILMENT
+tt-836	Tonya, Amy, Ida, Christine, Lisa, Sharon and Susie have only visited Coronado	Christine didn't visit Coronado	CONTRADICTION
+tt-837	Joy has only visited Hingham, Carbondale, Titusville, Biloxi, Lebanon, Parsippany–Troy Hills, Winston-Salem, Glen Ellyn and Roseville	Joy didn't visit Titusville	CONTRADICTION
+tt-838	Shelly has only visited Portland, Shelbyville, Benton, Rochester, Caldwell, Olympia, Lexington, Boys Town, Tooele, Point Pleasant, Columbus, Custer, Moore, Rawlins, Mobridge and Pinehurst	Ella didn't visit Custer	NEUTRAL
+tt-839	Lola, Doris, Pearl, Debra, Jill, Regina, Mabel, Lindsay, Margie, Vanessa, Victoria, Bernice, Sue, Cindy, Mary, Monica, Grace, Maxine and Iris have only visited Indianola	Mary didn't visit Libertyville	ENTAILMENT
+tt-840	Antoinette has only visited Covington, Aberdeen and Manchester	Arlene didn't visit Manchester	NEUTRAL
+tt-841	Lori has only visited Globe, Ecorse, New Jersey, Chautauqua, Monroe, Belen and Carbondale	Lori didn't visit Belen	CONTRADICTION
+tt-842	Thelma, Frances, Rosa, Sally, Gail, Maryann, Tamara, Kelly, Penny, Tonya, Nicole, Irene and Judy have only visited Fairmont	Thelma didn't visit Fairmont	CONTRADICTION
+tt-843	Melinda has only visited Marion and Chico	Melinda didn't visit Marion	CONTRADICTION
+tt-844	Rebecca, Candace, Yvette, Katie, Annette, Jennie, Kristina, Agnes, Maureen, Lori and Fannie have only visited Westerly	Katie didn't visit Westerly	CONTRADICTION
+tt-845	Isabel has only visited Bay City, Milton, Laurel, Mason City, Harrisburg, Lewiston, Belfast and Woodbridge	Blanche didn't visit Milton	NEUTRAL
+tt-846	Jan and Nina have only visited West Seneca	Jan didn't visit Mackinaw City	ENTAILMENT
+tt-847	Alice has only visited Brunswick, Grand Island, Chickasha, Kanab, Atlantic City, Rochester, Morristown, Newark and New Brunswick	Alice didn't visit Morristown	CONTRADICTION
+tt-848	Christina has only visited Clarksville, Monroe, Washington, North Little Rock, Juneau, Canyon, Arkansas, Austin, Del Rio, Aliquippa, Portland, Waynesboro and Provincetown	Bessie didn't visit Canyon	NEUTRAL
+tt-849	Margarita has only visited Elk City, Trenton, Elmira, Berlin, New Glarus, Lebanon, Galveston, Stockton, Rutland, Idaho, Greenville, Park Ridge, McAlester, Rhode Island, Buffalo, Urbana and Hobart	Maureen didn't visit Rhode Island	NEUTRAL
+tt-850	Monique has only visited Cleveland, La Habra, Monmouth, Steamboat Springs, Ontario, Greeley, Escondido, Fort Dodge, East Saint Louis, Crossett, Aberdeen, Marquette, Saratoga Springs, Charlevoix, Pryor and Buffalo	Monique didn't visit Fort Dodge	CONTRADICTION
+tt-851	Amelia, Andrea, Thelma, Claire, Kristina, Marie, Agnes, Jean, Madeline, Juanita and Mamie have only visited Ontario	Claire didn't visit Yankton	ENTAILMENT
+tt-852	Luz, Jackie, Cathy, Jenny, Natalie, Blanche, Dianne, Geneva, Rose, Tracey, Alberta and Nora have only visited Orlando	Rose didn't visit Orlando	CONTRADICTION
+tt-853	Rhonda has only visited Beaumont, Olean, Towson, Ottawa, Grand Junction, Pipestone, Middlebury, Santa Claus, Bastrop, South Carolina, Needles, Brookfield, Phenix City, Melbourne and New Market	Rhonda didn't visit Melbourne	CONTRADICTION
+tt-854	Kimberly has only visited Grinnell, Tyler, Salt Lake City, East Providence, Geneva and Livermore	Kimberly didn't visit Livermore	CONTRADICTION
+tt-855	June has only visited Anadarko, Superior, Bonners Ferry and Olean	Judy didn't visit Superior	NEUTRAL
+tt-856	Velma, Florence, Alma, Kayla, Jessica, Kathryn, Harriet, Kimberly, Natasha, Carla and Linda have only visited Fergus Falls	Velma didn't visit Fergus Falls	CONTRADICTION
+tt-857	Kristy, Holly, Diana, Teresa, Martha, Joann, Myrtle, Nicole, Katherine, Sarah, Irma, Claire, Nora, Christine, Lindsey, Esther, Josephine and Alicia have only visited Cheyenne	Diana didn't visit Lancaster	ENTAILMENT
+tt-858	Karen, April, Lynda, Shirley, Renee, Tracey, Mae, Harriet, Lisa, Dawn, Grace, Cynthia, Jenny, Sarah, Miriam, Lindsay and Kayla have only visited Independence	Mae didn't visit Independence	CONTRADICTION
+tt-859	Agnes has only visited Berea, San Jose, Rogers, Ouray, Covington, La Grande, Livermore, Okmulgee, Middletown and Bardstown	Julia didn't visit San Jose	NEUTRAL
+tt-860	Marion has only visited Lancaster, Winchester and Bountiful	Gail didn't visit Bountiful	NEUTRAL
+tt-861	Monique, Geneva, Olga, Sally, Gail, Pamela, Tonya, Ann, Gwendolyn, Olivia and Violet have only visited Red Bluff	Gwendolyn didn't visit Red Bluff	CONTRADICTION
+tt-862	Cora has only visited Zion, Schenectady, Mystic, Watertown, Grants Pass, Perry, Sparks, Mount Pleasant, Ocean City, Blairsville, Ferguson, Glens Falls, Florida, Glenview, Great Bend, Rocky Mount, Oberlin and Chico	Minnie didn't visit Glens Falls	NEUTRAL
+tt-863	Jackie, Bonnie, Sue, Joanna, Michele, Florence, Monique, Jessie, Edith, Margarita, Luz, Jane, Christine, Terri and Lena have only visited Missoula	Jessie didn't visit Kodiak	ENTAILMENT
+tt-864	Dorothy, Shelley, Natalie, Kayla, Cecilia, Stacy, Anne, Vivian, Flora, Jo, Lauren, Lindsay, Marjorie and Robin have only visited Livonia	Jo didn't visit Livonia	CONTRADICTION
+tt-865	Eileen, Sandy, Myrtle, Joy, Vickie, Delores, Maryann, Margie, Becky, Nellie, Regina, Maxine and Marie have only visited Oak Harbor	Myrtle didn't visit Oak Harbor	CONTRADICTION
+tt-866	Ruth, Claudia, Delores, June, Deanna, Constance and Alice have only visited Northampton	Claudia didn't visit Northampton	CONTRADICTION
+tt-867	Sheila has only visited Grayling, Plattsmouth, Climax, Carthage, Menasha and Boonesborough	Claire didn't visit Carthage	NEUTRAL
+tt-868	Elizabeth, Terry, Jennifer, Mabel, Alma, Holly and Emily have only visited Midland	Mabel didn't visit Oklahoma City	ENTAILMENT
+tt-869	Candice, Geraldine, Jan, Glenda, Lindsay, Katherine, Iris, Holly, Alison, Joy, Alicia, Cathy, Erika, Sonia, Ella, Alberta, Deanna, Rita, Virginia and Harriet have only visited Tiverton	Jan didn't visit Tiverton	CONTRADICTION
+tt-870	Carmen has only visited Durham, East Moline, Joliet, Kanab, Ontario, Wilmington, Tahlequah, Alamogordo, Des Plaines, Silver Spring and Demopolis	Carmen didn't visit Demopolis	CONTRADICTION
+tt-871	Carrie, Yvonne, Patricia, Marian, Erin, Sonya, Ann, Georgia, Felicia, Kristy, Nellie, Kristi, Tonya and Kristen have only visited DeKalb	Felicia didn't visit Libertyville	ENTAILMENT
+tt-872	Jamie has only visited Bradford, East Haven, Chambersburg, Palm Bay, Naperville, Martinsburg, Newport Beach, Lahaina, Spearfish, Newark and Hammondsport	Sabrina didn't visit Lahaina	NEUTRAL
+tt-873	Mary has only visited Ten Sleep, Watts, Glens Falls, Wyandotte and Glassboro	Mary didn't visit Ten Sleep	CONTRADICTION
+tt-874	Beulah has only visited Dover, Greeneville, Bowling Green, Kansas City, Van Buren, Bath, Miami Beach, La Junta, Kent, Twin Falls, Jeffersonville, Clayton, Erie, Mount Holly, Arlington, New Windsor, Centralia, Wallingford, Minden and Everett	Beulah didn't visit Twin Falls	CONTRADICTION
+tt-875	Erica, Natasha, Melanie, Constance, Jennifer, Maria, Paula, Rebecca, Erin, Pamela, Gladys, Betty, Terry, Florence, Denise, Margie, Beatrice, Tammy and Katie have only visited Osceola	Gladys didn't visit Osceola	CONTRADICTION
+tt-876	Billie, Renee, Marjorie, Kristy, Melinda and Kathy have only visited Monroeville	Kathy didn't visit Idaho Falls	ENTAILMENT
+tt-877	Ella, Cassandra, Jennifer, Mabel, Jeanette, Lee, Janet, Glenda, Theresa, Irma, Leona, Kelly, Rachel, Lynda and April have only visited Mount Pleasant	Cassandra didn't visit Mount Pleasant	CONTRADICTION
+tt-878	Tara, Margaret, Maria, Naomi, Janet, Arlene, Evelyn, Sally, Vivian, Paula, Mabel, Wendy, Rachel, Joyce, Dana and Jackie have only visited Mineola	Mabel didn't visit Aberdeen	ENTAILMENT
+tt-879	Holly, Katrina, Valerie, Wendy and Nellie have only visited Fargo	Nellie didn't visit Fargo	CONTRADICTION
+tt-880	Tonya has only visited Oneida, Mansfield, Elkton, Laconia, Rye, Las Cruces, Jeannette, New Brunswick, Arkansas City and Webster	Doris didn't visit Laconia	NEUTRAL
+tt-881	Renee, Alice, Phyllis, Martha, Erica, Sheila, Cora, Ethel, Leona, Juana, Rita, Joyce, Teresa, Mae, Valerie, Shelly and Danielle have only visited Rugby	Leona didn't visit Rugby	CONTRADICTION
+tt-882	Katherine, Vicki, Vanessa, Geneva, Jenny, Brittany, Regina and Erin have only visited Chickasaw	Vanessa didn't visit McKeesport	ENTAILMENT
+tt-883	Lillian, Georgia, Alice, Susan, Alma, Candice, Ashley, Tamara, Denise, Monique, Jennie, Allison, Candace, Tiffany, Grace and Michele have only visited Portsmouth	Michele didn't visit Portsmouth	CONTRADICTION
+tt-884	Tammy has only visited Winslow, Washington, Georgetown, Woodward and Tiffin	Tammy didn't visit Woodward	CONTRADICTION
+tt-885	Erin, Joy, Lydia, Lillie, Edna, Carrie, Ellen, Bobbie, Lee, Guadalupe and Anna have only visited Jeffersonville	Lillie didn't visit Yuma	ENTAILMENT
+tt-886	Sonya has only visited Jacksonville, Belen, Blackfoot and Newark	Sonya didn't visit Newark	CONTRADICTION
+tt-887	Tanya has only visited Largo and Douglas	Tanya didn't visit Largo	CONTRADICTION
+tt-888	Loretta has only visited Salina, Williamstown, Ponca City, Beaufort, Petaluma, Anderson, Coulee Dam, Winter Haven, Lebanon, Fallon, Little Rock, Hobbs, Florida, Mentor, Washington, Redmond, New Madrid and San Gabriel	Tanya didn't visit Fallon	NEUTRAL
+tt-889	Edith has only visited New Hope, Columbia, Washington, Cullman, Medicine Lodge, Andover, Newport, Hinton, Goliad, Victoria, Perry, Ann Arbor, Tiverton, Crossett, Johnson City, Lancaster, Portage, Denison and Redmond	Rhonda didn't visit New Hope	NEUTRAL
+tt-890	Andrea has only visited Olean, Ann Arbor, Rocky Mount, East Moline, Pennsylvania, Dixon, Moses Lake, Lake Oswego, Sunnyvale, Bangor, Wailuku, McAlester, Gettysburg, Warm Springs, West Lafayette, Batavia, Casa Grande, Washington, Burlington and Mobile	Andrea didn't visit McAlester	CONTRADICTION
+tt-891	Minnie, Shelley, Beverly, Gloria, Lois, Melinda, Joanna, Anna, Terri, Leslie, Ana, Claudia, Nancy, Rosa, Irma, Maria, Ella, Anne, Angela and Sandy have only visited Chambersburg	Sandy didn't visit Dahlonega	ENTAILMENT
+tt-892	Ashley has only visited Atlanta, Mayfield, Okmulgee, Ponca City, Missoula and Cranston	Naomi didn't visit Missoula	NEUTRAL
+tt-893	Rosa, Hazel, Mildred, Sara, Ruth, Allison, Lola, Renee, Candice and Dolores have only visited Bend	Rosa didn't visit Junction City	ENTAILMENT
+tt-894	Vivian, Cora, Arlene, Annette, Isabel, Gertrude, Stephanie and Jenny have only visited Kearney	Isabel didn't visit Provincetown	ENTAILMENT
+tt-895	Tina has only visited Everett, Peabody, Hastings, Ripon, Coronado, Danvers, Sandusky, Bedford, Westerly, Edinburg, Rhinelander, Alabama, Buffalo, Fort Morgan, Lewistown, Pascagoula, Pocatello and Concord	Beulah didn't visit Bedford	NEUTRAL
+tt-896	Diana, Linda, Kristen, Sara, Cora, Tanya, Lori, Tara, Paula, Janice, Kristi, Denise, Claire, Loretta, Margaret, Judy, Teresa and Shannon have only visited Kahului	Janice didn't visit Warren	ENTAILMENT
+tt-897	Marilyn has only visited Layton, Cordova, Hobbs, Palo Alto, Baker City, Oxnard, Smith Center, Glenview and Staunton	Mae didn't visit Layton	NEUTRAL
+tt-898	Cassandra, Natalie, Amanda, Virginia, Judy, Edith, Brittany, Kay, Maggie, Nellie, Shelley, Beulah, Lucille, Anna, Marsha and Billie have only visited Shawneetown	Anna didn't visit Shawneetown	CONTRADICTION
+tt-899	Roberta, Katherine and Lillie have only visited Harwich	Lillie didn't visit Artesia	ENTAILMENT
+tt-900	Jenny has only visited Casper, Columbia, Joplin, Danville and New Windsor	Angie didn't visit Columbia	NEUTRAL
+tt-901	Lula, Marian, Edith, April, Maxine, Denise, Christine, Tamara, Theresa, Gina, Bertha, Crystal, Michelle, Iris, Jeanne, Bessie and Daisy have only visited Hot Springs	Maxine didn't visit Fort Scott	ENTAILMENT
+tt-902	Mae, Alice, Lindsey, Colleen, Tamara, Darlene, Eleanor, Leah, Dolores, Lisa and Carrie have only visited Bath	Colleen didn't visit Newark	ENTAILMENT
+tt-903	Gertrude has only visited Lake Oswego, Park City, Corpus Christi, Parma, Rotterdam, Lebanon, Chattanooga, Fort Collins, Louisville, Park Forest, Hickory, Breckenridge, Rhinelander and Burns	Lauren didn't visit Park City	NEUTRAL
+tt-904	Eileen has only visited Elkton, Dillon, Newton, Thibodaux, Berea, Scottsdale, Red Cloud and Fort Worth	Peggy didn't visit Red Cloud	NEUTRAL
+tt-905	Cathy, Melody, Edith, Iris, Erica, Joyce, Shannon, Katie, Sheryl and Annie have only visited Lowell	Erica didn't visit Manhattan	ENTAILMENT
+tt-906	Thelma, Edna, Willie, Holly and Carol have only visited Franklin	Thelma didn't visit Boone	ENTAILMENT
+tt-907	Eleanor, Jenny, Christine, Jane, Leslie, Marcia, Lauren, Lola, Clara, Carrie, Roberta, Sabrina, Brandi and Cindy have only visited Plainfield	Lola didn't visit Nauvoo	ENTAILMENT
+tt-908	Melinda, Nina, Cindy, Rhonda, Iris, Linda and Vera have only visited Corpus Christi	Nina didn't visit Lewistown	ENTAILMENT
+tt-909	Bertha has only visited Petersburg, Brookings, Moorhead, Morgan City, Eastham, Orange, Santa Monica, Bristol and Bloomfield	Bertha didn't visit Morgan City	CONTRADICTION
+tt-910	Leslie, Marsha, Tamara, Willie, Nora and Christina have only visited Tamaqua	Christina didn't visit Tamaqua	CONTRADICTION
+tt-911	Joyce, Jamie, Linda, Lillian, Stacey, Peggy and Naomi have only visited El Paso	Joyce didn't visit Danbury	ENTAILMENT
+tt-912	Yvonne has only visited Palo Alto, Oberlin, Camden, Mamaroneck, Cedar Rapids, Defiance and Hobart	Andrea didn't visit Cedar Rapids	NEUTRAL
+tt-913	Virginia, Vivian, Sheryl, Deborah, Kathleen, Marilyn, Kathryn, Katrina, Minnie, Sherri, Julie, Yolanda, Kay and Joan have only visited Atlantic City	Vivian didn't visit Nashville	ENTAILMENT
+tt-914	Shannon has only visited Kingman, Bozeman, Glendale, Tewksbury and Coventry	Felicia didn't visit Kingman	NEUTRAL
+tt-915	Carmen, Faye, Cheryl, Esther, Yvette, Jean, Shannon, Andrea, Barbara, Rosemary and Amy have only visited Winchester	Faye didn't visit Ottawa	ENTAILMENT
+tt-916	Jenny has only visited Winnemucca, Pecos, Lawrence, Jacksonville, Chattanooga, Benton Harbor, Crookston, Richmond, Kitty Hawk, Amsterdam, Hershey, Wyoming, Uniontown, Hopkinsville, Titusville, Virden, Waterford, Charles Town and Scarsdale	Charlotte didn't visit Wyoming	NEUTRAL
+tt-917	Doris has only visited Muncie, Red Cloud, Effingham, East Point and Texas City	Doris didn't visit Red Cloud	CONTRADICTION
+tt-918	Florence has only visited Cedar Rapids, Peshtigo, Lebanon and Ossining	Peggy didn't visit Lebanon	NEUTRAL
+tt-919	Minnie has only visited Mountain View, Newton, Delaware and Portsmouth	Jodi didn't visit Delaware	NEUTRAL
+tt-920	Alicia has only visited Coupeville, Ashland, Hartsville, Lake Forest, Binghamton, Plainview, Portsmouth, Fremont and Mississippi	Alicia didn't visit Mississippi	CONTRADICTION
+tt-921	Carmen has only visited Kearney, Meriden, Bristol, Hyannis, Springfield, Swarthmore, San Antonio, Cairo, Lima, McKinney, Costa Mesa, Plymouth, New Mexico, Hingham, Wailuku and Beaufort	Terry didn't visit Beaufort	NEUTRAL
+tt-922	Karen has only visited Winston-Salem, Kankakee, Darlington, Stony Brook, Philadelphia, Monroe, Climax and Olathe	Karen didn't visit Darlington	CONTRADICTION
+tt-923	Guadalupe has only visited Paris, Fayetteville, Muncie, Newport, Hot Springs and La Grande	Becky didn't visit Fayetteville	NEUTRAL
+tt-924	Evelyn, Jessica, Nina, Bessie, Edna, Faye, Marlene, Sheila, Victoria, Lisa, Katherine, Janice, Melody and Diana have only visited Enid	Diana didn't visit Aberdeen	ENTAILMENT
+tt-925	Viola, Robin, Eileen, Charlotte, Jamie and Ellen have only visited Troy	Robin didn't visit Troy	CONTRADICTION
+tt-926	Claudia, Olga, Annie, Diane, Amanda, Anna, Heidi, Ana, Cheryl and Agnes have only visited Hartsville	Heidi didn't visit Hartsville	CONTRADICTION
+tt-927	Virginia has only visited Plainview, Rumford, Las Vegas, Lawrence, Gloucester, International Falls, Glendive, Worthington, Pryor and Boothbay Harbor	Virginia didn't visit Plainview	CONTRADICTION
+tt-928	Angie has only visited Central Falls, Cortland, Council Grove, Shelbyville, Hanover, Greensboro, Iron Mountain, Martinez, Adams and Elizabethtown	Judy didn't visit Elizabethtown	NEUTRAL
+tt-929	Emily, Beverly, Nina, Nicole, Courtney and Jennie have only visited Long Beach	Courtney didn't visit Long Beach	CONTRADICTION
+tt-930	Sheila, Brenda, Jessie, Joanne, Marion, Fannie, Stacy, Margie and Jan have only visited Jim Thorpe	Brenda didn't visit Jim Thorpe	CONTRADICTION
+tt-931	Tonya, Carole, Juana, Pamela, Ella and Michele have only visited Hollywood	Juana didn't visit Yorba Linda	ENTAILMENT
+tt-932	Tracy has only visited Wahpeton, Laconia, Scarborough, Kentucky, Alexandria, Socorro, Waycross, Orange, Woods Hole, Petersburg and Florence	Christina didn't visit Wahpeton	NEUTRAL
+tt-933	Jessie has only visited Chicago Heights, West Covina, Burlington, Tallahassee, Artesia, Andover, Boys Town, Wyandotte and Halifax	Jessie didn't visit West Covina	CONTRADICTION
+tt-934	Crystal, Viola, Virginia, Sandy, Shannon, Brittany, Sherry, Joan, Nancy, Roberta, Melody, Felicia and Vivian have only visited Waycross	Joan didn't visit Lansing	ENTAILMENT
+tt-935	Edna has only visited Ocean City, Urbana, Dahlonega, Hamden, Brunswick, Coney Island, Escondido, Salem, Aberdeen, Portales and Crystal City	Edna didn't visit Brunswick	CONTRADICTION
+tt-936	Rachel has only visited Point Pleasant, Adrian, Palmdale, Cocoa Beach, Traverse City, Oak Park, Bedford, Hamden, Hopewell and Albert Lea	Rachel didn't visit Traverse City	CONTRADICTION
+tt-937	Renee, Kathryn, Ann, Luz, Opal, Emily, Margie, Christina, Betty, Marlene, Ruby, Vanessa and Norma have only visited Mesa	Opal didn't visit Mesa	CONTRADICTION
+tt-938	Kristi has only visited Oswego, Lewistown, Price, Oxnard, Saugus, Carbondale, Apalachicola, New York, Las Vegas and Silverton	Anita didn't visit Apalachicola	NEUTRAL
+tt-939	Leah, Melinda, Vickie, Candace, Judith, Olga and Lorraine have only visited Maine	Olga didn't visit Troy	ENTAILMENT
+tt-940	Luz, Margarita, Monique, Juana, Glenda, Melanie and Sharon have only visited Park Forest	Juana didn't visit Stoughton	ENTAILMENT
+tt-941	Rose has only visited Belleville, Hastings, Tuskegee, Grants, Ontario, Aberdeen, Manchester, Washington, Berlin, Kent, San Marcos, Tonawanda, Andalusia, Owatonna and West Covina	Rose didn't visit Berlin	CONTRADICTION
+tt-942	Carole, Courtney, Felicia and Clara have only visited Prichard	Carole didn't visit Prichard	CONTRADICTION
+tt-943	Doris has only visited South San Francisco, McKeesport, Minnesota, Torrington and San Jose	Charlene didn't visit Minnesota	NEUTRAL
+tt-944	Pamela has only visited Newton, Ouray, Bridgeport, Roanoke, Vincennes, Saint Joseph, Point Roberts, Easton, Santa Fe, Genoa and Naples	Michelle didn't visit Roanoke	NEUTRAL
+tt-945	Juanita, Nellie, Kim, Claire, Jan, Mae, Jamie and Barbara have only visited Pendleton	Jamie didn't visit Pendleton	CONTRADICTION
+tt-946	Tanya has only visited Seward, Beckley, Saint Cloud, Mason City, Kinston, Ludlow and Lafayette	Tanya didn't visit Seward	CONTRADICTION
+tt-947	Julie has only visited Oskaloosa, Hampton, Southington, Michigan, New Castle, Cherokee, Oswego, Brooklyn, Brigham City, Oak Harbor, Goldfield, Peshtigo and Terre Haute	Julie didn't visit Oak Harbor	CONTRADICTION
+tt-948	Evelyn has only visited Springfield, Wausau, Silver Spring, Newark, Joliet, Windsor Locks, Alexandria, Shelbyville, Woods Hole, Eufaula, Philadelphia, Waycross, Madison, Hammondsport, Panama City, Norfolk, Muscatine and Torrington	Kristy didn't visit Alexandria	NEUTRAL
+tt-949	Beth, Alison, Rhonda and Caroline have only visited Daytona Beach	Rhonda didn't visit Bisbee	ENTAILMENT
+tt-950	Susie, Carla, Alison, Ida, Dianne, Colleen, Kathleen and Erin have only visited Pawhuska	Erin didn't visit DeKalb	ENTAILMENT
+tt-951	Alison, Laurie, Regina and Dawn have only visited Streator	Dawn didn't visit Blairsville	ENTAILMENT
+tt-952	Claudia, Lauren, Dora, Marion, Lindsay, Luz, Loretta, Lena, Patricia, Holly, Jamie, Juana and Jessica have only visited Aberdeen	Luz didn't visit Aberdeen	CONTRADICTION
+tt-953	Mary, Sara, Martha, Brenda, Ada, Irma, Lucy, Florence, Shelley, Isabel, Geraldine, Angie and Molly have only visited Havre	Florence didn't visit Havre	CONTRADICTION
+tt-954	Lindsey has only visited Skagway, Lovington, Baytown, Georgetown, Moorhead, Hanover, Atlantic City, Mystic, Atmore, Tuscumbia, Decatur, Breckenridge, Auburn, Wilson, Truth or Consequences, Binghamton, Hammondsport, Santa Barbara, Warrensburg and Cullman	Melanie didn't visit Binghamton	NEUTRAL
+tt-955	Stacy, Jacqueline, Minnie, Audrey, Terry, Linda, Christine, Kristen and Crystal have only visited Oroville	Crystal didn't visit Sandwich	ENTAILMENT
+tt-956	Jeanette has only visited Mineola and Augusta	Jeanette didn't visit Augusta	CONTRADICTION
+tt-957	Sandy has only visited Truth or Consequences, Blytheville, Twin Falls, Palm Bay and Stony Brook	Sandy didn't visit Palm Bay	CONTRADICTION
+tt-958	Felicia has only visited Guilford, Johnson City, Beaufort, Delta, West Hartford, Livonia, Ossining and Urbana	Denise didn't visit West Hartford	NEUTRAL
+tt-959	Shelly has only visited Newberg, Shawnee, San Bernardino, Seneca Falls, Greensburg, Pauls Valley, Columbia, Wellsburg, Eastchester and Cherokee	Shelly didn't visit Eastchester	CONTRADICTION
+tt-960	Vivian, Yolanda, Beth, Shannon, Emma, Kelly, Susie, Lena and Julia have only visited Montana	Kelly didn't visit Montana	CONTRADICTION
+tt-961	Terri has only visited Atlanta, Hobart, New Milford, Brunswick, Orange, Rexburg, Manti, Arlington, Sebring, Wethersfield, Boone, Gunnison and El Dorado	Phyllis didn't visit Wethersfield	NEUTRAL
+tt-962	Vickie and Brandy have only visited Huntington	Vickie didn't visit Missouri	ENTAILMENT
+tt-963	Anita, Sandra, Yvonne, Hilda, Cecilia, Vickie, Marlene, Kathleen, Jacqueline, Sally, Deanna, Rachel, Christina and Michele have only visited Branford	Deanna didn't visit Hot Springs	ENTAILMENT
+tt-964	Beth has only visited Belmont, Alma and San Francisco	Beth didn't visit Alma	CONTRADICTION
+tt-965	Shannon has only visited Laurel, Wilmington, Boys Town, Bloomfield, Williston, Maryland, Southington, Litchfield, Plymouth, Bisbee, Osceola, Waukegan, Buena Park, Ludington, Alexandria, Virginia Beach, Goshen, Reedsport, Sioux Falls and Conway	Shannon didn't visit Osceola	CONTRADICTION
+tt-966	Connie, Anna, Hilda, Becky, Cathy, Donna, Glenda, Lola, Janie, Yvonne, Pamela and Sherry have only visited Nome	Donna didn't visit Carthage	ENTAILMENT
+tt-967	Janie, Sandy, Linda, Eva, Rita, Joanne, Jessie, April, Evelyn, Kelly, Opal, Danielle and Susie have only visited Plains	Kelly didn't visit Plains	CONTRADICTION
+tt-968	Valerie, Diana, Melanie, Sabrina, Annette, Josephine, Joanne, Melinda, Ruby, Ruth, Veronica, Diane, Ada, Tanya, Kay, Misty and Clara have only visited Rock Island	Tanya didn't visit Rock Island	CONTRADICTION
+tt-969	Marlene has only visited West Palm Beach, Greensboro, Jamestown, Arkansas, Uniontown and Homestead	Bessie didn't visit Arkansas	NEUTRAL
+tt-970	Michelle, Janet, Bessie and Priscilla have only visited Sheffield	Michelle didn't visit Sheffield	CONTRADICTION
+tt-971	Felicia, Geneva, Terri, Andrea, Tara, Annette, Vickie, Stephanie, Tracey, Stella, Arlene, Joyce, Lynda, Amber, Alicia and Constance have only visited Harlingen	Joyce didn't visit Osceola	ENTAILMENT
+tt-972	Marian, Sharon, Anita, Pamela, Patricia, Brittany, Elsie and Alice have only visited Owensboro	Pamela didn't visit Sun Valley	ENTAILMENT
+tt-973	Jeanette, Brenda, Marcia, Esther, Tara, Lee, Beverly, Cassandra, Eunice, Ellen and Lillie have only visited North Carolina	Marcia didn't visit North Carolina	CONTRADICTION
+tt-974	Iris, Arlene, Lillian, Michelle, June, Stacy, Angie, Frances, Lynn, Annette, Tammy, Anna, Paula, Jodi, Julia, Faye, Shannon, Amanda, Claudia and Mattie have only visited Libertyville	Mattie didn't visit Libertyville	CONTRADICTION
+tt-975	Lynda has only visited San Pedro, Jersey City, Shawneetown, Delaware, Idaho Falls, Winslow, Cocoa Beach, Somerville, Jamestown, White Sulphur Springs, Millburn, Denison, Barbourville, Pottsville, Cedar City, Macomb, Renton, Barnstable and Council Bluffs	Lynda didn't visit Millburn	CONTRADICTION
+tt-976	Priscilla has only visited Gallatin, Eufaula, Bradford, Eastchester, Coupeville, Elkins, Tarpon Springs, Des Moines, Jefferson City, Amesbury, Chester, De Land, Lewiston and Columbus	Priscilla didn't visit Eastchester	CONTRADICTION
+tt-977	Cindy has only visited Hodgenville, Whittier, Hammondsport, Kanab, South Charleston and Salt Lake City	Cindy didn't visit Whittier	CONTRADICTION
+tt-978	Carmen has only visited Cherokee and Delaware	Carmen didn't visit Cherokee	CONTRADICTION
+tt-979	Deanna has only visited Old Saybrook, Waycross, Midwest City, Edenton, Cincinnati, Huntington, Overland Park, Wyandotte, Lexington, Anniston, Ten Sleep, Bainbridge, Yonkers, Paris and Mishawaka	Deanna didn't visit Huntington	CONTRADICTION
+tt-980	Jessie has only visited Spartanburg, Greenville, Burlington, Indio, North Kingstown, Kent, Laconia, South Holland, Bedford, Temple, Pontiac, Bisbee, Compton, Littleton, Calexico, Dedham, Taunton, Junction City, Ukiah and Guthrie	Dana didn't visit Pontiac	NEUTRAL
+tt-981	Claire, Florence, Lucille, Jenny, Lena, Hazel, Rachel, Esther, Willie, Debra, Alma, Madeline, Marilyn, Kathy, Katherine, Tammy, Erica, Lucy and Shelley have only visited Belle Glade	Willie didn't visit Belle Glade	CONTRADICTION
+tt-982	Rachel has only visited Salisbury, Hood River, Santa Rosa, Socorro, Baraboo, Rock Springs, Columbia, Owensboro, Lewistown, Potsdam, New Castle, Rensselaer, Wheeling, Birmingham, Sheboygan, Roswell, Lewes and Mankato	Rhonda didn't visit Rensselaer	NEUTRAL
+tt-983	Lorraine, Barbara, Cathy, Nina, Cecilia, Erika, Vickie, Charlotte, Dana, Caroline, Billie, Jacqueline and Inez have only visited Mount Pleasant	Dana didn't visit San Angelo	ENTAILMENT
+tt-984	Candice, Virginia, Geraldine, Sheila, Megan, Tamara, Irma, Rachel, Lisa, Nora, Kristine, Stacy, Ida, Sandra, Sonya, Natalie, Susie, Deborah and Vivian have only visited Texarkana	Stacy didn't visit Yakima	ENTAILMENT
+tt-985	Lula has only visited Clinton, Middletown, Elizabethtown, Manti, Kotzebue, Honolulu, Pocatello, Richmond, Guntersville, Guymon, Stonington, McAlester, Hampton, Ephrata and Boonesborough	Edith didn't visit Richmond	NEUTRAL
+tt-986	Holly has only visited Hempstead, Middletown, Wisconsin, Oskaloosa, Ardmore and Waimea	Lynda didn't visit Middletown	NEUTRAL
+tt-987	Monica has only visited Texas, Hoquiam, Belleville, Eureka, Arthur, Mobile, Reading, Massachusetts, Fort Dodge, Parma, Highland Park, Derry, Shaker Heights and Pasadena	Monica didn't visit Mobile	CONTRADICTION
+tt-988	Kristine, Ella, Andrea and Anne have only visited Lancaster	Ella didn't visit Lancaster	CONTRADICTION
+tt-989	Pauline has only visited Burlington, Hobart, Savannah, Austin, Champaign, Mayfield, Rugby, Darien, Northfield and Charles Town	Joan didn't visit Darien	NEUTRAL
+tt-990	Nellie, Debbie, Deborah, Marie, Rosie and Gail have only visited Lombard	Gail didn't visit Lombard	CONTRADICTION
+tt-991	Caroline, Jeanette, Rachel, Vera, Beatrice, Stephanie, Mae, Wilma, Vicki, Ethel, Opal, Debbie and Amanda have only visited Clovis	Debbie didn't visit Clovis	CONTRADICTION
+tt-992	Dora has only visited San Fernando, Southington, New Britain, Auburn, Effingham, Houma, Dothan, Summersville, Mason City, Beaufort, Hialeah, Ecorse, Spanish Fork, Naples, Colorado Springs, Portsmouth, Richmond, Catonsville and Baytown	Ruth didn't visit Ecorse	NEUTRAL
+tt-993	Antoinette, Hattie and Carrie have only visited Tombstone	Carrie didn't visit Pennsylvania	ENTAILMENT
+tt-994	Charlene and Phyllis have only visited Bossier City	Phyllis didn't visit Morganton	ENTAILMENT
+tt-995	Teresa has only visited White Sulphur Springs, Ajo, Simsbury, Laramie, Elmira and Oroville	Darlene didn't visit Ajo	NEUTRAL
+tt-996	Faye has only visited Eveleth, Great Barrington, Asbury Park, Redwood City, New Castle, Miles City, Mineola, Augusta, Vancouver, Aiken and Palmyra	Danielle didn't visit Palmyra	NEUTRAL
+tt-997	Brandy, Theresa, Jacqueline and Cora have only visited Philadelphia	Theresa didn't visit Philadelphia	CONTRADICTION
+tt-998	Brandy has only visited Midwest City, Mount Vernon, San Marcos, Amherst and Aspen	Cynthia didn't visit San Marcos	NEUTRAL
+tt-999	Gladys, Tiffany, Geraldine, Patricia, Kathryn, Audrey, Jackie, Janet and Josephine have only visited Starkville	Tiffany didn't visit South Saint Paul	ENTAILMENT

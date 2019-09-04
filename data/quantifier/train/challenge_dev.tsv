@@ -1,0 +1,1000 @@
+d-0	Everyone has visited Ireland, Gabon, United Kingdom, Bahrain, Honduras, Guatemala, Ukraine, Democratic Republic of the Congo, Djibouti, Moldova, Sri Lanka and Georgia	Someone did visit Ukraine	ENTAILMENT
+d-1	Everyone has visited every person	Bob didn't visit Jim	CONTRADICTION
+d-2	Everyone has visited every place	Alberto didn't visit Jay	NEUTRAL
+d-3	Someone has visited every person and every place	An individual visited United Arab Emirates	ENTAILMENT
+d-4	Everyone has visited Albania, North Korea, Eswatini, Portugal, Kazakhstan, Poland, China, Botswana, Ghana, Grenada, New Zealand, Singapore, Papua New Guinea, Zambia, Trinidad & Tobago, Democratic Republic of the Congo, Benin and Brunei	Allen didn't visit Slovenia	NEUTRAL
+d-5	Someone has visited every person and every place	That person there didn't visit Ron	NEUTRAL
+d-6	Someone has visited every person and every place	A person visited Robert	ENTAILMENT
+d-7	Everyone has visited every place	Jeffery didn't visit Malaysia	CONTRADICTION
+d-8	Everyone has visited Israel, Tunisia, Syria, Maldives, Liberia, South Africa, São Tomé & Prícipe, Latvia, Zambia and El Salvador	A person did visit Syria	ENTAILMENT
+d-9	Everyone has visited Serbia, Liechtenstein, Dominica, Canada, Norway, Saint Vincent & the Grenadines, Cyprus, Marshall Islands, Costa Rica, Bosnia & Herzegovinia and Uganda	Alexander didn't visit Afghanistan	NEUTRAL
+d-10	Someone has visited every person and every place	An individual visited Sudan	ENTAILMENT
+d-11	Someone has visited every person and every place	That person there didn't visit Chad	NEUTRAL
+d-12	Someone has visited every person and every place	An individual visited Guinea	ENTAILMENT
+d-13	Everyone has visited Uzbekistan, Tonga, Djibouti, South Africa, Bhutan, Estonia, Vietnam, Madagascar, Malawi, Burkina, Romania, Togo, Democratic Republic of the Congo, Papua New Guinea, Sierra Leone, Monaco, Maldives and Kosovo	That person there did visit Romania	ENTAILMENT
+d-14	Everyone has visited every place	Karl didn't visit Seth	NEUTRAL
+d-15	Someone has visited every person and every place	Someone didn't visit Clifton	CONTRADICTION
+d-16	Everyone has visited every place	Thomas didn't visit Eugene	NEUTRAL
+d-17	Someone has visited every person and every place	That particular person didn't visit Bolivia	NEUTRAL
+d-18	Everyone has visited Switzerland, United Kingdom, Sweden, Zimbabwe, Niger, Cameroon, Greece, India, Israel, South Sudan, Iraq and Slovakia	That particular person did visit Greece	ENTAILMENT
+d-19	Everyone has visited Tuvalu, Venezuela, Sierra Leone, Tonga, Burundi, Malawi, Kosovo, Bolivia, Jordan, Australia, New Zealand, Lebanon, Italy, Angola, Kyrgyzstan, Slovakia, Equatorial Guinea, Cyprus and Argentina	Someone did visit Italy	ENTAILMENT
+d-20	Someone has visited every person and every place	That person there didn't visit Burundi	NEUTRAL
+d-21	Everyone has visited every place	Francisco didn't visit Perry	NEUTRAL
+d-22	Everyone has visited every person and every place	Everett didn't visit Timothy	CONTRADICTION
+d-23	Someone has visited every person and every place	An individual didn't visit Francisco	CONTRADICTION
+d-24	Everyone has visited Burundi, Georgia, Belgium, Benin, Vanuatu, Sudan, Syria, Chile, São Tomé & Prícipe, Cuba, Zimbabwe, Trinidad & Tobago, Norway, Italy, Malta, Slovakia, Macedonia and Nigeria	A person didn't visit Malta	CONTRADICTION
+d-25	Someone has visited every person and every place	That individual there didn't visit Jimmy	NEUTRAL
+d-26	Everyone has visited Norway, Equatorial Guinea, Tajikistan, Afghanistan, Togo, Cabo, The Bahamas, Russia, Latvia, Nauru, Slovakia, Vatican City, Switzerland, Tunisia, Eritrea, Armenia, Ireland, Nigeria, Democratic Republic of the Congo and Liberia	Louis didn't visit Chile	NEUTRAL
+d-27	Someone has visited every person and every place	That person there didn't visit Jordan	NEUTRAL
+d-28	Everyone has visited every place	Karl didn't visit Brazil	CONTRADICTION
+d-29	Everyone has visited every place	Ricardo didn't visit Bosnia & Herzegovinia	CONTRADICTION
+d-30	Everyone has visited every place	Tony didn't visit Casey	NEUTRAL
+d-31	Everyone has visited every place	Zachary didn't visit Raymond	NEUTRAL
+d-32	Everyone has visited Bosnia & Herzegovinia, Sweden, Dominica, Ireland, Iceland, Romania, Ecuador, Indonesia, Burundi, Myanmar, Rwanda, Norway, Morocco, Japan, Chad and Lithuania	An individual did visit Myanmar	ENTAILMENT
+d-33	Everyone has visited every place	Clinton didn't visit Sam	NEUTRAL
+d-34	Everyone has visited Sierra Leone, Saudi Arabia, United Kingdom, Saint Vincent & the Grenadines, The Bahamas, South Korea, Argentina, Albania, Nepal, Uruguay, Paraguay, Samoa, Switzerland, Bosnia & Herzegovinia, Seychelles, Malawi and Ukraine	That particular person did visit Albania	ENTAILMENT
+d-35	Everyone has visited China, New Zealand, Georgia, Japan, Solomon Islands, Cambodia, San Mmarino, Central African Republic, Malawi, Cabo, Macedonia, Djibouti, Mongolia, Tajikistan, Libya, Papua New Guinea, Benin and Comoros	Rafael didn't visit Burundi	NEUTRAL
+d-36	Everyone has visited every place	Henry didn't visit Dustin	NEUTRAL
+d-37	Someone has visited every person and every place	A person didn't visit Clayton	CONTRADICTION
+d-38	Everyone has visited Indonesia, China, Liechtenstein, Chad, Burundi, Nepal, Madagascar, Cyprus, Brunei and Gabon	Clyde didn't visit Burundi	CONTRADICTION
+d-39	Everyone has visited Suriname, Mauritania, Central African Republic, Saudi Arabia, Liechtenstein, Monaco, Nigeria, Malta, Iran, Benin, Philippines, Gabon, Myanmar, Cuba, Zimbabwe, São Tomé & Prícipe and Maldives	Cody did visit Malta	ENTAILMENT
+d-40	Someone has visited every person and every place	That particular person didn't visit Mathew	NEUTRAL
+d-41	Someone has visited every person and every place	That particular person didn't visit Namibia	NEUTRAL
+d-42	Everyone has visited every place	Jay didn't visit Russia	CONTRADICTION
+d-43	Everyone has visited every place	Johnny didn't visit Bolivia	CONTRADICTION
+d-44	Everyone has visited North Korea, Azerbaijan, Uruguay, Syria, Portugal, United Arab Emirates, Palestine, Guinea, Tuvalu and Somalia	Dwayne did visit Portugal	ENTAILMENT
+d-45	Everyone has visited every place	Lester didn't visit Brett	NEUTRAL
+d-46	Everyone has visited every person and every place	Terrance didn't visit Jimmie	CONTRADICTION
+d-47	Everyone has visited Palau, Saudi Arabia, Namibia, Chad, Malta, Cabo, Ukraine, Gabon, Cameroon, Colombia, Iceland, Bahrain, Ecuador, Iran, Eritrea and Marshall Islands	An individual didn't visit Cameroon	CONTRADICTION
+d-48	Everyone has visited Saint Vincent & the Grenadines, Mauritania, Antigua & Barbuda, Libya, Panama, Palau, Lesotho, Niger, Ecuador, Malaysia, Côte D'ivore, Mauritius, Denmark, Tanzania, Venezuela and Slovenia	Micheal did visit Côte D'ivore	ENTAILMENT
+d-49	Everyone has visited every person	Bob didn't visit Johnnie	CONTRADICTION
+d-50	Everyone has visited Zambia, Philippines, Sudan, Uruguay, Samoa, Namibia, Thailand, El Salvador, Indonesia and Ecuador	That person there did visit El Salvador	ENTAILMENT
+d-51	Someone has visited every person and every place	That particular person didn't visit Arnold	NEUTRAL
+d-52	Everyone has visited Chad, Oman, Switzerland, Zambia, Tuvalu, South Korea, Afghanistan, Gambia, Bosnia & Herzegovinia, Guinea, Philippines and North Korea	An individual did visit Zambia	ENTAILMENT
+d-53	Everyone has visited India, Oman, Equatorial Guinea, Lesotho, Iran, Czech Republic, Trinidad & Tobago, Ireland, Norway, Ghana, Gambia, Republic of the Congo, Egypt, Haiti, China, Moldova, Belgium, Uganda and The Bahamas	Someone didn't visit Republic of the Congo	CONTRADICTION
+d-54	Someone has visited every person and every place	An individual visited Dan	ENTAILMENT
+d-55	Someone has visited every person and every place	A person didn't visit Chile	CONTRADICTION
+d-56	Everyone has visited every person and every place	Floyd didn't visit Morris	CONTRADICTION
+d-57	Everyone has visited Peru, Italy, Cyprus, Romania, Latvia, Kyrgyzstan, Malaysia, Namibia, Samoa, Tajikistan, Croatia, Uganda, Gambia, Mauritania, Czech Republic and Israel	A person did visit Latvia	ENTAILMENT
+d-58	Everyone has visited Togo, Switzerland, North Korea, Finland, Uzbekistan, Guatemala, Macedonia, Ireland, Cambodia, Chad, Bahrain and Vietnam	Someone did visit Togo	ENTAILMENT
+d-59	Someone has visited every person and every place	That individual there didn't visit Botswana	NEUTRAL
+d-60	Everyone has visited every place	Ted didn't visit Trinidad & Tobago	CONTRADICTION
+d-61	Someone has visited every person and every place	That person there didn't visit Larry	NEUTRAL
+d-62	Someone has visited every person and every place	Someone visited Venezuela	ENTAILMENT
+d-63	Everyone has visited every person	Craig didn't visit Jared	CONTRADICTION
+d-64	Everyone has visited Peru, Central African Republic, Kuwait, Kiribati, Suriname, Comoros, Germany, Marshall Islands, Sri Lanka, El Salvador, Niger, Malta, Sweden, Bhutan, Liechtenstein, Eswatini, Timor-Leste, Mauritius, Libya and Sudan	Jason did visit Germany	ENTAILMENT
+d-65	Someone has visited every person and every place	Someone didn't visit Democratic Republic of the Congo	CONTRADICTION
+d-66	Everyone has visited Bulgaria, United States, Vietnam, Kenya, Finland, Tuvalu, Chad, Papua New Guinea, Ethiopia, Grenada, Angola and Moldova	That particular person did visit Tuvalu	ENTAILMENT
+d-67	Everyone has visited every place	Henry didn't visit Burundi	CONTRADICTION
+d-68	Someone has visited every person and every place	That person there didn't visit Nepal	NEUTRAL
+d-69	Someone has visited every person and every place	A person didn't visit Greece	CONTRADICTION
+d-70	Everyone has visited Bahrain, Namibia, Paraguay, Nicaragua, Mauritania, Argentina, Jordan, Hungary, Azerbaijan, Niger, Croatia, Montenegro and Slovenia	That particular person did visit Nicaragua	ENTAILMENT
+d-71	Everyone has visited Nicaragua, Switzerland, Dominica, Afghanistan, Bolivia, Guyana, Libya, Chile, South Sudan, Portugal, Tunisia, Ghana, Rwanda, Ireland, Equatorial Guinea and Bosnia & Herzegovinia	That particular person did visit Tunisia	ENTAILMENT
+d-72	Everyone has visited Italy, Monaco, Zambia, Liberia, Guyana, Togo, Belize, Zimbabwe, Haiti, United Arab Emirates, Madagascar, Cabo, Montenegro, Thailand, Australia and Papua New Guinea	Someone didn't visit Monaco	CONTRADICTION
+d-73	Someone has visited every person and every place	That particular person didn't visit Comoros	NEUTRAL
+d-74	Everyone has visited Bahrain, Libya, Gabon, Angola, India, Fiji, Switzerland, Côte D'ivore, Yemen, Australia and Senegal	Someone didn't visit Côte D'ivore	CONTRADICTION
+d-75	Everyone has visited Ethiopia, Burundi, Libya, Afghanistan, Oman, Lebanon, Syria, Tanzania, Belarus, Montenegro, Kyrgyzstan, Saint Vincent & the Grenadines and Palau	Someone didn't visit Afghanistan	CONTRADICTION
+d-76	Everyone has visited Slovakia, Honduras, Netherlands, Burundi, Hungary, Qatar, Eritrea, China, Pakistan, Mauritius, Zambia and Bosnia & Herzegovinia	Joe didn't visit Mauritius	CONTRADICTION
+d-77	Everyone has visited every place	Herbert didn't visit Egypt	CONTRADICTION
+d-78	Everyone has visited Nauru, Lesotho, Zambia, Colombia, Cabo, Federated States of Micronesia, Haiti, Saint Kitts & Nevis, Montenegro, Luxembourg, Iraq, Belize, Syria, Denmark, Croatia, Gabon, Chile, Netherlands, Italy and Maldives	Ivan didn't visit Egypt	NEUTRAL
+d-79	Everyone has visited Tanzania, Venezuela, Dominican Republic, Greece, Belize, Chile, Federated States of Micronesia, Zimbabwe, Uganda, Botswana, Malawi, Libya, Spain, Mongolia, India, Tunisia, Turkey and Panama	Danny did visit Dominican Republic	ENTAILMENT
+d-80	Everyone has visited every place	Ernest didn't visit Nauru	CONTRADICTION
+d-81	Everyone has visited every person and every place	Jack didn't visit Ivan	CONTRADICTION
+d-82	Everyone has visited every place	Ramon didn't visit Billy	NEUTRAL
+d-83	Everyone has visited every person and every place	Marc didn't visit Slovenia	CONTRADICTION
+d-84	Everyone has visited every place	Philip didn't visit Francisco	NEUTRAL
+d-85	Someone has visited every person and every place	An individual visited Matthew	ENTAILMENT
+d-86	Everyone has visited every person	Wayne didn't visit Darryl	CONTRADICTION
+d-87	Everyone has visited every place	Antonio didn't visit Leroy	NEUTRAL
+d-88	Everyone has visited Austria, Ireland, Bahrain, Gambia, Malaysia, Costa Rica, Tonga, Cyprus, Brunei, Malta, Gabon, Luxembourg, Vatican City, Egypt, Equatorial Guinea, South Africa, Argentina and Italy	A person did visit Tonga	ENTAILMENT
+d-89	Someone has visited every person and every place	Someone visited Marc	ENTAILMENT
+d-90	Everyone has visited every place	Jacob didn't visit Alex	NEUTRAL
+d-91	Everyone has visited Cuba, Chad, Malaysia, Australia, Papua New Guinea, Palestine, Qatar, Iraq, Cyprus, South Africa, Finland and Canada	Roger didn't visit Finland	CONTRADICTION
+d-92	Someone has visited every person and every place	A person visited Corey	ENTAILMENT
+d-93	Everyone has visited Georgia, Malaysia, Zimbabwe, South Korea, Tunisia, Mali, Papua New Guinea, Antigua & Barbuda, United Arab Emirates, Ethiopia, Estonia, Guyana, Poland, Suriname and Ghana	Someone did visit Antigua & Barbuda	ENTAILMENT
+d-94	Everyone has visited Democratic Republic of the Congo, Zimbabwe, Honduras, Iraq, Guinea-Bissau, France, Palau, Hungary, Sweden, Libya, Mexico, Canada and Australia	Someone didn't visit Libya	CONTRADICTION
+d-95	Everyone has visited every place	Kevin didn't visit Monaco	CONTRADICTION
+d-96	Someone has visited every person and every place	That person there didn't visit Dwayne	NEUTRAL
+d-97	Someone has visited every person and every place	An individual didn't visit Virgil	CONTRADICTION
+d-98	Everyone has visited Burundi, Kosovo, Barbados, Tuvalu, Republic of the Congo, Angola, Nigeria, Zimbabwe, China, Canada, Ghana, Laos, Finland, Moldova and São Tomé & Prícipe	Cody didn't visit Vanuatu	NEUTRAL
+d-99	Everyone has visited Brunei, Liechtenstein, Pakistan, Grenada, Eswatini, Cabo, Côte D'ivore, Saint Vincent & the Grenadines, Timor-Leste, Gabon, Democratic Republic of the Congo, Malawi, Marshall Islands, Bhutan and Tonga	Jaime didn't visit San Mmarino	NEUTRAL
+d-100	Everyone has visited every place	Thomas didn't visit Yemen	CONTRADICTION
+d-101	Everyone has visited Côte D'ivore, Argentina, Libya, Haiti, Peru, Mauritius, San Mmarino, United Arab Emirates, Kosovo, Italy, Sweden, Seychelles, Laos, Norway, Oman, Russia, Rwanda and Cabo	Andrew did visit Rwanda and Cabo	ENTAILMENT
+d-102	Everyone has visited every place	Jose didn't visit Estonia	CONTRADICTION
+d-103	Everyone has visited Cabo, Panama, Chile, Guyana, Federated States of Micronesia, Brunei, Saint Vincent & the Grenadines, Belarus, Haiti, Tajikistan and Tuvalu	A person didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-104	Everyone has visited every place	Darrell didn't visit Donald	NEUTRAL
+d-105	Everyone has visited Gambia, Trinidad & Tobago, Sudan, Belize, Slovenia, Slovakia, Ecuador, Namibia, Saint Kitts & Nevis, Cameroon, Philippines, Belgium, Mauritania, Greece, Guatemala, Armenia, Lesotho, Gabon and South Sudan	An individual didn't visit Ecuador	CONTRADICTION
+d-106	Everyone has visited Vatican City, Somalia, Ukraine, Honduras, Burkina, Mexico, Palestine, United Arab Emirates, Fiji and Albania	That individual there did visit Vatican City	ENTAILMENT
+d-107	Everyone has visited every place	Everett didn't visit Lebanon	CONTRADICTION
+d-108	Everyone has visited South Korea, Mauritius, Senegal, Federated States of Micronesia, Croatia, Uganda, Poland, Eswatini, Grenada, Cabo, Vatican City, Djibouti, Chile, Mali, Cambodia and Indonesia	An individual did visit Poland	ENTAILMENT
+d-109	Someone has visited every person and every place	A person visited Billy	ENTAILMENT
+d-110	Everyone has visited every place	Lance didn't visit Sidney	NEUTRAL
+d-111	Someone has visited every person and every place	That person there didn't visit Comoros	NEUTRAL
+d-112	Someone has visited every person and every place	A person visited Tuvalu	ENTAILMENT
+d-113	Someone has visited every person and every place	A person didn't visit Leroy	CONTRADICTION
+d-114	Everyone has visited Malaysia, Morocco, Papua New Guinea, Cabo, Cambodia, Zambia, India, Madagascar, Sri Lanka, Uzbekistan, Indonesia, United Kingdom, Luxembourg, Barbados, Uruguay, Thailand and Equatorial Guinea	That individual there did visit Madagascar	ENTAILMENT
+d-115	Everyone has visited Brunei, Kazakhstan, Maldives, Ghana, Macedonia, Mongolia, France, South Sudan, Venezuela, Kiribati, Nauru and Panama	A person didn't visit Mongolia	CONTRADICTION
+d-116	Someone has visited every person and every place	That person there didn't visit Theodore	NEUTRAL
+d-117	Someone has visited every person and every place	That person there didn't visit Mexico	NEUTRAL
+d-118	Everyone has visited Malawi, Costa Rica, Saint Kitts & Nevis, Namibia, Ecuador, Luxembourg, Denmark, Yemen, Norway, Liberia, Switzerland, Georgia, Honduras, Oman, Malta, Portugal and Azerbaijan	Karl didn't visit Greece	NEUTRAL
+d-119	Everyone has visited Jordan, Kosovo, Sierra Leone, Suriname, Seychelles, North Korea, Iraq, Azerbaijan, Kuwait, Guinea-Bissau, Central African Republic, Belgium, France, South Africa, Estonia, Madagascar, Namibia, Eritrea, Kenya and Vatican City	Leo did visit Kuwait	ENTAILMENT
+d-120	Everyone has visited every person	Marc didn't visit Guy	CONTRADICTION
+d-121	Everyone has visited every person and every place	Roger didn't visit Jimmie	CONTRADICTION
+d-122	Everyone has visited every person and every place	Manuel didn't visit Ronnie	CONTRADICTION
+d-123	Someone has visited every person and every place	Someone didn't visit Javier	CONTRADICTION
+d-124	Everyone has visited Democratic Republic of the Congo, Bolivia, Netherlands, Nigeria, Antigua & Barbuda, Serbia, United Arab Emirates, Marshall Islands, Libya, Lebanon, Malaysia, Somalia, Palau, United States, Indonesia and Iceland	Claude didn't visit Iraq	NEUTRAL
+d-125	Everyone has visited Mozambique, Eswatini, Malaysia, Cambodia, San Mmarino, São Tomé & Prícipe, Saint Kitts & Nevis, New Zealand, Slovakia, Vietnam, South Sudan, Cameroon, Lithuania, Armenia, Madagascar and Tunisia	Alfred didn't visit Malaysia	CONTRADICTION
+d-126	Everyone has visited Australia, Tonga, Paraguay, Mongolia, Netherlands, Jordan, Niger, Thailand, Senegal and Liechtenstein	Someone didn't visit Thailand	CONTRADICTION
+d-127	Everyone has visited Finland, El Salvador, Barbados, Tonga, Armenia, Israel, France, Ethiopia, Myanmar, Marshall Islands and Guinea-Bissau	Lester didn't visit Chad	NEUTRAL
+d-128	Everyone has visited every place	Kyle didn't visit Australia	CONTRADICTION
+d-129	Someone has visited every person and every place	A person visited Barbados	ENTAILMENT
+d-130	Everyone has visited Fiji, Panama, Egypt, Gabon, Bahrain, Thailand, Federated States of Micronesia, El Salvador, Guinea-Bissau, Poland and United States	Clifford didn't visit Kyrgyzstan	NEUTRAL
+d-131	Everyone has visited Yemen, Gambia, Argentina, Sierra Leone, Kyrgyzstan, India, Samoa, Botswana, Finland and Myanmar	A person didn't visit Yemen	CONTRADICTION
+d-132	Everyone has visited Slovenia, Haiti, Slovakia, Malawi, Jordan, Bulgaria, Finland, Grenada, San Mmarino, Eritrea, Netherlands, Uruguay, Honduras, Sri Lanka, Belize, Mexico, Chad, Nepal, Suriname and Zimbabwe	Armando didn't visit Vatican City	NEUTRAL
+d-133	Everyone has visited every place	Jamie didn't visit Guinea	CONTRADICTION
+d-134	Everyone has visited Tajikistan, Nicaragua, Palestine, China, Bangladesh, Jamaica, Zimbabwe, Djibouti, Romania, France, Gabon, Kyrgyzstan, Poland, Qatar, Switzerland, Philippines and Chile	Joe didn't visit Poland	CONTRADICTION
+d-135	Everyone has visited every person and every place	Pedro didn't visit Vanuatu	CONTRADICTION
+d-136	Everyone has visited every place	Roberto didn't visit Anthony	NEUTRAL
+d-137	Everyone has visited Barbados, Luxembourg, Togo, Mauritius, China, Malaysia, France, San Mmarino, Seychelles, Israel, South Korea, Palestine, Afghanistan, Malawi and Norway	Ray didn't visit Malaysia	CONTRADICTION
+d-138	Everyone has visited every person	Johnnie didn't visit Fernando	CONTRADICTION
+d-139	Everyone has visited Guinea-Bissau, Hungary, Papua New Guinea, Nicaragua, Slovenia, Honduras, India, Norway, Comoros, United States, Saudi Arabia, Liechtenstein, Palestine, Bulgaria, New Zealand, Oman, Eswatini and Netherlands	A person did visit United States	ENTAILMENT
+d-140	Everyone has visited every person	Andre didn't visit Ross	CONTRADICTION
+d-141	Everyone has visited Benin, Afghanistan, Mauritania, Georgia, Paraguay, Comoros, Mozambique, United Arab Emirates, Malta, Cameroon, Bahrain and South Korea	Donald didn't visit Mauritania	CONTRADICTION
+d-142	Everyone has visited Kosovo, Nicaragua, Vietnam, Sweden, Qatar, Brunei, Mozambique, Spain, Brazil, Norway, Russia, Turkmenistan, Czech Republic, Namibia and Bulgaria	Someone didn't visit Nicaragua	CONTRADICTION
+d-143	Everyone has visited every place	Ivan didn't visit Melvin	NEUTRAL
+d-144	Everyone has visited every place	Gilbert didn't visit Lewis	NEUTRAL
+d-145	Someone has visited every person and every place	Someone didn't visit Moldova	CONTRADICTION
+d-146	Everyone has visited every place	Corey didn't visit Singapore	CONTRADICTION
+d-147	Someone has visited every person and every place	That person there didn't visit Harvey	NEUTRAL
+d-148	Someone has visited every person and every place	That individual there didn't visit Claude	NEUTRAL
+d-149	Someone has visited every person and every place	A person didn't visit Bob	CONTRADICTION
+d-150	Everyone has visited United Kingdom, Samoa, Bulgaria, Togo, Netherlands, Croatia, Iran, Luxembourg, Namibia and Maldives	A person didn't visit Iran	CONTRADICTION
+d-151	Everyone has visited every place	Roland didn't visit San Mmarino	CONTRADICTION
+d-152	Everyone has visited Lithuania, Panama, Netherlands, Spain, Cambodia, Burundi, Comoros, Uganda, Venezuela, Kuwait and Italy	Someone didn't visit Venezuela	CONTRADICTION
+d-153	Everyone has visited every person and every place	Luis didn't visit Andrew	CONTRADICTION
+d-154	Someone has visited every person and every place	That person there didn't visit Oman	NEUTRAL
+d-155	Everyone has visited every place	Lawrence didn't visit Louis	NEUTRAL
+d-156	Everyone has visited Mauritius, Costa Rica, Thailand, Ukraine, Slovenia, Turkey, Oman, Macedonia, Belgium, Andorra, Samoa, Seychelles and Eswatini	Jeremy didn't visit Myanmar	NEUTRAL
+d-157	Everyone has visited Romania, Indonesia, Uganda, Saint Vincent & the Grenadines, Malta, Poland, Samoa, Monaco, South Sudan, Luxembourg and Madagascar	Franklin did visit Luxembourg and Madagascar	ENTAILMENT
+d-158	Everyone has visited every place	Ramon didn't visit Jesse	NEUTRAL
+d-159	Everyone has visited Costa Rica, Vietnam, Brunei, China, Papua New Guinea, Vatican City, Haiti, Montenegro, Samoa and Bhutan	An individual did visit China	ENTAILMENT
+d-160	Everyone has visited Pakistan, Vatican City, Algeria, Greece, Uganda, Bosnia & Herzegovinia, Dominican Republic, Spain, Cameroon, Slovakia, Tonga, Côte D'ivore, Solomon Islands, Honduras, India, Turkmenistan, Netherlands and Venezuela	Derek didn't visit Australia	NEUTRAL
+d-161	Someone has visited every person and every place	Someone didn't visit Armenia	CONTRADICTION
+d-162	Everyone has visited Mauritania, Liechtenstein, Iceland, Mexico, Cabo, Spain, Sri Lanka, Croatia, Peru, Bangladesh, Bosnia & Herzegovinia, Monaco, Kiribati, Bulgaria, Mozambique, Norway, Maldives, Egypt and Barbados	An individual didn't visit Sri Lanka	CONTRADICTION
+d-163	Everyone has visited Yemen, Laos, Kyrgyzstan, Angola, Kuwait, South Sudan, Democratic Republic of the Congo, Senegal, Uzbekistan, Norway, Guyana, Seychelles and Nicaragua	Cecil didn't visit Chad	NEUTRAL
+d-164	Someone has visited every person and every place	A person visited Djibouti	ENTAILMENT
+d-165	Someone has visited every person and every place	That individual there didn't visit Jesus	NEUTRAL
+d-166	Someone has visited every person and every place	A person visited Barry	ENTAILMENT
+d-167	Everyone has visited Afghanistan, Kyrgyzstan, Malaysia, El Salvador, Benin, Cambodia, Lesotho, Jamaica, North Korea and Kenya	Someone didn't visit Benin	CONTRADICTION
+d-168	Everyone has visited Grenada, Peru, Albania, Sweden, Estonia, Guatemala, United Kingdom, Lithuania, Nepal, Dominican Republic, Romania, Timor-Leste, Italy, Lebanon, Poland, Bahrain and Israel	Someone did visit Grenada	ENTAILMENT
+d-169	Everyone has visited every place	Chester didn't visit Isaac	NEUTRAL
+d-170	Someone has visited every person and every place	Someone visited Venezuela	ENTAILMENT
+d-171	Everyone has visited Vatican City, Austria, Benin, Equatorial Guinea, Brunei, Luxembourg, Thailand, Bosnia & Herzegovinia, Tonga, Vietnam, Algeria, Nicaragua, Gabon, Vanuatu, Timor-Leste, Republic of the Congo and Mali	An individual did visit Bosnia & Herzegovinia	ENTAILMENT
+d-172	Everyone has visited Republic of the Congo, Grenada, United States, Malawi, Cameroon, Namibia, Libya, Russia, Nigeria, Estonia, Gabon, Jordan, Seychelles, Mauritius, India and Venezuela	That particular person did visit Libya	ENTAILMENT
+d-173	Everyone has visited every place	Joseph didn't visit Adam	NEUTRAL
+d-174	Everyone has visited Chile, Costa Rica, South Africa, Gabon, Russia, El Salvador, Uruguay, Japan, Guinea-Bissau, Djibouti, Dominica, Kiribati, Sweden, Moldova, Palestine and Serbia	Vernon did visit Djibouti	ENTAILMENT
+d-175	Everyone has visited Paraguay, Kiribati, Namibia, Oman, South Korea, Saudi Arabia, Belarus, Lesotho, North Korea and Sri Lanka	Shawn didn't visit Namibia	CONTRADICTION
+d-176	Everyone has visited every person	David didn't visit Jimmie	CONTRADICTION
+d-177	Someone has visited every person and every place	An individual visited Paraguay	ENTAILMENT
+d-178	Everyone has visited every person	Andy didn't visit Perry	CONTRADICTION
+d-179	Everyone has visited every person	Armando didn't visit Cecil	CONTRADICTION
+d-180	Everyone has visited every person	Corey didn't visit Eduardo	CONTRADICTION
+d-181	Everyone has visited Saint Lucia, Mauritius, Laos, Netherlands, Yemen, Hungary, Somalia, Ethiopia, Cuba, Republic of the Congo, Malaysia, Tonga and Guyana	Ryan didn't visit Cabo	NEUTRAL
+d-182	Everyone has visited El Salvador, Gabon, Libya, Grenada, Tuvalu, Paraguay, Saudi Arabia, Nepal, Central African Republic, Zambia, Uruguay, Malawi, Austria, Indonesia, North Korea, Kiribati, Kazakhstan and Jamaica	An individual didn't visit Saudi Arabia	CONTRADICTION
+d-183	Everyone has visited Hungary, Eritrea, Azerbaijan, Cambodia, Malawi, Macedonia, North Korea, Saudi Arabia, Peru, Kazakhstan, Trinidad & Tobago, South Korea, Djibouti, Liberia, Cabo, Kuwait, Belarus, Israel, Equatorial Guinea and South Sudan	Leroy did visit Peru	ENTAILMENT
+d-184	Everyone has visited Bangladesh, Norway, Oman, Tuvalu, El Salvador, Malaysia, United Kingdom, Chad, Sri Lanka, Palau and Guatemala	Jared did visit Oman	ENTAILMENT
+d-185	Everyone has visited Bolivia, Togo, Canada, Macedonia, Dominica, Guinea-Bissau, China, Bosnia & Herzegovinia, Uruguay, United States, Ghana, Oman, Equatorial Guinea and Liechtenstein	Paul did visit Uruguay	ENTAILMENT
+d-186	Everyone has visited Mali, Democratic Republic of the Congo, Israel, Chile, United States, Pakistan, Ghana, Vanuatu, Solomon Islands and South Africa	A person didn't visit Solomon Islands and South Africa	CONTRADICTION
+d-187	Everyone has visited Fiji, Timor-Leste, Philippines, Venezuela, Azerbaijan, Palestine, Botswana, Palau, Saint Vincent & the Grenadines, Albania, Guinea-Bissau, Bolivia and Montenegro	Jorge didn't visit Marshall Islands	NEUTRAL
+d-188	Everyone has visited every person	Bernard didn't visit Claude	CONTRADICTION
+d-189	Everyone has visited Haiti, Jordan, Philippines, Democratic Republic of the Congo, Liechtenstein, Papua New Guinea, Mali, Chile, Italy and Malaysia	Someone did visit Haiti	ENTAILMENT
+d-190	Everyone has visited every person and every place	Lee didn't visit United Kingdom	CONTRADICTION
+d-191	Someone has visited every person and every place	Someone visited Clifford	ENTAILMENT
+d-192	Someone has visited every person and every place	That person there didn't visit Tunisia	NEUTRAL
+d-193	Everyone has visited every person and every place	Sergio didn't visit Wayne	CONTRADICTION
+d-194	Everyone has visited every person and every place	Leonard didn't visit Nathaniel	CONTRADICTION
+d-195	Everyone has visited Serbia, Kazakhstan, Uruguay, Saint Kitts & Nevis, Iceland, Papua New Guinea, San Mmarino, Timor-Leste, Laos, Djibouti, Uganda, Cabo, Macedonia, Malawi, Uzbekistan, Equatorial Guinea, Ecuador, Democratic Republic of the Congo, Tajikistan and Slovenia	Hector did visit Democratic Republic of the Congo	ENTAILMENT
+d-196	Someone has visited every person and every place	That particular person didn't visit Ricky	NEUTRAL
+d-197	Everyone has visited Democratic Republic of the Congo, Sudan, Ghana, Tuvalu, Qatar, Cyprus, Côte D'ivore, Sri Lanka, Tajikistan, Turkmenistan, Zimbabwe, Rwanda and Uganda	Someone didn't visit Sudan	CONTRADICTION
+d-198	Everyone has visited Iraq, United Arab Emirates, Vanuatu, United Kingdom, Costa Rica, Ukraine, Liberia, São Tomé & Prícipe, Greece, Guatemala, Yemen, Uruguay, Sweden, Papua New Guinea, El Salvador, Bosnia & Herzegovinia, Malawi, Belarus and Nigeria	Leslie didn't visit Liberia	CONTRADICTION
+d-199	Everyone has visited Italy, Cameroon, France, Switzerland, Bahrain, Tunisia, Honduras, Mexico, Kosovo, Montenegro, Dominica, Nicaragua, Portugal, Serbia, United Kingdom, Democratic Republic of the Congo, Latvia, Netherlands, Chad and Barbados	Travis didn't visit Sri Lanka	NEUTRAL
+d-200	Someone has visited every person and every place	That individual there didn't visit Cameroon	NEUTRAL
+d-201	Everyone has visited Pakistan, Qatar, Grenada, Czech Republic, Uruguay, United Arab Emirates, Yemen, South Sudan, Syria, Mozambique, Papua New Guinea, Equatorial Guinea, Benin, Estonia and Azerbaijan	Someone did visit Syria	ENTAILMENT
+d-202	Everyone has visited every place	Dean didn't visit Guy	NEUTRAL
+d-203	Everyone has visited North Korea, Eritrea, Slovakia, Kyrgyzstan, Moldova, Denmark, Indonesia, Bulgaria, Japan, Ghana, Kuwait and United Arab Emirates	That individual there did visit North Korea	ENTAILMENT
+d-204	Everyone has visited every place	Roland didn't visit Willard	NEUTRAL
+d-205	Everyone has visited every person and every place	Dave didn't visit Milton	CONTRADICTION
+d-206	Someone has visited every person and every place	Someone didn't visit William	CONTRADICTION
+d-207	Everyone has visited Montenegro, Japan, Georgia, Côte D'ivore, Bahrain, Angola, Papua New Guinea, Belarus, Sweden, South Africa, Uganda, Andorra, Burkina and Burundi	Leon didn't visit Sweden	CONTRADICTION
+d-208	Everyone has visited Philippines, Myanmar, Kuwait, Georgia, Sri Lanka, Peru, France, Cuba, Nepal, Singapore, Sweden, Iraq, Lebanon, Guinea, Mozambique, Mali and Chad	Matthew didn't visit Mozambique	CONTRADICTION
+d-209	Everyone has visited Cambodia, Armenia, Haiti, Luxembourg, Azerbaijan, Burkina, Vatican City, Switzerland, Montenegro, Honduras, Bosnia & Herzegovinia, Solomon Islands, Slovakia, El Salvador and Saudi Arabia	That individual there did visit Armenia	ENTAILMENT
+d-210	Someone has visited every person and every place	An individual visited Burundi	ENTAILMENT
+d-211	Someone has visited every person and every place	That person there didn't visit Vincent	NEUTRAL
+d-212	Everyone has visited every place	Scott didn't visit Azerbaijan	CONTRADICTION
+d-213	Everyone has visited every place	George didn't visit Eswatini	CONTRADICTION
+d-214	Everyone has visited every place	Ramon didn't visit Phillip	NEUTRAL
+d-215	Everyone has visited Democratic Republic of the Congo, Canada, Kazakhstan, Malta, Kuwait, San Mmarino, Cameroon, Egypt, Bolivia, Mongolia, Afghanistan, Maldives, Philippines, Solomon Islands, Sri Lanka, Sudan, Suriname, Finland, El Salvador and Cambodia	A person did visit Afghanistan	ENTAILMENT
+d-216	Someone has visited every person and every place	That person there didn't visit Enrique	NEUTRAL
+d-217	Everyone has visited Dominican Republic, Ghana, Gambia, Marshall Islands, United Kingdom, Chile, Slovenia, Iraq, Monaco, Djibouti, Malaysia and Afghanistan	Tim did visit Monaco	ENTAILMENT
+d-218	Everyone has visited every place	Allen didn't visit Yemen	CONTRADICTION
+d-219	Everyone has visited every person and every place	Brett didn't visit Finland	CONTRADICTION
+d-220	Everyone has visited Mongolia, Mauritius, Lesotho, Sweden, Mali, Czech Republic, Antigua & Barbuda, Mauritania, Liechtenstein, Tajikistan, United Arab Emirates, Niger, Greece and Lithuania	That individual there did visit Mongolia	ENTAILMENT
+d-221	Someone has visited every person and every place	An individual didn't visit Casey	CONTRADICTION
+d-222	Everyone has visited Spain, Tuvalu, Estonia, Zambia, Venezuela, Israel, Macedonia, Portugal, Mauritius, Bulgaria, Montenegro, Slovenia and Palau	An individual didn't visit Venezuela	CONTRADICTION
+d-223	Everyone has visited Canada, Qatar, China, Ukraine, Palau, Zimbabwe, Democratic Republic of the Congo, Tonga, Bhutan, Iceland and Rwanda	That individual there did visit Democratic Republic of the Congo	ENTAILMENT
+d-224	Everyone has visited every person and every place	Jeremy didn't visit Burkina	CONTRADICTION
+d-225	Someone has visited every person and every place	An individual didn't visit Monaco	CONTRADICTION
+d-226	Everyone has visited Nicaragua, Democratic Republic of the Congo, Solomon Islands, Romania, Somalia, Djibouti, Ireland, Nigeria, Austria, Mauritius, Sri Lanka, Bolivia, Russia, Burkina and Myanmar	A person did visit Austria	ENTAILMENT
+d-227	Everyone has visited every person	Carl didn't visit Nathaniel	CONTRADICTION
+d-228	Everyone has visited every place	Walter didn't visit Casey	NEUTRAL
+d-229	Everyone has visited every place	Dwayne didn't visit Victor	NEUTRAL
+d-230	Everyone has visited every place	Daryl didn't visit Kuwait	CONTRADICTION
+d-231	Everyone has visited every person and every place	Ryan didn't visit Guy	CONTRADICTION
+d-232	Everyone has visited Andorra, Slovakia, Palau, Argentina, Montenegro, Russia, Democratic Republic of the Congo, Guatemala, Jamaica, Botswana, Solomon Islands and Germany	That particular person did visit Jamaica	ENTAILMENT
+d-233	Everyone has visited Laos, Portugal, Solomon Islands, South Africa, Tonga, Turkey, Czech Republic, Japan, Rwanda, Zimbabwe, Yemen, Croatia, Mongolia, Philippines and Thailand	Herman did visit South Africa	ENTAILMENT
+d-234	Someone has visited every person and every place	That particular person didn't visit Felix	NEUTRAL
+d-235	Everyone has visited South Africa, South Sudan, Burkina, Ethiopia, Panama, Central African Republic, Moldova, Laos, Saudi Arabia, Kuwait, Maldives, Uzbekistan, Guyana, Ecuador, Oman, Ukraine, Eritrea, Zimbabwe, Turkmenistan and Solomon Islands	Someone did visit Ukraine	ENTAILMENT
+d-236	Everyone has visited Sweden, Russia, Rwanda, Suriname, Burkina, Slovenia, Malawi, Algeria, Vietnam, Lesotho, Liechtenstein, Syria, Albania, Honduras, Iraq, Maldives, Samoa, North Korea and Mongolia	A person didn't visit Maldives	CONTRADICTION
+d-237	Someone has visited every person and every place	Someone visited Slovenia	ENTAILMENT
+d-238	Everyone has visited Dominica, Egypt, Belgium, Guinea, Argentina, Kosovo, Uzbekistan, Malta, Guyana, Kazakhstan, Ethiopia, Libya, Luxembourg, Laos, Mozambique, Burundi, Thailand and Montenegro	A person didn't visit Ethiopia	CONTRADICTION
+d-239	Everyone has visited United Kingdom, Democratic Republic of the Congo, Germany, Angola, Kiribati, Azerbaijan, Bulgaria, Yemen, Marshall Islands, Nauru, Slovenia, Romania, Mauritania, Dominican Republic, Solomon Islands and Myanmar	Jonathan didn't visit Fiji	NEUTRAL
+d-240	Everyone has visited Tonga, Mexico, Finland, Samoa, Dominica, Croatia, Belarus, New Zealand, Cabo, Gambia, Zambia, Saint Vincent & the Grenadines and Suriname	Nathan didn't visit Palestine	NEUTRAL
+d-241	Everyone has visited Japan, Côte D'ivore, Mongolia, Timor-Leste, Grenada, Argentina, Lithuania, Slovakia, Namibia and Senegal	That particular person did visit Slovakia	ENTAILMENT
+d-242	Someone has visited every person and every place	An individual visited Paraguay	ENTAILMENT
+d-243	Everyone has visited Ukraine, Costa Rica, Niger, Solomon Islands, Tanzania, Liberia, Vatican City, Andorra, Mongolia, Argentina, Austria, Greece, The Bahamas, Indonesia, Honduras, Togo, Suriname, Uganda, São Tomé & Prícipe and Ethiopia	Carlos did visit Austria	ENTAILMENT
+d-244	Everyone has visited Kazakhstan, Philippines, Turkmenistan, United Arab Emirates, Haiti, Tonga, Bolivia, Sudan, Solomon Islands, Malta, India, Namibia, Senegal, Monaco, Italy, Côte D'ivore, Bosnia & Herzegovinia, Rwanda, Kuwait and Costa Rica	Lewis didn't visit Cambodia	NEUTRAL
+d-245	Everyone has visited every place	Robert didn't visit Marshall	NEUTRAL
+d-246	Everyone has visited Cuba, Palestine, Paraguay, Czech Republic, Papua New Guinea, Brazil, Macedonia, Mali, Tajikistan, Albania, Tunisia, Thailand and Guinea-Bissau	Sean didn't visit Macedonia	CONTRADICTION
+d-247	Everyone has visited Benin, Togo, Dominica, Kyrgyzstan, Ethiopia, São Tomé & Prícipe, Norway, Samoa, Ghana, Sri Lanka, Seychelles, Qatar, Saudi Arabia, Belize, Lebanon, United States, The Bahamas, Saint Kitts & Nevis, Madagascar and Slovakia	Miguel didn't visit Canada	NEUTRAL
+d-248	Everyone has visited Poland, Belarus, Gambia, Rwanda, Benin, Saint Kitts & Nevis, Eritrea, Georgia, Fiji, Slovenia, Norway, Slovakia and Guatemala	Earl did visit Benin	ENTAILMENT
+d-249	Someone has visited every person and every place	Someone visited Fiji	ENTAILMENT
+d-250	Everyone has visited every person and every place	Jesse didn't visit Egypt	CONTRADICTION
+d-251	Everyone has visited Afghanistan, Guinea, Macedonia, Bolivia, Germany, Bahrain, Comoros, Tanzania, Spain, Suriname, Belarus, Finland and Georgia	Victor didn't visit Central African Republic	NEUTRAL
+d-252	Everyone has visited every person	Marion didn't visit Jared	CONTRADICTION
+d-253	Someone has visited every person and every place	Someone didn't visit Cecil	CONTRADICTION
+d-254	Everyone has visited every place	Nelson didn't visit Ruben	NEUTRAL
+d-255	Everyone has visited Armenia, Liberia, Kyrgyzstan, Yemen, Mauritania, Liechtenstein, Iceland, Peru, Guinea and Sierra Leone	Albert didn't visit Kosovo	NEUTRAL
+d-256	Everyone has visited Kazakhstan, Malawi, Senegal, Brunei, Malaysia, Austria, Bahrain, Côte D'ivore, Iraq and Sierra Leone	Sergio didn't visit Senegal	CONTRADICTION
+d-257	Everyone has visited Palestine, Colombia, Grenada, Ethiopia, Iceland, United States, Senegal, Oman, Gabon, Dominican Republic, Sudan, Monaco, Italy, Argentina, Nauru, Iraq, Samoa, Costa Rica and Zambia	Kirk didn't visit Uganda	NEUTRAL
+d-258	Everyone has visited Republic of the Congo, Kyrgyzstan, Estonia, Portugal, Seychelles, Iraq, Antigua & Barbuda, Nepal, Austria, Saint Vincent & the Grenadines, Malta, Zambia, Equatorial Guinea and Cabo	Kevin didn't visit Sweden	NEUTRAL
+d-259	Everyone has visited Botswana, Bosnia & Herzegovinia, Belgium, Timor-Leste, Switzerland, United Kingdom, Ireland, Philippines, Italy, Belize, Armenia, Tunisia, Japan, Mali, Kenya, Nicaragua, Sudan, Algeria, Kosovo and Egypt	An individual didn't visit Botswana	CONTRADICTION
+d-260	Someone has visited every person and every place	A person didn't visit Guyana	CONTRADICTION
+d-261	Everyone has visited every place	Nathaniel didn't visit Pakistan	CONTRADICTION
+d-262	Everyone has visited New Zealand, Hungary, Qatar, Zimbabwe, Mexico, Barbados, Dominican Republic, Sweden, Netherlands, Saint Lucia, Georgia, Haiti and Philippines	Darren didn't visit Uruguay	NEUTRAL
+d-263	Everyone has visited every place	Nicholas didn't visit Tom	NEUTRAL
+d-264	Everyone has visited every place	Arthur didn't visit Tyler	NEUTRAL
+d-265	Someone has visited every person and every place	That person there didn't visit Roy	NEUTRAL
+d-266	Everyone has visited Saint Vincent & the Grenadines, Egypt, Bosnia & Herzegovinia, Hungary, Albania, Belgium, Peru, Barbados, Poland, Nigeria, Croatia, Slovenia, Lithuania, Australia, Estonia, Saint Lucia, Benin and Uruguay	That particular person did visit Lithuania	ENTAILMENT
+d-267	Everyone has visited Rwanda, Colombia, Palestine, Philippines, Canada, Thailand, Japan, Kenya, Côte D'ivore, India, Togo, São Tomé & Prícipe and Namibia	An individual didn't visit Kenya	CONTRADICTION
+d-268	Everyone has visited Panama, Nepal, Egypt, Iceland, Ukraine, Zimbabwe, Guinea, Chile, Oman, Nigeria, Tunisia, Kyrgyzstan, Gabon, Angola and Malta	A person did visit Tunisia	ENTAILMENT
+d-269	Everyone has visited Laos, Switzerland, Benin, Japan, Burundi, Saint Vincent & the Grenadines, Sri Lanka, Sweden, Namibia, Macedonia, Chile, Samoa, Somalia, Eritrea and Lebanon	Hector did visit Macedonia	ENTAILMENT
+d-270	Everyone has visited Côte D'ivore, Cabo, France, Saint Kitts & Nevis, Mongolia, Kenya, Albania, Cambodia, Uzbekistan, Hungary, Kuwait, Saudi Arabia, Vatican City, Singapore and Cuba	Someone did visit Saudi Arabia	ENTAILMENT
+d-271	Everyone has visited Moldova, Vanuatu, San Mmarino, Netherlands, United Kingdom, Myanmar, Trinidad & Tobago, Mongolia, Republic of the Congo, Democratic Republic of the Congo, Germany, Spain, Armenia, Palestine, Luxembourg and Mauritius	That individual there did visit Republic of the Congo	ENTAILMENT
+d-272	Everyone has visited Peru, Djibouti, France, Uruguay, North Korea, Bolivia, Vanuatu, Turkmenistan, Brunei and Syria	Marvin did visit Brunei and Syria	ENTAILMENT
+d-273	Everyone has visited Iraq, Mauritius, Cameroon, Nicaragua, Palau, Nauru, Brazil, Hungary, Guatemala, Poland and Liberia	Someone did visit Iraq	ENTAILMENT
+d-274	Everyone has visited Croatia, Malaysia, Mozambique, Syria, Australia, Ecuador, Israel, Bangladesh, Thailand, Kyrgyzstan, Sri Lanka, Belarus, Malawi, China and Sudan	Calvin did visit Malawi	ENTAILMENT
+d-275	Everyone has visited Thailand, Qatar, Mongolia, New Zealand, Slovakia, Antigua & Barbuda, Chile, Jordan, Israel, Monaco, Marshall Islands, Armenia, Costa Rica, Madagascar, Central African Republic, Kiribati, Albania, Vatican City and Hungary	Someone did visit New Zealand	ENTAILMENT
+d-276	Everyone has visited Saint Lucia, Canada, Benin, Vanuatu, Malawi, Vatican City, Guyana, Madagascar, Nepal, Gabon, Russia, Liechtenstein, Sri Lanka and Namibia	Mathew didn't visit Poland	NEUTRAL
+d-277	Someone has visited every person and every place	Someone visited Ken	ENTAILMENT
+d-278	Everyone has visited Thailand, South Sudan, Austria, Qatar, Syria, Brunei, Belgium, Oman, Seychelles, Slovakia, Ecuador, Panama, South Africa and Jordan	Frederick didn't visit South Sudan	CONTRADICTION
+d-279	Everyone has visited Cambodia, Ethiopia, Laos, Mozambique, Djibouti, Canada, Antigua & Barbuda, Thailand, Iraq, Germany, Sri Lanka, Turkey, Guinea-Bissau, United Arab Emirates, Papua New Guinea, New Zealand, Mali and Nicaragua	Kent did visit Guinea-Bissau	ENTAILMENT
+d-280	Everyone has visited Croatia, Lesotho, Niger, Brunei, Saint Lucia, Vatican City, Singapore, Algeria, Eritrea, Hungary, Azerbaijan, Indonesia, Jamaica, Uganda, Cameroon, Estonia, Zimbabwe, Andorra and Jordan	Casey did visit Singapore	ENTAILMENT
+d-281	Everyone has visited Colombia, Sweden, Kosovo, Eswatini, Chad, Gambia, Nepal, Zambia, Romania, Kazakhstan, Hungary, Sudan, Cameroon, Andorra, Burundi, Israel, Sri Lanka, Seychelles and Brunei	Someone didn't visit Chad	CONTRADICTION
+d-282	Someone has visited every person and every place	That individual there didn't visit Guinea-Bissau	NEUTRAL
+d-283	Everyone has visited every place	Wesley didn't visit Edward	NEUTRAL
+d-284	Everyone has visited Mauritius, Macedonia, Greece, Poland, Brunei, Russia, Morocco, Uruguay, Palau, Kyrgyzstan, Tanzania, Azerbaijan, Belgium, Ukraine, Turkmenistan, Saint Kitts & Nevis and Turkey	George didn't visit Morocco	CONTRADICTION
+d-285	Everyone has visited every place	Herbert didn't visit Julio	NEUTRAL
+d-286	Everyone has visited Nepal, Oman, Palestine, United Kingdom, Zambia, Guatemala, Sweden, Kiribati, San Mmarino, Brazil, Malta, Australia, Mongolia, United States, Nigeria, Romania, Tunisia, Macedonia, Gambia and Indonesia	That particular person did visit Malta	ENTAILMENT
+d-287	Everyone has visited France, The Bahamas, Djibouti, Mexico, Albania, Italy, Equatorial Guinea, Guinea-Bissau, Portugal, Nigeria, Paraguay, Cabo, Cambodia, Liberia, Peru and Suriname	Leroy didn't visit Latvia	NEUTRAL
+d-288	Everyone has visited every place	Eric didn't visit Francis	NEUTRAL
+d-289	Everyone has visited every place	Salvador didn't visit Ireland	CONTRADICTION
+d-290	Someone has visited every person and every place	That particular person didn't visit Leo	NEUTRAL
+d-291	Everyone has visited every place	Brandon didn't visit Clifford	NEUTRAL
+d-292	Everyone has visited every person	Daniel didn't visit Lawrence	CONTRADICTION
+d-293	Someone has visited every person and every place	An individual visited United States	ENTAILMENT
+d-294	Someone has visited every person and every place	Someone didn't visit Larry	CONTRADICTION
+d-295	Everyone has visited Lebanon, Slovenia, Estonia, Guinea-Bissau, Cuba, Zimbabwe, Comoros, Nigeria, Samoa, Czech Republic and Azerbaijan	A person did visit Zimbabwe	ENTAILMENT
+d-296	Everyone has visited Namibia, Comoros, Australia, Turkmenistan, Mali, Tonga, Luxembourg, Ukraine, Trinidad & Tobago, Norway, Belgium, South Sudan, Papua New Guinea, Chile, Austria, Kosovo, Lithuania, Lesotho and Georgia	Someone did visit Papua New Guinea	ENTAILMENT
+d-297	Someone has visited every person and every place	That person there didn't visit Sierra Leone	NEUTRAL
+d-298	Everyone has visited Norway, Tajikistan, Libya, Marshall Islands, Afghanistan, Lithuania, Nigeria, Serbia, Russia, Iraq, Guinea and Lebanon	Clayton didn't visit Lithuania	CONTRADICTION
+d-299	Everyone has visited Qatar, Russia, Philippines, Liechtenstein, Bahrain, Côte D'ivore, Ethiopia, Guyana, Botswana, Yemen, Portugal, Tonga, United Kingdom, El Salvador, Belgium, Austria, Ecuador, Ghana, Trinidad & Tobago and Central African Republic	An individual didn't visit Austria	CONTRADICTION
+d-300	Everyone has visited Cameroon, Kuwait, Mali, Malawi, Slovenia, Papua New Guinea, Sierra Leone, Cuba, Guyana, Antigua & Barbuda and Cabo	A person did visit Mali	ENTAILMENT
+d-301	Everyone has visited Ethiopia, Madagascar, Qatar, Papua New Guinea, Federated States of Micronesia, South Africa, Grenada, Norway, Sierra Leone and Kuwait	That particular person did visit Ethiopia	ENTAILMENT
+d-302	Someone has visited every person and every place	That individual there didn't visit Venezuela	NEUTRAL
+d-303	Everyone has visited Belize, Turkmenistan, Tonga, Ireland, Palestine, Guatemala, Guinea, Gambia, Colombia, Chad, Malta, Portugal, Ghana, Lesotho, Tanzania, Zimbabwe and Dominica	That person there did visit Guatemala	ENTAILMENT
+d-304	Someone has visited every person and every place	A person didn't visit Ricardo	CONTRADICTION
+d-305	Everyone has visited every place	David didn't visit Malawi	CONTRADICTION
+d-306	Someone has visited every person and every place	A person didn't visit Arnold	CONTRADICTION
+d-307	Everyone has visited every place	Edgar didn't visit Juan	NEUTRAL
+d-308	Everyone has visited every person	Melvin didn't visit Joe	CONTRADICTION
+d-309	Everyone has visited every place	Ronald didn't visit Angel	NEUTRAL
+d-310	Everyone has visited Denmark, Czech Republic, Afghanistan, Nepal, Romania, Jordan, Saint Lucia, Guyana, Australia, Israel, Dominica, Rwanda, El Salvador, Sierra Leone, Federated States of Micronesia, Norway and Brunei	Alexander did visit Sierra Leone	ENTAILMENT
+d-311	Everyone has visited Equatorial Guinea, Montenegro, Venezuela, Mauritania, Uganda, Canada, Chad, Eritrea, Cabo, Palestine, Peru, Ethiopia, Kuwait, India and Vietnam	Rafael did visit Equatorial Guinea	ENTAILMENT
+d-312	Everyone has visited Rwanda, Tuvalu, Niger, Bosnia & Herzegovinia, Comoros, Slovakia, Mexico, Croatia, Nicaragua, Jamaica, Luxembourg, Chile, Tunisia, Qatar, Haiti and Switzerland	An individual did visit Comoros	ENTAILMENT
+d-313	Everyone has visited Indonesia, Canada, Kazakhstan, Kiribati, Turkey, Tuvalu, Rwanda, Russia, Nigeria, Mongolia and Mexico	Vincent did visit Kazakhstan	ENTAILMENT
+d-314	Everyone has visited Cuba, Australia, Algeria, Guyana, Cameroon, Serbia, El Salvador, Republic of the Congo, Lebanon, Oman, Afghanistan, Mongolia, Grenada and Cabo	That individual there did visit Mongolia	ENTAILMENT
+d-315	Someone has visited every person and every place	A person didn't visit Glenn	CONTRADICTION
+d-316	Everyone has visited every place	Antonio didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-317	Everyone has visited Greece, Kosovo, China, Bhutan, Gambia, Philippines, Malaysia, Armenia, Namibia, Barbados and Antigua & Barbuda	An individual did visit Bhutan	ENTAILMENT
+d-318	Everyone has visited Montenegro, Canada, Australia, Kosovo, Russia, Antigua & Barbuda, Mauritius, Malaysia, Lesotho, Cameroon, Argentina, Tanzania, Haiti, Burundi, Brazil, Norway and Kenya	Gerald didn't visit Malaysia	CONTRADICTION
+d-319	Someone has visited every person and every place	That individual there didn't visit Byron	NEUTRAL
+d-320	Someone has visited every person and every place	Someone visited Belgium	ENTAILMENT
+d-321	Everyone has visited every person	Joseph didn't visit Nelson	CONTRADICTION
+d-322	Everyone has visited Seychelles, Mozambique, Eswatini, Sierra Leone, Saint Vincent & the Grenadines, Netherlands, Nicaragua, Qatar, Norway, Brunei, Romania, Burkina, San Mmarino, Panama, Jordan, Austria, Japan, Algeria and Federated States of Micronesia	An individual did visit Panama	ENTAILMENT
+d-323	Everyone has visited every person and every place	Jordan didn't visit Leon	CONTRADICTION
+d-324	Everyone has visited every person and every place	Ronnie didn't visit Jimmy	CONTRADICTION
+d-325	Someone has visited every person and every place	That particular person didn't visit Jared	NEUTRAL
+d-326	Everyone has visited every place	Daniel didn't visit Nauru	CONTRADICTION
+d-327	Everyone has visited Guatemala, South Sudan, Denmark, Sierra Leone, Sudan, Cambodia, Spain, Honduras, Democratic Republic of the Congo, Switzerland, Armenia, France, Georgia, Iceland and Vietnam	Christian did visit Sierra Leone	ENTAILMENT
+d-328	Everyone has visited Burkina, Uzbekistan, Iraq, Greece, Malaysia, Serbia, Estonia, Federated States of Micronesia, Central African Republic, Peru, United Arab Emirates, South Africa, Australia, Hungary, Somalia, Gabon, Malta, Morocco, Egypt and Algeria	That particular person did visit Burkina	ENTAILMENT
+d-329	Someone has visited every person and every place	That particular person didn't visit Wallace	NEUTRAL
+d-330	Everyone has visited Kazakhstan, Vatican City, Burkina, Honduras, Switzerland, Oman, Bangladesh, Seychelles, Palestine, Romania, Algeria, Cuba, El Salvador, Israel and Myanmar	Keith didn't visit Belgium	NEUTRAL
+d-331	Everyone has visited every place	Clifford didn't visit Tunisia	CONTRADICTION
+d-332	Everyone has visited United Kingdom, Tunisia, South Africa, Lithuania, Gambia, Mali, New Zealand, South Korea, Tonga, Vanuatu, Japan, Central African Republic, Democratic Republic of the Congo, Bolivia, Croatia, Germany, Canada and Romania	Ron didn't visit Brazil	NEUTRAL
+d-333	Everyone has visited Panama, Solomon Islands, São Tomé & Prícipe, Kazakhstan, Portugal, Tuvalu, Austria, Czech Republic, Slovenia, Costa Rica, Mongolia, Burundi, Haiti, Seychelles, Kosovo, Mali, India, Guatemala and Malaysia	Troy didn't visit Moldova	NEUTRAL
+d-334	Someone has visited every person and every place	That individual there didn't visit Lloyd	NEUTRAL
+d-335	Someone has visited every person and every place	Someone didn't visit Kuwait	CONTRADICTION
+d-336	Everyone has visited Mongolia, Sudan, Nepal, Hungary, Italy, Latvia, France, El Salvador, Papua New Guinea, Zimbabwe, Thailand, Netherlands, Senegal, Kiribati, Botswana and Venezuela	Lonnie didn't visit Senegal	CONTRADICTION
+d-337	Everyone has visited Cambodia, San Mmarino, Estonia, The Bahamas, Liberia, Netherlands, Lithuania, Vatican City, Vanuatu, Morocco, Ukraine, Bulgaria, Peru and Albania	An individual did visit The Bahamas	ENTAILMENT
+d-338	Someone has visited every person and every place	A person didn't visit Cuba	CONTRADICTION
+d-339	Everyone has visited Guatemala, Switzerland, Honduras, Iran, Malta, Fiji, Cuba, Grenada, Lithuania and Ethiopia	Terrence didn't visit Panama	NEUTRAL
+d-340	Everyone has visited United Kingdom, Belarus, Tanzania, The Bahamas, Eritrea, Montenegro, Saudi Arabia, United Arab Emirates, Algeria and Croatia	That person there did visit Belarus	ENTAILMENT
+d-341	Someone has visited every person and every place	That person there didn't visit Senegal	NEUTRAL
+d-342	Someone has visited every person and every place	That person there didn't visit Bernard	NEUTRAL
+d-343	Someone has visited every person and every place	That individual there didn't visit Indonesia	NEUTRAL
+d-344	Everyone has visited every person	Jordan didn't visit Ronald	CONTRADICTION
+d-345	Everyone has visited every place	Bruce didn't visit Guatemala	CONTRADICTION
+d-346	Everyone has visited Tonga, Timor-Leste, Ecuador, Portugal, Cambodia, Romania, Sri Lanka, Solomon Islands, Hungary, Equatorial Guinea, Mexico, Gabon, Denmark, Latvia and Maldives	Someone didn't visit Romania	CONTRADICTION
+d-347	Someone has visited every person and every place	An individual visited Dean	ENTAILMENT
+d-348	Everyone has visited Jamaica, Lesotho, Nauru, Mauritania, Papua New Guinea, Laos, Uruguay, Turkey, Bahrain, Algeria, Guinea-Bissau, France, Samoa, Guyana, Ethiopia and Tonga	An individual did visit Turkey	ENTAILMENT
+d-349	Someone has visited every person and every place	That particular person didn't visit Brazil	NEUTRAL
+d-350	Everyone has visited Nigeria, United Arab Emirates, Timor-Leste, Panama, Portugal, Jordan, Solomon Islands, Angola, Iceland, The Bahamas, Afghanistan, Serbia, Slovakia and Vanuatu	Clifford didn't visit Jamaica	NEUTRAL
+d-351	Everyone has visited Colombia, Gambia, Madagascar, Myanmar, Djibouti, Ghana, Kosovo, Morocco, Yemen, Mozambique and Tonga	Albert didn't visit Colombia	CONTRADICTION
+d-352	Everyone has visited Republic of the Congo, Iraq, Dominican Republic, Nauru, Mauritania, Monaco, Ethiopia, Nigeria, Venezuela, Saint Lucia, Federated States of Micronesia, Ireland and Somalia	Someone did visit Iraq	ENTAILMENT
+d-353	Everyone has visited Cuba, Timor-Leste, Israel, Kuwait, Poland, Sudan, Uganda, São Tomé & Prícipe, Ukraine, Belarus, Costa Rica, Kenya, South Africa, Democratic Republic of the Congo, Netherlands, Antigua & Barbuda, Norway, Belize and Tunisia	Mathew didn't visit Bolivia	NEUTRAL
+d-354	Someone has visited every person and every place	An individual didn't visit Keith	CONTRADICTION
+d-355	Someone has visited every person and every place	An individual didn't visit Trinidad & Tobago	CONTRADICTION
+d-356	Everyone has visited Malawi, Grenada, Brazil, Liberia, Albania, Equatorial Guinea, Honduras, Croatia, Eritrea, Chile, Marshall Islands, Indonesia, Moldova, Iceland, Antigua & Barbuda, Laos, Somalia and Uganda	Jimmie didn't visit Eswatini	NEUTRAL
+d-357	Everyone has visited Australia, Lesotho, Timor-Leste, New Zealand, Grenada, India, Tunisia, Finland, Togo, Chad, Belgium, Dominican Republic, Bangladesh, United Arab Emirates, São Tomé & Prícipe, Armenia, Nigeria, Malaysia and Germany	That individual there did visit Australia	ENTAILMENT
+d-358	Everyone has visited every place	Philip didn't visit Virgil	NEUTRAL
+d-359	Everyone has visited Lithuania, Myanmar, Ukraine, Ecuador, Namibia, Kenya, Iran, Yemen, Cyprus, Cuba, Mauritius, Paraguay, Georgia, Botswana, Singapore, Japan and Solomon Islands	Roberto didn't visit Mali	NEUTRAL
+d-360	Everyone has visited every place	Joseph didn't visit Jim	NEUTRAL
+d-361	Someone has visited every person and every place	An individual didn't visit Bangladesh	CONTRADICTION
+d-362	Everyone has visited Kyrgyzstan, China, Papua New Guinea, Moldova, Morocco, Brunei, Japan, Bosnia & Herzegovinia, Greece, Palau, Zimbabwe, Nauru, Côte D'ivore and Nigeria	An individual did visit Bosnia & Herzegovinia	ENTAILMENT
+d-363	Everyone has visited Nauru, Honduras, Mozambique, Malta, Republic of the Congo, Senegal, Kazakhstan, North Korea, The Bahamas, Ukraine, Uganda, Togo, Nepal, Monaco, Kiribati, Algeria, Austria, Malaysia and Bhutan	Someone did visit Kiribati	ENTAILMENT
+d-364	Everyone has visited Federated States of Micronesia, Saint Kitts & Nevis, Laos, Zimbabwe, Barbados, São Tomé & Prícipe, Yemen, Germany, Ghana, Peru, Suriname, Spain, Qatar, Iraq, Eritrea, Sweden, Bulgaria and Poland	Someone did visit Iraq	ENTAILMENT
+d-365	Everyone has visited every person	Karl didn't visit Timothy	CONTRADICTION
+d-366	Someone has visited every person and every place	Someone visited Bradley	ENTAILMENT
+d-367	Everyone has visited every place	Dan didn't visit Lawrence	NEUTRAL
+d-368	Someone has visited every person and every place	An individual visited Equatorial Guinea	ENTAILMENT
+d-369	Everyone has visited Poland, Argentina, Bulgaria, Sweden, Eritrea, Vatican City, Bolivia, Switzerland, Tunisia, Gambia and Guinea	Javier didn't visit Sweden	CONTRADICTION
+d-370	Someone has visited every person and every place	Someone visited United States	ENTAILMENT
+d-371	Everyone has visited Australia, Guatemala, Suriname, Slovakia, Sri Lanka, Malaysia, Niger, Chad, Palestine and France	That individual there did visit Suriname	ENTAILMENT
+d-372	Someone has visited every person and every place	That individual there didn't visit Donald	NEUTRAL
+d-373	Someone has visited every person and every place	Someone visited Canada	ENTAILMENT
+d-374	Everyone has visited every person and every place	Everett didn't visit Nicaragua	CONTRADICTION
+d-375	Everyone has visited every place	Rodney didn't visit Andrew	NEUTRAL
+d-376	Everyone has visited Belize, Venezuela, Saint Kitts & Nevis, Vietnam, Ireland, Cambodia, Timor-Leste, Peru, San Mmarino, Algeria and Kyrgyzstan	That particular person did visit Ireland	ENTAILMENT
+d-377	Someone has visited every person and every place	An individual visited Eugene	ENTAILMENT
+d-378	Everyone has visited every place	Sergio didn't visit Joe	NEUTRAL
+d-379	Everyone has visited every person	Tony didn't visit Dwayne	CONTRADICTION
+d-380	Everyone has visited Colombia, Lebanon, Iraq, Turkmenistan, Macedonia, Singapore, Eritrea, Nicaragua, Austria, Costa Rica, Antigua & Barbuda, Monaco, Thailand, Norway and Nigeria	Calvin didn't visit Libya	NEUTRAL
+d-381	Everyone has visited Turkey, Greece, United States, Sierra Leone, Guyana, Côte D'ivore, Central African Republic, Mozambique, France, Armenia, Laos, Timor-Leste and United Arab Emirates	Enrique didn't visit Kuwait	NEUTRAL
+d-382	Everyone has visited Sudan, Senegal, Spain, Andorra, Luxembourg, United States, Kenya, Egypt, Cyprus, South Sudan, United Kingdom, Iceland, Eswatini and Belgium	A person did visit United States	ENTAILMENT
+d-383	Someone has visited every person and every place	That person there didn't visit Iraq	NEUTRAL
+d-384	Everyone has visited Poland, The Bahamas, Cuba, Samoa, United Arab Emirates, Liberia, New Zealand, Bahrain, Guyana, Timor-Leste, Nauru, Kenya, Côte D'ivore, Macedonia, Kazakhstan, Senegal, Mauritania and Latvia	An individual did visit Kenya	ENTAILMENT
+d-385	Everyone has visited Vanuatu, Tonga, Paraguay, Malta, Uganda, Guyana, Turkmenistan, Angola, Brazil, Moldova, Poland, Suriname, Mali, Bangladesh, Laos, San Mmarino and São Tomé & Prícipe	Dan didn't visit Tonga	CONTRADICTION
+d-386	Everyone has visited Tanzania, Pakistan, Palestine, Switzerland, Republic of the Congo, Guatemala, Papua New Guinea, Afghanistan, New Zealand and Liberia	Rafael didn't visit Republic of the Congo	CONTRADICTION
+d-387	Someone has visited every person and every place	That individual there didn't visit Ralph	NEUTRAL
+d-388	Everyone has visited El Salvador, Ecuador, Singapore, Slovakia, Sri Lanka, Papua New Guinea, United Kingdom, Mali, Ethiopia, Iceland, Nepal, São Tomé & Prícipe, Solomon Islands, Eswatini, Romania and Serbia	A person did visit Papua New Guinea	ENTAILMENT
+d-389	Someone has visited every person and every place	That particular person didn't visit Marvin	NEUTRAL
+d-390	Everyone has visited Benin, Cuba, Eswatini, Poland, Marshall Islands, Central African Republic, Morocco, Sudan, Netherlands, Guatemala, Oman and Philippines	Jorge didn't visit Philippines	CONTRADICTION
+d-391	Everyone has visited Kiribati, Morocco, Nigeria, Belgium, Paraguay, Slovenia, Norway, Samoa, South Korea, Albania, United States, Iceland, Côte D'ivore and Argentina	That particular person did visit Albania	ENTAILMENT
+d-392	Everyone has visited every place	Milton didn't visit Lee	NEUTRAL
+d-393	Someone has visited every person and every place	That person there didn't visit India	NEUTRAL
+d-394	Someone has visited every person and every place	Someone visited Wayne	ENTAILMENT
+d-395	Everyone has visited Palestine, Mali, Japan, Afghanistan, Estonia, Zimbabwe, Georgia, Syria, Morocco, Guatemala, Saint Lucia, Palau, Mexico, Finland, Jamaica, Brazil, South Africa and Madagascar	Joseph didn't visit Zimbabwe	CONTRADICTION
+d-396	Everyone has visited every person	Philip didn't visit Ruben	CONTRADICTION
+d-397	Everyone has visited every person	Mike didn't visit Jaime	CONTRADICTION
+d-398	Everyone has visited Kosovo, Belgium, Sudan, Bhutan, Barbados, Namibia, Niger, Japan, United States, Dominican Republic, Monaco, Cuba, San Mmarino, Cyprus, Mongolia, South Sudan and Tuvalu	Kurt did visit Japan	ENTAILMENT
+d-399	Someone has visited every person and every place	An individual visited Slovenia	ENTAILMENT
+d-400	Everyone has visited Mongolia, El Salvador, Nigeria, Norway, Guinea-Bissau, Kiribati, Montenegro, Eswatini, Comoros, Benin and Chile	An individual didn't visit Eswatini	CONTRADICTION
+d-401	Someone has visited every person and every place	That person there didn't visit Portugal	NEUTRAL
+d-402	Someone has visited every person and every place	A person visited Netherlands	ENTAILMENT
+d-403	Someone has visited every person and every place	That particular person didn't visit El Salvador	NEUTRAL
+d-404	Someone has visited every person and every place	Someone didn't visit Seth	CONTRADICTION
+d-405	Everyone has visited Eritrea, Greece, Timor-Leste, Liechtenstein, Dominican Republic, The Bahamas, Côte D'ivore, Japan, Chile, Kuwait, Kosovo, Democratic Republic of the Congo, Iraq, Bhutan, Chad, Niger, Georgia and Benin	Oscar did visit Chile	ENTAILMENT
+d-406	Everyone has visited Ukraine, Myanmar, Nicaragua, Republic of the Congo, Panama, Niger, Burkina, Sri Lanka, Chile, Albania, Philippines, Palestine and Mongolia	That particular person did visit Palestine and Mongolia	ENTAILMENT
+d-407	Everyone has visited Qatar, Jamaica, Afghanistan, Costa Rica, Australia, Russia, Kosovo, Saudi Arabia, South Sudan, Ethiopia, Côte D'ivore, Oman, North Korea, Uganda, Laos and Somalia	A person didn't visit Jamaica	CONTRADICTION
+d-408	Everyone has visited Senegal, United States, Malaysia, Algeria, Monaco, Slovakia, Vanuatu, Togo, Kosovo, Mauritius, Nicaragua, Ireland, Gabon, Macedonia, Luxembourg, Jordan and Switzerland	Kurt didn't visit The Bahamas	NEUTRAL
+d-409	Everyone has visited every person	Howard didn't visit Albert	CONTRADICTION
+d-410	Everyone has visited Uzbekistan, Papua New Guinea, Seychelles, Portugal, Niger, Albania, Nicaragua, Tuvalu, Somalia, Burkina, Qatar, Japan, Palestine, Saint Vincent & the Grenadines, Indonesia, Federated States of Micronesia, Belarus, Uruguay, Algeria and Myanmar	That particular person did visit Somalia	ENTAILMENT
+d-411	Everyone has visited Nauru, Kyrgyzstan, Cuba, Ireland, Barbados, Philippines, Moldova, South Korea, Botswana, Australia, Cabo, Palestine and United Arab Emirates	A person didn't visit Cuba	CONTRADICTION
+d-412	Someone has visited every person and every place	That person there didn't visit Ray	NEUTRAL
+d-413	Everyone has visited every person	Jim didn't visit John	CONTRADICTION
+d-414	Everyone has visited every place	Jerry didn't visit Kyrgyzstan	CONTRADICTION
+d-415	Everyone has visited South Sudan, Marshall Islands, Yemen, Kenya, Denmark, Luxembourg, Burkina, Saint Vincent & the Grenadines, Chad, Liechtenstein, Sri Lanka, Belize, Kuwait, Kiribati, Afghanistan, Montenegro, Cameroon and Bulgaria	Ralph didn't visit Syria	NEUTRAL
+d-416	Everyone has visited every person and every place	Antonio didn't visit Darrell	CONTRADICTION
+d-417	Everyone has visited Portugal, Zimbabwe, Namibia, Peru, Netherlands, Solomon Islands, Poland, Vietnam, Zambia, Jordan, Turkmenistan, Cuba, Seychelles, Guinea, Tajikistan, Saudi Arabia and Barbados	A person did visit Tajikistan	ENTAILMENT
+d-418	Everyone has visited Burkina, Kuwait, Nicaragua, Uruguay, Antigua & Barbuda, United States, Eritrea, Peru, Palestine, Mauritania, Sweden, Croatia, Oman and Saint Vincent & the Grenadines	That person there did visit Mauritania	ENTAILMENT
+d-419	Everyone has visited Sierra Leone, Bahrain, Kenya, Ghana, Kiribati, Colombia, Mali, Nauru, Cambodia, Singapore, Ukraine, Thailand, Dominican Republic, South Africa, Saint Vincent & the Grenadines, Burundi, Bosnia & Herzegovinia, Poland and Botswana	Leonard did visit Colombia	ENTAILMENT
+d-420	Everyone has visited Liberia, Turkmenistan, France, Malaysia, Iran, Monaco, Armenia, Madagascar, Netherlands, São Tomé & Prícipe, Greece, Zambia, Panama, Australia, Morocco, Romania, Barbados and Egypt	Tyler didn't visit Netherlands	CONTRADICTION
+d-421	Everyone has visited every place	Ronald didn't visit Walter	NEUTRAL
+d-422	Everyone has visited Macedonia, Turkey, Mauritania, Grenada, Bahrain, Costa Rica, Latvia, Andorra, The Bahamas, Côte D'ivore, India, Afghanistan, Belize, Slovenia, Montenegro, Marshall Islands and Belarus	A person didn't visit Turkey	CONTRADICTION
+d-423	Everyone has visited Nicaragua, Grenada, China, Panama, France, Bahrain, Malaysia, Madagascar, Finland, Federated States of Micronesia, South Africa, Bolivia, Zambia, Saudi Arabia, Brunei, Brazil, Eritrea, Belgium and United States	A person did visit Federated States of Micronesia	ENTAILMENT
+d-424	Everyone has visited Liechtenstein, Lithuania, Togo, Bangladesh, Gabon, Uganda, Saudi Arabia, Cuba, Colombia, Tunisia, Ireland, São Tomé & Prícipe, United States, Sri Lanka, Republic of the Congo, Portugal, Ecuador, Mauritius, Macedonia and Mongolia	That person there did visit Republic of the Congo	ENTAILMENT
+d-425	Everyone has visited South Korea, Pakistan, Guinea-Bissau, Bulgaria, Democratic Republic of the Congo, Mozambique, Bahrain, Panama, Laos, Rwanda, Papua New Guinea, Palestine, Spain and Guatemala	Clyde did visit South Korea	ENTAILMENT
+d-426	Everyone has visited every place	Nicholas didn't visit Daniel	NEUTRAL
+d-427	Everyone has visited United Kingdom, Ethiopia, Comoros, Paraguay, China, Tunisia, Saint Lucia, Denmark, Belarus, Gambia, Philippines, Germany, Sri Lanka, Zimbabwe, Japan, Azerbaijan, Italy, Libya, Djibouti and Cabo	Anthony did visit Djibouti and Cabo	ENTAILMENT
+d-428	Everyone has visited every person	Thomas didn't visit Carlos	CONTRADICTION
+d-429	Everyone has visited every person and every place	Fred didn't visit Iceland	CONTRADICTION
+d-430	Everyone has visited United Kingdom, Seychelles, Guatemala, Mongolia, Syria, Papua New Guinea, El Salvador, South Sudan, Israel, Paraguay, South Korea, United Arab Emirates, Uruguay, Ghana and Guinea	An individual didn't visit Papua New Guinea	CONTRADICTION
+d-431	Everyone has visited Tanzania, Antigua & Barbuda, Spain, Hungary, Dominica, Sierra Leone, Turkmenistan, Turkey, New Zealand, Maldives, Switzerland, Peru, Pakistan and Paraguay	Glen didn't visit Panama	NEUTRAL
+d-432	Everyone has visited every place	Brian didn't visit Dean	NEUTRAL
+d-433	Everyone has visited every place	Johnny didn't visit Namibia	CONTRADICTION
+d-434	Everyone has visited Slovakia, Liberia, Nauru, Iran, Eritrea, Belize, Comoros, Spain, Saint Lucia, Cambodia, Sudan and Oman	Armando didn't visit Morocco	NEUTRAL
+d-435	Everyone has visited Italy, Belgium, Kazakhstan, Vatican City, Fiji, Philippines, Zimbabwe, Djibouti, Nigeria, Seychelles, Ghana, Chad, Croatia, Australia, Côte D'ivore, Gabon, Brazil, Democratic Republic of the Congo, Paraguay and Yemen	Someone did visit Italy	ENTAILMENT
+d-436	Everyone has visited Burundi, Georgia, Mexico, Lesotho, Gambia, Central African Republic, Timor-Leste, Uzbekistan, Paraguay and Tonga	An individual didn't visit Burundi	CONTRADICTION
+d-437	Everyone has visited Nepal, Colombia, Sri Lanka, Russia, Djibouti, Morocco, Brunei, Antigua & Barbuda, Kazakhstan, Myanmar, Turkey, North Korea, Panama, Egypt, Croatia, Grenada and Gabon	Zachary didn't visit Ukraine	NEUTRAL
+d-438	Everyone has visited Ecuador, Kenya, Djibouti, Zambia, Argentina, Afghanistan, El Salvador, Finland, Bhutan, Suriname, Croatia, Seychelles, Georgia, Sudan, Kazakhstan, Sri Lanka and Chad	Roy did visit Finland	ENTAILMENT
+d-439	Everyone has visited Tajikistan, Bulgaria, Uzbekistan, Montenegro, Romania, Grenada, Macedonia, Sri Lanka, Mexico, Spain, Angola, Cuba, Zimbabwe, Russia and Slovakia	Micheal did visit Montenegro	ENTAILMENT
+d-440	Everyone has visited every person	Gordon didn't visit Timothy	CONTRADICTION
+d-441	Someone has visited every person and every place	An individual didn't visit China	CONTRADICTION
+d-442	Someone has visited every person and every place	A person visited Miguel	ENTAILMENT
+d-443	Everyone has visited every person and every place	Allan didn't visit Dave	CONTRADICTION
+d-444	Everyone has visited every person and every place	Sergio didn't visit Jack	CONTRADICTION
+d-445	Everyone has visited Canada, Belize, Cuba, Trinidad & Tobago, Senegal, Côte D'ivore, Saint Vincent & the Grenadines, Montenegro, Vanuatu, Thailand, Israel, India, Cabo and Benin	Shane did visit Canada	ENTAILMENT
+d-446	Someone has visited every person and every place	That individual there didn't visit Jeff	NEUTRAL
+d-447	Everyone has visited Ethiopia, Madagascar, Bulgaria, Tuvalu, Algeria, Colombia, Uganda, Central African Republic, Botswana, Saint Vincent & the Grenadines and Ukraine	Curtis didn't visit Latvia	NEUTRAL
+d-448	Someone has visited every person and every place	A person didn't visit Togo	CONTRADICTION
+d-449	Someone has visited every person and every place	An individual didn't visit Hector	CONTRADICTION
+d-450	Everyone has visited Senegal, Moldova, Bahrain, Thailand, Syria, Liechtenstein, Romania, Uruguay, Colombia, Kyrgyzstan, Hungary, Albania, Cabo, Somalia, Democratic Republic of the Congo, Samoa and Zambia	Brian didn't visit Denmark	NEUTRAL
+d-451	Everyone has visited Federated States of Micronesia, Senegal, Rwanda, Slovenia, Fiji, Jordan, Belarus, Vietnam, Switzerland, Ethiopia, Guatemala, Togo and Cyprus	An individual didn't visit Slovenia	CONTRADICTION
+d-452	Everyone has visited Saint Lucia, Myanmar, Saint Vincent & the Grenadines, Malawi, Serbia, Argentina, Egypt, Estonia, Lithuania and South Sudan	A person didn't visit Argentina	CONTRADICTION
+d-453	Everyone has visited every person and every place	Lewis didn't visit Brent	CONTRADICTION
+d-454	Someone has visited every person and every place	Someone didn't visit Anthony	CONTRADICTION
+d-455	Someone has visited every person and every place	Someone didn't visit Nigeria	CONTRADICTION
+d-456	Everyone has visited Namibia, South Africa, Nigeria, Antigua & Barbuda, Poland, Saudi Arabia, Mali, Spain, Turkmenistan, Armenia, New Zealand, Saint Kitts & Nevis, Niger, Brazil, Croatia and Netherlands	Javier did visit Armenia	ENTAILMENT
+d-457	Everyone has visited Saint Kitts & Nevis, Switzerland, Panama, Dominican Republic, United States, Cameroon, Slovakia, Libya, Togo, North Korea, Mozambique, Madagascar and Gambia	An individual didn't visit Dominican Republic	CONTRADICTION
+d-458	Everyone has visited every place	Peter didn't visit United Arab Emirates	CONTRADICTION
+d-459	Everyone has visited New Zealand, Czech Republic, Panama, Vietnam, Kuwait, Mexico, Barbados, Burundi, China, Croatia, Israel, Nauru, United States, Brazil, Palau, Haiti, Thailand, Tunisia and Andorra	That particular person did visit Croatia	ENTAILMENT
+d-460	Someone has visited every person and every place	Someone visited Jordan	ENTAILMENT
+d-461	Everyone has visited every place	Chad didn't visit Charles	NEUTRAL
+d-462	Everyone has visited every person and every place	Brett didn't visit Wade	CONTRADICTION
+d-463	Someone has visited every person and every place	Someone didn't visit Qatar	CONTRADICTION
+d-464	Everyone has visited every person and every place	Jose didn't visit Henry	CONTRADICTION
+d-465	Someone has visited every person and every place	That particular person didn't visit Ethiopia	NEUTRAL
+d-466	Everyone has visited Togo, Mexico, Monaco, Lithuania, Guyana, Burkina, Switzerland, Namibia, Botswana and Armenia	Sergio did visit Namibia	ENTAILMENT
+d-467	Everyone has visited Mali, Egypt, Niger, Gabon, Kenya, Fiji, Papua New Guinea, Zambia, Indonesia, Chad, Malta, Russia, Ecuador, Saint Vincent & the Grenadines, Iceland, Saint Lucia, South Korea, Mexico, Libya and Sudan	Angel didn't visit Kenya	CONTRADICTION
+d-468	Everyone has visited Niger, Timor-Leste, Denmark, Kuwait, Madagascar, Greece, Azerbaijan, Bulgaria, Cameroon, Nicaragua, Panama, Gabon, Comoros, Mexico, Kazakhstan and Cuba	A person didn't visit Nicaragua	CONTRADICTION
+d-469	Everyone has visited Bosnia & Herzegovinia, Trinidad & Tobago, Cambodia, Republic of the Congo, Denmark, Albania, Nauru, San Mmarino, Paraguay, Kenya, Tajikistan, Saint Vincent & the Grenadines, Egypt, Oman, Nigeria, Poland, Colombia, Kyrgyzstan, Romania and Iraq	Billy didn't visit Cambodia	CONTRADICTION
+d-470	Everyone has visited Marshall Islands, Bosnia & Herzegovinia, Bangladesh, Central African Republic, São Tomé & Prícipe, Luxembourg, Paraguay, Tonga, Singapore, Algeria, Cameroon, Comoros, Jamaica, Saint Lucia and Vanuatu	Kent didn't visit Saint Vincent & the Grenadines	NEUTRAL
+d-471	Everyone has visited every person	Hugh didn't visit Raul	CONTRADICTION
+d-472	Everyone has visited every person and every place	Ivan didn't visit Andre	CONTRADICTION
+d-473	Someone has visited every person and every place	That individual there didn't visit Glenn	NEUTRAL
+d-474	Everyone has visited every place	Jack didn't visit Eduardo	NEUTRAL
+d-475	Someone has visited every person and every place	Someone didn't visit Dwayne	CONTRADICTION
+d-476	Everyone has visited Grenada, Malaysia, Montenegro, Saint Kitts & Nevis, Iceland, Bahrain, Latvia, Morocco, Guyana, Malawi, Saudi Arabia and Paraguay	Someone didn't visit Malaysia	CONTRADICTION
+d-477	Someone has visited every person and every place	An individual visited Uganda	ENTAILMENT
+d-478	Everyone has visited Bahrain, Norway, Cuba, Lithuania, Canada, Senegal, Monaco, Brazil, Kiribati, Chile, The Bahamas, North Korea, South Africa, Iraq, Honduras and Haiti	Bruce did visit South Africa	ENTAILMENT
+d-479	Everyone has visited Denmark, Antigua & Barbuda, Spain, Eswatini, Netherlands, Cyprus, Mongolia, Madagascar, Guyana, Ukraine, Federated States of Micronesia, Suriname, Palau, Honduras, Moldova, Timor-Leste, Angola and Saint Lucia	Brandon didn't visit Qatar	NEUTRAL
+d-480	Someone has visited every person and every place	That person there didn't visit United States	NEUTRAL
+d-481	Everyone has visited Ukraine, Guinea, Palestine, South Africa, Jamaica, Samoa, Serbia, Equatorial Guinea, Slovakia, Mexico, Nepal, Bhutan, Honduras, Lesotho, Croatia, Tajikistan, Haiti, Yemen and Cabo	That individual there did visit Tajikistan	ENTAILMENT
+d-482	Everyone has visited every person	Vincent didn't visit Clifton	CONTRADICTION
+d-483	Everyone has visited every place	Brent didn't visit Roy	NEUTRAL
+d-484	Everyone has visited Angola, Solomon Islands, Germany, Kazakhstan, Tanzania, Mozambique, Nepal, Eswatini, Indonesia, Lebanon, Kyrgyzstan, Antigua & Barbuda, Belize, Bolivia, Iraq, Saudi Arabia, United States, Cyprus and Saint Kitts & Nevis	Bernard didn't visit Colombia	NEUTRAL
+d-485	Everyone has visited every place	Lester didn't visit Jeff	NEUTRAL
+d-486	Everyone has visited Singapore, Slovakia, Mauritania, Tuvalu, Liberia, Italy, Russia, Nepal, Brunei, Guatemala, Bulgaria, Laos, Serbia and Brazil	Jared didn't visit Russia	CONTRADICTION
+d-487	Someone has visited every person and every place	That person there didn't visit Luxembourg	NEUTRAL
+d-488	Someone has visited every person and every place	An individual didn't visit Gabon	CONTRADICTION
+d-489	Everyone has visited every place	Roy didn't visit Cameroon	CONTRADICTION
+d-490	Someone has visited every person and every place	That particular person didn't visit Ted	NEUTRAL
+d-491	Everyone has visited every place	Steve didn't visit Russell	NEUTRAL
+d-492	Everyone has visited Honduras, Albania, Liberia, Singapore, Peru, Niger, Kazakhstan, Guatemala, Jamaica, Tonga, Mongolia, Liechtenstein, Côte D'ivore, Mexico, Georgia, Panama, Poland, United Kingdom and Zimbabwe	Ronnie didn't visit Liberia	CONTRADICTION
+d-493	Someone has visited every person and every place	A person visited Willard	ENTAILMENT
+d-494	Everyone has visited every person	Lance didn't visit Leon	CONTRADICTION
+d-495	Everyone has visited Japan, Ethiopia, Canada, Nepal, Haiti, Kazakhstan, Singapore, Macedonia, Zimbabwe and New Zealand	A person did visit Canada	ENTAILMENT
+d-496	Everyone has visited Ecuador, Japan, Togo, Kiribati, Australia, Republic of the Congo, Uruguay, San Mmarino, Liechtenstein, Fiji, Brunei, Kyrgyzstan, Bahrain, Nauru, Netherlands and Andorra	That particular person did visit Togo	ENTAILMENT
+d-497	Everyone has visited Papua New Guinea, Greece, Iraq, Equatorial Guinea, Maldives, Turkey, Cameroon, Montenegro, Trinidad & Tobago, Botswana, Moldova, Iceland, Saint Lucia, Georgia, Macedonia, Tunisia, Indonesia and Tajikistan	That individual there did visit Iceland	ENTAILMENT
+d-498	Someone has visited every person and every place	An individual visited Gabriel	ENTAILMENT
+d-499	Someone has visited every person and every place	That person there didn't visit Joshua	NEUTRAL
+d-500	Someone has visited every person and every place	That person there didn't visit Syria	NEUTRAL
+d-501	Everyone has visited every person and every place	Rafael didn't visit Mali	CONTRADICTION
+d-502	Someone has visited every person and every place	An individual didn't visit Hugh	CONTRADICTION
+d-503	Someone has visited every person and every place	Someone didn't visit Tim	CONTRADICTION
+d-504	Someone has visited every person and every place	That person there didn't visit Timor-Leste	NEUTRAL
+d-505	Everyone has visited Mali, Czech Republic, Uruguay, Liberia, Sweden, Belize, Luxembourg, Ethiopia, France, Belgium, Somalia, El Salvador, Seychelles, Saint Lucia, Cameroon, Equatorial Guinea and Yemen	That particular person did visit Liberia	ENTAILMENT
+d-506	Everyone has visited Eswatini, Vietnam, Democratic Republic of the Congo, South Korea, Monaco, Norway, Lesotho, Paraguay, Denmark, Nauru, Qatar, France, Sierra Leone, Somalia, Gabon, Honduras, Czech Republic and Ecuador	An individual did visit Paraguay	ENTAILMENT
+d-507	Someone has visited every person and every place	Someone visited Libya	ENTAILMENT
+d-508	Everyone has visited Saint Vincent & the Grenadines, Armenia, Bangladesh, South Korea, Cameroon, Saudi Arabia, Costa Rica, El Salvador, Federated States of Micronesia and Singapore	That person there did visit El Salvador	ENTAILMENT
+d-509	Someone has visited every person and every place	Someone didn't visit Poland	CONTRADICTION
+d-510	Everyone has visited The Bahamas, Solomon Islands, Saint Kitts & Nevis, Tajikistan, Antigua & Barbuda, Pakistan, Latvia, Kiribati, Lebanon, Togo, Peru, Hungary, Tunisia, Angola, Czech Republic and Kosovo	An individual didn't visit Togo	CONTRADICTION
+d-511	Everyone has visited France, Albania, Panama, Slovenia, Papua New Guinea, Senegal, Myanmar, Guatemala, Georgia, Qatar and Saudi Arabia	Norman didn't visit Gabon	NEUTRAL
+d-512	Everyone has visited every person	Zachary didn't visit Micheal	CONTRADICTION
+d-513	Everyone has visited Rwanda, Germany, United States, India, Cambodia, Kyrgyzstan, Bahrain, Timor-Leste, Bosnia & Herzegovinia, El Salvador, Algeria, Vietnam, Ireland, Peru, Bhutan, Jordan, Ghana, Israel and Afghanistan	An individual didn't visit Vietnam	CONTRADICTION
+d-514	Everyone has visited every person	Andre didn't visit Andy	CONTRADICTION
+d-515	Someone has visited every person and every place	That individual there didn't visit Paraguay	NEUTRAL
+d-516	Everyone has visited every place	Jon didn't visit Bhutan	CONTRADICTION
+d-517	Everyone has visited Kuwait, Argentina, Fiji, Iraq, Russia, Iceland, Oman, Botswana, Mozambique, Turkey, Syria and Barbados	An individual did visit Oman	ENTAILMENT
+d-518	Someone has visited every person and every place	That particular person didn't visit Leonard	NEUTRAL
+d-519	Everyone has visited every person	Don didn't visit Wade	CONTRADICTION
+d-520	Everyone has visited Brunei, Georgia, Libya, China, Mongolia, Mauritius, Djibouti, Japan, Afghanistan, Solomon Islands, Bulgaria, Timor-Leste, Nauru, Cuba, Côte D'ivore, Senegal, Ukraine and Malaysia	That person there did visit Bulgaria	ENTAILMENT
+d-521	Everyone has visited Nauru, South Sudan, United Kingdom, Kiribati, Vanuatu, Croatia, Belize, Indonesia, Spain, Uzbekistan, Palau, Malta, Marshall Islands, China, Poland, Philippines, Kuwait, Dominican Republic and Bahrain	Someone did visit Croatia	ENTAILMENT
+d-522	Everyone has visited Saudi Arabia, Burundi, Spain, Venezuela, Suriname, Timor-Leste, Côte D'ivore, Senegal, Latvia, Rwanda, Yemen, Costa Rica and Dominican Republic	Freddie did visit Spain	ENTAILMENT
+d-523	Everyone has visited Benin, Cuba, Eswatini, Poland, Marshall Islands, Central African Republic, Morocco, Sudan, Netherlands, Guatemala, Oman and Philippines	Someone did visit Oman and Philippines	ENTAILMENT
+d-524	Everyone has visited Lebanon, Mongolia, Switzerland, Thailand, Barbados, Panama, Burundi, Armenia, Kenya and Norway	Ronnie didn't visit Switzerland	CONTRADICTION
+d-525	Everyone has visited Jamaica, Croatia, Somalia, Netherlands, Serbia, Slovenia, Afghanistan, Togo, Mongolia, France, Georgia, Belarus, South Africa, Tunisia, Burundi, United States, Ecuador, Vanuatu and Guinea-Bissau	Adam didn't visit Netherlands	CONTRADICTION
+d-526	Everyone has visited Saint Kitts & Nevis, Armenia, Guinea, Tanzania, South Korea, El Salvador, United Kingdom, Pakistan, Kenya, Russia, France, Senegal, Ecuador, Ireland and Iraq	Angel didn't visit Cambodia	NEUTRAL
+d-527	Everyone has visited Burkina, Italy, Mauritania, Benin, Lebanon, Ghana, Hungary, Japan, France, Vietnam, Switzerland, Namibia, Peru, Mali, São Tomé & Prícipe, Singapore, Azerbaijan and Burundi	Gregory did visit Peru	ENTAILMENT
+d-528	Everyone has visited Papua New Guinea, Chile, Vietnam, Croatia, Mauritius, San Mmarino, Australia, Ethiopia, Eswatini, Comoros, Guatemala, Pakistan, New Zealand, Liberia, Canada, Guinea-Bissau, Oman, Switzerland and Botswana	Jamie didn't visit Cambodia	NEUTRAL
+d-529	Everyone has visited every person and every place	Mark didn't visit Earl	CONTRADICTION
+d-530	Everyone has visited Saint Vincent & the Grenadines, Bulgaria, Cuba, India, Romania, Spain, South Africa, Macedonia, Russia, Norway, United Arab Emirates, Eswatini, Syria, Portugal, United Kingdom and Georgia	A person didn't visit Russia	CONTRADICTION
+d-531	Everyone has visited Ghana, Venezuela, Switzerland, Uzbekistan, Sierra Leone, Serbia, São Tomé & Prícipe, Ecuador, Macedonia, Uganda, Cabo, Zambia, Somalia and Namibia	Brent didn't visit Uganda	CONTRADICTION
+d-532	Everyone has visited Ecuador, Estonia, Suriname, Cabo, North Korea, Poland, Federated States of Micronesia, Mongolia, Iran, Sierra Leone, Greece, Samoa, Ethiopia, Peru, San Mmarino and Sweden	That person there did visit Ethiopia	ENTAILMENT
+d-533	Everyone has visited Tuvalu, Somalia, Andorra, Laos, Zimbabwe, Uruguay, Togo, Seychelles, Madagascar, Barbados, Bulgaria, Sudan, Macedonia, Greece, Liberia, Marshall Islands, Costa Rica, Gambia, Eswatini and São Tomé & Prícipe	That individual there did visit Macedonia	ENTAILMENT
+d-534	Someone has visited every person and every place	An individual didn't visit China	CONTRADICTION
+d-535	Everyone has visited every place	Nicholas didn't visit Nicaragua	CONTRADICTION
+d-536	Someone has visited every person and every place	Someone visited Nigeria	ENTAILMENT
+d-537	Everyone has visited Angola, Mauritania, Kenya, Barbados, Cambodia, Afghanistan, Bosnia & Herzegovinia, Fiji, Indonesia, Tanzania, Guyana, Tunisia, Palau, Slovenia, Nauru, São Tomé & Prícipe, Lithuania, Belgium and The Bahamas	Someone didn't visit Palau	CONTRADICTION
+d-538	Everyone has visited every place	Isaac didn't visit Slovenia	CONTRADICTION
+d-539	Someone has visited every person and every place	Someone didn't visit Michael	CONTRADICTION
+d-540	Everyone has visited every place	Jon didn't visit Benjamin	NEUTRAL
+d-541	Everyone has visited Bangladesh, Costa Rica, Kazakhstan, Botswana, Cyprus, Eswatini, Vietnam, Morocco, Malaysia and Ecuador	Alfredo didn't visit Bulgaria	NEUTRAL
+d-542	Everyone has visited every place	Zachary didn't visit Chris	NEUTRAL
+d-543	Everyone has visited Cabo, Ghana, Georgia, Venezuela, Laos, Liberia, Bhutan, Norway, United Arab Emirates, Kuwait, Indonesia, Czech Republic, Estonia, Tuvalu, Barbados, Togo, Central African Republic, Nauru and Bahrain	Jesse did visit Bhutan	ENTAILMENT
+d-544	Everyone has visited Bolivia, The Bahamas, Slovakia, Guyana, Laos, Serbia, Vietnam, Romania, Cameroon, Iran, Mongolia and Venezuela	An individual didn't visit Laos	CONTRADICTION
+d-545	Everyone has visited every place	Morris didn't visit Eric	NEUTRAL
+d-546	Everyone has visited Eswatini, Belgium, Peru, Netherlands, Ecuador, Zimbabwe, Cyprus, Tanzania, Andorra, Cameroon, Guatemala, South Sudan, Benin, Republic of the Congo, Bahrain, Turkmenistan, Uzbekistan, Bulgaria, Sweden and Lithuania	That individual there did visit Uzbekistan	ENTAILMENT
+d-547	Everyone has visited Tunisia, Honduras, Chad, Iran, Ireland, Australia, São Tomé & Prícipe, Haiti, Panama and Central African Republic	An individual did visit Haiti	ENTAILMENT
+d-548	Someone has visited every person and every place	That individual there didn't visit Tanzania	NEUTRAL
+d-549	Everyone has visited Senegal, Cabo, Bolivia, China, Czech Republic, Mauritania, Eswatini, Switzerland, Republic of the Congo, Central African Republic, Rwanda, Honduras, Uruguay and Latvia	That person there did visit Cabo	ENTAILMENT
+d-550	Everyone has visited every place	Francis didn't visit James	NEUTRAL
+d-551	Someone has visited every person and every place	That individual there didn't visit Francisco	NEUTRAL
+d-552	Everyone has visited Venezuela, Switzerland, Dominica, United Kingdom, Equatorial Guinea, Singapore, Peru, Laos, São Tomé & Prícipe, Somalia, Barbados, Greece and Mozambique	Ricky didn't visit Dominican Republic	NEUTRAL
+d-553	Everyone has visited Malawi, Azerbaijan, Germany, Yemen, Czech Republic, Rwanda, Vanuatu, Tonga, Egypt, Iraq and Slovakia	Angel didn't visit South Sudan	NEUTRAL
+d-554	Someone has visited every person and every place	An individual didn't visit Azerbaijan	CONTRADICTION
+d-555	Someone has visited every person and every place	A person didn't visit Maurice	CONTRADICTION
+d-556	Everyone has visited Malaysia, Laos, Egypt, Samoa, Papua New Guinea, Belize, Tuvalu, Solomon Islands, Central African Republic, Zambia, Ecuador, North Korea, Bosnia & Herzegovinia, Senegal, Ukraine, Costa Rica, Mongolia, Azerbaijan and Vatican City	That particular person did visit Papua New Guinea	ENTAILMENT
+d-557	Everyone has visited Netherlands, Gabon, Argentina, Namibia, Oman, Iraq, Russia, Slovakia, Czech Republic and Jamaica	An individual didn't visit Czech Republic and Jamaica	CONTRADICTION
+d-558	Everyone has visited Laos, Kazakhstan, Argentina, Singapore, Saint Lucia, Egypt, Panama, Tunisia, New Zealand, Libya, Cameroon, Denmark, France, Mongolia, Maldives, Trinidad & Tobago, Mozambique and Saint Kitts & Nevis	Willard didn't visit France	CONTRADICTION
+d-559	Everyone has visited every person	Glen didn't visit Leo	CONTRADICTION
+d-560	Everyone has visited every place	Kurt didn't visit Lewis	NEUTRAL
+d-561	Everyone has visited Kyrgyzstan, South Africa, Gabon, Tanzania, Barbados, Dominica, Vanuatu, Monaco, Australia, Republic of the Congo, Ukraine, Zambia and Botswana	That individual there did visit Gabon	ENTAILMENT
+d-562	Someone has visited every person and every place	Someone didn't visit Jason	CONTRADICTION
+d-563	Everyone has visited every place	Alan didn't visit Tonga	CONTRADICTION
+d-564	Everyone has visited every place	Christian didn't visit Austria	CONTRADICTION
+d-565	Everyone has visited Mauritania, Bhutan, Botswana, Democratic Republic of the Congo, Equatorial Guinea, Ghana, Netherlands, Venezuela, Rwanda, The Bahamas, Sierra Leone, Guinea, Dominican Republic, Sweden, Afghanistan, Tonga, Algeria and Denmark	An individual did visit Bhutan	ENTAILMENT
+d-566	Someone has visited every person and every place	Someone visited Larry	ENTAILMENT
+d-567	Everyone has visited Kosovo, Bahrain, Switzerland, Venezuela, Hungary, São Tomé & Prícipe, Bulgaria, Democratic Republic of the Congo, Tonga, Argentina, Senegal, Slovakia, Greece, Brunei, Germany, Saint Vincent & the Grenadines, Turkey and Solomon Islands	Jeremy didn't visit Georgia	NEUTRAL
+d-568	Everyone has visited Burkina, Equatorial Guinea, The Bahamas, Saint Kitts & Nevis, Colombia, Maldives, Côte D'ivore, Madagascar, Iraq, Central African Republic, Palestine, Suriname, Tuvalu, São Tomé & Prícipe, Liechtenstein, Venezuela, Lithuania, Democratic Republic of the Congo, Uganda and Mexico	Alfred did visit Equatorial Guinea	ENTAILMENT
+d-569	Someone has visited every person and every place	That particular person didn't visit Darrell	NEUTRAL
+d-570	Someone has visited every person and every place	A person didn't visit Joshua	CONTRADICTION
+d-571	Everyone has visited Antigua & Barbuda, Austria, Saint Lucia, Bolivia, Peru, Andorra, Nepal, Liberia, Qatar, Uruguay, Papua New Guinea, Kuwait and Turkey	An individual didn't visit Qatar	CONTRADICTION
+d-572	Everyone has visited Indonesia, Argentina, Eritrea, Republic of the Congo, Turkey, Costa Rica, Angola, Ethiopia, Poland, Oman, Nigeria and Germany	Joshua didn't visit Iceland	NEUTRAL
+d-573	Everyone has visited every place	Claude didn't visit Edwin	NEUTRAL
+d-574	Everyone has visited Papua New Guinea, Azerbaijan, Cyprus, Mauritania, Finland, Mexico, Palau, Russia, Morocco, Denmark and Chad	David did visit Finland	ENTAILMENT
+d-575	Everyone has visited every person	Everett didn't visit Kevin	CONTRADICTION
+d-576	Everyone has visited every place	Wayne didn't visit Marvin	NEUTRAL
+d-577	Someone has visited every person and every place	A person didn't visit Adrian	CONTRADICTION
+d-578	Someone has visited every person and every place	An individual visited Democratic Republic of the Congo	ENTAILMENT
+d-579	Everyone has visited Trinidad & Tobago, Burundi, Gambia, Mongolia, Qatar, Haiti, Bulgaria, Portugal, Bosnia & Herzegovinia, Kosovo, Brazil, Saint Kitts & Nevis, Moldova, Albania, Liechtenstein, Belgium and Uganda	Kurt didn't visit Mexico	NEUTRAL
+d-580	Everyone has visited every place	Larry didn't visit Warren	NEUTRAL
+d-581	Everyone has visited every place	Nathan didn't visit Pedro	NEUTRAL
+d-582	Everyone has visited United Arab Emirates, Belgium, Timor-Leste, Madagascar, Belize, Croatia, Ethiopia, Malaysia, Seychelles, Japan, Libya, Botswana and Gambia	Karl did visit Libya	ENTAILMENT
+d-583	Someone has visited every person and every place	That individual there didn't visit Ken	NEUTRAL
+d-584	Someone has visited every person and every place	A person visited Tuvalu	ENTAILMENT
+d-585	Everyone has visited Philippines, Spain, Tonga, Dominican Republic, Liechtenstein, Lesotho, Venezuela, Azerbaijan, Andorra, Maldives, Yemen, Indonesia, Tanzania and Bahrain	An individual did visit Spain	ENTAILMENT
+d-586	Everyone has visited Bulgaria, Mali, Lithuania, Uruguay, Namibia, Finland, Belize, Spain, Australia, Saint Lucia, Gambia, Slovenia, Israel, Algeria, Angola and Georgia	Paul didn't visit Bahrain	NEUTRAL
+d-587	Someone has visited every person and every place	A person visited Hector	ENTAILMENT
+d-588	Everyone has visited Indonesia, Tonga, Sri Lanka, Cyprus, South Sudan, Hungary, Denmark, Oman, Botswana, Chile, United Kingdom, Turkmenistan and Cuba	Chris did visit Botswana	ENTAILMENT
+d-589	Everyone has visited every person and every place	Jerome didn't visit United States	CONTRADICTION
+d-590	Everyone has visited Nigeria, El Salvador, Turkmenistan, Tuvalu, Vatican City, Sudan, Bosnia & Herzegovinia, Liechtenstein, Barbados, Nauru, Costa Rica, Serbia, United Kingdom, Austria, Slovakia, Bangladesh, Maldives, Dominica and Cuba	A person did visit Bosnia & Herzegovinia	ENTAILMENT
+d-591	Everyone has visited Monaco, Eritrea, Georgia, North Korea, Saudi Arabia, Turkmenistan, United Arab Emirates, Armenia, Laos, Vietnam, Peru, Democratic Republic of the Congo, Madagascar, New Zealand, Macedonia, Israel, Antigua & Barbuda and Argentina	Craig did visit Macedonia	ENTAILMENT
+d-592	Everyone has visited Australia, Estonia, Tuvalu, Albania, Mozambique, Eswatini, Bahrain, Saudi Arabia, Montenegro, Botswana, Switzerland, Canada, Comoros, Mexico, Panama, Equatorial Guinea, Iceland and Iraq	Bob did visit Canada	ENTAILMENT
+d-593	Everyone has visited Cameroon, Australia, Eritrea, Montenegro, Monaco, Austria, Switzerland, Eswatini, Maldives, Philippines, Kenya, Saint Kitts & Nevis, Saudi Arabia, South Korea, Portugal, Iran, Libya, Malta and Niger	That particular person did visit Philippines	ENTAILMENT
+d-594	Everyone has visited every place	Javier didn't visit Adam	NEUTRAL
+d-595	Someone has visited every person and every place	Someone didn't visit Raul	CONTRADICTION
+d-596	Someone has visited every person and every place	Someone visited Casey	ENTAILMENT
+d-597	Everyone has visited Jamaica, Cabo, Cambodia, Thailand, Chile, Ireland, Republic of the Congo, Zimbabwe, Iran, Iraq, Trinidad & Tobago, Uzbekistan, Turkey and Yemen	Clarence did visit Ireland	ENTAILMENT
+d-598	Everyone has visited Vietnam, Tonga, Lebanon, Kosovo, Solomon Islands, Comoros, Indonesia, United Kingdom, Romania, Turkey, Guyana, Marshall Islands, El Salvador, Myanmar, Ghana, Syria, Samoa and Malta	Morris didn't visit Tunisia	NEUTRAL
+d-599	Everyone has visited every place	Marion didn't visit Allan	NEUTRAL
+d-600	Everyone has visited every person and every place	Marion didn't visit Vatican City	CONTRADICTION
+d-601	Someone has visited every person and every place	That particular person didn't visit Alfredo	NEUTRAL
+d-602	Someone has visited every person and every place	That person there didn't visit Chile	NEUTRAL
+d-603	Everyone has visited every place	Allen didn't visit Elmer	NEUTRAL
+d-604	Everyone has visited Bolivia, Trinidad & Tobago, Cabo, Togo, Papua New Guinea, Angola, Haiti, San Mmarino, Central African Republic and Somalia	Reginald did visit Trinidad & Tobago	ENTAILMENT
+d-605	Everyone has visited every place	Clifton didn't visit Ronnie	NEUTRAL
+d-606	Everyone has visited Iran, Poland, Bhutan, Oman, Syria, Romania, Cameroon, Kiribati, Croatia, Zimbabwe and Gambia	Curtis did visit Oman	ENTAILMENT
+d-607	Everyone has visited Bahrain, Gabon, Saint Lucia, South Korea, Somalia, Belize, Yemen, Thailand, Barbados, Malawi, Iraq, Cuba, United States, The Bahamas and Kenya	Daryl didn't visit Yemen	CONTRADICTION
+d-608	Everyone has visited every place	Cody didn't visit Senegal	CONTRADICTION
+d-609	Everyone has visited Libya, Israel, Malaysia, Bosnia & Herzegovinia, Egypt, Netherlands, Andorra, Georgia, Papua New Guinea, Lithuania, Maldives, El Salvador, Laos, Kosovo, Eritrea, Monaco, Morocco, France, Montenegro and Hungary	A person did visit El Salvador	ENTAILMENT
+d-610	Everyone has visited every person and every place	Karl didn't visit Virgil	CONTRADICTION
+d-611	Someone has visited every person and every place	A person visited Armenia	ENTAILMENT
+d-612	Someone has visited every person and every place	That particular person didn't visit Canada	NEUTRAL
+d-613	Everyone has visited Turkmenistan, Federated States of Micronesia, Cabo, Rwanda, Qatar, Antigua & Barbuda, Saint Lucia, Iraq, Kazakhstan, Mauritania, Ireland, Somalia, Madagascar, Bangladesh, Kenya, Grenada, Zambia and Serbia	A person did visit Ireland	ENTAILMENT
+d-614	Everyone has visited Bahrain, Papua New Guinea, Nigeria, Vanuatu, Brazil, Guinea-Bissau, Eritrea, Moldova, Georgia, Vatican City, Luxembourg and Saint Kitts & Nevis	Thomas did visit Moldova	ENTAILMENT
+d-615	Everyone has visited every place	Fred didn't visit Rene	NEUTRAL
+d-616	Everyone has visited Botswana, Guyana, Rwanda, Mauritania, Japan, Venezuela, Romania, Nicaragua, Saint Kitts & Nevis, Eritrea, Benin, Kiribati and Netherlands	That particular person did visit Mauritania	ENTAILMENT
+d-617	Everyone has visited Kosovo, Uruguay, Grenada, Democratic Republic of the Congo, Comoros, Malaysia, Kenya, Indonesia, Republic of the Congo, Moldova, Canada, Germany and Panama	An individual did visit Kenya	ENTAILMENT
+d-618	Someone has visited every person and every place	A person didn't visit South Africa	CONTRADICTION
+d-619	Everyone has visited every person	Maurice didn't visit Ted	CONTRADICTION
+d-620	Everyone has visited Bahrain, Peru, Cyprus, Gabon, Malawi, Djibouti, Macedonia, Guatemala, Mali, Algeria, Armenia, Brazil, Belize, Kenya, Ghana, Costa Rica, United States, Fiji and South Korea	Guy didn't visit Dominican Republic	NEUTRAL
+d-621	Someone has visited every person and every place	An individual didn't visit Slovenia	CONTRADICTION
+d-622	Someone has visited every person and every place	Someone didn't visit Sri Lanka	CONTRADICTION
+d-623	Everyone has visited every place	Jonathan didn't visit Lewis	NEUTRAL
+d-624	Everyone has visited every person	Jeremy didn't visit Tony	CONTRADICTION
+d-625	Everyone has visited The Bahamas, Yemen, Djibouti, United States, Brazil, Antigua & Barbuda, Sweden, Slovakia, Republic of the Congo, Papua New Guinea, Israel, Mauritania, Russia, Paraguay, Comoros, Mongolia, Guinea and Saint Lucia	Joshua didn't visit Yemen	CONTRADICTION
+d-626	Everyone has visited Samoa, Dominican Republic, Israel, Nigeria, Philippines, Rwanda, Venezuela, Senegal, Palestine, Ethiopia, Mauritius, Iran, Trinidad & Tobago, Tuvalu, Sweden, Laos, Slovenia and United Arab Emirates	Jessie did visit Mauritius	ENTAILMENT
+d-627	Everyone has visited every person and every place	Jeffery didn't visit India	CONTRADICTION
+d-628	Someone has visited every person and every place	An individual visited Karl	ENTAILMENT
+d-629	Everyone has visited every person and every place	Gary didn't visit Guyana	CONTRADICTION
+d-630	Everyone has visited Switzerland, Madagascar, Vatican City, Guinea, Panama, Algeria, Thailand, Finland, Latvia, South Africa, Eritrea, Norway, Saint Vincent & the Grenadines, Armenia, Kuwait, Slovenia, Jamaica and United Kingdom	Phillip didn't visit Japan	NEUTRAL
+d-631	Someone has visited every person and every place	That individual there didn't visit Walter	NEUTRAL
+d-632	Everyone has visited Mali, Kazakhstan, Poland, United Arab Emirates, Zambia, Burkina, Japan, Ethiopia, Brazil, Lebanon, Senegal, Uruguay, Thailand and Democratic Republic of the Congo	Someone did visit Japan	ENTAILMENT
+d-633	Everyone has visited Denmark, Uruguay, Portugal, San Mmarino, Oman, Zambia, New Zealand, Grenada, Gabon, Ghana, Cyprus, Dominica, Armenia, Samoa, Monaco and Dominican Republic	That person there did visit Oman	ENTAILMENT
+d-634	Everyone has visited Ecuador, Serbia, Albania, Monaco, Lesotho, Uzbekistan, Paraguay, Portugal, Pakistan, Spain, Equatorial Guinea, Yemen, Egypt and Thailand	Ruben didn't visit Maldives	NEUTRAL
+d-635	Everyone has visited Israel, Macedonia, Lesotho, Indonesia, France, Luxembourg, Venezuela, Laos, Guyana, São Tomé & Prícipe, Mali, Kiribati, Chile, Cabo, Bhutan, Iraq, Barbados, Saudi Arabia and Serbia	Glenn didn't visit Cambodia	NEUTRAL
+d-636	Everyone has visited Iran, Marshall Islands, Togo, Egypt, Oman, Romania, Montenegro, Jordan, Bosnia & Herzegovinia, Czech Republic, Cameroon, Bahrain, Colombia, Lesotho and Brazil	A person didn't visit Iran	CONTRADICTION
+d-637	Everyone has visited Jordan, Algeria, Saint Vincent & the Grenadines, Saint Kitts & Nevis, Bolivia, Belgium, Ghana, Bhutan, Iran, Yemen, Haiti, Trinidad & Tobago, Papua New Guinea, Iceland and Central African Republic	Armando didn't visit Yemen	CONTRADICTION
+d-638	Everyone has visited Brazil, Gambia, Bolivia, Seychelles, Macedonia, India, Belize, Myanmar, Finland, Ireland, Zambia, Marshall Islands, South Sudan, Mexico, Belarus, Vanuatu, Bangladesh and Vatican City	That individual there did visit South Sudan	ENTAILMENT
+d-639	Someone has visited every person and every place	An individual didn't visit El Salvador	CONTRADICTION
+d-640	Everyone has visited Liechtenstein, Montenegro, Jamaica, Djibouti, Guyana, Côte D'ivore, Maldives, Nigeria, Saint Vincent & the Grenadines, Tanzania, Antigua & Barbuda and Libya	Terrence didn't visit Canada	NEUTRAL
+d-641	Everyone has visited Ecuador, India, Luxembourg, Somalia, Costa Rica, Estonia, Israel, Jamaica, El Salvador, Palau, Liechtenstein, Morocco, Cyprus, Papua New Guinea, Federated States of Micronesia, Belgium and Namibia	A person did visit Liechtenstein	ENTAILMENT
+d-642	Everyone has visited every place	Aaron didn't visit Timothy	NEUTRAL
+d-643	Someone has visited every person and every place	A person visited Sean	ENTAILMENT
+d-644	Someone has visited every person and every place	An individual didn't visit Clyde	CONTRADICTION
+d-645	Someone has visited every person and every place	That person there didn't visit Daniel	NEUTRAL
+d-646	Everyone has visited every place	Eugene didn't visit Brandon	NEUTRAL
+d-647	Everyone has visited Belarus, China, Samoa, United Kingdom, Denmark, Bulgaria, Equatorial Guinea, Lebanon, Pakistan, Uruguay and Saint Kitts & Nevis	A person did visit China	ENTAILMENT
+d-648	Everyone has visited Togo, Lithuania, Netherlands, Iraq, Uruguay, Bolivia, Suriname, Ecuador, Liberia and Finland	A person did visit Netherlands	ENTAILMENT
+d-649	Someone has visited every person and every place	That individual there didn't visit Syria	NEUTRAL
+d-650	Everyone has visited every place	Randall didn't visit Barry	NEUTRAL
+d-651	Someone has visited every person and every place	That individual there didn't visit Namibia	NEUTRAL
+d-652	Everyone has visited Samoa, South Sudan, Ukraine, Andorra, Laos, Bosnia & Herzegovinia, Gambia, Turkey, Vanuatu, Sri Lanka, Mauritius and Dominica	Calvin didn't visit Kenya	NEUTRAL
+d-653	Everyone has visited every place	Jaime didn't visit Frederick	NEUTRAL
+d-654	Someone has visited every person and every place	A person visited Seychelles	ENTAILMENT
+d-655	Everyone has visited Russia, Zambia, Ethiopia, India, Saint Kitts & Nevis, Mauritania, Costa Rica, Seychelles, Marshall Islands, Turkmenistan, Nicaragua, France and Switzerland	Billy didn't visit Austria	NEUTRAL
+d-656	Someone has visited every person and every place	That person there didn't visit Comoros	NEUTRAL
+d-657	Someone has visited every person and every place	That individual there didn't visit Nicholas	NEUTRAL
+d-658	Everyone has visited Mauritius, Switzerland, San Mmarino, Zimbabwe, Venezuela, Burkina, Lithuania, Burundi, Central African Republic, Turkmenistan, Estonia, Uganda, Albania, Finland and Algeria	A person did visit Central African Republic	ENTAILMENT
+d-659	Everyone has visited every place	Dustin didn't visit Edgar	NEUTRAL
+d-660	Someone has visited every person and every place	That person there didn't visit Romania	NEUTRAL
+d-661	Everyone has visited every place	Rodney didn't visit Tyrone	NEUTRAL
+d-662	Everyone has visited Netherlands, North Korea, Moldova, Kiribati, Slovakia, Iran, Bulgaria, Saudi Arabia, Kazakhstan, Eritrea and Gabon	Someone didn't visit Kazakhstan	CONTRADICTION
+d-663	Everyone has visited every place	Mathew didn't visit Jerry	NEUTRAL
+d-664	Everyone has visited Iraq, Namibia, Grenada, Nepal, Bahrain, Eswatini, Philippines, Latvia, Netherlands, Ecuador, Togo, Tunisia, Malaysia and Ethiopia	Tyler did visit Latvia	ENTAILMENT
+d-665	Everyone has visited every place	John didn't visit Sean	NEUTRAL
+d-666	Everyone has visited United States, Antigua & Barbuda, Sweden, Suriname, Marshall Islands, Panama, Nauru, Hungary, Mauritius, Turkey, Singapore, Belize and Niger	Jorge didn't visit Marshall Islands	CONTRADICTION
+d-667	Everyone has visited every person and every place	Alberto didn't visit Morocco	CONTRADICTION
+d-668	Someone has visited every person and every place	Someone visited Tunisia	ENTAILMENT
+d-669	Everyone has visited Australia, Sierra Leone, Costa Rica, Palestine, Latvia, United States, Eswatini, Qatar, Guatemala, Senegal, Nauru, Saudi Arabia, Vatican City, Uganda and Ukraine	Darrell did visit Vatican City	ENTAILMENT
+d-670	Everyone has visited every person and every place	Marvin didn't visit Danny	CONTRADICTION
+d-671	Everyone has visited Kyrgyzstan, Niger, Liberia, Germany, Angola, Qatar, Jordan, Portugal, Finland, Russia, Italy, Sierra Leone, Myanmar, Honduras, Belize, Argentina, Brazil and Bolivia	Pedro didn't visit Bolivia	CONTRADICTION
+d-672	Everyone has visited Guyana, New Zealand, Belize, Côte D'ivore, Bulgaria, Vatican City, Tonga, Luxembourg, São Tomé & Prícipe, Antigua & Barbuda, Monaco, Kuwait and Jamaica	Brian didn't visit Tonga	CONTRADICTION
+d-673	Everyone has visited Guinea-Bissau, Malta, Federated States of Micronesia, Saint Kitts & Nevis, Nigeria, Turkmenistan, New Zealand, Luxembourg, Andorra, Azerbaijan, Zambia, Nicaragua, Tanzania, Seychelles, United Arab Emirates, Liberia and Netherlands	That person there did visit Andorra	ENTAILMENT
+d-674	Someone has visited every person and every place	That person there didn't visit Russell	NEUTRAL
+d-675	Everyone has visited Kiribati, Serbia, Ghana, Estonia, Kuwait, Bhutan, Belgium, Guyana, France, Ukraine, Pakistan, San Mmarino, Togo, Republic of the Congo, Australia and Bangladesh	Freddie did visit Ukraine	ENTAILMENT
+d-676	Someone has visited every person and every place	That individual there didn't visit Floyd	NEUTRAL
+d-677	Someone has visited every person and every place	A person didn't visit Canada	CONTRADICTION
+d-678	Everyone has visited Central African Republic, Brunei, Norway, Belarus, Jamaica, Solomon Islands, Cuba, Vietnam, South Africa, Samoa, Iceland and Venezuela	That person there did visit Norway	ENTAILMENT
+d-679	Someone has visited every person and every place	That individual there didn't visit Croatia	NEUTRAL
+d-680	Someone has visited every person and every place	An individual didn't visit Croatia	CONTRADICTION
+d-681	Everyone has visited every person and every place	Bobby didn't visit Singapore	CONTRADICTION
+d-682	Someone has visited every person and every place	That particular person didn't visit Miguel	NEUTRAL
+d-683	Everyone has visited Tunisia, China, Singapore, Botswana, Mauritania, Serbia, Mali, Timor-Leste, Republic of the Congo, Ethiopia, Germany, Togo and France	Someone did visit Serbia	ENTAILMENT
+d-684	Everyone has visited South Africa, Jamaica, Lesotho, Venezuela, Niger, Senegal, Kuwait, Philippines, Haiti, Laos, Slovenia, Iraq, Bulgaria, Albania, Colombia, Dominican Republic, Poland, Malaysia, Luxembourg and Macedonia	Someone did visit Laos	ENTAILMENT
+d-685	Someone has visited every person and every place	That particular person didn't visit Mitchell	NEUTRAL
+d-686	Everyone has visited every place	Don didn't visit Egypt	CONTRADICTION
+d-687	Everyone has visited every person	George didn't visit Brad	CONTRADICTION
+d-688	Someone has visited every person and every place	Someone visited Equatorial Guinea	ENTAILMENT
+d-689	Everyone has visited Uzbekistan, Chad, Mongolia, Marshall Islands, Pakistan, Yemen, Turkey, Netherlands, United Kingdom, Afghanistan, India, France, Lithuania and Brazil	Salvador didn't visit Fiji	NEUTRAL
+d-690	Everyone has visited Mexico, Saint Vincent & the Grenadines, Mauritius, Uruguay, Malta, Rwanda, Maldives, Zimbabwe, Indonesia, Guinea, Ecuador, Latvia, Barbados, Liberia and Lithuania	Jordan didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-691	Everyone has visited every place	Louis didn't visit Wesley	NEUTRAL
+d-692	Everyone has visited every person and every place	Brian didn't visit Gary	CONTRADICTION
+d-693	Everyone has visited Lithuania, Laos, Australia, Iran, Nauru, Benin, Hungary, Nepal, Andorra, Vatican City, Nicaragua and Saint Kitts & Nevis	Gregory didn't visit Yemen	NEUTRAL
+d-694	Everyone has visited Tuvalu, Canada, Kosovo, Niger, Czech Republic, Mauritania, Brazil, Oman, Central African Republic, Guyana, Qatar, Bhutan, Myanmar, Mexico, Georgia and Sudan	That individual there did visit Myanmar	ENTAILMENT
+d-695	Everyone has visited Guinea, Lesotho, Georgia, France, Hungary, Saint Lucia, Zimbabwe, Ghana, Bangladesh, Laos, Maldives, Bolivia, South Sudan and Cuba	Lawrence didn't visit Zimbabwe	CONTRADICTION
+d-696	Everyone has visited Comoros, Mexico, Bangladesh, Mongolia, Tajikistan, India, Madagascar, United Arab Emirates, Panama, Rwanda, Ecuador, Poland and Sweden	An individual did visit Mexico	ENTAILMENT
+d-697	Everyone has visited every person and every place	Samuel didn't visit Rodney	CONTRADICTION
+d-698	Everyone has visited Macedonia, Indonesia, Spain, India, Saint Vincent & the Grenadines, Luxembourg, Bhutan, Panama, Togo, Angola, Bangladesh, Kiribati, Slovakia and Andorra	Gene didn't visit Algeria	NEUTRAL
+d-699	Everyone has visited Djibouti, Indonesia, Fiji, Antigua & Barbuda, Hungary, Australia, Dominican Republic, Libya, Tajikistan, Netherlands, Uzbekistan, Sierra Leone, Portugal, Comoros, Montenegro, South Korea, North Korea, Bhutan and Bangladesh	Alan didn't visit Costa Rica	NEUTRAL
+d-700	Everyone has visited Saudi Arabia, Thailand, Austria, Cuba, Ethiopia, Bangladesh, Djibouti, Mongolia, Cambodia, Australia, Kosovo, Finland, Mauritania, Solomon Islands, Somalia, Papua New Guinea, Montenegro, Togo and Sri Lanka	Patrick didn't visit Tunisia	NEUTRAL
+d-701	Everyone has visited Albania, Ghana, Sierra Leone, Hungary, Algeria, Dominica, Seychelles, Libya, Oman, Lithuania, Mongolia, Cameroon, Spain, Sweden, Italy, Botswana, Norway and Iran	Wallace didn't visit Liberia	NEUTRAL
+d-702	Everyone has visited every person and every place	Nelson didn't visit Willie	CONTRADICTION
+d-703	Someone has visited every person and every place	That person there didn't visit Jared	NEUTRAL
+d-704	Everyone has visited every person and every place	Allan didn't visit Lebanon	CONTRADICTION
+d-705	Someone has visited every person and every place	A person visited Ted	ENTAILMENT
+d-706	Everyone has visited The Bahamas, United States, Brazil, Vietnam, Kyrgyzstan, São Tomé & Prícipe, Guatemala, Australia, Germany, Finland, Montenegro, Netherlands, Belize, Myanmar, Jordan, Turkey and Nicaragua	That particular person did visit Brazil	ENTAILMENT
+d-707	Everyone has visited Papua New Guinea, Azerbaijan, Antigua & Barbuda, Uganda, Bulgaria, India, Moldova, Tunisia, New Zealand, Trinidad & Tobago, Palestine and Lithuania	An individual did visit India	ENTAILMENT
+d-708	Someone has visited every person and every place	That individual there didn't visit Kiribati	NEUTRAL
+d-709	Everyone has visited Fiji, Eswatini, Cyprus, Malta, Oman, Sudan, São Tomé & Prícipe, Finland, Rwanda, Andorra, Tanzania, Thailand, San Mmarino, Turkey, Macedonia, Philippines, Malawi and Jamaica	An individual didn't visit Rwanda	CONTRADICTION
+d-710	Everyone has visited every person	Glen didn't visit Charles	CONTRADICTION
+d-711	Someone has visited every person and every place	That individual there didn't visit Edgar	NEUTRAL
+d-712	Everyone has visited every person	Oscar didn't visit Jesus	CONTRADICTION
+d-713	Everyone has visited every place	Derrick didn't visit Ruben	NEUTRAL
+d-714	Someone has visited every person and every place	That particular person didn't visit Canada	NEUTRAL
+d-715	Everyone has visited every place	Frederick didn't visit Eddie	NEUTRAL
+d-716	Everyone has visited every place	Everett didn't visit Darrell	NEUTRAL
+d-717	Everyone has visited Azerbaijan, Netherlands, Nigeria, Panama, Thailand, North Korea, Norway, Central African Republic, Namibia, Mozambique, Egypt and Honduras	That particular person did visit Mozambique	ENTAILMENT
+d-718	Everyone has visited every place	Justin didn't visit Lithuania	CONTRADICTION
+d-719	Everyone has visited São Tomé & Prícipe, Republic of the Congo, Turkmenistan, Mexico, Malaysia, Kyrgyzstan, Canada, Trinidad & Tobago, Afghanistan, Cabo, Slovenia, Eritrea, Belize, Guyana and Togo	An individual didn't visit Cabo	CONTRADICTION
+d-720	Everyone has visited Dominica, United Arab Emirates, South Korea, Austria, New Zealand, Macedonia, Tonga, Comoros, Czech Republic, Nepal and Democratic Republic of the Congo	Someone did visit South Korea	ENTAILMENT
+d-721	Someone has visited every person and every place	A person visited Kurt	ENTAILMENT
+d-722	Everyone has visited India, Sri Lanka, Liechtenstein, Myanmar, Maldives, Laos, Bolivia, Russia, Saudi Arabia and South Sudan	Someone didn't visit Liechtenstein	CONTRADICTION
+d-723	Everyone has visited Portugal, Syria, Germany, Philippines, Guatemala, Botswana, Malta, New Zealand, Maldives, Denmark, South Sudan, Guinea and Niger	A person did visit New Zealand	ENTAILMENT
+d-724	Everyone has visited every person	Carl didn't visit Gilbert	CONTRADICTION
+d-725	Everyone has visited every person	Richard didn't visit Alex	CONTRADICTION
+d-726	Everyone has visited Democratic Republic of the Congo, Jordan, Cameroon, Palestine, El Salvador, Comoros, Bulgaria, Maldives, United Arab Emirates and Burkina	Ross didn't visit Malawi	NEUTRAL
+d-727	Someone has visited every person and every place	An individual didn't visit Bahrain	CONTRADICTION
+d-728	Everyone has visited Kosovo, Comoros, Sri Lanka, Bosnia & Herzegovinia, Malawi, Bulgaria, Venezuela, Ghana, Democratic Republic of the Congo, Israel, Egypt and Hungary	An individual didn't visit Democratic Republic of the Congo	CONTRADICTION
+d-729	Everyone has visited every place	Dustin didn't visit Jeffery	NEUTRAL
+d-730	Someone has visited every person and every place	Someone didn't visit Gene	CONTRADICTION
+d-731	Everyone has visited every place	Ross didn't visit Jerome	NEUTRAL
+d-732	Everyone has visited every place	Ivan didn't visit Alexander	NEUTRAL
+d-733	Someone has visited every person and every place	Someone visited Libya	ENTAILMENT
+d-734	Someone has visited every person and every place	A person didn't visit Terrence	CONTRADICTION
+d-735	Everyone has visited Saint Kitts & Nevis, Trinidad & Tobago, Brunei, Brazil, United Kingdom, Panama, Barbados, Eritrea, The Bahamas, Poland, Honduras, Lithuania, Russia, Mauritania, Yemen, Austria, São Tomé & Prícipe, Iran and Central African Republic	Someone did visit Poland	ENTAILMENT
+d-736	Everyone has visited Eswatini, China, Uruguay, Namibia, Lithuania, Maldives, Niger, Iceland, El Salvador, Guinea, Rwanda, Marshall Islands, Afghanistan and Canada	Nelson didn't visit Iceland	CONTRADICTION
+d-737	Everyone has visited Uzbekistan, Hungary, Suriname, Spain, Portugal, Djibouti, Monaco, Belize, Brunei, Malaysia, Honduras, Guatemala, Grenada, Liberia, Saint Vincent & the Grenadines, Angola, Argentina and Libya	Howard did visit Guatemala	ENTAILMENT
+d-738	Everyone has visited Costa Rica, South Korea, Qatar, South Sudan, Slovenia, Zimbabwe, Central African Republic, Mali, Vatican City, Switzerland, Jordan, Burkina and Bolivia	That individual there did visit Vatican City	ENTAILMENT
+d-739	Everyone has visited Saint Vincent & the Grenadines, Guinea, Czech Republic, Seychelles, Yemen, Poland, Tunisia, Greece, Palau, Morocco, Belize, Argentina, Italy, Bulgaria, Liberia, Namibia, Equatorial Guinea, Algeria and Thailand	That particular person did visit Algeria and Thailand	ENTAILMENT
+d-740	Everyone has visited every place	Lloyd didn't visit Jordan	NEUTRAL
+d-741	Everyone has visited every place	Clyde didn't visit Sam	NEUTRAL
+d-742	Someone has visited every person and every place	An individual visited Mauritius	ENTAILMENT
+d-743	Everyone has visited Trinidad & Tobago, Slovenia, Luxembourg, Guyana, Somalia, Barbados, Samoa, New Zealand, Eswatini, Guatemala, Tajikistan, Honduras, Kosovo and Nauru	An individual did visit Honduras	ENTAILMENT
+d-744	Everyone has visited every person and every place	Jeffrey didn't visit Joshua	CONTRADICTION
+d-745	Someone has visited every person and every place	An individual didn't visit Haiti	CONTRADICTION
+d-746	Everyone has visited Tanzania, Turkmenistan, Maldives, Israel, Czech Republic, Vietnam, Trinidad & Tobago, Djibouti, Botswana, Italy and Philippines	Rafael did visit Maldives	ENTAILMENT
+d-747	Everyone has visited Lithuania, Panama, Mexico, Togo, Malawi, Mauritius, Timor-Leste, Palau, Slovenia, China, Somalia, Iran, Bosnia & Herzegovinia, Belgium, Dominican Republic, Saint Vincent & the Grenadines, Sudan, Botswana, Cabo and Niger	Someone didn't visit Iran	CONTRADICTION
+d-748	Everyone has visited Suriname, Azerbaijan, South Africa, Guyana, Papua New Guinea, Oman, Uganda, Sweden, Costa Rica, Montenegro and Russia	Glen didn't visit Singapore	NEUTRAL
+d-749	Someone has visited every person and every place	An individual visited Palestine	ENTAILMENT
+d-750	Everyone has visited every place	Darrell didn't visit Kurt	NEUTRAL
+d-751	Everyone has visited every place	Cory didn't visit Neil	NEUTRAL
+d-752	Someone has visited every person and every place	That individual there didn't visit Clyde	NEUTRAL
+d-753	Everyone has visited every person and every place	Hector didn't visit Belize	CONTRADICTION
+d-754	Everyone has visited Federated States of Micronesia, Andorra, Liechtenstein, Maldives, Saint Kitts & Nevis, Czech Republic, Mauritania, Saint Vincent & the Grenadines, Cyprus, Laos, Greece and Malaysia	Max didn't visit Djibouti	NEUTRAL
+d-755	Everyone has visited every place	Peter didn't visit Curtis	NEUTRAL
+d-756	Someone has visited every person and every place	A person visited Liberia	ENTAILMENT
+d-757	Someone has visited every person and every place	That individual there didn't visit Glen	NEUTRAL
+d-758	Someone has visited every person and every place	An individual didn't visit Botswana	CONTRADICTION
+d-759	Someone has visited every person and every place	Someone visited Turkey	ENTAILMENT
+d-760	Everyone has visited every place	Lloyd didn't visit Sudan	CONTRADICTION
+d-761	Everyone has visited every place	Gene didn't visit United States	CONTRADICTION
+d-762	Someone has visited every person and every place	An individual didn't visit Tonga	CONTRADICTION
+d-763	Everyone has visited Solomon Islands, Colombia, El Salvador, Lithuania, Montenegro, Djibouti, Luxembourg, Lesotho, South Sudan, Switzerland, Georgia, Mongolia, Comoros, Sri Lanka, Trinidad & Tobago, Eswatini and Chile	An individual didn't visit Colombia	CONTRADICTION
+d-764	Someone has visited every person and every place	That person there didn't visit Burkina	NEUTRAL
+d-765	Everyone has visited Georgia, Spain, Malta, Sri Lanka, Nigeria, Czech Republic, Mauritania, Thailand, Madagascar, Norway, Central African Republic, Malawi, Belize and Germany	Jerome didn't visit Comoros	NEUTRAL
+d-766	Everyone has visited Pakistan, El Salvador, Grenada, Niger, Equatorial Guinea, Gambia, Laos, Belize, Australia, Central African Republic, Kyrgyzstan, Saint Lucia and Slovenia	Mitchell did visit Niger	ENTAILMENT
+d-767	Everyone has visited every place	Ian didn't visit Estonia	CONTRADICTION
+d-768	Someone has visited every person and every place	That person there didn't visit Neil	NEUTRAL
+d-769	Everyone has visited Nigeria, Equatorial Guinea, Central African Republic, Russia, Turkey, Guinea-Bissau, Grenada, Mongolia, Myanmar, Romania and Montenegro	Johnnie didn't visit Morocco	NEUTRAL
+d-770	Everyone has visited every person and every place	Matthew didn't visit Turkmenistan	CONTRADICTION
+d-771	Everyone has visited Tonga, Burkina, Mongolia, Romania, Niger, Yemen, South Korea, Solomon Islands, Netherlands, Singapore, Zimbabwe, Comoros and Ukraine	Kyle didn't visit Greece	NEUTRAL
+d-772	Everyone has visited Bolivia, Madagascar, Saint Lucia, Somalia, Uruguay, Federated States of Micronesia, Iran, Hungary, Andorra, Gabon, Bangladesh, Israel, Botswana, Iceland, Kyrgyzstan, Namibia and Trinidad & Tobago	That individual there did visit Iran	ENTAILMENT
+d-773	Everyone has visited Honduras, The Bahamas, Liberia, Cameroon, Panama, Croatia, Suriname, Venezuela, Greece, Palau, Vietnam, Monaco, Zimbabwe, Afghanistan, Cyprus, Peru, Germany, Timor-Leste, France and Colombia	Kenneth did visit Suriname	ENTAILMENT
+d-774	Everyone has visited every place	Steve didn't visit Ivan	NEUTRAL
+d-775	Someone has visited every person and every place	That individual there didn't visit Barry	NEUTRAL
+d-776	Everyone has visited Burkina, Mauritania, Mexico, Egypt, Samoa, Solomon Islands, Cambodia, Morocco, Kenya, Tajikistan, Thailand, Suriname, Malawi, Latvia, Trinidad & Tobago, Switzerland, France, Finland, Federated States of Micronesia and Djibouti	Maurice did visit Morocco	ENTAILMENT
+d-777	Someone has visited every person and every place	An individual visited Guatemala	ENTAILMENT
+d-778	Someone has visited every person and every place	That individual there didn't visit Johnnie	NEUTRAL
+d-779	Everyone has visited Cyprus, Panama, Belarus, Federated States of Micronesia, Vietnam, Fiji, Suriname, Timor-Leste, Libya, Yemen, Madagascar and Antigua & Barbuda	Jessie did visit Vietnam	ENTAILMENT
+d-780	Someone has visited every person and every place	An individual visited North Korea	ENTAILMENT
+d-781	Someone has visited every person and every place	A person visited Joel	ENTAILMENT
+d-782	Everyone has visited Italy, Zambia, Djibouti, Brunei, Japan, Paraguay, The Bahamas, United Arab Emirates, Cameroon and Estonia	A person did visit United Arab Emirates	ENTAILMENT
+d-783	Everyone has visited every place	Mitchell didn't visit Joseph	NEUTRAL
+d-784	Everyone has visited Morocco, Brunei, Namibia, Timor-Leste, Saint Vincent & the Grenadines, Dominican Republic, Vanuatu, Finland, Antigua & Barbuda, Albania, Tajikistan, Eswatini, Niger, Somalia, Malawi, Palestine, Singapore, Rwanda, Paraguay and Honduras	Kent didn't visit Croatia	NEUTRAL
+d-785	Everyone has visited Andorra, Singapore, Angola, Antigua & Barbuda, Malta, São Tomé & Prícipe, Albania, Lithuania, Timor-Leste, Mozambique, Gambia, Vatican City, Netherlands, Yemen, Macedonia, Solomon Islands and Azerbaijan	Marc didn't visit Malta	CONTRADICTION
+d-786	Everyone has visited Kiribati, Egypt, North Korea, Zambia, Namibia, Costa Rica, Montenegro, Barbados, India, Vatican City, Malawi, Libya, Honduras, China, Sierra Leone, Tajikistan, Sudan and Democratic Republic of the Congo	Someone didn't visit Malawi	CONTRADICTION
+d-787	Everyone has visited every place	James didn't visit Marshall Islands	CONTRADICTION
+d-788	Everyone has visited Nicaragua, South Korea, Comoros, Luxembourg, Paraguay, Cabo, Dominican Republic, Mali, Palau, Latvia and Marshall Islands	Robert didn't visit San Mmarino	NEUTRAL
+d-789	Everyone has visited Peru, Myanmar, Saudi Arabia, Mauritius, Estonia, Pakistan, Montenegro, Morocco, Saint Vincent & the Grenadines and New Zealand	That particular person did visit Myanmar	ENTAILMENT
+d-790	Everyone has visited every place	Darrell didn't visit Todd	NEUTRAL
+d-791	Everyone has visited every place	Alfred didn't visit Senegal	CONTRADICTION
+d-792	Everyone has visited every place	George didn't visit Terrance	NEUTRAL
+d-793	Everyone has visited Solomon Islands, Moldova, El Salvador, Guinea-Bissau, Mali, Turkey, Bangladesh, Indonesia, Djibouti, Qatar, Singapore, Japan, United Arab Emirates, Pakistan, Equatorial Guinea, Democratic Republic of the Congo and Nauru	A person did visit Guinea-Bissau	ENTAILMENT
+d-794	Everyone has visited every place	Roland didn't visit Javier	NEUTRAL
+d-795	Someone has visited every person and every place	That individual there didn't visit Pakistan	NEUTRAL
+d-796	Someone has visited every person and every place	Someone didn't visit Denmark	CONTRADICTION
+d-797	Everyone has visited every person	Tracy didn't visit Donald	CONTRADICTION
+d-798	Someone has visited every person and every place	A person didn't visit Cody	CONTRADICTION
+d-799	Everyone has visited every person and every place	Mike didn't visit Togo	CONTRADICTION
+d-800	Everyone has visited every person	Harry didn't visit Marc	CONTRADICTION
+d-801	Everyone has visited every place	Charlie didn't visit Ted	NEUTRAL
+d-802	Everyone has visited Côte D'ivore, Estonia, Iceland, North Korea, Palestine, Turkey, Mozambique, India, Belize, Samoa, Georgia, Eswatini, Bahrain, Egypt, Poland, Ireland and Barbados	Someone did visit Palestine	ENTAILMENT
+d-803	Everyone has visited every place	Willard didn't visit Albert	NEUTRAL
+d-804	Everyone has visited Italy, Monaco, Zambia, Liberia, Guyana, Togo, Belize, Zimbabwe, Haiti, United Arab Emirates, Madagascar, Cabo, Montenegro, Thailand, Australia and Papua New Guinea	That particular person did visit Monaco	ENTAILMENT
+d-805	Someone has visited every person and every place	An individual visited Mauritania	ENTAILMENT
+d-806	Everyone has visited every person and every place	Ricardo didn't visit Frederick	CONTRADICTION
+d-807	Everyone has visited Monaco, Fiji, The Bahamas, Jamaica, Hungary, Greece, Guinea-Bissau, Malawi, Sweden, Tanzania and Antigua & Barbuda	That particular person did visit Sweden	ENTAILMENT
+d-808	Everyone has visited every place	Keith didn't visit Saudi Arabia	CONTRADICTION
+d-809	Everyone has visited Guyana, Democratic Republic of the Congo, Ghana, Canada, Zambia, Liberia, Guatemala, Uganda, Macedonia, Malta, United States, Nauru, Estonia, Iraq, Latvia and Tajikistan	Jordan didn't visit Ghana	CONTRADICTION
+d-810	Everyone has visited Fiji, Italy, Ukraine, Timor-Leste, Suriname, Dominican Republic, Israel, Panama, Ecuador, Solomon Islands, Syria, Chile and Mexico	That particular person did visit Dominican Republic	ENTAILMENT
+d-811	Everyone has visited Albania, Grenada, France, Botswana, Mozambique, Cyprus, Austria, Cuba, Eritrea, Czech Republic, Palau, Romania, Venezuela, Nauru and Uganda	That individual there did visit Botswana	ENTAILMENT
+d-812	Everyone has visited Federated States of Micronesia, Chad, Antigua & Barbuda, Iraq, Belarus, Lesotho, Canada, Côte D'ivore, Dominican Republic, Malta, Guyana, Sudan, Iran, Honduras, Japan, Saint Kitts & Nevis, Bosnia & Herzegovinia, San Mmarino and Kosovo	Someone did visit San Mmarino and Kosovo	ENTAILMENT
+d-813	Everyone has visited Peru, Belize, Brunei, Cabo, Georgia, South Sudan, Saint Lucia, Paraguay, El Salvador, Equatorial Guinea, San Mmarino, Iran, Malta and Djibouti	Ben didn't visit Saint Lucia	CONTRADICTION
+d-814	Everyone has visited Rwanda, Philippines, Benin, Morocco, Serbia, Bahrain, Myanmar, Afghanistan, Netherlands, Nauru, China, Kosovo, Mozambique, Vietnam, Portugal, Pakistan and Switzerland	That particular person did visit Benin	ENTAILMENT
+d-815	Someone has visited every person and every place	Someone didn't visit Roberto	CONTRADICTION
+d-816	Someone has visited every person and every place	That person there didn't visit Botswana	NEUTRAL
+d-817	Someone has visited every person and every place	That particular person didn't visit Poland	NEUTRAL
+d-818	Everyone has visited every place	Luis didn't visit Edgar	NEUTRAL
+d-819	Someone has visited every person and every place	That person there didn't visit Iraq	NEUTRAL
+d-820	Everyone has visited every place	Morris didn't visit Neil	NEUTRAL
+d-821	Everyone has visited every person and every place	Benjamin didn't visit United Arab Emirates	CONTRADICTION
+d-822	Everyone has visited every place	Lester didn't visit Nicholas	NEUTRAL
+d-823	Everyone has visited Finland, Namibia, Singapore, Slovakia, Bulgaria, Madagascar, Canada, Equatorial Guinea, Cuba, Gabon, Nepal, Cyprus, Uruguay and Lesotho	Ricky did visit Uruguay and Lesotho	ENTAILMENT
+d-824	Everyone has visited Pakistan, Jamaica, Italy, Tunisia, Grenada, Barbados, Chile, San Mmarino, Romania, Russia, Thailand, El Salvador, Saint Vincent & the Grenadines, Mexico, Colombia, Palau and Bulgaria	Juan did visit Italy	ENTAILMENT
+d-825	Everyone has visited Chile, Liberia, Panama, Dominican Republic, Bosnia & Herzegovinia, Sri Lanka, Namibia, Moldova, San Mmarino, Palau, Yemen, Zimbabwe, Gambia, Côte D'ivore, Croatia, Cuba and Haiti	Pedro did visit Bosnia & Herzegovinia	ENTAILMENT
+d-826	Everyone has visited Mali, Kenya, Comoros, Kiribati, Egypt, Barbados, Israel, Thailand, Iran, Libya, Chad, Estonia, Rwanda, Liechtenstein and United Kingdom	Ryan didn't visit Barbados	CONTRADICTION
+d-827	Everyone has visited Turkey, Egypt, Côte D'ivore, Cambodia, Somalia, Samoa, Saint Kitts & Nevis, Philippines, Uzbekistan, Malta and Japan	That individual there did visit Philippines	ENTAILMENT
+d-828	Everyone has visited Serbia, South Africa, Belarus, Djibouti, Japan, Panama, Rwanda, Jamaica, Kyrgyzstan, Antigua & Barbuda, San Mmarino, Paraguay, Papua New Guinea, Poland and Equatorial Guinea	Dwight didn't visit Qatar	NEUTRAL
+d-829	Everyone has visited Morocco, Gambia, Japan, Turkey, Jamaica, Ecuador, Yemen, Marshall Islands, Suriname, United States, Gabon, Spain, Timor-Leste, Macedonia, Nicaragua, San Mmarino, Mauritius, Tuvalu and Somalia	Alan didn't visit Turkmenistan	NEUTRAL
+d-830	Everyone has visited every person and every place	Willie didn't visit South Korea	CONTRADICTION
+d-831	Everyone has visited every place	Neil didn't visit Libya	CONTRADICTION
+d-832	Someone has visited every person and every place	That person there didn't visit Laos	NEUTRAL
+d-833	Everyone has visited Belgium, Macedonia, Portugal, Algeria, Lithuania, Mexico, Jordan, Monaco, Nauru, Bolivia, Denmark, Suriname, Nicaragua, Estonia, Equatorial Guinea, Singapore, Angola and Russia	That person there did visit Bolivia	ENTAILMENT
+d-834	Someone has visited every person and every place	A person visited Ecuador	ENTAILMENT
+d-835	Everyone has visited Netherlands, San Mmarino, Vanuatu, Canada, Kiribati, United Kingdom, Sri Lanka, The Bahamas, Federated States of Micronesia, Dominican Republic, Namibia, Paraguay, Brunei, Ireland, Nepal, France, Chad, Liberia, Zambia and Fiji	Marvin didn't visit Moldova	NEUTRAL
+d-836	Someone has visited every person and every place	That person there didn't visit Nicholas	NEUTRAL
+d-837	Everyone has visited every person and every place	Nathan didn't visit Shane	CONTRADICTION
+d-838	Someone has visited every person and every place	That individual there didn't visit Israel	NEUTRAL
+d-839	Everyone has visited every place	Dave didn't visit Billy	NEUTRAL
+d-840	Someone has visited every person and every place	An individual visited Jerome	ENTAILMENT
+d-841	Everyone has visited every place	Benjamin didn't visit Everett	NEUTRAL
+d-842	Someone has visited every person and every place	An individual didn't visit Ukraine	CONTRADICTION
+d-843	Everyone has visited Qatar, Myanmar, Kiribati, Suriname, Sweden, São Tomé & Prícipe, Bangladesh, Azerbaijan, Malta, Thailand and Paraguay	Joshua didn't visit São Tomé & Prícipe	CONTRADICTION
+d-844	Everyone has visited Barbados, New Zealand, Ireland, South Korea, Chad, Kenya, Jordan, Djibouti, Seychelles, Finland, Iraq, Egypt, Nauru, Eswatini, Switzerland and Côte D'ivore	Terrance didn't visit Bahrain	NEUTRAL
+d-845	Someone has visited every person and every place	That individual there didn't visit Lithuania	NEUTRAL
+d-846	Everyone has visited Burundi, Afghanistan, Chile, Uruguay, Timor-Leste, Finland, Kyrgyzstan, Bosnia & Herzegovinia, Bhutan, Russia and Maldives	An individual did visit Chile	ENTAILMENT
+d-847	Someone has visited every person and every place	Someone visited Allan	ENTAILMENT
+d-848	Everyone has visited Venezuela, Finland, Ethiopia, Eritrea, Argentina, Monaco, Morocco, Andorra, Macedonia, Netherlands, Central African Republic, Colombia, Bulgaria, Switzerland, Malta, Croatia, Guinea, Uzbekistan, Nauru and Azerbaijan	Scott did visit Venezuela	ENTAILMENT
+d-849	Everyone has visited Montenegro, Slovakia, Kenya, Belarus, Guinea-Bissau, Federated States of Micronesia, Malta, Marshall Islands, Norway, Bhutan and Colombia	Alexander did visit Belarus	ENTAILMENT
+d-850	Everyone has visited every person and every place	Martin didn't visit Brazil	CONTRADICTION
+d-851	Everyone has visited Mongolia, Solomon Islands, El Salvador, Switzerland, Eswatini, Slovakia, Tunisia, Zambia, Indonesia, Grenada, Lithuania, Central African Republic, Marshall Islands, Sweden, Peru, Argentina, Yemen, Tajikistan and Palau	Someone did visit Solomon Islands	ENTAILMENT
+d-852	Everyone has visited Portugal, Luxembourg, Mali, Saudi Arabia, Angola, Estonia, Ukraine, Vatican City, Malta, Sierra Leone, Guatemala, South Korea, Niger, Russia, Ireland, Latvia, Barbados, Malawi, The Bahamas and Namibia	Mathew didn't visit Romania	NEUTRAL
+d-853	Everyone has visited Ukraine, Central African Republic, Jordan, Maldives, Japan, Ethiopia, Kenya, South Africa, Togo, Belgium, Mauritania, Barbados, Kazakhstan and Syria	A person did visit Kenya	ENTAILMENT
+d-854	Everyone has visited Eswatini, Croatia, Georgia, The Bahamas, Switzerland, Jordan, Philippines, Albania, Venezuela, Nicaragua, Malawi, Bangladesh, Benin, Brunei, Namibia and Uruguay	Ted didn't visit Nicaragua	CONTRADICTION
+d-855	Everyone has visited Eswatini, Kuwait, Panama, Malawi, Saudi Arabia, Denmark, Bhutan, Namibia, Tunisia, Central African Republic, Palestine, Dominican Republic, Madagascar and Benin	Roger did visit Palestine	ENTAILMENT
+d-856	Everyone has visited Suriname, Ecuador, Eswatini, Russia, Serbia, Republic of the Congo, Laos, Sri Lanka, Nepal, Latvia and Gabon	Gilbert did visit Latvia and Gabon	ENTAILMENT
+d-857	Someone has visited every person and every place	A person visited Kent	ENTAILMENT
+d-858	Someone has visited every person and every place	That particular person didn't visit Iceland	NEUTRAL
+d-859	Everyone has visited Nepal, Georgia, United Kingdom, United Arab Emirates, Cameroon, Liechtenstein, Azerbaijan, Poland, Madagascar and Jamaica	Someone did visit Liechtenstein	ENTAILMENT
+d-860	Everyone has visited every person	Clifford didn't visit Jaime	CONTRADICTION
+d-861	Everyone has visited every place	Ryan didn't visit Tonga	CONTRADICTION
+d-862	Everyone has visited Laos, Hungary, Guinea-Bissau, Chile, Malawi, Ghana, Colombia, Marshall Islands, South Africa, Croatia, Austria, Chad, Rwanda and Guyana	An individual did visit Croatia	ENTAILMENT
+d-863	Everyone has visited every place	Jared didn't visit Albert	NEUTRAL
+d-864	Someone has visited every person and every place	That individual there didn't visit Thailand	NEUTRAL
+d-865	Someone has visited every person and every place	That individual there didn't visit Patrick	NEUTRAL
+d-866	Everyone has visited Solomon Islands, São Tomé & Prícipe, Peru, Oman, Spain, Denmark, Andorra, Mongolia, Guinea, Montenegro, Guyana, El Salvador and San Mmarino	Samuel didn't visit Canada	NEUTRAL
+d-867	Everyone has visited Cyprus, Austria, Peru, Vanuatu, Saint Lucia, Trinidad & Tobago, Mexico, Djibouti, Somalia, Angola and Comoros	Someone didn't visit Austria	CONTRADICTION
+d-868	Everyone has visited every place	Tom didn't visit Marshall	NEUTRAL
+d-869	Someone has visited every person and every place	That individual there didn't visit Canada	NEUTRAL
+d-870	Everyone has visited Thailand, Kosovo, Antigua & Barbuda, Malaysia, Brunei, New Zealand, Equatorial Guinea, Comoros, São Tomé & Prícipe, Mali, Solomon Islands, North Korea and Ukraine	A person did visit New Zealand	ENTAILMENT
+d-871	Everyone has visited every place	Jesus didn't visit Samuel	NEUTRAL
+d-872	Everyone has visited every place	Richard didn't visit Jaime	NEUTRAL
+d-873	Someone has visited every person and every place	That particular person didn't visit Antigua & Barbuda	NEUTRAL
+d-874	Everyone has visited Benin, Chile, Albania, Croatia, Kiribati, The Bahamas, Turkmenistan, São Tomé & Prícipe, Cyprus and Montenegro	That individual there did visit Albania	ENTAILMENT
+d-875	Everyone has visited every place	Benjamin didn't visit Andrew	NEUTRAL
+d-876	Everyone has visited Sri Lanka, Poland, Maldives, Saint Kitts & Nevis, Republic of the Congo, Croatia, Ireland, San Mmarino, Nicaragua, Jamaica, Cambodia, Burkina, Vietnam, Dominican Republic, Tuvalu and Cuba	A person didn't visit Croatia	CONTRADICTION
+d-877	Someone has visited every person and every place	An individual visited Australia	ENTAILMENT
+d-878	Someone has visited every person and every place	That person there didn't visit Derek	NEUTRAL
+d-879	Someone has visited every person and every place	Someone visited New Zealand	ENTAILMENT
+d-880	Someone has visited every person and every place	That particular person didn't visit Chester	NEUTRAL
+d-881	Everyone has visited Vietnam, Mexico, Malaysia, Bosnia & Herzegovinia, Liechtenstein, North Korea, Kyrgyzstan, Saint Kitts & Nevis, The Bahamas, Kiribati, Guyana, Slovakia, Turkmenistan and Sri Lanka	Someone did visit Kyrgyzstan	ENTAILMENT
+d-882	Everyone has visited every place	Marcus didn't visit Johnnie	NEUTRAL
+d-883	Everyone has visited Tunisia, Indonesia, Federated States of Micronesia, Cambodia, Lebanon, Iraq, Somalia, Iran, Chad, Sierra Leone, Ireland, Italy, Yemen, Tajikistan, Mexico, Israel, Guinea and Palestine	Someone did visit Yemen	ENTAILMENT
+d-884	Everyone has visited every place	Marcus didn't visit Cory	NEUTRAL
+d-885	Someone has visited every person and every place	That particular person didn't visit Papua New Guinea	NEUTRAL
+d-886	Everyone has visited every place	Rafael didn't visit Julian	NEUTRAL
+d-887	Everyone has visited Tunisia, Syria, Eritrea, Slovakia, Georgia, San Mmarino, Brazil, Nicaragua, Vatican City, Poland, Ghana and Kazakhstan	Philip didn't visit Ghana	CONTRADICTION
+d-888	Everyone has visited Lebanon, Sudan, Venezuela, Malaysia, Marshall Islands, Tanzania, Afghanistan, Cabo, Myanmar, Libya and Guinea	Roger didn't visit Peru	NEUTRAL
+d-889	Everyone has visited Myanmar, Saint Vincent & the Grenadines, Pakistan, Turkmenistan, Sri Lanka, Saint Lucia, Madagascar, Switzerland, Saudi Arabia, Colombia, North Korea, Bosnia & Herzegovinia, Lebanon, Botswana and Guyana	A person didn't visit Turkmenistan	CONTRADICTION
+d-890	Everyone has visited South Korea, Nauru, Egypt, Australia, Liechtenstein, Saint Vincent & the Grenadines, Georgia, Somalia, Greece, Finland, Chile, Kyrgyzstan and Vietnam	An individual didn't visit Egypt	CONTRADICTION
+d-891	Everyone has visited Slovakia, Luxembourg, Afghanistan, Democratic Republic of the Congo, Mongolia, Chad, Mexico, Burundi, Dominican Republic and Peru	Theodore didn't visit Switzerland	NEUTRAL
+d-892	Someone has visited every person and every place	That person there didn't visit Niger	NEUTRAL
+d-893	Someone has visited every person and every place	That individual there didn't visit Sidney	NEUTRAL
+d-894	Everyone has visited Italy, Sweden, Niger, Poland, Venezuela, Russia, South Sudan, Trinidad & Tobago, Turkey, Senegal, Saint Lucia, Finland, Germany, Togo, Syria, São Tomé & Prícipe and Uzbekistan	Raul didn't visit Liberia	NEUTRAL
+d-895	Someone has visited every person and every place	A person didn't visit Mozambique	CONTRADICTION
+d-896	Everyone has visited Antigua & Barbuda, Niger, Austria, Guyana, Rwanda, Laos, Guatemala, North Korea, Côte D'ivore, Greece, Monaco, Sierra Leone and Vanuatu	Corey did visit Antigua & Barbuda	ENTAILMENT
+d-897	Everyone has visited every place	Melvin didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-898	Someone has visited every person and every place	An individual visited Zambia	ENTAILMENT
+d-899	Everyone has visited Andorra, Tuvalu, Rwanda, Japan, Poland, Jordan, Haiti, Czech Republic, Germany and Lebanon	Hector didn't visit Czech Republic	CONTRADICTION
+d-900	Everyone has visited every person	Tommy didn't visit Ivan	CONTRADICTION
+d-901	Everyone has visited Zimbabwe, Rwanda, Slovakia, Fiji, Sri Lanka, India, Guinea, Grenada, Nigeria, Nicaragua, Saint Lucia, Jamaica, Burundi and Cameroon	Jared didn't visit Barbados	NEUTRAL
+d-902	Everyone has visited every place	Francis didn't visit Ken	NEUTRAL
+d-903	Someone has visited every person and every place	An individual visited Kirk	ENTAILMENT
+d-904	Everyone has visited every person	Wayne didn't visit Rodney	CONTRADICTION
+d-905	Everyone has visited Netherlands, Palau, Mozambique, Peru, San Mmarino, Bangladesh, Palestine, Togo, Morocco and Myanmar	A person did visit Netherlands	ENTAILMENT
+d-906	Everyone has visited Haiti, Oman, Uzbekistan, Marshall Islands, Lebanon, Botswana, Egypt, Monaco, Finland, Chad, Morocco, Syria, Barbados, Honduras, Laos, Democratic Republic of the Congo, Maldives and Algeria	Martin didn't visit Nigeria	NEUTRAL
+d-907	Everyone has visited Dominican Republic, Cyprus, Laos, Norway, Turkey, Portugal, Burundi, Switzerland, Saint Lucia, Rwanda, South Africa, Paraguay, Senegal, Bolivia and Oman	A person didn't visit Saint Lucia	CONTRADICTION
+d-908	Everyone has visited every place	Javier didn't visit Harvey	NEUTRAL
+d-909	Someone has visited every person and every place	That individual there didn't visit Eswatini	NEUTRAL
+d-910	Everyone has visited every place	Victor didn't visit Myanmar	CONTRADICTION
+d-911	Everyone has visited Malta, Haiti, Moldova, Ethiopia, Tonga, Kosovo, Norway, Gambia, Rwanda and Belgium	Roger did visit Malta	ENTAILMENT
+d-912	Someone has visited every person and every place	A person didn't visit Gordon	CONTRADICTION
+d-913	Everyone has visited Syria, Dominica, Afghanistan, Suriname, Finland, Kuwait, Kosovo, Lesotho, Liechtenstein and Brazil	That individual there did visit Finland	ENTAILMENT
+d-914	Someone has visited every person and every place	A person didn't visit Enrique	CONTRADICTION
+d-915	Everyone has visited Yemen, El Salvador, Austria, Tanzania, Luxembourg, Fiji, Madagascar, Belarus, Ethiopia, Turkmenistan, Malta, Somalia, South Africa, Brazil, Armenia, Sudan, Nicaragua, Brunei, Mauritania and Georgia	Anthony did visit Malta	ENTAILMENT
+d-916	Everyone has visited Democratic Republic of the Congo, Kyrgyzstan, Mozambique, Rwanda, Palestine, Austria, Colombia, Ukraine, Antigua & Barbuda and Burkina	Casey didn't visit Latvia	NEUTRAL
+d-917	Someone has visited every person and every place	A person visited Glenn	ENTAILMENT
+d-918	Everyone has visited every place	Kenneth didn't visit Libya	CONTRADICTION
+d-919	Everyone has visited every person and every place	Glenn didn't visit Gambia	CONTRADICTION
+d-920	Everyone has visited every place	Cecil didn't visit Terrance	NEUTRAL
+d-921	Everyone has visited every place	Melvin didn't visit Sudan	CONTRADICTION
+d-922	Someone has visited every person and every place	A person visited Fiji	ENTAILMENT
+d-923	Everyone has visited every place	Johnnie didn't visit Edgar	NEUTRAL
+d-924	Everyone has visited Timor-Leste, Bhutan, Chile, Slovakia, Vanuatu, Canada, Netherlands, Saint Vincent & the Grenadines, South Africa, Romania and Saint Lucia	Bill didn't visit Angola	NEUTRAL
+d-925	Everyone has visited every place	Joel didn't visit Jim	NEUTRAL
+d-926	Everyone has visited Germany, Moldova, Costa Rica, Yemen, China, Belgium, Switzerland, Israel, United States, Grenada, Iraq, Saint Lucia, Madagascar and Saudi Arabia	That individual there did visit Saint Lucia	ENTAILMENT
+d-927	Everyone has visited every place	Steve didn't visit Willie	NEUTRAL
+d-928	Everyone has visited Uzbekistan, Kuwait, Cuba, Vietnam, Mongolia, Cambodia, Slovakia, Jamaica, Saint Kitts & Nevis, Republic of the Congo, Somalia and North Korea	That individual there did visit Saint Kitts & Nevis	ENTAILMENT
+d-929	Everyone has visited Saint Lucia, Canada, Cambodia, Libya, Iraq, Zimbabwe, Grenada, Papua New Guinea, Bahrain, Cabo, Serbia, Djibouti, Italy, Andorra and India	Kurt didn't visit Saint Lucia	CONTRADICTION
+d-930	Everyone has visited Uganda, United Kingdom, Nauru, Peru, Monaco, Georgia, Zambia, Nigeria, Comoros, Austria, Republic of the Congo, Togo, Haiti, Mauritius, Afghanistan, Ireland, Syria, Barbados and Croatia	A person didn't visit Togo	CONTRADICTION
+d-931	Someone has visited every person and every place	A person visited Duane	ENTAILMENT
+d-932	Someone has visited every person and every place	That individual there didn't visit South Africa	NEUTRAL
+d-933	Everyone has visited Uzbekistan, Marshall Islands, Ghana, Tonga, Cyprus, Palau, Benin, Uganda, Yemen, Switzerland, Jamaica, Vanuatu, Eritrea, Belarus, Lebanon and South Sudan	That particular person did visit Uzbekistan	ENTAILMENT
+d-934	Someone has visited every person and every place	An individual visited Philippines	ENTAILMENT
+d-935	Everyone has visited Democratic Republic of the Congo, United States, Nigeria, Finland, South Africa, Iceland, Singapore, Saint Kitts & Nevis, Turkmenistan, Belarus, Andorra, Ukraine, Argentina, Thailand, Grenada, Myanmar, Niger, Kosovo, Ireland and Bulgaria	That individual there did visit Belarus	ENTAILMENT
+d-936	Someone has visited every person and every place	An individual didn't visit Latvia	CONTRADICTION
+d-937	Everyone has visited every place	Jason didn't visit Julio	NEUTRAL
+d-938	Everyone has visited every person and every place	Armando didn't visit Scott	CONTRADICTION
+d-939	Everyone has visited Somalia, South Africa, Egypt, Bolivia, Romania, Mexico, São Tomé & Prícipe, Pakistan, Canada, Georgia, Bulgaria, Samoa, Botswana, Germany, Ukraine, Timor-Leste and Nigeria	Carl didn't visit Central African Republic	NEUTRAL
+d-940	Someone has visited every person and every place	An individual didn't visit Bradley	CONTRADICTION
+d-941	Someone has visited every person and every place	Someone visited Gilbert	ENTAILMENT
+d-942	Everyone has visited Panama, Uzbekistan, Palestine, Canada, Argentina, Mexico, Azerbaijan, Benin, Bulgaria, El Salvador, Morocco and Slovakia	That person there did visit Mexico	ENTAILMENT
+d-943	Everyone has visited Kazakhstan, Libya, Mozambique, Marshall Islands, Malawi, Vietnam, Jamaica, Ireland, Papua New Guinea, Federated States of Micronesia, Uganda, Croatia, Equatorial Guinea, Republic of the Congo, Sierra Leone, Ghana, Dominican Republic and Colombia	That person there did visit Republic of the Congo	ENTAILMENT
+d-944	Everyone has visited Guyana, Uganda, Finland, Democratic Republic of the Congo, Serbia, Canada, Andorra, Madagascar, India and Cuba	Morris didn't visit Yemen	NEUTRAL
+d-945	Everyone has visited every place	Mathew didn't visit Slovakia	CONTRADICTION
+d-946	Someone has visited every person and every place	That particular person didn't visit Tom	NEUTRAL
+d-947	Everyone has visited Netherlands, Palau, Mozambique, Peru, San Mmarino, Bangladesh, Palestine, Togo, Morocco and Myanmar	That person there did visit Netherlands	ENTAILMENT
+d-948	Someone has visited every person and every place	An individual visited Fiji	ENTAILMENT
+d-949	Everyone has visited Eswatini, North Korea, Bahrain, Hungary, France, Samoa, Chile, Georgia, Cyprus, Albania and Haiti	Wade did visit Albania and Haiti	ENTAILMENT
+d-950	Someone has visited every person and every place	That individual there didn't visit Theodore	NEUTRAL
+d-951	Everyone has visited every person and every place	Isaac didn't visit Freddie	CONTRADICTION
+d-952	Someone has visited every person and every place	That particular person didn't visit Melvin	NEUTRAL
+d-953	Everyone has visited Serbia, Cuba, Belgium, Slovakia, Qatar, Netherlands, Cambodia, Jamaica, Macedonia, Burundi, Armenia, Brazil, Equatorial Guinea, Niger, Canada, Lesotho and Austria	Adrian didn't visit Norway	NEUTRAL
+d-954	Everyone has visited every person and every place	Tyler didn't visit Moldova	CONTRADICTION
+d-955	Everyone has visited Benin, Afghanistan, Liberia, Iceland, Egypt, Bhutan, Kenya, Uzbekistan, Fiji and Federated States of Micronesia	That individual there did visit Bhutan	ENTAILMENT
+d-956	Everyone has visited every person	Jimmie didn't visit Steven	CONTRADICTION
+d-957	Everyone has visited Ireland, United Arab Emirates, Australia, Denmark, Botswana, Iceland, Benin, Nicaragua, Latvia and Tanzania	Kevin didn't visit Cameroon	NEUTRAL
+d-958	Everyone has visited Indonesia, Bulgaria, Serbia, Haiti, Sweden, Liechtenstein, Kyrgyzstan, Uzbekistan, China, Maldives, South Korea, Ukraine, Kenya, Honduras and Dominican Republic	An individual didn't visit Sweden	CONTRADICTION
+d-959	Everyone has visited Costa Rica, Albania, Italy, Uruguay, Guatemala, Serbia, Solomon Islands, Jordan, Papua New Guinea and Paraguay	Luis didn't visit Burkina	NEUTRAL
+d-960	Everyone has visited Netherlands, Libya, Niger, Grenada, Belarus, Madagascar, Thailand, Afghanistan, Chile, Norway, Gabon, India, Vatican City, Finland, Croatia, Bangladesh, Tunisia, Mali, Iran and Cameroon	Someone did visit India	ENTAILMENT
+d-961	Everyone has visited Lesotho, Nepal, Germany, Argentina, Costa Rica, Greece, Singapore, Timor-Leste, Central African Republic, Saudi Arabia, Spain, Panama, Cabo, Cambodia, Bulgaria, Senegal, Moldova and Morocco	An individual didn't visit Bulgaria	CONTRADICTION
+d-962	Everyone has visited every place	Lester didn't visit Don	NEUTRAL
+d-963	Everyone has visited every place	Craig didn't visit Sudan	CONTRADICTION
+d-964	Everyone has visited Serbia, Seychelles, Federated States of Micronesia, Brunei, Macedonia, Trinidad & Tobago, Russia, Lebanon, Georgia, Uzbekistan, Hungary, Lesotho, Netherlands, Belgium and Thailand	Bernard didn't visit Algeria	NEUTRAL
+d-965	Everyone has visited Saint Lucia, Zambia, Venezuela, Thailand, South Sudan, Grenada, Saint Vincent & the Grenadines, Norway, Marshall Islands and Madagascar	Herbert didn't visit Saint Kitts & Nevis	NEUTRAL
+d-966	Everyone has visited Andorra, Syria, Turkey, Israel, Cuba, Bosnia & Herzegovinia, Spain, Bahrain, Kiribati and Bolivia	An individual didn't visit Turkey	CONTRADICTION
+d-967	Everyone has visited Uruguay, Israel, Norway, Ethiopia, Tunisia, Sudan, Mauritania, Switzerland, Vietnam, Romania, Mali, Uzbekistan, Slovakia, Kyrgyzstan, Côte D'ivore and Nauru	A person didn't visit Israel	CONTRADICTION
+d-968	Everyone has visited every place	Edwin didn't visit Zachary	NEUTRAL
+d-969	Everyone has visited United Kingdom, Indonesia, Cyprus, Mauritius, Zimbabwe, Honduras, Belarus, Burkina, Djibouti, Syria and Sierra Leone	Willard didn't visit Marshall Islands	NEUTRAL
+d-970	Everyone has visited Dominica, Niger, New Zealand, Malawi, United Arab Emirates, Cameroon, El Salvador, Iran, United Kingdom and Oman	Charles didn't visit Japan	NEUTRAL
+d-971	Everyone has visited every person and every place	Sergio didn't visit Lithuania	CONTRADICTION
+d-972	Someone has visited every person and every place	Someone visited Javier	ENTAILMENT
+d-973	Everyone has visited South Africa, Bolivia, Brunei, Canada, South Sudan, Kyrgyzstan, Uruguay, Honduras, Nauru, Albania, Bahrain, Belgium and Angola	David didn't visit The Bahamas	NEUTRAL
+d-974	Someone has visited every person and every place	A person didn't visit Kurt	CONTRADICTION
+d-975	Everyone has visited Syria, Mexico, China, Singapore, Cabo, Greece, Djibouti, Jamaica, Kosovo, Morocco, Iceland, Bosnia & Herzegovinia, Haiti, Hungary, Israel, Eswatini, The Bahamas, Seychelles and Malaysia	Bobby didn't visit Haiti	CONTRADICTION
+d-976	Everyone has visited Equatorial Guinea, Indonesia, Guinea-Bissau, Czech Republic, Vietnam, Venezuela, Kiribati, Rwanda, Iceland, Mongolia, Panama and South Africa	Calvin did visit Czech Republic	ENTAILMENT
+d-977	Someone has visited every person and every place	That individual there didn't visit Shane	NEUTRAL
+d-978	Everyone has visited Azerbaijan, Antigua & Barbuda, Ethiopia, Maldives, Lesotho, Mauritius, Chile, Benin, Gambia, Andorra, Malaysia, Liberia and Singapore	Someone didn't visit Mauritius	CONTRADICTION
+d-979	Someone has visited every person and every place	That particular person didn't visit United States	NEUTRAL
+d-980	Someone has visited every person and every place	An individual didn't visit Keith	CONTRADICTION
+d-981	Everyone has visited Kazakhstan, Belgium, Namibia, Armenia, Angola, Venezuela, Sweden, Serbia, Nicaragua, New Zealand, China, Pakistan and Central African Republic	Clinton didn't visit Cameroon	NEUTRAL
+d-982	Everyone has visited Russia, Lesotho, Qatar, Mauritania, Malta, Botswana, Nicaragua, Croatia, Cameroon, Mexico and Dominican Republic	That particular person did visit Lesotho	ENTAILMENT
+d-983	Everyone has visited Nigeria, Cambodia, Australia, Andorra, Tanzania, Botswana, New Zealand, Oman, Bangladesh, Libya, Guinea-Bissau, Turkey, Philippines, Romania, Zimbabwe, Rwanda and Greece	An individual did visit Australia	ENTAILMENT
+d-984	Everyone has visited every person	Joe didn't visit Alfredo	CONTRADICTION
+d-985	Everyone has visited Mali, Mongolia, China, Russia, Fiji, Zimbabwe, Turkmenistan, Egypt, Guinea-Bissau, Ghana and New Zealand	Brad didn't visit Indonesia	NEUTRAL
+d-986	Everyone has visited every place	Bradley didn't visit Clayton	NEUTRAL
+d-987	Everyone has visited every person and every place	Byron didn't visit Lewis	CONTRADICTION
+d-988	Everyone has visited every person and every place	Victor didn't visit Nathaniel	CONTRADICTION
+d-989	Someone has visited every person and every place	Someone didn't visit Samoa	CONTRADICTION
+d-990	Everyone has visited every person	Justin didn't visit Lawrence	CONTRADICTION
+d-991	Everyone has visited every person and every place	John didn't visit Botswana	CONTRADICTION
+d-992	Everyone has visited Nepal, Croatia, Chad, Somalia, Solomon Islands, Sudan, Mozambique, Liberia, Poland, Panama, Dominican Republic, Kazakhstan, Greece, Morocco, Burkina, Uzbekistan and Spain	Someone didn't visit Croatia	CONTRADICTION
+d-993	Everyone has visited Switzerland, Seychelles, Cyprus, Latvia, Czech Republic, Kosovo, United Kingdom, Kiribati, Sri Lanka and Morocco	Someone didn't visit Latvia	CONTRADICTION
+d-994	Everyone has visited South Korea, Mauritania, Nauru, Argentina, Portugal, Niger, Luxembourg, Trinidad & Tobago, Cyprus, Guinea, Vanuatu, North Korea, Equatorial Guinea, Cuba, Macedonia, Tuvalu, Afghanistan, El Salvador and Belgium	Lewis didn't visit Latvia	NEUTRAL
+d-995	Someone has visited every person and every place	A person visited Scott	ENTAILMENT
+d-996	Someone has visited every person and every place	An individual didn't visit Benin	CONTRADICTION
+d-997	Everyone has visited every place	Joe didn't visit Iceland	CONTRADICTION
+d-998	Someone has visited every person and every place	That particular person didn't visit Australia	NEUTRAL
+d-999	Everyone has visited Greece, Antigua & Barbuda, Belgium, Mozambique, Ireland, Bolivia, Guatemala, Mauritania, The Bahamas, Germany, Spain, Hungary, Saint Kitts & Nevis, Canada, Netherlands, Kuwait and Syria	That particular person did visit Bolivia	ENTAILMENT

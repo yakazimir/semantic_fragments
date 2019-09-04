@@ -1,0 +1,1000 @@
+d-0	Pedro has only visited Austria, Antigua & Barbuda, Trinidad & Tobago, Solomon Islands, Myanmar, Saint Vincent & the Grenadines and Pakistan	Pedro didn't visit Myanmar	CONTRADICTION
+d-1	Clayton has only visited Peru, Cyprus, Dominican Republic, Algeria, Afghanistan, Liberia, Slovakia, Palestine and Belarus	Alex didn't visit Slovakia	NEUTRAL
+d-2	Todd, Everett, Ernest, Marion, Barry, Ralph, Philip, Phillip, Jerome, Ken, Jeremy and Kevin have only visited Tajikistan	Jeremy didn't visit Seychelles	ENTAILMENT
+d-3	Maurice has only visited Tajikistan, Georgia, Botswana, Guatemala, Zambia, Greece, Suriname, Senegal, United Arab Emirates, Djibouti, Qatar and Timor-Leste	Maurice didn't visit Senegal	CONTRADICTION
+d-4	Brandon has only visited Gambia, Guinea-Bissau, France, North Korea, Peru, Hungary, Australia, Finland and Kuwait	Brandon didn't visit Guinea-Bissau	CONTRADICTION
+d-5	Derek, Elmer, Danny, Daniel, Christopher, Gilbert, Lawrence, Francis, Kenneth, Kent, Adam, Brett, Shane, Willard, Dwight, Marc and Keith have only visited Ethiopia	Derek didn't visit Jamaica	ENTAILMENT
+d-6	Frank has only visited Saudi Arabia, Algeria, Albania, Cambodia, Philippines, Latvia, Egypt, Sierra Leone, Eritrea, North Korea, Thailand, Haiti, Portugal and Eswatini	Frank didn't visit Latvia	CONTRADICTION
+d-7	Sam has only visited Gambia, Malawi, Belize, Turkmenistan, Tonga, Ireland, Palestine and Guatemala	Sam didn't visit Ireland	CONTRADICTION
+d-8	Kelly, Philip, Nelson, Leroy, Tyler, Alberto, Neil, Dwight, Bruce, Kent, Lawrence, Hector and Victor have only visited Portugal	Bruce didn't visit Bolivia	ENTAILMENT
+d-9	Bradley, Dustin, Micheal, Paul, Clyde, Ramon, Herbert, Steve, Alfredo, Perry, Bryan and Jeremy have only visited Nigeria	Steve didn't visit Antigua & Barbuda	ENTAILMENT
+d-10	Sam has only visited Venezuela, Jordan, Croatia, Saint Vincent & the Grenadines, Armenia, Singapore, Japan, Tajikistan, Mexico, Timor-Leste and Iceland	Ted didn't visit Saint Vincent & the Grenadines	NEUTRAL
+d-11	Miguel has only visited Belize, Brazil, Paraguay, United Arab Emirates, South Africa, Democratic Republic of the Congo, Slovenia, Portugal, Georgia, Libya, Bulgaria, Sri Lanka, Andorra, Romania, Guinea-Bissau, Botswana and France	Mike didn't visit South Africa	NEUTRAL
+d-12	Miguel has only visited Belgium, Mongolia, Suriname, Colombia, Kenya and Tuvalu	Miguel didn't visit Colombia	CONTRADICTION
+d-13	Jerry has only visited Uganda, Cabo, Nepal, Slovenia, Uruguay, Sweden, Bosnia & Herzegovinia, Papua New Guinea, Andorra, South Sudan, Mauritius, Malawi, Zimbabwe, Solomon Islands, Vietnam and New Zealand	Terry didn't visit Uganda	NEUTRAL
+d-14	Alexander, Sean, Cecil, Dwayne, Brandon, Virgil, Duane, Clyde, Elmer, Jonathan, Terrence, Eric, Victor, Donald, Mathew, Jesse, Gabriel and Rafael have only visited Kenya	Alexander didn't visit Kenya	CONTRADICTION
+d-15	Miguel has only visited Latvia, Armenia, Malawi, Rwanda, Chad, Seychelles, Côte D'ivore and Germany	Miguel didn't visit Germany	CONTRADICTION
+d-16	Anthony and Bob have only visited Eritrea	Anthony didn't visit Oman	ENTAILMENT
+d-17	Rick, Jamie, Lonnie, Dustin, Andre, Marion and Gerald have only visited Thailand	Gerald didn't visit Guinea-Bissau	ENTAILMENT
+d-18	Kelly has only visited Comoros, China and Zambia	Kelly didn't visit Comoros	CONTRADICTION
+d-19	Leo has only visited Syria, Honduras, Kazakhstan, Romania, Myanmar, Moldova, Nigeria, Paraguay, Uganda and Turkmenistan	Leo didn't visit Turkmenistan	CONTRADICTION
+d-20	Leon, Adrian, Cody, Stephen, Dan, Glen, Corey, Marvin, Alex, Rafael, Keith, Marshall, Everett, Milton, Anthony, Seth and Luis have only visited Portugal	Corey didn't visit Portugal	CONTRADICTION
+d-21	Shane, Donald, Clayton and Alex have only visited Estonia	Clayton didn't visit Algeria	ENTAILMENT
+d-22	Corey has only visited Saudi Arabia, United States, Côte D'ivore, Lithuania, Malta, Bahrain, Zimbabwe, Palestine, São Tomé & Prícipe, Ireland, Vietnam, Uganda, Andorra, Belize, Mozambique, Maldives and Albania	Keith didn't visit Bahrain	NEUTRAL
+d-23	Christopher has only visited Gabon, Mexico, Vanuatu, Australia, Spain, Panama, Morocco, Lithuania, Belgium, Timor-Leste and Comoros	Terrence didn't visit Lithuania	NEUTRAL
+d-24	Keith, Peter, Randy, George, Nathaniel, Travis, Mark, Marc, Tony, Kent, Joseph, Jack, Alberto, Reginald, Jesus, Todd and Johnnie have only visited Malawi	Todd didn't visit Malawi	CONTRADICTION
+d-25	Lance, Allan, Wade, Alvin, Gabriel, Kenneth, Armando, Leo, Glenn, Clinton, Jared, Derek, Karl, Eddie, Danny, Vernon, Andre, Ron and Salvador have only visited Oman	Jared didn't visit Pakistan	ENTAILMENT
+d-26	Jesse, Thomas, Herbert and Brad have only visited Argentina	Brad didn't visit Georgia	ENTAILMENT
+d-27	Jerome has only visited Uzbekistan, Armenia, Afghanistan, Belarus, Grenada, Austria, Russia, Bulgaria, Equatorial Guinea, Benin, Uruguay, Yemen, Paraguay, El Salvador, United States, Niger, Sri Lanka and Serbia	Harry didn't visit Austria	NEUTRAL
+d-28	Fred has only visited Benin, Poland and Grenada	Fred didn't visit Poland	CONTRADICTION
+d-29	Miguel, Lance, Shawn, Virgil, Hugh, Erik, Bryan, Brett, Harry, Scott, Oscar, Adrian, Jaime, Kurt, Paul, Travis, Guy, Jeremy and Victor have only visited India	Paul didn't visit India	CONTRADICTION
+d-30	Tony has only visited Serbia, Suriname, Slovakia, Kazakhstan, Kenya, Seychelles, Grenada, Italy, Sudan, Libya, Greece, Mexico, Belarus, Zambia, Poland, Bahrain and Côte D'ivore	Jonathan didn't visit Libya	NEUTRAL
+d-31	Nathan, Hugh, Perry, Melvin, Troy, Francis, Carlos and Ricky have only visited Uruguay	Carlos didn't visit Uruguay	CONTRADICTION
+d-32	Todd has only visited San Mmarino, Cabo, Azerbaijan, Federated States of Micronesia, Tajikistan, Saint Lucia, United Arab Emirates and Nicaragua	Lonnie didn't visit Saint Lucia	NEUTRAL
+d-33	Bobby, Vincent, Harold, Howard, Lee, Harvey, Wesley, Alberto, Gregory, Russell, Willie, Stanley, Ruben, Tim and Jacob have only visited Mauritius	Bobby didn't visit Haiti	ENTAILMENT
+d-34	Don, Karl and Brent have only visited Finland	Brent didn't visit United Kingdom	ENTAILMENT
+d-35	Rick has only visited Angola, Sudan, Georgia and Mauritius	Edwin didn't visit Mauritius	NEUTRAL
+d-36	Dustin, Ross, Sean, Julio, Christopher, Miguel, Luis, Greg, Derrick, Clifford, Brett, Mark and Mitchell have only visited Mali	Brett didn't visit Lesotho	ENTAILMENT
+d-37	Ted, Johnny, Greg, Sam, Adam, Marcus, Johnnie, Wade, Francis, Glenn, Phillip, Steven, Oscar, Armando, Jared, Daryl, Wayne and James have only visited North Korea	Marcus didn't visit North Korea	CONTRADICTION
+d-38	Nicholas, Kurt, Keith, Mitchell and Ted have only visited Mongolia	Ted didn't visit Equatorial Guinea	ENTAILMENT
+d-39	Eric, Jimmie, Armando, Wesley, Melvin, Hector, Eduardo, Tracy, Alex, Dean, Cory, Stephen, Jesse, Nelson, Milton, Carlos, Steven and Kelly have only visited Saint Vincent & the Grenadines	Eric didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-40	Frank, Ernest, Jeremy, Andrew, Bobby, Harold, Wallace, Henry, Ryan, Paul, Michael, Roland, Joe and Jonathan have only visited Ecuador	Henry didn't visit Ecuador	CONTRADICTION
+d-41	Theodore has only visited Colombia, Portugal, Benin, Finland, Israel, Cyprus, Afghanistan, Tonga and Georgia	Theodore didn't visit Afghanistan	CONTRADICTION
+d-42	Albert has only visited Mauritius, Seychelles, Jordan, Slovakia, Georgia, Thailand, Qatar, Suriname, Iceland, Vietnam, Malaysia, São Tomé & Prícipe, Rwanda, Ireland, Angola, Ecuador, Saudi Arabia and Mauritania	Ronnie didn't visit Mauritius	NEUTRAL
+d-43	Andy has only visited Mozambique, China, Kosovo, Ukraine, Colombia, Sierra Leone, Panama, Tajikistan, Argentina, Czech Republic and Chile	Carl didn't visit Kosovo	NEUTRAL
+d-44	Kurt, Larry, Morris, Isaac, Shawn, Albert, Randy, Ryan, Chester, Jesse and Warren have only visited Argentina	Shawn didn't visit Andorra	ENTAILMENT
+d-45	Eric has only visited Honduras, Djibouti, Panama and Comoros	Jeremy didn't visit Panama	NEUTRAL
+d-46	Cory, Michael, Keith, Darrell, Gerald, Leo, Richard, Dean, Carl, Lewis, Leonard, Joel, Gregory, Tony, Jeremy and Rick have only visited Somalia	Cory didn't visit Estonia	ENTAILMENT
+d-47	Felix has only visited Thailand, Ecuador, Myanmar, Guinea, Nicaragua, Nauru, Brunei, Costa Rica, North Korea and Nepal	Nathaniel didn't visit Brunei	NEUTRAL
+d-48	Edward, Fred, Richard, Howard, Ben, Lonnie, Julian, Dan, Clayton, Brett, Martin and Johnny have only visited Sweden	Fred didn't visit Croatia	ENTAILMENT
+d-49	Mike has only visited Djibouti, Mauritania, Comoros, Botswana, Mexico, Italy, Portugal, Moldova, Estonia, Gambia, Oman, Niger, Albania, Mozambique and Luxembourg	Mike didn't visit Portugal	CONTRADICTION
+d-50	Daryl has only visited Paraguay, Malaysia, Suriname, Libya, Saint Vincent & the Grenadines, Canada, Côte D'ivore, Mozambique, Venezuela, Eswatini, Lithuania, El Salvador, Malawi, Somalia, Mongolia, Zimbabwe, Ethiopia, Malta, Vatican City and Gabon	Bradley didn't visit Mongolia	NEUTRAL
+d-51	Billy, Andy, Dustin, Tony, Randy, Charlie, Tim, Ray, Kirk, Vincent, Jeffery, Jim, Brian, Mathew, Armando, Joshua, Antonio, Shane and Clinton have only visited Iran	Antonio didn't visit Iran	CONTRADICTION
+d-52	Mark has only visited Cuba, Fiji, Bhutan, Kiribati, Ukraine, Benin, Singapore, Sri Lanka, Libya, Mozambique, Vatican City, France and Saint Kitts & Nevis	Jimmie didn't visit France	NEUTRAL
+d-53	Travis has only visited Netherlands, Pakistan, Lebanon, Jordan, Lithuania, Canada, Spain, Vatican City, Panama, Zambia, Bosnia & Herzegovinia, North Korea, United Arab Emirates, France, Denmark, Comoros, Guyana and China	Tim didn't visit Netherlands	NEUTRAL
+d-54	Daniel has only visited Cyprus, Vanuatu, Pakistan, Solomon Islands and Samoa	Daniel didn't visit Vanuatu	CONTRADICTION
+d-55	Joel, Ralph, Daryl, Alfredo, Adrian, Jose, Nicholas, Nathan, Jerry, Vincent, Greg, Charles, Marshall, Keith, Angel, Ryan, Eddie and Rodney have only visited Romania	Daryl didn't visit Romania	CONTRADICTION
+d-56	Arnold has only visited Ethiopia, Honduras, Democratic Republic of the Congo, Seychelles, North Korea, Lebanon, Marshall Islands, Fiji, Dominica, Uzbekistan, Cuba, Norway, Timor-Leste and Jamaica	Hector didn't visit Norway	NEUTRAL
+d-57	Harold, Jamie, Chester, Alfred, John, Fred, Martin and Alfredo have only visited Guinea-Bissau	Martin didn't visit Mongolia	ENTAILMENT
+d-58	Arnold has only visited Slovenia, Montenegro, Costa Rica, Indonesia, Cuba, Vatican City, Tonga, Ethiopia, Suriname, Saint Lucia, Pakistan, Finland, Iran, São Tomé & Prícipe and Belarus	Milton didn't visit Slovenia	NEUTRAL
+d-59	Bobby has only visited Armenia, South Sudan, Central African Republic, Colombia, Egypt, Malawi, Gambia, Guinea, Sri Lanka, Serbia, Azerbaijan, Kyrgyzstan, Vatican City, China, Brazil, Myanmar, Paraguay, Antigua & Barbuda and Senegal	Johnnie didn't visit Central African Republic	NEUTRAL
+d-60	Curtis has only visited Slovakia, The Bahamas, Cameroon, Namibia, Serbia, Turkey, Guyana, Gambia, Sri Lanka, Fiji, Republic of the Congo, Suriname, Belgium, Hungary, Cambodia, Jordan, Togo, Democratic Republic of the Congo, Egypt and Colombia	Ross didn't visit Namibia	NEUTRAL
+d-61	Frederick has only visited Albania, Slovakia, Lesotho, Lebanon, Tanzania, Côte D'ivore, Kuwait, Uzbekistan, Luxembourg, São Tomé & Prícipe, Chad, El Salvador, Botswana, North Korea, Libya, Morocco, Slovenia and Tunisia	Frederick didn't visit São Tomé & Prícipe	CONTRADICTION
+d-62	Alan, Tim and Javier have only visited Iran	Javier didn't visit Palau	ENTAILMENT
+d-63	William, Charlie, Kurt, Jon, Fred, Steve, Earl, Steven, Clifford, Jeffery, Duane, Brandon and Rene have only visited Austria	Charlie didn't visit Austria	CONTRADICTION
+d-64	Ian, Peter, Carlos, Steven, Robert, Marc, Bernard, Alexander, Wesley, Enrique, Ken, George, Brent, Todd and Ronnie have only visited Iraq	Ian didn't visit Iraq	CONTRADICTION
+d-65	Mathew, Leon, Ross, Marc, Shawn and Leroy have only visited Australia	Ross didn't visit Nepal	ENTAILMENT
+d-66	Adam has only visited Dominican Republic, Vanuatu, Iceland, United Arab Emirates, Saint Kitts & Nevis, Brazil, Egypt, Sweden and Ireland	Russell didn't visit United Arab Emirates	NEUTRAL
+d-67	Theodore has only visited Panama, Colombia, Kiribati, Denmark, Eswatini, Qatar, Benin, Barbados, Belgium, Bosnia & Herzegovinia, Andorra, Romania, Pakistan, Luxembourg, Zambia, Sri Lanka and China	Rick didn't visit Sri Lanka	NEUTRAL
+d-68	Bruce, Ivan, Bradley, Danny, Charles, Ron, Wesley, Antonio, Sean, Darryl, Cory, Douglas, Jamie, Calvin, Bernard, Jacob, Henry, Dustin and Patrick have only visited Afghanistan	Charles didn't visit Afghanistan	CONTRADICTION
+d-69	Dean, Randall, Shane, Clifford, Rafael, Clyde, Roberto, Scott, Willard, Clinton, Julio, Guy, Warren and Aaron have only visited Rwanda	Guy didn't visit Saint Vincent & the Grenadines	ENTAILMENT
+d-70	Tim, Max, Pedro, Terrence, Sam, Milton, Derek, Allen, Nelson, Gordon, Angel, Darren, Brett and Lewis have only visited Sierra Leone	Sam didn't visit Monaco	ENTAILMENT
+d-71	Micheal, Marion, Gary, Jesus, Don, Hector, Eric, Casey and Johnny have only visited Brunei	Gary didn't visit Brunei	CONTRADICTION
+d-72	Greg has only visited Colombia, Uzbekistan, Zambia, Vanuatu, Japan, Madagascar, Bangladesh, Cyprus, Canada, Paraguay, Netherlands, Latvia, Israel, Solomon Islands, Germany, Namibia, Guatemala, Saudi Arabia, Cabo and Morocco	Roy didn't visit Zambia	NEUTRAL
+d-73	Andrew, Isaac, Milton, Roger, Dave, Vernon, Alan, Willie, Juan, Hugh, Ronald, Hector, Byron, Ronnie, Sergio, Miguel, Clinton, Craig, Lance and Jordan have only visited Cyprus	Milton didn't visit New Zealand	ENTAILMENT
+d-74	Joe has only visited Uganda, Zimbabwe, Palau and Burundi	Joe didn't visit Uganda	CONTRADICTION
+d-75	Neil, Roland, Victor, Harry, Leslie, Chad, Keith and Edwin have only visited Democratic Republic of the Congo	Chad didn't visit Democratic Republic of the Congo	CONTRADICTION
+d-76	Milton has only visited Eswatini, Cabo, Saint Vincent & the Grenadines, Macedonia, Georgia, Antigua & Barbuda, Singapore, Maldives, Brazil, Djibouti, Tunisia, El Salvador, Slovakia, Spain, Jamaica, Peru, Russia, Dominica, Canada and Chile	Earl didn't visit Djibouti	NEUTRAL
+d-77	Joseph has only visited Turkey, Mozambique and Bosnia & Herzegovinia	Joseph didn't visit Turkey	CONTRADICTION
+d-78	Kirk has only visited Egypt, Kiribati and Nepal	Kirk didn't visit Egypt	CONTRADICTION
+d-79	Terrence, Vernon, Wayne, Sergio and Jason have only visited Maldives	Sergio didn't visit Maldives	CONTRADICTION
+d-80	Ray, Edward, Jeff, Billy, Perry, Gerald, Salvador, Kyle, Jose, Mark, Roberto, Dustin, Glenn, Sean, Brad, Gary and Michael have only visited Djibouti	Glenn didn't visit Brazil	ENTAILMENT
+d-81	Lawrence has only visited South Africa, Oman, Portugal, Honduras, Chad, Angola, Poland, Mongolia, Malawi, Laos, Ghana, Timor-Leste, Kyrgyzstan, Mozambique, Colombia, Burundi and Madagascar	Lawrence didn't visit Malawi	CONTRADICTION
+d-82	Javier, Johnny, Franklin, Cory, Milton, Jared, Duane, Danny, Ramon, Troy, Floyd and Herman have only visited Timor-Leste	Troy didn't visit Malta	ENTAILMENT
+d-83	Juan, Wallace, Maurice, Ronnie, Jacob, Eric, Glenn, Arthur, William, Nathaniel, Danny, Francisco, Scott, Donald, Marcus and Antonio have only visited Mauritania	Francisco didn't visit Uzbekistan	ENTAILMENT
+d-84	Kevin, Francisco, Virgil, Allan, Roger, Dale, Danny, Wade, Miguel, Frederick, Charlie and Mario have only visited Djibouti	Roger didn't visit Saint Lucia	ENTAILMENT
+d-85	Cory, Dean, Wesley, Guy and Christopher have only visited Laos	Guy didn't visit Burkina	ENTAILMENT
+d-86	Lee has only visited Estonia, Sri Lanka, Malaysia, Czech Republic, Albania, Belgium, Central African Republic and Sweden	Alfred didn't visit Belgium	NEUTRAL
+d-87	Tommy has only visited Latvia, Georgia, Brazil, Palestine, Malta, Finland, Honduras, Iceland and China	Kirk didn't visit Iceland	NEUTRAL
+d-88	Carl has only visited Burkina, Turkey, Mali, Guyana, Costa Rica, Palau, Armenia, Vatican City, Tonga, Argentina, Sri Lanka, Federated States of Micronesia, Germany, Norway, Tanzania, Equatorial Guinea, South Korea, Luxembourg, Canada and Israel	Jesse didn't visit Federated States of Micronesia	NEUTRAL
+d-89	Randall, Russell, Jeffrey, Harold, Tommy, Marshall, Norman, Willard, Andy, Curtis and Javier have only visited Austria	Norman didn't visit Equatorial Guinea	ENTAILMENT
+d-90	Sean has only visited Romania, Switzerland, Bangladesh, Nauru, Vietnam, Nicaragua, Chile, San Mmarino, Bolivia, Israel, Palau and Vanuatu	Ray didn't visit Nauru	NEUTRAL
+d-91	Norman, Glenn and Kent have only visited Serbia	Kent didn't visit Comoros	ENTAILMENT
+d-92	Rene, Kevin, Kelly, Theodore, Franklin, Seth, Lawrence, Julian, John, Max, Nicholas, Patrick, Edwin, Derek, Mitchell, Angel, Randall, Ruben, Herbert and Jack have only visited Canada	John didn't visit Kiribati	ENTAILMENT
+d-93	Anthony has only visited Dominican Republic, Bolivia, Iceland, Comoros, Sierra Leone, Malawi, Samoa, Georgia, Austria, South Africa and Brunei	Anthony didn't visit Brunei	CONTRADICTION
+d-94	Larry, Alfred, Brent, Clifton, Derrick and Javier have only visited Moldova	Javier didn't visit Moldova	CONTRADICTION
+d-95	Corey has only visited Vanuatu, Comoros, Kuwait, Qatar, Azerbaijan, Samoa, Maldives, Saint Lucia, Armenia and Georgia	Leroy didn't visit Comoros	NEUTRAL
+d-96	Virgil has only visited São Tomé & Prícipe, Suriname, Singapore, Zambia and Ecuador	Virgil didn't visit Suriname	CONTRADICTION
+d-97	Alfred has only visited Greece, Ireland, North Korea, Liechtenstein, Tuvalu, Armenia, Switzerland, Thailand, Oman, Egypt, Trinidad & Tobago, India, Tonga, Portugal, Uruguay, Cuba, San Mmarino, Jamaica and Iran	Alfred didn't visit Tonga	CONTRADICTION
+d-98	Dennis, Michael, Kevin, Danny, Claude, Enrique, Charlie, Tony, Ricardo, Marcus, Bill and Leon have only visited Iceland	Leon didn't visit Iceland	CONTRADICTION
+d-99	Kevin has only visited Estonia, Macedonia, Palau, Guyana, Tunisia, Antigua & Barbuda, Slovenia, United Arab Emirates and Cuba	Douglas didn't visit Antigua & Barbuda	NEUTRAL
+d-100	Felix has only visited Nauru, Vanuatu, Ukraine, Republic of the Congo and Kazakhstan	Earl didn't visit Nauru	NEUTRAL
+d-101	Marcus, Wayne and Jonathan have only visited Zimbabwe	Wayne didn't visit Zimbabwe	CONTRADICTION
+d-102	Salvador has only visited Costa Rica, United Arab Emirates, Barbados, Belarus, New Zealand, Tuvalu, Ethiopia, Kazakhstan, Mauritania, Niger, Nauru and Montenegro	Edward didn't visit Kazakhstan	NEUTRAL
+d-103	Kurt, Andrew, Claude and Armando have only visited Equatorial Guinea	Armando didn't visit United Kingdom	ENTAILMENT
+d-104	Travis, Arthur, Henry and Dan have only visited Georgia	Dan didn't visit Rwanda	ENTAILMENT
+d-105	Lloyd, Harvey, Harold, Brandon, Alex, Bradley, Jesus, Andy, Clayton, Charlie, Henry, Ray, Wade, Andrew, Ivan, Sam, William, Arthur and Leon have only visited Argentina	Andy didn't visit Argentina	CONTRADICTION
+d-106	Harry, Casey, Keith, Chester, Chad, Joel, Ernest, Ryan, Juan, Jimmy, Isaac, Louis, Ken, Mathew, Lester, Joe, Edward, Dave, Billy and Ronald have only visited Belize	Dave didn't visit Afghanistan	ENTAILMENT
+d-107	Marion has only visited Côte D'ivore, Timor-Leste, China, Nepal, United States, Vietnam, Mali and Slovakia	Marion didn't visit Nepal	CONTRADICTION
+d-108	Dustin has only visited Uzbekistan, Kuwait, Cuba, Vietnam, Mongolia, Cambodia, Slovakia, Jamaica, Saint Kitts & Nevis, Republic of the Congo, Somalia, North Korea and Sri Lanka	Dustin didn't visit Somalia	CONTRADICTION
+d-109	Alex, Isaac, Matthew, Johnnie, Marvin, Claude, Alberto, Ricky, Jason, Todd, Bobby, James, Armando and Louis have only visited Azerbaijan	Claude didn't visit Liechtenstein	ENTAILMENT
+d-110	John has only visited Bhutan, Guyana, Ireland, Croatia, Czech Republic, United Kingdom, Botswana, Haiti, Canada, Andorra, South Korea, Afghanistan, Spain and Angola	Warren didn't visit Bhutan	NEUTRAL
+d-111	Alex has only visited Fiji, Russia, Japan, Jordan, Argentina, Mauritania, Timor-Leste and Ethiopia	Douglas didn't visit Japan	NEUTRAL
+d-112	Angel has only visited Guinea, Côte D'ivore and Malawi	Angel didn't visit Malawi	CONTRADICTION
+d-113	Jason has only visited Nigeria, Georgia, Panama, Kosovo, Uruguay, Armenia, Benin, Bolivia, Japan, Lebanon, Turkey, Haiti, Canada, Senegal, Jamaica, Lesotho, Dominica, Democratic Republic of the Congo, Kuwait and Saint Kitts & Nevis	Derrick didn't visit Benin	NEUTRAL
+d-114	Martin has only visited North Korea and Netherlands	Martin didn't visit Netherlands	CONTRADICTION
+d-115	Angel has only visited Papua New Guinea, Brunei and Czech Republic	Bruce didn't visit Czech Republic	NEUTRAL
+d-116	Jessie has only visited Rwanda, Benin, Kiribati, Turkmenistan, Austria, Portugal, Trinidad & Tobago and Bulgaria	Jessie didn't visit Austria	CONTRADICTION
+d-117	Jose has only visited Palestine, Honduras, Venezuela, Eritrea, Ghana, Panama, Cameroon, Germany, Nauru, Djibouti, Colombia, Lebanon, Namibia, Paraguay and Trinidad & Tobago	Jose didn't visit Paraguay	CONTRADICTION
+d-118	Ruben, Glenn, Ricky, Karl, Vincent, Alfred, Mike, Eugene, Derrick, Ricardo, Eduardo, Shane, Derek, Marvin, Juan, Freddie, Dean, Cody, Neil and Willie have only visited Thailand	Juan didn't visit Thailand	CONTRADICTION
+d-119	Lance has only visited Libya, Guinea, Armenia and Greece	Carlos didn't visit Libya	NEUTRAL
+d-120	Daniel has only visited Cameroon, Venezuela, Saint Lucia, Montenegro, Palau and Tunisia	Daniel didn't visit Palau	CONTRADICTION
+d-121	Darryl, Ramon, Milton, Dwayne, Barry, Isaac, Alan and Felix have only visited Bulgaria	Alan didn't visit Sudan	ENTAILMENT
+d-122	Bernard, Don, Russell, Salvador, Adrian, Rene, Jacob, Everett, Gary, Raul, Ross and Andrew have only visited Uganda	Don didn't visit Netherlands	ENTAILMENT
+d-123	Gary has only visited Nigeria, Tuvalu, Netherlands, China, Côte D'ivore, Libya, Djibouti, Madagascar, Belgium, United Arab Emirates, Uzbekistan and Bhutan	Gary didn't visit Tuvalu	CONTRADICTION
+d-124	Alvin has only visited Zimbabwe, Mauritius, Dominican Republic, Somalia, Slovakia, Togo, Bhutan, Liberia, Bolivia, Switzerland, Morocco, Romania, Saint Kitts & Nevis, El Salvador and Afghanistan	John didn't visit Liberia	NEUTRAL
+d-125	Leo, Mark, Clarence, Eddie, Miguel, Willard, Marc, Don, Gerald, Marshall, Francisco and Christian have only visited Qatar	Willard didn't visit Qatar	CONTRADICTION
+d-126	Jerome has only visited Solomon Islands, Argentina, Barbados, Turkey, Timor-Leste, France, Cuba, Palestine, Andorra, Maldives, Mauritania, Cambodia, Seychelles, Norway, Panama, Haiti, Czech Republic, Indonesia and Algeria	Edward didn't visit Panama	NEUTRAL
+d-127	Corey, Mark, Troy, Harold, Jeffery, Marcus, Oscar, Ruben, Kurt, Bernard, Karl, Ramon and Jesse have only visited Bulgaria	Marcus didn't visit Iran	ENTAILMENT
+d-128	Mike has only visited Indonesia, Sri Lanka, Myanmar, Guinea-Bissau, Finland, Australia, Slovenia, Barbados, Tanzania, Italy, Liechtenstein, Equatorial Guinea, Kosovo, Tuvalu, Mexico, Marshall Islands, Uzbekistan, Macedonia, Thailand and Namibia	Fernando didn't visit Namibia	NEUTRAL
+d-129	Luis has only visited Guinea, Ethiopia, Germany and Cuba	Luis didn't visit Germany	CONTRADICTION
+d-130	Floyd, Brandon, Brad, Jeremy, Manuel, Bill and Felix have only visited Cuba	Felix didn't visit Netherlands	ENTAILMENT
+d-131	Terrance has only visited Lithuania, Vanuatu, Federated States of Micronesia, Mauritius, Germany, Benin, Tuvalu and Democratic Republic of the Congo	Joe didn't visit Democratic Republic of the Congo	NEUTRAL
+d-132	Jamie, Randall, Jeff, Lance, Fred, Dale, Andy, Darrell, Hugh, Micheal, Harry, Justin, David, Donald and Matthew have only visited Vanuatu	Dale didn't visit Vanuatu	CONTRADICTION
+d-133	Marcus, Harold, Julian, Max, Dwight, Cody, Lawrence, Steven, Guy, Everett, Raul, Gary, Terrance, Ernest, Brian, Jack and Rodney have only visited Finland	Rodney didn't visit Finland	CONTRADICTION
+d-134	Jesse, Darrell, Nathan, Herbert, Julian, Fernando, Vernon, Bob, Jordan, Felix, Guy, Max, Brent, Oscar, Lonnie, Seth and Harvey have only visited The Bahamas	Guy didn't visit The Bahamas	CONTRADICTION
+d-135	Adrian has only visited Egypt and Australia	Kenneth didn't visit Australia	NEUTRAL
+d-136	Dennis, Jamie, Stanley, Ross, Charles, Jim, Ricardo, Rodney, Francisco, Eddie, Philip, Dan, Steve, Wayne and Edgar have only visited Nicaragua	Philip didn't visit Israel	ENTAILMENT
+d-137	Harvey, Don, Kelly, Sergio, Jesus, Hugh, Roland, Milton, Gene, Jacob and Harry have only visited South Sudan	Harvey didn't visit Romania	ENTAILMENT
+d-138	Greg, Elmer, Manuel, Virgil, Mario, Billy, Julian, Richard, Louis, Clyde and Vernon have only visited Montenegro	Elmer didn't visit Montenegro	CONTRADICTION
+d-139	Pedro has only visited Australia, Tajikistan, Laos, Eswatini, France, San Mmarino, Marshall Islands, Tanzania, Haiti, Grenada, South Sudan, United Kingdom and Seychelles	Stanley didn't visit Seychelles	NEUTRAL
+d-140	Justin has only visited Philippines, Kenya, Haiti, Dominica, Laos, North Korea, Cyprus, Romania, Palestine, Latvia, Monaco, Angola, Vietnam, Andorra, Bolivia, Sri Lanka and Samoa	Justin didn't visit Angola	CONTRADICTION
+d-141	Roy, Gabriel, Clarence, Brad, Steven, Jason, Jordan, Jerome, Alan, Kenneth, Jessie, Jimmie, Bradley and Vincent have only visited Sierra Leone	Steven didn't visit Sierra Leone	CONTRADICTION
+d-142	Jimmie has only visited Marshall Islands, Zimbabwe, Uganda, San Mmarino, Palestine, Israel, Philippines, Azerbaijan and Uruguay	Gary didn't visit Uruguay	NEUTRAL
+d-143	Clinton has only visited Djibouti, Mali, Oman, Kosovo, Somalia, Uruguay, The Bahamas, Uganda, South Africa, Timor-Leste, Lebanon, Ghana, Bulgaria, Tanzania, Equatorial Guinea, Benin and Central African Republic	Clinton didn't visit South Africa	CONTRADICTION
+d-144	Ben, Gabriel, Harry, Ken, Shane, Sergio, Bryan, Jared, Theodore, Raul, Eugene, Eddie and Benjamin have only visited Bolivia	Raul didn't visit Bolivia	CONTRADICTION
+d-145	Arnold, Bill, Corey, Alfredo and Alexander have only visited Bahrain	Bill didn't visit Burundi	ENTAILMENT
+d-146	Marshall has only visited Lesotho, Uruguay, Sweden, Gabon, Marshall Islands and Trinidad & Tobago	Marshall didn't visit Gabon	CONTRADICTION
+d-147	Neil, Robert, Clifton, Terrance, Allen, Arnold, James, Gene, Alfred, Ray and Danny have only visited Kyrgyzstan	Allen didn't visit Kyrgyzstan	CONTRADICTION
+d-148	Carl has only visited Spain, Yemen, Denmark, Republic of the Congo, Myanmar, Samoa, Palestine, The Bahamas, Chad, Costa Rica, Russia, Cuba, Sweden and Côte D'ivore	George didn't visit Republic of the Congo	NEUTRAL
+d-149	Allan, Tim, Ben, Ricardo, Earl, Brian, Gene, Scott, Eric and Julian have only visited Venezuela	Eric didn't visit Ecuador	ENTAILMENT
+d-150	Darrell, Dan and Lewis have only visited Panama	Dan didn't visit Panama	CONTRADICTION
+d-151	Harry has only visited Jamaica, El Salvador, Republic of the Congo, Bahrain, Benin and Gabon	Harry didn't visit El Salvador	CONTRADICTION
+d-152	Clifford and Milton have only visited Benin	Milton didn't visit Benin	CONTRADICTION
+d-153	Virgil has only visited Seychelles, Namibia, United Kingdom, Iceland, Malaysia, Laos, Cambodia, Andorra, Monaco, Slovakia, Saint Lucia, Suriname, Kyrgyzstan, Panama, Dominican Republic, Austria, Portugal, Macedonia and São Tomé & Prícipe	Miguel didn't visit Cambodia	NEUTRAL
+d-154	Warren, Gene, Ian, Willard, Jason, Randall, Thomas, Bill, Kelly, Jeffery, Terrance, William and Alvin have only visited Canada	Bill didn't visit Canada	CONTRADICTION
+d-155	Albert, Mario, Leonard, Terrence, Chris, Ken, Ross, Johnnie, Cecil, Francisco, Alvin, Casey, Sean, Francis, Jose, Raul, Gregory, Gordon, Ronald and Jacob have only visited Suriname	Casey didn't visit Bulgaria	ENTAILMENT
+d-156	Corey has only visited Equatorial Guinea, Togo, Malta, Guyana, Bangladesh, Belgium, Central African Republic, Chad, Malaysia, Syria, South Sudan, Morocco, China, Yemen, Indonesia, New Zealand, Philippines, Bulgaria and Tunisia	Corey didn't visit Morocco	CONTRADICTION
+d-157	Eugene has only visited New Zealand, Slovakia, Bhutan, Saint Vincent & the Grenadines, Iceland, Estonia, Tajikistan, Uzbekistan, Oman, Republic of the Congo, Chile, Angola, El Salvador, Finland, Jordan, Bulgaria, Cuba, Trinidad & Tobago and Austria	Max didn't visit Austria	NEUTRAL
+d-158	William, Ruben, Ted, David, Martin, Todd, Howard, Jimmie, Adrian, Hector, Greg, Franklin, Edward, Armando, Julio and Charles have only visited Slovakia	David didn't visit Slovakia	CONTRADICTION
+d-159	Roger has only visited Kazakhstan, Djibouti, Chad, Dominica, Federated States of Micronesia, Philippines, Kosovo, Turkey, Georgia, Central African Republic, Saint Vincent & the Grenadines, Burkina, Austria, Slovakia, Indonesia, Honduras, Egypt, Chile, Iran and Malta	Roger didn't visit Iran	CONTRADICTION
+d-160	Scott, Jorge, Craig, Martin, Jim, Theodore, Charles, Frederick, Gary and Sergio have only visited Indonesia	Jim didn't visit Indonesia	CONTRADICTION
+d-161	Sam has only visited Lebanon, Venezuela, Bosnia & Herzegovinia, Palau, Turkmenistan, Iran, Tajikistan, Paraguay, Latvia, Kenya, Poland, Madagascar, Togo, Austria, Guyana, Kiribati and Djibouti	Harvey didn't visit Iran	NEUTRAL
+d-162	Glenn, Andrew, Jonathan, Charlie, Steve, Larry, Lance, Peter, Darren, Adrian, Jaime, Jesse, Erik, Frank and Lonnie have only visited Kosovo	Darren didn't visit Mauritius	ENTAILMENT
+d-163	Charles has only visited Saint Kitts & Nevis, Ecuador, Barbados, Burkina, Macedonia, Guatemala, Cabo and Spain	Marshall didn't visit Ecuador	NEUTRAL
+d-164	Bradley has only visited Malaysia and Nauru	Bradley didn't visit Malaysia	CONTRADICTION
+d-165	Gabriel has only visited Israel, Maldives, Mali and Brunei	Julian didn't visit Israel	NEUTRAL
+d-166	Jesse, Jeffery, Jerry, Jordan, Lonnie, Kelly, Travis, Brandon, Phillip, Edward, Jon, Victor, Alan, Ronald, Stanley and Warren have only visited Libya	Alan didn't visit Libya	CONTRADICTION
+d-167	Clyde has only visited Laos, Belize, Estonia, Kuwait, Mali, Republic of the Congo, Mexico, North Korea, El Salvador, South Sudan, Georgia, Indonesia, Afghanistan, Uruguay, São Tomé & Prícipe, Bangladesh, Tuvalu, Romania and Venezuela	Darryl didn't visit Venezuela	NEUTRAL
+d-168	Darren has only visited Benin, Zimbabwe, Bosnia & Herzegovinia, Tanzania, Costa Rica, Palestine, Republic of the Congo, Botswana, South Korea, Antigua & Barbuda, France, Serbia and China	Patrick didn't visit Republic of the Congo	NEUTRAL
+d-169	Russell has only visited Eswatini, Myanmar, Poland, Spain, Hungary, Italy, Mozambique, Chile, Australia, Germany, Gabon, Haiti, Angola, Macedonia, Nauru, Mongolia, Saint Lucia, Serbia and Nigeria	Terrance didn't visit Australia	NEUTRAL
+d-170	Byron, Ricky, Luis, Cody, Tommy, Carlos, Vernon, Michael, Darryl, Melvin and Jack have only visited North Korea	Vernon didn't visit Mexico	ENTAILMENT
+d-171	Aaron, Jimmy, Shawn, Cecil, Oscar, Gary, Mark and Russell have only visited Saint Kitts & Nevis	Shawn didn't visit Bhutan	ENTAILMENT
+d-172	Raul, Edgar, Jay, Glen, Jason, Alan, Bob and Maurice have only visited Nigeria	Glen didn't visit South Sudan	ENTAILMENT
+d-173	Bryan, Travis, Duane, Ted, Javier and Kurt have only visited Costa Rica	Javier didn't visit Costa Rica	CONTRADICTION
+d-174	Raymond has only visited Guyana, Luxembourg, Eswatini, Afghanistan, Moldova, Benin, Vanuatu, Senegal, Nepal, Samoa, Turkey, Finland, Jordan and Poland	Raymond didn't visit Poland	CONTRADICTION
+d-175	Brad, Milton, Erik, Michael, Shane, Mathew, Derek, Mario, Dean, Terrance, Todd, Earl, Jose, Nicholas, Richard, Dustin, Johnnie, Justin and Joseph have only visited Denmark	Nicholas didn't visit Eritrea	ENTAILMENT
+d-176	Andy has only visited Cyprus, Moldova, El Salvador, Madagascar, Malawi, Canada, Serbia, United Kingdom, Austria, Netherlands, Togo, Peru, Laos, Venezuela, Ukraine, Papua New Guinea, Czech Republic, Norway, Senegal and Antigua & Barbuda	Clifford didn't visit United Kingdom	NEUTRAL
+d-177	Leroy, Alfredo, Gregory, Michael, Dwight, Roger, Sam and Alfred have only visited Barbados	Leroy didn't visit Barbados	CONTRADICTION
+d-178	Fred has only visited Liechtenstein and Albania	Fred didn't visit Albania	CONTRADICTION
+d-179	Floyd, Mario, Reginald, Allan, Willard, Jeremy, Francis, Ricky, Alfred, Adam, Joseph, Louis, Vernon, Brian, Carl and Don have only visited Myanmar	Adam didn't visit Myanmar	CONTRADICTION
+d-180	Paul, Casey, Clifford, Jimmy, Manuel, Charles, Nathan, Dennis, Clyde, Clinton, Sergio, Chris, Fernando, Nelson, Harold, Philip and Allen have only visited Guinea-Bissau	Nelson didn't visit Guinea-Bissau	CONTRADICTION
+d-181	Elmer has only visited Brunei, Samoa, Papua New Guinea, Gambia, Netherlands, Panama, Palau, Ireland, Indonesia, Australia, Qatar, Tajikistan, Equatorial Guinea and Benin	Elmer didn't visit Palau	CONTRADICTION
+d-182	Dave, Henry, Reginald, Billy, Hector, Randall, Scott, Byron and Willard have only visited Monaco	Randall didn't visit Monaco	CONTRADICTION
+d-183	Christian has only visited Guatemala, Vietnam, Italy, Poland, Fiji, Bolivia, Mozambique, Jamaica, Liberia, Serbia and Palestine	Ben didn't visit Serbia	NEUTRAL
+d-184	Dan has only visited Zambia, Burundi, Lebanon, Burkina, Cameroon, Tajikistan, Dominica, Germany, Bulgaria, Nicaragua, Republic of the Congo and Indonesia	Joseph didn't visit Burkina	NEUTRAL
+d-185	Victor, Herbert, Keith, Gordon, Karl, Ronald, Tony and Darren have only visited Finland	Gordon didn't visit Finland	CONTRADICTION
+d-186	Duane, Richard, Glen, Brian, Terrance, Fred, Joel, Cody, Tommy, Carlos, Mark, Derek, Paul, Dan, Erik, Claude, Scott, Melvin and Edwin have only visited Algeria	Terrance didn't visit Algeria	CONTRADICTION
+d-187	Nathaniel, Ruben, Glen, Darrell and Clifford have only visited Guinea-Bissau	Clifford didn't visit Guinea-Bissau	CONTRADICTION
+d-188	Clifford, Frank, Raul, Kevin, Allan, Danny and Randy have only visited Federated States of Micronesia	Allan didn't visit Federated States of Micronesia	CONTRADICTION
+d-189	Earl has only visited Tajikistan, Mali and Turkey	Earl didn't visit Turkey	CONTRADICTION
+d-190	Kyle has only visited Mauritania, Canada, Malawi, Vanuatu, Fiji, South Korea, Netherlands, Monaco, Chad, Honduras, São Tomé & Prícipe, Ethiopia, India, Somalia, Uganda, Lithuania, Panama and Argentina	Manuel didn't visit Chad	NEUTRAL
+d-191	Harvey has only visited Yemen, Kazakhstan, United Arab Emirates, Oman, Bulgaria, Bahrain, Comoros, Thailand, Suriname and Tunisia	Karl didn't visit Suriname	NEUTRAL
+d-192	Fernando has only visited Dominican Republic, Maldives, Slovakia, Italy, Central African Republic, Haiti, Armenia, Tunisia, Yemen, United Kingdom, Nicaragua, Spain and Bangladesh	Brent didn't visit Slovakia	NEUTRAL
+d-193	Leo has only visited Ireland, Sudan, Syria, Afghanistan and Denmark	Leo didn't visit Afghanistan	CONTRADICTION
+d-194	Everett has only visited Macedonia, Senegal, Colombia and Syria	Gregory didn't visit Macedonia	NEUTRAL
+d-195	Clyde has only visited São Tomé & Prícipe, Sweden, Mauritania, Ethiopia, Lesotho, Sudan, Bosnia & Herzegovinia, El Salvador, Portugal, Rwanda, Malta, Brunei, Uganda, Maldives, Kenya, Vatican City, Eritrea and Sri Lanka	Lawrence didn't visit Uganda	NEUTRAL
+d-196	Charles has only visited Finland, Equatorial Guinea, Suriname, Iceland, New Zealand, Mozambique, Sierra Leone, Mauritania, Haiti, Malta, Guinea-Bissau, Armenia, Uganda, Togo, Bangladesh, Mauritius and Kenya	Floyd didn't visit Kenya	NEUTRAL
+d-197	Leon, Arnold, Ben, Danny, Karl, Derek, Oscar, Darrell, Gabriel, Nathan, Dustin, Douglas, Phillip, Earl, Billy, Cecil, Roger and Timothy have only visited Barbados	Danny didn't visit Barbados	CONTRADICTION
+d-198	Leslie has only visited Iran, Kazakhstan, Algeria, Angola, Uganda, Jamaica and Liberia	Roger didn't visit Jamaica	NEUTRAL
+d-199	Gordon has only visited Slovakia, Macedonia, Moldova, Kuwait, Federated States of Micronesia and Ukraine	Jeffery didn't visit Moldova	NEUTRAL
+d-200	Salvador has only visited Burundi, Cuba, United Arab Emirates, Syria, Belize, Switzerland, Bhutan, Fiji, Marshall Islands, Mozambique and Burkina	Salvador didn't visit Mozambique	CONTRADICTION
+d-201	Glen, Edgar, Gregory, Jimmie, Richard, Vincent, Rick, Allan, Terrance, Freddie, Curtis, Rene, Ronald, Lewis, Darrell, Herbert, Darryl and Larry have only visited Albania	Glen didn't visit France	ENTAILMENT
+d-202	Sidney, Thomas, Lonnie, Jason, Lester, Fernando, Robert, Marvin, Don, Ronnie, Pedro, Jessie, Rick, Travis, Earl, Ronald, Ted, Kenneth, Dustin and Gerald have only visited Algeria	Ted didn't visit Algeria	CONTRADICTION
+d-203	Ramon has only visited Romania, Moldova, Andorra, Montenegro, Azerbaijan, Eswatini, Guyana, United Kingdom, Zambia, Antigua & Barbuda, Fiji, Qatar, Latvia and Tajikistan	Ramon didn't visit Fiji	CONTRADICTION
+d-204	Oscar has only visited North Korea, Rwanda, Cyprus, China, United Kingdom, Guatemala, Central African Republic, Ukraine, Jamaica, Tanzania, Seychelles, South Africa, Estonia and Cuba	Herman didn't visit Rwanda	NEUTRAL
+d-205	Aaron has only visited Mauritius, Trinidad & Tobago and Saint Vincent & the Grenadines	Peter didn't visit Trinidad & Tobago	NEUTRAL
+d-206	Lonnie, Shawn, Ron, Shane, Ryan, Lester, Javier, Nathan, Mitchell, Jorge, Ivan, Juan, Michael, Sean and Johnny have only visited Jamaica	Ivan didn't visit Jamaica	CONTRADICTION
+d-207	Joshua has only visited Honduras, Djibouti, Mauritania, Slovenia, Montenegro, Rwanda, Kenya, São Tomé & Prícipe, Palestine, Iran, Austria, Cuba, South Africa, Gambia, Luxembourg and San Mmarino	Rene didn't visit San Mmarino	NEUTRAL
+d-208	Douglas has only visited Tonga, Eritrea, Timor-Leste and Japan	Joe didn't visit Timor-Leste	NEUTRAL
+d-209	Alberto has only visited Spain, Bosnia & Herzegovinia, Tuvalu, Austria, Madagascar, Bahrain, Singapore, Myanmar, Nicaragua, Suriname, Colombia, Paraguay, Malaysia and Maldives	Alberto didn't visit Spain	CONTRADICTION
+d-210	Terrance has only visited Namibia, Russia, Latvia, Andorra, Jordan, Cuba, Bangladesh, Argentina, Samoa, Guatemala, Italy, Botswana, Jamaica, Poland, Sudan and Timor-Leste	Dean didn't visit Botswana	NEUTRAL
+d-211	Vernon has only visited Venezuela, Indonesia, Vanuatu, Denmark, San Mmarino, Sudan, Norway, Eritrea, Jamaica, Turkmenistan, Myanmar, Mozambique and Hungary	Reginald didn't visit Myanmar	NEUTRAL
+d-212	Rick has only visited Norway, North Korea, Cambodia and Tajikistan	Ivan didn't visit Norway	NEUTRAL
+d-213	Leroy, Aaron, Tony, Harvey, Felix, Armando, Jack and Cecil have only visited Mauritania	Harvey didn't visit Paraguay	ENTAILMENT
+d-214	Jordan has only visited Zimbabwe, Afghanistan, Eswatini, Iran, Gabon, Republic of the Congo, Papua New Guinea and Sri Lanka	Jordan didn't visit Zimbabwe	CONTRADICTION
+d-215	Dennis, Everett, Daryl, Tom, Floyd, John, Micheal, Alan, Adam, Tim, Erik, Willard, Shane, Carl, Louis, Derek, Jeremy, Lloyd, Roberto and Henry have only visited Togo	Tom didn't visit Mauritius	ENTAILMENT
+d-216	Billy, Leo, Rene, Kirk, Darrell, Danny, Kevin, Clayton, Chad and Kelly have only visited Japan	Darrell didn't visit Japan	CONTRADICTION
+d-217	Leonard has only visited Papua New Guinea, Denmark, Italy, Paraguay, Mongolia, Laos, Mali, Samoa, Palau and Lebanon	Leonard didn't visit Laos	CONTRADICTION
+d-218	Lee, Albert, Dwight, Tim, Byron, Theodore, Chad, Bradley, Wesley, Terrance, Milton, Harold, Ramon, Phillip and Thomas have only visited Tunisia	Albert didn't visit Madagascar	ENTAILMENT
+d-219	Gene has only visited Gabon, Slovakia, Austria, Syria, Panama, Tuvalu, South Sudan and Botswana	Gene didn't visit Slovakia	CONTRADICTION
+d-220	Nicholas, Ricky, Peter and Jon have only visited Sweden	Ricky didn't visit Mozambique	ENTAILMENT
+d-221	Derrick has only visited Somalia, United Arab Emirates, Afghanistan and Lithuania	Gerald didn't visit Afghanistan	NEUTRAL
+d-222	Phillip, Stephen, Mario, Allen, Armando, Rick, Raymond, Brett, Micheal and Kenneth have only visited Albania	Allen didn't visit Albania	CONTRADICTION
+d-223	Louis has only visited Chad, Timor-Leste, Fiji, Haiti, Democratic Republic of the Congo, Tanzania, Chile, Australia, Tonga, Poland and Greece	Louis didn't visit Tonga	CONTRADICTION
+d-224	Glen has only visited Latvia, Sudan and Central African Republic	Justin didn't visit Central African Republic	NEUTRAL
+d-225	Stanley, Bill, Shawn, Hugh, Clyde, Jorge, Nathaniel, Kent, Ivan, William, Willie, Andre, Johnnie, Corey, Darrell, Jacob and Arnold have only visited Spain	Hugh didn't visit São Tomé & Prícipe	ENTAILMENT
+d-226	Enrique has only visited Panama and Denmark	Enrique didn't visit Panama	CONTRADICTION
+d-227	Miguel has only visited Niger, Côte D'ivore, Comoros, Bhutan, Portugal, Slovakia, Estonia, Saint Kitts & Nevis, South Korea, North Korea, Nauru, Montenegro, Monaco, Cuba, Malawi and Tajikistan	Miguel didn't visit Tajikistan	CONTRADICTION
+d-228	Floyd, Wayne, Gordon, Howard, Ruben, Micheal, Leonard and Bryan have only visited Luxembourg	Floyd didn't visit Luxembourg	CONTRADICTION
+d-229	Bruce and Arthur have only visited Chile	Arthur didn't visit Slovakia	ENTAILMENT
+d-230	Benjamin, Micheal, Glenn, Earl, Juan, Ian, Morris, Mitchell and Jeffrey have only visited Nicaragua	Micheal didn't visit Qatar	ENTAILMENT
+d-231	Ivan has only visited Bolivia and Bangladesh	Alberto didn't visit Bangladesh	NEUTRAL
+d-232	Jeff, Clarence and Micheal have only visited Benin	Jeff didn't visit Malaysia	ENTAILMENT
+d-233	Dan has only visited Croatia, Peru, Cuba, Mozambique, Singapore, Afghanistan, Kazakhstan, Malta, Timor-Leste, Comoros, Hungary, Bosnia & Herzegovinia, Republic of the Congo, Portugal, Iceland, United Arab Emirates, South Africa, Panama, Costa Rica and Slovakia	Harry didn't visit Hungary	NEUTRAL
+d-234	Cory, Nicholas, Jack, Salvador, Edwin, Jesus, Lance, Timothy, Joshua, Greg and Dave have only visited France	Salvador didn't visit Peru	ENTAILMENT
+d-235	Leonard, Aaron, Paul, Kyle, Thomas, Dwight, Gene, Raul, Gilbert, Lee, Fred, Wade, Michael, Jordan, Sidney, Zachary, Robert, Adrian, Darryl and Marcus have only visited Jamaica	Lee didn't visit Malta	ENTAILMENT
+d-236	Casey, Mario, Rene, Rodney, Jimmy, Gordon, Ricky, Neil and Isaac have only visited Tanzania	Rodney didn't visit Zimbabwe	ENTAILMENT
+d-237	Lee and Rodney have only visited Kazakhstan	Lee didn't visit Barbados	ENTAILMENT
+d-238	Sergio has only visited Philippines, Kosovo, Serbia, Cuba, Netherlands, Bosnia & Herzegovinia, Samoa, Rwanda, El Salvador, Antigua & Barbuda, Namibia, Mauritania, The Bahamas, Mauritius, Luxembourg, Iraq, Vanuatu and United States	Sergio didn't visit The Bahamas	CONTRADICTION
+d-239	Lloyd has only visited Guinea-Bissau, Canada, Tajikistan, Senegal, Suriname, Ukraine and Belarus	Clayton didn't visit Tajikistan	NEUTRAL
+d-240	Theodore has only visited Antigua & Barbuda, Malta, Zambia, Equatorial Guinea, Cabo, Sweden, Germany, South Korea, Cameroon, Democratic Republic of the Congo and Afghanistan	Paul didn't visit Cameroon	NEUTRAL
+d-241	Ken has only visited Rwanda, Namibia, El Salvador, United States, Saudi Arabia, Kiribati, Egypt and North Korea	Ken didn't visit El Salvador	CONTRADICTION
+d-242	Tyler, Mitchell, Cody, Duane, Glenn, Byron, Adrian, Claude, Wesley and Howard have only visited Pakistan	Byron didn't visit Tuvalu	ENTAILMENT
+d-243	Darren, Andy, David, Willard, Arnold, Johnnie, Alfredo, Gabriel, Carlos, Marshall, Leroy, Gerald and Casey have only visited Egypt	Gerald didn't visit Liechtenstein	ENTAILMENT
+d-244	Kelly, Dean and Jon have only visited Guyana	Jon didn't visit Malaysia	ENTAILMENT
+d-245	Ernest has only visited South Sudan, Estonia, Romania, Albania, Mexico, Saint Lucia, Rwanda, New Zealand, Paraguay, Philippines, Peru, Kosovo, Kazakhstan, Cuba and Vatican City	Albert didn't visit Saint Lucia	NEUTRAL
+d-246	Travis, Stephen, Julian, Fernando, Calvin, Miguel, Terry and Dean have only visited Argentina	Julian didn't visit Cambodia	ENTAILMENT
+d-247	Joseph, Perry and Curtis have only visited Gambia	Curtis didn't visit India	ENTAILMENT
+d-248	Shawn, Nicholas, Adam, Mike, Matthew, Luis, Terry, Leroy, Todd, Derek, Lonnie, Charles, Ronald, Clyde, Jeffrey, Sidney, Rick and Corey have only visited Eritrea	Charles didn't visit Bhutan	ENTAILMENT
+d-249	Greg, Phillip, Shane, Salvador, Gene, Edwin, Clyde, Nelson, Randy, Virgil, Roy, Ryan and Bradley have only visited Netherlands	Phillip didn't visit Dominican Republic	ENTAILMENT
+d-250	Lawrence, Scott, Eugene, Roger and Johnnie have only visited Peru	Roger didn't visit Bhutan	ENTAILMENT
+d-251	Stanley has only visited Guatemala, Belarus, Monaco, Canada, Pakistan, Sweden and France	Rick didn't visit Sweden	NEUTRAL
+d-252	Wade has only visited Mongolia, Israel, Haiti, Burundi and Senegal	Wade didn't visit Burundi	CONTRADICTION
+d-253	Craig, Maurice, Adam, Gene, Ryan, Keith, Bob, Jerome, Hector, Theodore, Clarence, Derek, Floyd, Clyde, Mark, Jay, Edgar and Franklin have only visited Russia	Derek didn't visit Botswana	ENTAILMENT
+d-254	Johnnie, Ruben, Dwight, Phillip, Wade, Bruce, Robert, Cody, Darren, Brent, Jamie, James, Fernando, Andy, Timothy and Julian have only visited Bolivia	James didn't visit Eritrea	ENTAILMENT
+d-255	Randy, Albert, Earl, Freddie, Clifford, Jerry, Chad, Brian, Eric, Nelson, James, Todd and Barry have only visited Tajikistan	Randy didn't visit Tajikistan	CONTRADICTION
+d-256	Alfredo, Marion, Don, Craig, Dustin, Cody, Johnny, Eduardo, Corey, Roger, Roy and Albert have only visited Denmark	Corey didn't visit Denmark	CONTRADICTION
+d-257	Sam, James, Brad and Gabriel have only visited Armenia	Sam didn't visit Azerbaijan	ENTAILMENT
+d-258	Roy, Jerome, Juan, Kyle, Elmer, Alvin and Julian have only visited Liechtenstein	Julian didn't visit Liechtenstein	CONTRADICTION
+d-259	Hector has only visited Mauritius, Myanmar, Mongolia and Albania	Henry didn't visit Myanmar	NEUTRAL
+d-260	Troy, Tyler, Keith, Tyrone, Dale, Theodore, Herbert, Mario, Vincent, Glen, Mitchell, Barry, Clarence, Andrew, Clinton, Marcus, Carlos and Leo have only visited Trinidad & Tobago	Vincent didn't visit Georgia	ENTAILMENT
+d-261	Alvin has only visited Kyrgyzstan, Kosovo, Philippines and Nauru	Alvin didn't visit Kyrgyzstan	CONTRADICTION
+d-262	Carl and Ben have only visited Marshall Islands	Ben didn't visit Pakistan	ENTAILMENT
+d-263	Chad, Joseph, Raymond, Eduardo and Gregory have only visited Afghanistan	Joseph didn't visit Democratic Republic of the Congo	ENTAILMENT
+d-264	Jorge, Raul, Kyle, Enrique and Dale have only visited Australia	Dale didn't visit Tajikistan	ENTAILMENT
+d-265	Jared, Jaime, Wesley and Clifton have only visited Lebanon	Wesley didn't visit Paraguay	ENTAILMENT
+d-266	Ruben has only visited Brunei and Mozambique	Duane didn't visit Mozambique	NEUTRAL
+d-267	Angel, Ronald, Sidney, Norman and Mario have only visited Bhutan	Sidney didn't visit Austria	ENTAILMENT
+d-268	Jeffery, Wallace, Micheal, Bruce, Alex, Harvey, Jeffrey, Theodore, Dustin, Walter and Jeff have only visited Honduras	Wallace didn't visit Honduras	CONTRADICTION
+d-269	Ricky, Alan, Jay, Lee, Adam, Ralph, Alberto, Jason, Victor, Leonard and Tyrone have only visited Federated States of Micronesia	Leonard didn't visit Federated States of Micronesia	CONTRADICTION
+d-270	Jay, John, George, Ronald, Steve, Timothy, Russell, Dustin, Thomas and Rick have only visited Macedonia	Ronald didn't visit Macedonia	CONTRADICTION
+d-271	Zachary has only visited Germany, Paraguay, Timor-Leste, Cabo, Seychelles, Samoa, Guinea-Bissau, Dominican Republic, Sri Lanka, Brunei, Suriname, Guyana, The Bahamas, Ireland, Democratic Republic of the Congo, Lebanon, Austria, Eswatini, Fiji and Saint Lucia	Zachary didn't visit Democratic Republic of the Congo	CONTRADICTION
+d-272	Joe has only visited Tanzania, United Kingdom, Qatar, Bolivia, Panama, Sweden, Morocco, Turkey, Tajikistan, Chad, Barbados, Australia, Latvia and Jamaica	Eric didn't visit Jamaica	NEUTRAL
+d-273	Nathan, Marshall, Gregory, Cody, Eugene, Craig, Dave, Christopher, Karl, Lloyd, Howard, Anthony, Julio, Luis, Juan, Alfred, Ron, Felix and Raul have only visited Sudan	Christopher didn't visit Niger	ENTAILMENT
+d-274	Lewis, Norman, Lee, Sidney, Gregory, Martin, Ron, Vernon, Jon and Donald have only visited Malawi	Ron didn't visit San Mmarino	ENTAILMENT
+d-275	Lonnie, Dennis, Mike, Angel, Vernon, Clayton, Bob, Curtis, Jorge, Bernard, Howard, Todd, Steven, Ross, Sean and Javier have only visited Suriname	Bob didn't visit Suriname	CONTRADICTION
+d-276	Martin has only visited Guyana, Mauritania, Samoa, Armenia and Kazakhstan	Jonathan didn't visit Mauritania	NEUTRAL
+d-277	Cory has only visited Thailand, Azerbaijan, Togo, Germany, Malaysia, Guyana, Nicaragua, Egypt, Argentina, Nigeria, Lebanon and Liechtenstein	Angel didn't visit Lebanon	NEUTRAL
+d-278	Larry has only visited Antigua & Barbuda and Israel	Larry didn't visit Antigua & Barbuda	CONTRADICTION
+d-279	Patrick and Alex have only visited Burkina	Alex didn't visit Burkina	CONTRADICTION
+d-280	Nathaniel, Marc and Stanley have only visited Bangladesh	Stanley didn't visit Timor-Leste	ENTAILMENT
+d-281	Roy, Jaime, Clifton, Ron, Willard, Hugh, Leslie, Kelly, Christopher, Anthony, Darrell, Vincent, Seth, Julian, Mathew, Harold and Daniel have only visited Austria	Willard didn't visit Liechtenstein	ENTAILMENT
+d-282	Max has only visited Kosovo and Benin	Max didn't visit Kosovo	CONTRADICTION
+d-283	Salvador, Dwight, Vincent and Allan have only visited Sudan	Vincent didn't visit Mexico	ENTAILMENT
+d-284	Norman has only visited The Bahamas, Nicaragua, China, Seychelles, Slovakia, Lithuania, Sweden, Palau, Uruguay, Tunisia, Liechtenstein, Georgia, Syria, Brazil, Ecuador, Togo, Algeria and Malawi	Ryan didn't visit Seychelles	NEUTRAL
+d-285	David, Alfredo, Mathew, Luis, Samuel, Ron, Gordon, Peter and Dale have only visited Chile	David didn't visit Albania	ENTAILMENT
+d-286	Curtis has only visited Benin, Zambia, United Kingdom, Finland, Kiribati, Poland, Italy, Romania, Marshall Islands, Nauru, Brunei, United States, Mauritius and Afghanistan	Jerry didn't visit Brunei	NEUTRAL
+d-287	Salvador has only visited Ghana, Mongolia, Jordan, Trinidad & Tobago, Denmark, Austria, Uzbekistan, Colombia, Solomon Islands, Libya, Maldives, Vatican City, Syria, Zimbabwe, Haiti, Tunisia, Nauru and Netherlands	Gabriel didn't visit Libya	NEUTRAL
+d-288	Salvador, Hugh, Charlie, Ross, Troy, Dan and Samuel have only visited Ireland	Ross didn't visit Ireland	CONTRADICTION
+d-289	Jason has only visited Côte D'ivore, China, Papua New Guinea, Bhutan, Uruguay, United Arab Emirates, Trinidad & Tobago, Zimbabwe, Japan and Ghana	Ricardo didn't visit Bhutan	NEUTRAL
+d-290	Joel, Steven, Randall, Howard, George, Stephen, Paul, Jaime, Peter, Wade and Jorge have only visited Latvia	Wade didn't visit Latvia	CONTRADICTION
+d-291	Seth has only visited Sri Lanka, Saudi Arabia, Iran, Liechtenstein, Burkina, Indonesia, Syria, Solomon Islands, Bangladesh, Mauritius, Norway, Burundi, Algeria, Sweden, Azerbaijan, Dominican Republic, Canada and Malawi	Javier didn't visit Liechtenstein	NEUTRAL
+d-292	Ron has only visited Guyana, Greece, Vatican City, United Kingdom, Uruguay, Germany, Equatorial Guinea, Laos, Saint Kitts & Nevis, Rwanda, Bulgaria and Syria	Timothy didn't visit Saint Kitts & Nevis	NEUTRAL
+d-293	Keith, Hector, Robert, Edwin, Barry, Ricky, Micheal, Jon, Rick, Jerry and Armando have only visited Belarus	Keith didn't visit Mexico	ENTAILMENT
+d-294	Rafael, Mario and Jaime have only visited Nicaragua	Mario didn't visit Nicaragua	CONTRADICTION
+d-295	Dean has only visited Afghanistan, Dominica, Bosnia & Herzegovinia, Fiji, Guinea, Bahrain, Iraq, Somalia, Trinidad & Tobago, Brunei, Romania, Japan, Iceland, Equatorial Guinea, Zimbabwe, Uzbekistan, Uruguay, Albania, Rwanda and Tajikistan	Seth didn't visit Bosnia & Herzegovinia	NEUTRAL
+d-296	Vernon has only visited Denmark, Tajikistan, Jamaica, Libya, Angola, Philippines, El Salvador, Barbados, Tanzania, Austria, Benin, Chad, Pakistan, Uruguay, Latvia, Romania, Republic of the Congo, Mauritius, Saint Vincent & the Grenadines and Lesotho	Vernon didn't visit Lesotho	CONTRADICTION
+d-297	Eugene, Greg, Dave, Fred, Dale, George, Max, Brian, Alvin, Keith, Clinton, Ricky, Rick, Miguel, Freddie and Lewis have only visited Bosnia & Herzegovinia	Freddie didn't visit Bosnia & Herzegovinia	CONTRADICTION
+d-298	Troy, Reginald, Alvin, Angel, Alfredo, Bill and Tracy have only visited Bangladesh	Alvin didn't visit Antigua & Barbuda	ENTAILMENT
+d-299	Craig, Robert, Walter, Ray, Luis, Rick, Samuel, Ricky, Gregory, Oscar, Jeffrey, Raul, Theodore, Freddie, Ernest, Glen and Johnnie have only visited San Mmarino	Rick didn't visit San Mmarino	CONTRADICTION
+d-300	Cody, Adam, Clyde, Terrance, Gilbert, Thomas, Marshall, Edgar and Jim have only visited Republic of the Congo	Cody didn't visit Bosnia & Herzegovinia	ENTAILMENT
+d-301	Randall, Howard, Roberto, Lloyd, Justin, Jeffery, Glen, Perry and Dave have only visited Mexico	Randall didn't visit Norway	ENTAILMENT
+d-302	Oscar has only visited Botswana, Bolivia, Timor-Leste, Equatorial Guinea, Cyprus, Vietnam, Slovakia, Antigua & Barbuda, Côte D'ivore, Federated States of Micronesia, Ireland, Vatican City, El Salvador, Malawi and United Arab Emirates	Eddie didn't visit Ireland	NEUTRAL
+d-303	Gerald has only visited Botswana, Costa Rica, Republic of the Congo, Ukraine, Luxembourg, United States, Zambia, Algeria and Latvia	Gerald didn't visit Luxembourg	CONTRADICTION
+d-304	Leonard has only visited Macedonia, Morocco, Lebanon and Saint Kitts & Nevis	Lee didn't visit Morocco	NEUTRAL
+d-305	Todd, Howard, Carlos, Jason, Francisco, Wallace, Brent, Rodney, Patrick, Max and Nicholas have only visited Turkmenistan	Todd didn't visit Turkmenistan	CONTRADICTION
+d-306	Tony has only visited Nicaragua, Honduras, El Salvador, Azerbaijan, Slovenia, Burkina, Bangladesh, Colombia, Pakistan, Uzbekistan, Equatorial Guinea, Turkmenistan and Guinea	Tony didn't visit Burkina	CONTRADICTION
+d-307	Roy, Roland, Guy, Derrick, Rafael and Felix have only visited Hungary	Felix didn't visit San Mmarino	ENTAILMENT
+d-308	Jon, Darrell, Bill, Kenneth, Edwin, Dean, Karl, Justin, Tyrone, Robert, Gary, Rene, Ruben, Ricardo and Thomas have only visited Benin	Rene didn't visit Equatorial Guinea	ENTAILMENT
+d-309	Zachary, Gregory, Oscar, Marion, Everett, Cody, Brandon, Pedro, Clyde and Alfred have only visited Saint Vincent & the Grenadines	Alfred didn't visit Saint Vincent & the Grenadines	CONTRADICTION
+d-310	Steven, Kurt, Gary, James, Kirk, Kenneth, Wade, Gene, Derrick, Casey, Bruce, Jamie, John, Marc, Tyler and Jessie have only visited Monaco	Wade didn't visit Sri Lanka	ENTAILMENT
+d-311	Enrique has only visited Vanuatu, Botswana, Cambodia, Mauritius, Suriname, Saint Lucia, Dominica, Egypt, Colombia, Libya, Seychelles, South Korea, Kuwait, Solomon Islands, Greece, Malaysia, Lebanon and South Sudan	Terry didn't visit Cambodia	NEUTRAL
+d-312	Steve, Reginald, Samuel, Kelly, Hugh, Antonio, Chester, Sidney, Joe, Julian and Thomas have only visited South Korea	Antonio didn't visit Cyprus	ENTAILMENT
+d-313	Terrance has only visited Haiti, Mauritius and Zimbabwe	Christopher didn't visit Zimbabwe	NEUTRAL
+d-314	Francisco has only visited Belarus, Albania, Poland, North Korea, Tajikistan, São Tomé & Prícipe, Romania, Philippines, New Zealand, Bosnia & Herzegovinia, Costa Rica, Qatar, Samoa, Norway, Serbia, Republic of the Congo, Tuvalu, El Salvador and Dominica	Jimmy didn't visit Costa Rica	NEUTRAL
+d-315	Patrick, Dale, Jeffery, Julio, Marvin, Barry, Gabriel, Gilbert, Albert, Edgar, Adam and Marcus have only visited Australia	Gabriel didn't visit Tunisia	ENTAILMENT
+d-316	Lonnie, Ricardo, Tracy, Steven, Shane, Enrique, Sergio, Jeremy, Justin, Lewis, Raymond, Jeff, Johnny, Marcus, Adam and Jesus have only visited The Bahamas	Steven didn't visit Costa Rica	ENTAILMENT
+d-317	Derek, Julio, Arthur, Lloyd and Jay have only visited Maldives	Lloyd didn't visit Maldives	CONTRADICTION
+d-318	Leroy, Richard, Paul, Randall, Craig, Eric and Tyrone have only visited Vanuatu	Eric didn't visit Vanuatu	CONTRADICTION
+d-319	Terry has only visited Lesotho, Liechtenstein, Nauru, Uzbekistan, Saudi Arabia, Democratic Republic of the Congo, Uruguay, Bhutan, Chad, Mozambique, Denmark, Marshall Islands, Haiti, Luxembourg, Malaysia, Turkey, Iraq, Suriname and India	Zachary didn't visit Iraq	NEUTRAL
+d-320	Todd and Clarence have only visited Brazil	Clarence didn't visit Brazil	CONTRADICTION
+d-321	Nelson, Harvey and Jesse have only visited Fiji	Nelson didn't visit Fiji	CONTRADICTION
+d-322	Phillip has only visited Burundi, The Bahamas, Lesotho, Guyana, Israel and Djibouti	Larry didn't visit Israel	NEUTRAL
+d-323	Keith has only visited Seychelles, South Africa, Yemen, Uruguay, Costa Rica, Afghanistan, Djibouti, Slovenia, Honduras, Israel, The Bahamas, Albania, Malta, Sri Lanka, Chad and Latvia	Keith didn't visit Seychelles	CONTRADICTION
+d-324	Raymond has only visited Austria, Albania, Colombia, Dominica, Indonesia, Slovakia, Macedonia, Cambodia, Haiti, Bulgaria, Moldova, Thailand, Monaco, Republic of the Congo, Greece and Nepal	Raymond didn't visit Colombia	CONTRADICTION
+d-325	Eddie, Glenn, Louis, Clayton, Donald, Dustin, Andre, Jessie, Willard, Charles, Douglas, Brian, Kent, Clifton, Morris and Stephen have only visited Barbados	Kent didn't visit Venezuela	ENTAILMENT
+d-326	Dwight has only visited Czech Republic, Slovakia, Benin, Greece, Bosnia & Herzegovinia, Bhutan, Indonesia, Senegal, Eswatini, Federated States of Micronesia, Brunei, Italy, United Arab Emirates, Mauritania, Iraq, Norway and Mexico	Isaac didn't visit Iraq	NEUTRAL
+d-327	Shawn has only visited Colombia, Niger, Antigua & Barbuda, Tonga, Guyana and Ethiopia	Erik didn't visit Antigua & Barbuda	NEUTRAL
+d-328	Gilbert has only visited Senegal, Czech Republic, Vietnam, Vatican City, Trinidad & Tobago, Spain, Egypt, Thailand and Netherlands	Gilbert didn't visit Czech Republic	CONTRADICTION
+d-329	Howard, Derrick, Jesse, Dan, Tommy, Louis, Richard, Jordan, Perry, Gilbert and Hector have only visited Cuba	Louis didn't visit Cuba	CONTRADICTION
+d-330	Samuel, Vincent, Justin, Thomas and Marcus have only visited Saint Lucia	Samuel didn't visit Saint Lucia	CONTRADICTION
+d-331	Ernest has only visited Poland and Uruguay	Alan didn't visit Poland	NEUTRAL
+d-332	Johnny has only visited Armenia, China, Cuba, Bulgaria and Uruguay	Duane didn't visit Cuba	NEUTRAL
+d-333	Andre has only visited Syria, Vanuatu, Iceland, Republic of the Congo, Panama and Tanzania	Dennis didn't visit Republic of the Congo	NEUTRAL
+d-334	Roland has only visited Slovenia and Macedonia	Roland didn't visit Slovenia	CONTRADICTION
+d-335	Ivan and Lawrence have only visited Eswatini	Ivan didn't visit Nigeria	ENTAILMENT
+d-336	William, Jaime, Todd, Benjamin, Rafael, Derek, Elmer, Rodney, Tom, Max and Alfredo have only visited Venezuela	Alfredo didn't visit Algeria	ENTAILMENT
+d-337	Edward, Larry, Tim, Dale, Jay, Kelly, Paul, Seth, Adam, Milton, Adrian, Nathaniel, Clifford, Willie, Shane and Sam have only visited Saint Kitts & Nevis	Paul didn't visit Malta	ENTAILMENT
+d-338	Reginald has only visited Laos, Iran, South Korea, Saudi Arabia, Kenya, Sudan, Burkina, Dominica, Mauritania, Slovakia, Armenia, Saint Vincent & the Grenadines, Namibia, Sri Lanka, Mali, Belize and India	Darryl didn't visit Mauritania	NEUTRAL
+d-339	Armando has only visited Guatemala, Saint Kitts & Nevis, Uganda, Jamaica, South Africa, Mexico, Morocco, Panama, Georgia, Somalia, Serbia, Botswana, Federated States of Micronesia, Kosovo and Hungary	Armando didn't visit Morocco	CONTRADICTION
+d-340	Raymond has only visited Solomon Islands, Sri Lanka, Brazil, Palau and Guyana	Gerald didn't visit Brazil	NEUTRAL
+d-341	Sean, Troy, Dean, Milton and Floyd have only visited Niger	Milton didn't visit Niger	CONTRADICTION
+d-342	Samuel has only visited Central African Republic, Bosnia & Herzegovinia, Romania, Norway, Georgia, Singapore, Myanmar and Slovakia	Samuel didn't visit Myanmar	CONTRADICTION
+d-343	Charles, Lloyd, Daryl, Darren, Isaac, Rodney, Bill, Willard, Everett, Javier, Ted, Alvin, Jeff, Julian, Chester and Antonio have only visited Denmark	Bill didn't visit Morocco	ENTAILMENT
+d-344	Joseph has only visited Vatican City, Palestine, Malaysia, India, Romania, Eritrea, New Zealand, Tonga, Federated States of Micronesia, France, Dominican Republic, Zimbabwe, The Bahamas, Saudi Arabia, Cameroon, Myanmar, Luxembourg, Bulgaria, Australia and South Korea	Joseph didn't visit Luxembourg	CONTRADICTION
+d-345	Craig has only visited Poland, Marshall Islands, Djibouti, Vatican City, Grenada, United Arab Emirates, Palau and Liechtenstein	Craig didn't visit Liechtenstein	CONTRADICTION
+d-346	Daniel, Mike, Julio, Theodore, Isaac, Kenneth, Hugh, Bradley, Maurice, Gene, Tommy, Henry, Clinton, Charles, Jason, Clyde, Darren, Gregory and Kelly have only visited Myanmar	Isaac didn't visit Guinea	ENTAILMENT
+d-347	Jonathan has only visited Zambia, Norway, Croatia, Syria, Guyana and Grenada	Jonathan didn't visit Grenada	CONTRADICTION
+d-348	Lance, Julio, Alvin, Marshall, Warren, Marcus, Isaac, Miguel, Gene, Darrell, Marvin, Jon, Joseph, Sean, Gordon, Mike, Ronald, Erik, Claude and Sergio have only visited Honduras	Erik didn't visit Honduras	CONTRADICTION
+d-349	Tyrone has only visited Niger, Tanzania, Macedonia, Nigeria, Saudi Arabia, Lesotho, Tajikistan and Côte D'ivore	Travis didn't visit Niger	NEUTRAL
+d-350	Kent has only visited Seychelles, Saint Kitts & Nevis, Afghanistan, Papua New Guinea and Grenada	Manuel didn't visit Afghanistan	NEUTRAL
+d-351	Allan has only visited Cabo, Ghana, São Tomé & Prícipe, Guyana, Brunei, Liberia, Uganda, Jamaica, Tajikistan and Monaco	Harry didn't visit Jamaica	NEUTRAL
+d-352	Jorge has only visited Iceland and Italy	Warren didn't visit Italy	NEUTRAL
+d-353	Brett, Karl, Henry, Frank, Martin, Rene, Morris, Hector, Mark and Willie have only visited Gambia	Rene didn't visit Singapore	ENTAILMENT
+d-354	Glenn, Arthur, Travis and Seth have only visited Nicaragua	Travis didn't visit Nicaragua	CONTRADICTION
+d-355	Ben has only visited Tonga and Palau	Dave didn't visit Tonga	NEUTRAL
+d-356	Jim, Chester, Marvin, Clinton and Marc have only visited Haiti	Marc didn't visit Philippines	ENTAILMENT
+d-357	Jeremy and Dan have only visited Myanmar	Jeremy didn't visit Papua New Guinea	ENTAILMENT
+d-358	Harvey has only visited Solomon Islands, Czech Republic, Macedonia, Paraguay, Guatemala, Mexico, Tunisia, Ukraine, Mongolia, Myanmar, Denmark and Marshall Islands	Harvey didn't visit Myanmar	CONTRADICTION
+d-359	Manuel has only visited São Tomé & Prícipe, Norway, Belarus, Namibia, Guinea, Barbados, Liechtenstein, Jordan, Uganda, Senegal, Cuba, Cabo, San Mmarino, South Africa and Greece	Manuel didn't visit Norway	CONTRADICTION
+d-360	Justin has only visited Tonga, Bhutan, Morocco, Rwanda and Syria	Calvin didn't visit Morocco	NEUTRAL
+d-361	Donald, Jerome, Brian, Charlie, Bradley, Danny and Roland have only visited Hungary	Bradley didn't visit Hungary	CONTRADICTION
+d-362	Theodore, Edward, Melvin, Tyrone, Ricky, Maurice, Micheal, Charlie, Dean, Stephen, Lawrence, Ray, Robert, Steven, Timothy and Peter have only visited Burundi	Theodore didn't visit France	ENTAILMENT
+d-363	Floyd, Johnny, Marshall, Maurice, Terrance, Jonathan, Clifton, Vernon, Tyler, Justin, Gary, Barry, Everett, Joe and Bobby have only visited Rwanda	Maurice didn't visit Papua New Guinea	ENTAILMENT
+d-364	Rodney, Raymond, Gene, Gerald, Donald, Terry, Gabriel and Chester have only visited Chile	Chester didn't visit Jordan	ENTAILMENT
+d-365	Duane, Christian, Jason, Edgar, Shawn, Neil, Rafael, Ruben, Julio, Enrique, Russell, Benjamin and Edward have only visited Chile	Rafael didn't visit Monaco	ENTAILMENT
+d-366	Ted has only visited São Tomé & Prícipe and Haiti	Roberto didn't visit Haiti	NEUTRAL
+d-367	Eduardo has only visited Kosovo and Andorra	Mario didn't visit Andorra	NEUTRAL
+d-368	Raymond has only visited Palestine, Finland, Belgium, Togo, Gambia, Costa Rica, Mozambique, San Mmarino, Kiribati, Bulgaria, Nauru and Nicaragua	Daniel didn't visit Gambia	NEUTRAL
+d-369	Christopher and Tommy have only visited Bolivia	Christopher didn't visit Senegal	ENTAILMENT
+d-370	Raymond has only visited Iceland, Nauru, Vatican City, Lesotho, Pakistan, Tonga, Brazil, Singapore, Yemen, Bangladesh, Croatia and Central African Republic	George didn't visit Tonga	NEUTRAL
+d-371	Bernard, Earl, Gordon, Bryan, Lonnie, Andrew, Lee, Clyde, Travis, Ralph, Daniel, Vernon, Virgil, Maurice, Ian, Eduardo, Edgar, Victor and Raul have only visited Nigeria	Daniel didn't visit Nigeria	CONTRADICTION
+d-372	Bobby, Patrick, Arnold, Rodney, Karl, Perry, Mike, Gabriel, Ian, Joshua, Steven, Allan, Steve, Jerry, Marc, Don and Terrance have only visited Togo	Terrance didn't visit Ecuador	ENTAILMENT
+d-373	Leslie and Martin have only visited Germany	Martin didn't visit United Kingdom	ENTAILMENT
+d-374	Mathew, Dan, Gordon, Isaac, Jared, Roger, Enrique, Leo, Brian, Corey, Philip, Randall, Barry and Alberto have only visited Saint Vincent & the Grenadines	Alberto didn't visit Egypt	ENTAILMENT
+d-375	Norman, Calvin, Miguel, Joshua, Joe, Harry, Barry, Joseph, Max, Leo, Clyde, Franklin, Lloyd and Julian have only visited São Tomé & Prícipe	Joseph didn't visit Mali	ENTAILMENT
+d-376	Frederick has only visited Palau, Laos, Denmark, Somalia, Ghana, Bolivia, Jamaica, Finland, Iraq, Samoa, Cambodia, South Korea, Eswatini, Mozambique, Vanuatu, Burundi, Saudi Arabia, Belarus, Vietnam and Uruguay	Lloyd didn't visit Vanuatu	NEUTRAL
+d-377	Dale has only visited São Tomé & Prícipe, Mauritius, Tuvalu and Afghanistan	Terry didn't visit Mauritius	NEUTRAL
+d-378	Tommy has only visited Palau, Egypt, Trinidad & Tobago, Bahrain, Azerbaijan, Dominica, Jordan, Barbados, Montenegro, Indonesia, Kiribati, Seychelles, Luxembourg, Timor-Leste, Slovenia and Kuwait	Jimmy didn't visit Egypt	NEUTRAL
+d-379	Dave, Johnnie, Kenneth, Earl, Don, Shane and Jesus have only visited Honduras	Earl didn't visit Nicaragua	ENTAILMENT
+d-380	Ivan, Cecil, Marvin, Ron, Angel, Willie, Seth, Walter and Mark have only visited Uzbekistan	Mark didn't visit Lebanon	ENTAILMENT
+d-381	Jeffrey has only visited Eritrea, Iran, Saudi Arabia, Malawi, Mauritius, Federated States of Micronesia and South Africa	Victor didn't visit Eritrea	NEUTRAL
+d-382	Byron, Eric, Brandon, Patrick, Greg, Joe, Charles and Frank have only visited Eritrea	Byron didn't visit Bahrain	ENTAILMENT
+d-383	Micheal, Tyrone, Jeremy, Tom, Arthur, Gene, Lee, Dave, Milton, Shawn, Thomas, Dennis, Douglas, Christian, Jonathan and Tyler have only visited Andorra	Thomas didn't visit Ecuador	ENTAILMENT
+d-384	Johnny has only visited Ukraine, Mauritius, Marshall Islands, Sudan, Democratic Republic of the Congo, Oman, Israel, Chad, Argentina, Kenya, Sweden, Croatia, Sierra Leone, Montenegro, Bahrain and Saint Kitts & Nevis	Gilbert didn't visit Saint Kitts & Nevis	NEUTRAL
+d-385	Jaime, Bruce, Jose, Jack, Douglas, Daryl, Peter, Stephen, Jerry, Eric, Gerald, Jonathan, Armando and Daniel have only visited North Korea	Daniel didn't visit North Korea	CONTRADICTION
+d-386	Marcus has only visited Somalia, Austria, Albania, Eritrea, Sierra Leone, Gabon, Lithuania, Uzbekistan, Belgium, Federated States of Micronesia, Moldova and Brunei	Everett didn't visit Somalia	NEUTRAL
+d-387	Gordon, Nathaniel, Chester, Dale, Richard, Ernest, Howard, Juan, Raymond, Mario, Dustin, Neil, Angel, Edward and Johnnie have only visited Tunisia	Dale didn't visit Jamaica	ENTAILMENT
+d-388	Lance has only visited Angola, Gambia, Mexico, Dominica, Jordan, Timor-Leste, Chad, Syria, Fiji and Kenya	Lance didn't visit Syria	CONTRADICTION
+d-389	Willie, Leonard, Gerald, Patrick, Ronald, Ted and Herman have only visited Tunisia	Ronald didn't visit Tunisia	CONTRADICTION
+d-390	Lloyd, Mario, Danny, Alexander, Elmer, Ryan, Casey, Joshua, Leo and Hector have only visited Czech Republic	Leo didn't visit Vietnam	ENTAILMENT
+d-391	Clifford, Roland, Johnny, Roger, Scott, Gordon, Corey, Leroy, Oscar, Morris, Dan, Earl, Alexander, Curtis, Willie, David, Dennis, Fernando, Pedro and Freddie have only visited United Arab Emirates	Morris didn't visit United Arab Emirates	CONTRADICTION
+d-392	Joshua has only visited Argentina, Angola, Liberia, Cameroon, Oman, Tajikistan, Hungary, Uruguay, Sweden, Jamaica, Côte D'ivore, Ecuador, Andorra, Chile, Kazakhstan, Ethiopia, Saint Vincent & the Grenadines, Nepal, Turkmenistan and Peru	Rick didn't visit Hungary	NEUTRAL
+d-393	Wayne, Dennis, Chris, Ronald, Jessie, Wesley, Charlie, Clifford, Jerome, Clayton, Fernando, Salvador, Marshall, Lewis, Travis and Jeffery have only visited Antigua & Barbuda	Chris didn't visit Antigua & Barbuda	CONTRADICTION
+d-394	Gilbert has only visited Zimbabwe, Malta, Greece, Fiji, Eritrea, Czech Republic, United States and Botswana	Gilbert didn't visit Malta	CONTRADICTION
+d-395	Jacob has only visited Afghanistan, Romania, Pakistan, Equatorial Guinea, Slovakia, Italy, Kazakhstan, France, Iran, Slovenia, Madagascar, Saint Lucia, Palau, Luxembourg, Antigua & Barbuda, Kyrgyzstan, Yemen, Macedonia and The Bahamas	Harry didn't visit Macedonia	NEUTRAL
+d-396	Bradley, Harold, Oscar, Sidney, Adrian, Darrell, Jeffery, Alan, Ray, Bob, Morris and Armando have only visited Mauritius	Harold didn't visit Jamaica	ENTAILMENT
+d-397	Cecil, Adam, Jeffrey, Albert and Cody have only visited Israel	Adam didn't visit Israel	CONTRADICTION
+d-398	Micheal has only visited Kyrgyzstan, Finland, Democratic Republic of the Congo, Rwanda, Niger, Namibia, India, Syria, Angola, Bahrain, Laos, Ireland, Malaysia and Myanmar	Micheal didn't visit Ireland	CONTRADICTION
+d-399	Gordon, Jimmie, Christopher, Mark, Rodney, Frederick, Johnny, Richard, Marc, Corey, Erik, Milton, Phillip, Derrick, Edwin, Tyler, Russell, Todd and Douglas have only visited Guatemala	Rodney didn't visit Luxembourg	ENTAILMENT
+d-400	Walter, William, Alberto, Steve, Willie, Douglas, Elmer, Calvin, Edward and Philip have only visited Macedonia	Edward didn't visit Iraq	ENTAILMENT
+d-401	Adam, Troy, Philip, Christian, John, Timothy, Kent, Keith, Justin, Roy, Ramon, Perry, Darryl, Gilbert, Harold, Lloyd, Nathaniel and Micheal have only visited Saint Vincent & the Grenadines	Micheal didn't visit Australia	ENTAILMENT
+d-402	Mitchell has only visited Malta, Madagascar, Azerbaijan, Bosnia & Herzegovinia, France, Costa Rica, Netherlands, South Sudan, United Arab Emirates, Lebanon, Belize, Guinea-Bissau, Greece, Belarus, Democratic Republic of the Congo and Venezuela	Mitchell didn't visit Belize	CONTRADICTION
+d-403	Cody, Stephen, Clinton, Freddie and Frederick have only visited Guyana	Cody didn't visit Germany	ENTAILMENT
+d-404	Lonnie has only visited North Korea, Republic of the Congo, Palestine, Colombia, Cambodia, Iceland, Uzbekistan, Mauritania, Czech Republic, Bulgaria, Haiti, Slovakia, Latvia, Tunisia, Guinea-Bissau, Rwanda, Zambia, Ethiopia and Nepal	Lonnie didn't visit Iceland	CONTRADICTION
+d-405	Clinton, Barry, Ronnie and Earl have only visited Vietnam	Clinton didn't visit Venezuela	ENTAILMENT
+d-406	Alfred, Ricardo, Zachary, Kent, Rodney, Francisco, Herman, Brad, Leo, Alan, Darryl, Vernon, Cory, Mark, Kyle, Wayne, Dan and Daryl have only visited Sweden	Cory didn't visit North Korea	ENTAILMENT
+d-407	Jimmie has only visited Cambodia, Austria, Uruguay, Libya, Togo, Jordan, Tunisia, The Bahamas, Kyrgyzstan, Bangladesh, Canada, Dominica, Saint Vincent & the Grenadines, South Sudan, Vietnam and Cyprus	Jimmie didn't visit Jordan	CONTRADICTION
+d-408	Karl, Carlos, Ross, Rodney, Carl, Roberto, Jeffrey, Timothy, Willie, Brent, Freddie, William, Glen, Ken, Stanley, Gene, Mark, Calvin and Sergio have only visited Netherlands	Willie didn't visit Netherlands	CONTRADICTION
+d-409	Salvador has only visited Canada, São Tomé & Prícipe, Iran, China, Eswatini, Eritrea, Libya, Panama, Grenada, Czech Republic, Cuba, Brunei, Ecuador and Monaco	James didn't visit Eritrea	NEUTRAL
+d-410	Patrick, Hector, Mathew, Chad, Christopher, Fred, Sidney, Karl, Adam, Joshua and Stanley have only visited Tanzania	Chad didn't visit Tanzania	CONTRADICTION
+d-411	Tony has only visited Kiribati and Cuba	Juan didn't visit Kiribati	NEUTRAL
+d-412	Isaac, Manuel, Thomas, Edwin, Philip, Zachary, Sam, Bernard, Julio, Larry, Rafael, Perry, Phillip, Eric, Roberto, Jason and Brad have only visited Egypt	Thomas didn't visit Guyana	ENTAILMENT
+d-413	Ricky has only visited Oman, Niger, Honduras, Timor-Leste, Slovakia, Spain, Tuvalu, Poland, United Kingdom, Bhutan, Morocco, Portugal, Angola, Italy, Cabo and Vanuatu	Ricky didn't visit Angola	CONTRADICTION
+d-414	Victor has only visited Norway, Namibia, Ukraine, Greece, Chad, Senegal, Zambia, Austria, Barbados, North Korea, Djibouti, Mexico, Turkey and Equatorial Guinea	Victor didn't visit Chad	CONTRADICTION
+d-415	Don has only visited Guinea, Honduras, Vietnam, Benin, Greece, Barbados, Kosovo, Panama and San Mmarino	Phillip didn't visit Kosovo	NEUTRAL
+d-416	Terrence has only visited Canada, Kazakhstan, North Korea, Yemen, The Bahamas, Switzerland, Bosnia & Herzegovinia, Ukraine, Republic of the Congo, Papua New Guinea, Mauritania, United States, Madagascar and Ethiopia	Jason didn't visit Kazakhstan	NEUTRAL
+d-417	Vernon has only visited Tajikistan, Grenada, Timor-Leste, Malaysia, Nauru, Argentina, Belarus, Côte D'ivore, Fiji, Iceland, Cuba, Indonesia, United Kingdom and Turkmenistan	Vernon didn't visit Fiji	CONTRADICTION
+d-418	Claude, Paul, Rene, Arnold and Kirk have only visited Saint Kitts & Nevis	Rene didn't visit Saint Kitts & Nevis	CONTRADICTION
+d-419	Derek has only visited New Zealand, Afghanistan, Fiji, Kazakhstan, Germany, Papua New Guinea, Palau, Burundi, Syria, Niger, San Mmarino, Saint Vincent & the Grenadines, Greece, Ethiopia, Ecuador, Bulgaria, Lithuania and Ghana	Nelson didn't visit Germany	NEUTRAL
+d-420	Clarence has only visited Turkmenistan, Italy, Jamaica, Cameroon, Pakistan, Malta, Uruguay, Canada, Poland, Kiribati, Iran, Belarus, Guyana, Malawi, Antigua & Barbuda, Japan, Czech Republic, Mexico and Sierra Leone	Miguel didn't visit Turkmenistan	NEUTRAL
+d-421	Ricky has only visited Gambia, Peru, United States, Norway, Panama, Tunisia, Djibouti, Montenegro, Guinea-Bissau, Federated States of Micronesia and Guinea	Ricky didn't visit Guinea-Bissau	CONTRADICTION
+d-422	Francisco, Pedro, Angel, Leon, Clyde, John, Fred, Tyrone, Chris, Jordan, Neil and Philip have only visited Comoros	John didn't visit Zambia	ENTAILMENT
+d-423	Greg, Gregory, Travis, Joe, Jim, Jamie, Chester, Armando, Marcus, Bill, Kelly, Bernard, Edward, Wesley, Darrell, Nicholas, Jose, Julio and Norman have only visited Belarus	Armando didn't visit Belarus	CONTRADICTION
+d-424	Daryl, Joel, Max, Mark, Jim, Rafael, Karl, Bobby, Frederick, Harvey, Chad, Angel, Charlie, Billy, Hugh and Dennis have only visited Suriname	Mark didn't visit Iceland	ENTAILMENT
+d-425	Seth, Justin, Adrian, Benjamin and Robert have only visited Cameroon	Robert didn't visit Syria	ENTAILMENT
+d-426	Gabriel, Nathaniel, Patrick, Paul, David, Angel, Karl, Vernon, Eugene, Aaron, Joseph, Everett, Jeffery, Richard, Jerome, Scott, Miguel, Byron, Benjamin and Phillip have only visited Norway	Nathaniel didn't visit Yemen	ENTAILMENT
+d-427	Gerald, Leonard, Leo, Lloyd, Ron and Enrique have only visited Myanmar	Ron didn't visit North Korea	ENTAILMENT
+d-428	Brian, Leon, Fernando, Howard, Corey, Roberto, Gerald, Morris and Barry have only visited Macedonia	Gerald didn't visit Bosnia & Herzegovinia	ENTAILMENT
+d-429	Matthew has only visited Mongolia and Slovakia	Matthew didn't visit Mongolia	CONTRADICTION
+d-430	Daryl, Marion, Wallace, Timothy and Ruben have only visited Venezuela	Marion didn't visit Iran	ENTAILMENT
+d-431	Douglas has only visited Sri Lanka, Angola, Malta, Yemen, Kosovo, Norway, El Salvador, Malaysia, United States, Grenada, Romania, Bulgaria, Iran, San Mmarino, Ghana, Singapore, Zambia, Burkina and Liberia	Albert didn't visit Burkina	NEUTRAL
+d-432	Bobby has only visited Mozambique, Spain, Kyrgyzstan, North Korea, Mauritius, Seychelles, Cameroon, Panama, Marshall Islands and France	Darren didn't visit Seychelles	NEUTRAL
+d-433	Travis, Barry, Kent, Benjamin, Harry, Oscar, Dave, Freddie, Don, Armando, Todd, Rafael, Alberto and Shane have only visited Lesotho	Armando didn't visit Estonia	ENTAILMENT
+d-434	Wade has only visited Chile, Italy, Germany, Paraguay, Mauritius, Tonga and Cameroon	Don didn't visit Mauritius	NEUTRAL
+d-435	Dan, Hector, Pedro and Franklin have only visited United States	Dan didn't visit Trinidad & Tobago	ENTAILMENT
+d-436	Johnnie has only visited Bahrain, Saint Lucia, Guatemala, Australia, Uganda and Romania	Johnnie didn't visit Guatemala	CONTRADICTION
+d-437	Fred has only visited Estonia, Palestine, Botswana, Latvia, Burkina, San Mmarino, Sierra Leone and Argentina	Fred didn't visit Estonia	CONTRADICTION
+d-438	Jon, Philip, Miguel, Jared, Bryan, Ken, Johnny, Francisco, Daryl, Leonard, Ronnie, Wade, Travis, Felix, Luis, Jerry and Chris have only visited United States	Philip didn't visit United States	CONTRADICTION
+d-439	Salvador has only visited Bulgaria, Malaysia, Tanzania, Comoros, United States, Ukraine and Chile	Henry didn't visit Malaysia	NEUTRAL
+d-440	Jorge, Kirk, Ben, Morris, Rodney, Tommy, Jim, Marc and Ray have only visited Ghana	Kirk didn't visit Haiti	ENTAILMENT
+d-441	Nathan, David, Javier, Randall, Greg, Juan, Enrique, Nicholas, Glen, Samuel, Joseph, Jerome, Allen, Timothy, Max, Darrell, Stephen and Carl have only visited Brunei	Enrique didn't visit Brunei	CONTRADICTION
+d-442	Don has only visited Burkina, Dominica, Angola, Uzbekistan, Botswana, Nauru, Republic of the Congo, Argentina, Finland, Guinea and Kosovo	Alan didn't visit Argentina	NEUTRAL
+d-443	Nicholas, Edgar, Maurice, Angel, Chad, Mathew, Arthur, Jessie, Francis, Troy, Francisco and Sam have only visited Senegal	Francis didn't visit Palestine	ENTAILMENT
+d-444	Edgar, Eugene, Everett, Elmer, Morris, Ben, Sean, Thomas, Rick, Travis, Eric and Miguel have only visited Timor-Leste	Morris didn't visit Timor-Leste	CONTRADICTION
+d-445	Todd, Jimmy, Sidney, Casey, Isaac, Barry, Guy, Anthony, Billy, Jacob, Lance, Armando and Gary have only visited Angola	Sidney didn't visit Angola	CONTRADICTION
+d-446	Jimmy has only visited Libya, Thailand, Ireland, Cuba, Guinea-Bissau, Eswatini, Syria, Mozambique, Pakistan, Slovakia, Colombia, Estonia, Spain, Italy, Bhutan, Guinea, Côte D'ivore, Zimbabwe and China	Rick didn't visit Guinea	NEUTRAL
+d-447	Jimmy has only visited North Korea, Jordan, Palestine, Papua New Guinea, Iraq, Solomon Islands, Saint Kitts & Nevis and Timor-Leste	Dan didn't visit Palestine	NEUTRAL
+d-448	Alvin has only visited Malawi, Thailand, Singapore, Cambodia, North Korea, Paraguay, Netherlands, Equatorial Guinea, Bulgaria, Estonia, Mongolia and Costa Rica	Alvin didn't visit Paraguay	CONTRADICTION
+d-449	Sidney, Stanley, Clyde, Larry, Ralph, Eric, Terrence, Scott and Ricky have only visited Latvia	Ralph didn't visit Belize	ENTAILMENT
+d-450	Joseph has only visited Gabon, Ecuador, Nigeria, Vanuatu, Mali, Brazil and Nauru	Ernest didn't visit Mali	NEUTRAL
+d-451	Bradley, Don and Daryl have only visited Mongolia	Don didn't visit Malta	ENTAILMENT
+d-452	Ivan has only visited Sierra Leone, Turkmenistan, Papua New Guinea, Mozambique, Turkey, Argentina, Indonesia, Oman, Malaysia, Morocco, Antigua & Barbuda, Latvia, Philippines, Fiji, Montenegro and Sudan	Johnnie didn't visit Mozambique	NEUTRAL
+d-453	Ernest has only visited Democratic Republic of the Congo, Myanmar, Egypt, Andorra, Montenegro, Saint Vincent & the Grenadines, Kenya, Brunei, Federated States of Micronesia, Singapore, Cambodia, Iceland, Dominican Republic, Cameroon, Mauritania, Ukraine, China, Bulgaria and Finland	Bernard didn't visit Iceland	NEUTRAL
+d-454	Roger has only visited Finland, Eritrea, Serbia, Liechtenstein, Croatia, Uganda, Grenada, Republic of the Congo, Comoros, Morocco and Lebanon	Fernando didn't visit Morocco	NEUTRAL
+d-455	Lonnie, Allan, Gordon, Billy, Warren and Roger have only visited Canada	Gordon didn't visit Canada	CONTRADICTION
+d-456	Samuel, Clifton, Jerry, Kyle, Gilbert, Jaime, Randy, Steven, Brett and Clyde have only visited Sudan	Clyde didn't visit Mozambique	ENTAILMENT
+d-457	Tommy, Christopher, Franklin, Herbert and Johnny have only visited Romania	Herbert didn't visit Romania	CONTRADICTION
+d-458	Tony has only visited Saudi Arabia, Nigeria, Barbados, Albania and Myanmar	Bruce didn't visit Nigeria	NEUTRAL
+d-459	Cory, Andre, Norman, Tyler, Lee, Herman, Sidney, Wallace, Leroy, Troy, Jerome, Ryan, Ronnie, Freddie, Aaron, Keith and Bernard have only visited Togo	Leroy didn't visit Malawi	ENTAILMENT
+d-460	Jimmie has only visited Djibouti, Gabon, Brazil, Russia, Afghanistan, Albania, Greece, Zimbabwe, Libya, Italy, Qatar, Monaco, Palau, India, Macedonia, The Bahamas, Bulgaria and Mongolia	Jimmie didn't visit Palau	CONTRADICTION
+d-461	Jimmy, Glen, Lonnie, Justin, Troy, Nelson, Micheal, Brent, Ruben, George, Mathew, Harvey, Glenn, Wesley and Hugh have only visited Luxembourg	Harvey didn't visit Botswana	ENTAILMENT
+d-462	Adam has only visited Nicaragua, Botswana, Latvia, Lebanon, Switzerland, Angola, Denmark, Lesotho, Kazakhstan, Mongolia, New Zealand, Andorra, Senegal, Bosnia & Herzegovinia, Fiji, Spain and Malawi	Philip didn't visit Kazakhstan	NEUTRAL
+d-463	Edward has only visited Namibia, Sri Lanka, Gabon, Poland, Nauru, Czech Republic, Australia, Uganda and Albania	Edward didn't visit Nauru	CONTRADICTION
+d-464	Jim has only visited Poland, Tonga, Guyana, Democratic Republic of the Congo, Zambia, Latvia and Kazakhstan	Armando didn't visit Democratic Republic of the Congo	NEUTRAL
+d-465	Scott has only visited Slovakia, Zambia, Norway, Sri Lanka and Iraq	Ernest didn't visit Sri Lanka	NEUTRAL
+d-466	Raymond has only visited Nepal and Estonia	Kent didn't visit Nepal	NEUTRAL
+d-467	Alex has only visited Namibia, Dominican Republic and Tonga	Alex didn't visit Namibia	CONTRADICTION
+d-468	Alfred, Warren, Chris, Shawn, Darrell and James have only visited Montenegro	James didn't visit South Sudan	ENTAILMENT
+d-469	Ramon has only visited Pakistan, Fiji, Malawi, Switzerland and Israel	Jonathan didn't visit Pakistan	NEUTRAL
+d-470	Ernest, Mathew, Ryan, Guy, Jimmie, Corey, Antonio, Robert, Joe, Danny, Andy, Raymond, Milton, Joseph, Chris, Matthew, Greg, Derrick, Kyle and David have only visited Denmark	Antonio didn't visit New Zealand	ENTAILMENT
+d-471	Jesse has only visited Japan and Democratic Republic of the Congo	Shane didn't visit Japan	NEUTRAL
+d-472	Christian has only visited Georgia, Zambia, Austria, Iraq, Moldova, San Mmarino, Algeria, Germany, Luxembourg, Greece, Iran, Haiti and Syria	Jesus didn't visit Greece	NEUTRAL
+d-473	Reginald has only visited Azerbaijan, Gambia, Timor-Leste, Papua New Guinea, Guinea-Bissau, Serbia, The Bahamas, South Sudan and Jordan	Eduardo didn't visit The Bahamas	NEUTRAL
+d-474	Gordon has only visited Saint Lucia, Kenya, Moldova and Ecuador	Alfredo didn't visit Saint Lucia	NEUTRAL
+d-475	Ricky has only visited Kosovo, Central African Republic, Togo, Algeria, Palau, Malawi, Panama, Argentina, Brunei, San Mmarino, Peru, Bhutan, Yemen, Namibia, Senegal, Bulgaria, Vatican City and Equatorial Guinea	Ted didn't visit Namibia	NEUTRAL
+d-476	Tracy has only visited Guatemala, Mongolia, North Korea, Singapore, Kuwait, Haiti, Kazakhstan, Burundi, Tunisia, Belize, Azerbaijan, Iran, Sweden, Uganda, Nigeria, Nauru, Seychelles, Botswana and Algeria	Kent didn't visit Haiti	NEUTRAL
+d-477	Gary has only visited Chile, Andorra, Uruguay, India, Afghanistan and Argentina	Douglas didn't visit Andorra	NEUTRAL
+d-478	Jose has only visited Japan, Tunisia, Peru, Lebanon, Côte D'ivore, North Korea, France, Andorra, Macedonia, Kazakhstan, Antigua & Barbuda, Zambia, Democratic Republic of the Congo, Seychelles, Laos, El Salvador, Tonga, Lithuania and Bahrain	Jose didn't visit Laos	CONTRADICTION
+d-479	Salvador has only visited Argentina, Belize, Poland, Kenya, Jamaica, China, Benin, Norway, Somalia, Israel, Azerbaijan and Saint Kitts & Nevis	Edward didn't visit Benin	NEUTRAL
+d-480	Oscar has only visited El Salvador, Peru, Gabon, Tuvalu, Spain, Vatican City, Saint Vincent & the Grenadines, Bhutan and Austria	Bobby didn't visit Gabon	NEUTRAL
+d-481	Luis, Rodney, Jose, Ted, Eduardo, Herbert, Eugene and Jeffrey have only visited Georgia	Eduardo didn't visit Barbados	ENTAILMENT
+d-482	Ralph, Jerome, Chester, Fernando, Allen, Richard, Aaron, Tony, Todd and Mike have only visited Latvia	Richard didn't visit Tanzania	ENTAILMENT
+d-483	Ben, Ernest, Gene, Lewis, Wayne, Fred, Allan, Reginald, Bruce, Travis, Javier, Tommy and Maurice have only visited Syria	Travis didn't visit Syria	CONTRADICTION
+d-484	Russell has only visited Peru, Spain, Croatia, Panama and Eritrea	Arthur didn't visit Croatia	NEUTRAL
+d-485	Kurt, Alfredo, Andre and William have only visited Republic of the Congo	Kurt didn't visit Republic of the Congo	CONTRADICTION
+d-486	Marc has only visited Austria, Palestine, Canada, Somalia, Estonia, Macedonia, Bosnia & Herzegovinia and Venezuela	Kyle didn't visit Canada	NEUTRAL
+d-487	Justin, Ramon, Seth, Mitchell, Virgil, Marcus and Tracy have only visited Iran	Tracy didn't visit Malaysia	ENTAILMENT
+d-488	Timothy has only visited Solomon Islands, Monaco, Kuwait, Ecuador and Bosnia & Herzegovinia	Willie didn't visit Monaco	NEUTRAL
+d-489	Joshua, Lewis, Marc, Paul, Charles, Perry, Kenneth and Ron have only visited San Mmarino	Paul didn't visit Belize	ENTAILMENT
+d-490	Lester, Fernando, Donald, Shane, Herbert, Erik, Tim, Dennis, Javier and Tommy have only visited Denmark	Dennis didn't visit Denmark	CONTRADICTION
+d-491	Ted has only visited Cyprus, Kyrgyzstan, Tonga, Jamaica, Ghana, Saint Kitts & Nevis, Thailand and Solomon Islands	Leon didn't visit Solomon Islands	NEUTRAL
+d-492	Curtis has only visited Mozambique, Tuvalu, Sierra Leone, Belgium, Zimbabwe and South Sudan	Karl didn't visit South Sudan	NEUTRAL
+d-493	Wallace, Justin, Brad, Stephen, Clifton, Kevin, Randy, Claude, Eduardo, Isaac, Philip, Michael, Kent, Rene and Tony have only visited Cameroon	Kent didn't visit Cameroon	CONTRADICTION
+d-494	Benjamin, Reginald and Tony have only visited Mongolia	Tony didn't visit Saint Kitts & Nevis	ENTAILMENT
+d-495	Edward, Stanley, Francisco, Ricky, Joshua, Clyde, Theodore, Johnnie and Alfredo have only visited Serbia	Clyde didn't visit Libya	ENTAILMENT
+d-496	Duane has only visited Indonesia, Kyrgyzstan, Tajikistan, Cameroon and Samoa	Rick didn't visit Tajikistan	NEUTRAL
+d-497	Adrian, Jared, Gabriel, Lawrence and Tim have only visited Spain	Tim didn't visit Spain	CONTRADICTION
+d-498	Adam and Herman have only visited Mongolia	Adam didn't visit Mongolia	CONTRADICTION
+d-499	Ronald has only visited Luxembourg, Kazakhstan, United Arab Emirates, Eritrea and Tunisia	Scott didn't visit Tunisia	NEUTRAL
+d-500	Herman, Leonard, Pedro, Peter, Dennis, Lloyd, Terrance, Steven, Allen, Bob, Roberto, Ronnie, Christopher and Michael have only visited Canada	Dennis didn't visit Canada	CONTRADICTION
+d-501	Brad, Corey, Thomas, Frederick, Wade and Mathew have only visited Australia	Frederick didn't visit Burkina	ENTAILMENT
+d-502	Byron has only visited Tonga, Macedonia, Cambodia, North Korea, Kazakhstan, Mali, San Mmarino, Iraq, Burundi, Republic of the Congo, Canada, Kyrgyzstan, Benin, Kosovo and Vanuatu	Byron didn't visit Iraq	CONTRADICTION
+d-503	Harold and Ernest have only visited Greece	Harold didn't visit Greece	CONTRADICTION
+d-504	Danny has only visited Brazil, Madagascar and Togo	George didn't visit Brazil	NEUTRAL
+d-505	Harry, Dwayne, Scott, Tyrone, Mike, Jesse, Jeremy, Reginald, Thomas, Adrian, Everett, Marc, Don and Nicholas have only visited Guyana	Tyrone didn't visit Guyana	CONTRADICTION
+d-506	Wesley, Karl, Gregory, Ricardo, Nicholas, Sergio and Brett have only visited Bolivia	Nicholas didn't visit Egypt	ENTAILMENT
+d-507	Harry has only visited Botswana, Italy, Tonga, Mexico, Gabon, Grenada, Namibia, Somalia, Israel, Luxembourg, Afghanistan and Ukraine	Bob didn't visit Afghanistan	NEUTRAL
+d-508	Elmer, Ramon, Franklin, Julio, Brent, Max, Luis, Wade, Dustin and Steven have only visited Croatia	Elmer didn't visit Croatia	CONTRADICTION
+d-509	Jimmy has only visited Mauritania, Serbia, Papua New Guinea, Palau, Bosnia & Herzegovinia, Egypt and Kuwait	Mark didn't visit Papua New Guinea	NEUTRAL
+d-510	Frank, Wade, Dustin, Daryl, Enrique, Steve, Mike, Jerry, Jamie, Tommy, Adam, Terrence, Tony, Wayne, Dwayne, Fred, David and Marc have only visited Singapore	Jamie didn't visit Liechtenstein	ENTAILMENT
+d-511	Jose has only visited Antigua & Barbuda, Fiji, Djibouti, Russia, Gambia, Somalia and Sudan	Seth didn't visit Russia	NEUTRAL
+d-512	Craig, Michael, Wesley, Marcus, Armando, Ross, Leslie, Harry, Dan, Ron, Oscar, Alex, Lee, Jeffery, Anthony, Edwin, Dave, Mike and Enrique have only visited Mauritius	Dave didn't visit Israel	ENTAILMENT
+d-513	Ron has only visited Kenya, Maldives and Suriname	Willard didn't visit Maldives	NEUTRAL
+d-514	Maurice, Derek, Gilbert, Douglas, Terrence, Randall, Cody, Dustin and Wallace have only visited India	Wallace didn't visit India	CONTRADICTION
+d-515	Shawn has only visited Trinidad & Tobago, Cameroon, Andorra, Saudi Arabia, Chile, Kiribati, Russia, Kenya, Mexico, Armenia and Fiji	Shawn didn't visit Russia	CONTRADICTION
+d-516	Bryan has only visited Brazil, Iran, New Zealand, The Bahamas, France, Ecuador, Namibia, Slovenia, Venezuela, Estonia, Belize, Portugal, Czech Republic, United Kingdom, San Mmarino, Comoros, Monaco and Kosovo	Pedro didn't visit France	NEUTRAL
+d-517	Dennis, Terry and Alex have only visited Gabon	Alex didn't visit Cyprus	ENTAILMENT
+d-518	Scott has only visited Barbados and Trinidad & Tobago	Scott didn't visit Trinidad & Tobago	CONTRADICTION
+d-519	Max has only visited Indonesia, Malawi, Laos, Honduras, Thailand, Tanzania, Belarus, Egypt, North Korea, Finland, Singapore, Macedonia and Paraguay	Julian didn't visit Laos	NEUTRAL
+d-520	Keith, Marvin, Willard, Herbert, Joseph, Wade and Andrew have only visited Chad	Herbert didn't visit Chad	CONTRADICTION
+d-521	Jeff, Wade, Frank, Justin, Brian and Jaime have only visited Republic of the Congo	Jaime didn't visit Botswana	ENTAILMENT
+d-522	Clinton, Fernando, Brad, Jesse, Rodney, Troy, Virgil, Harold, Eric, Marcus, Felix, Nathan, Ted, Johnnie, Salvador, Duane, Stephen, Ron, Brent and Lester have only visited France	Virgil didn't visit France	CONTRADICTION
+d-523	Ryan has only visited Niger, Mozambique, Mauritius, Republic of the Congo, South Africa, Singapore, Bhutan, Democratic Republic of the Congo, Vatican City, Benin, Peru, Uruguay, Comoros and Norway	Ryan didn't visit Norway	CONTRADICTION
+d-524	Tracy has only visited Kazakhstan, Belarus, Venezuela, Suriname, Tonga, Liberia, The Bahamas, Cuba, Afghanistan, Uruguay and Rwanda	Jared didn't visit Tonga	NEUTRAL
+d-525	Cecil, Justin, Armando, Ken, Frederick, Antonio and Shawn have only visited Philippines	Cecil didn't visit North Korea	ENTAILMENT
+d-526	Ken has only visited Portugal, Iran, Nauru, Bangladesh, Guinea-Bissau, Israel, Finland, United States, Grenada, Moldova, Poland, Eswatini, Malaysia, Ecuador, Brazil, Saudi Arabia and Peru	Roberto didn't visit Guinea-Bissau	NEUTRAL
+d-527	Francisco has only visited Mozambique, Nauru, Bolivia, Honduras, Laos, Trinidad & Tobago, Lebanon, Papua New Guinea, Madagascar, The Bahamas and Guinea	Francisco didn't visit Laos	CONTRADICTION
+d-528	Erik has only visited Madagascar, Namibia and Ukraine	Erik didn't visit Namibia	CONTRADICTION
+d-529	Darrell, Tyler, Thomas, Brad, Byron, Andre, Martin and Javier have only visited Lithuania	Darrell didn't visit Ukraine	ENTAILMENT
+d-530	Max has only visited Japan, Chile, Slovakia, Gabon, Central African Republic, Myanmar, Thailand, Vatican City, Kazakhstan, Palau, Nepal, Spain and Turkmenistan	Max didn't visit Thailand	CONTRADICTION
+d-531	Terry has only visited North Korea, Zambia, Thailand, Cuba, Honduras, Spain, Sierra Leone, Djibouti, United Kingdom, Barbados, Seychelles, Cyprus, Georgia, Iraq, Bahrain, Cabo and India	Terry didn't visit Barbados	CONTRADICTION
+d-532	Aaron, Mario, Barry, Joshua, Alan, Ricky and Joel have only visited Tonga	Joel didn't visit Cambodia	ENTAILMENT
+d-533	Joel, Chris and Christopher have only visited Niger	Joel didn't visit Togo	ENTAILMENT
+d-534	Raul, Larry, Joshua, Pedro, Bradley, Anthony, Tommy, Glen, Kurt, Jared, Julian, Ernest and Alvin have only visited Nigeria	Larry didn't visit Nigeria	CONTRADICTION
+d-535	Ross, Don, Alan, Philip and Hugh have only visited Angola	Hugh didn't visit Suriname	ENTAILMENT
+d-536	Darren, Raul, Frederick, Alex, Bryan, Marvin, Fred, Alan, Brandon, Joseph, Leonard, Donald, Harry, Roberto, Andre, Philip and Gordon have only visited Yemen	Fred didn't visit Oman	ENTAILMENT
+d-537	Alexander has only visited Serbia, Bangladesh, Portugal, São Tomé & Prícipe, Liechtenstein, Moldova, Somalia, Andorra, Greece, Trinidad & Tobago, San Mmarino, Sierra Leone, Antigua & Barbuda and Dominican Republic	Alexander didn't visit São Tomé & Prícipe	CONTRADICTION
+d-538	Scott, Herman, Peter, Christopher, Brian, Alexander, Samuel, Jordan, Dustin, Justin, Douglas, Antonio, Clyde, Jerome, Casey, Cody, Adrian and Theodore have only visited Qatar	Samuel didn't visit Qatar	CONTRADICTION
+d-539	Mathew has only visited Egypt, Russia, Nigeria, Saint Kitts & Nevis and Barbados	Mathew didn't visit Egypt	CONTRADICTION
+d-540	Martin, Kirk, Rafael, Travis, Thomas, Wayne, Leon, Javier, Cody, Johnny, Tracy, Walter and Justin have only visited Cyprus	Wayne didn't visit North Korea	ENTAILMENT
+d-541	Andy has only visited Uruguay, Panama, New Zealand, Jamaica, Nepal, India, Lithuania, Oman and Morocco	Darryl didn't visit Oman	NEUTRAL
+d-542	William and Kurt have only visited Namibia	Kurt didn't visit Egypt	ENTAILMENT
+d-543	Manuel, Clayton, Kenneth, Andrew, Luis, Samuel, Mark, Willie, Alan, Thomas and Lonnie have only visited United Kingdom	Kenneth didn't visit Ecuador	ENTAILMENT
+d-544	Larry has only visited Austria, Malta, Malawi, Luxembourg, Czech Republic, Comoros, Madagascar, Belize, Seychelles and Vietnam	Larry didn't visit Austria	CONTRADICTION
+d-545	Terry, Isaac, Jimmy, Rafael, Phillip, Kevin, Kurt, Lawrence, Gary and Duane have only visited Serbia	Kevin didn't visit Italy	ENTAILMENT
+d-546	Johnny has only visited Czech Republic, Turkey, Lebanon and Maldives	Patrick didn't visit Czech Republic	NEUTRAL
+d-547	Wallace, Francis, Raymond, Russell, Alberto, Maurice, Douglas, Barry, Terrence, Alfred, Peter, Kenneth and Derek have only visited Romania	Maurice didn't visit Romania	CONTRADICTION
+d-548	Steven, Jorge, Matthew, Freddie and Jesse have only visited Serbia	Jorge didn't visit Serbia	CONTRADICTION
+d-549	Lonnie has only visited Pakistan, Moldova, Vanuatu, San Mmarino, Netherlands and United Kingdom	Lonnie didn't visit Moldova	CONTRADICTION
+d-550	Rafael, Ross, Gerald, Jack, Byron, Jaime, Jerome, Rene and Billy have only visited Maldives	Jaime didn't visit Ecuador	ENTAILMENT
+d-551	David has only visited Sweden, Tonga, Hungary, Federated States of Micronesia, Saint Kitts & Nevis, Republic of the Congo, Solomon Islands, Italy, Seychelles, Luxembourg, Latvia and Guinea	David didn't visit Federated States of Micronesia	CONTRADICTION
+d-552	Tyler has only visited Comoros, São Tomé & Prícipe and Laos	Tyler didn't visit Laos	CONTRADICTION
+d-553	Tim has only visited Ecuador, Saint Kitts & Nevis, Djibouti, Kyrgyzstan, Singapore, Lesotho, Belize, South Africa, Samoa and Iceland	Tony didn't visit Singapore	NEUTRAL
+d-554	Marcus, Lee, Clifton and Tom have only visited Syria	Lee didn't visit Tunisia	ENTAILMENT
+d-555	Gregory, Gordon, Rodney, Nicholas, Enrique, Lee, Chad, Warren, Roberto, Fernando, Shane, Steven, Randy, Hector, Nathan and Dale have only visited China	Fernando didn't visit Poland	ENTAILMENT
+d-556	Curtis has only visited Sudan, Zambia, Liberia, Iran, Burkina, Namibia, Kenya and Eritrea	Kent didn't visit Sudan	NEUTRAL
+d-557	Dustin, Jeremy, Jon, Gilbert, Rodney, Kelly, Jordan, Ruben, Frank, Joe, Vernon, Johnnie, Randall, Karl, Sidney, William and Seth have only visited Belgium	Rodney didn't visit Netherlands	ENTAILMENT
+d-558	Raul has only visited Yemen, Paraguay, Malaysia, Uzbekistan, China, Bahrain, Macedonia, Venezuela, Lithuania, Kenya, Norway, Colombia, Israel, Philippines and The Bahamas	Raul didn't visit Philippines	CONTRADICTION
+d-559	Floyd, Raul, Paul, Jeff, Mitchell, Kenneth, Tracy, Joshua, Ian, Alberto, Lance, Allan, Derek, Leroy, Gabriel and Dean have only visited Cyprus	Ian didn't visit Cyprus	CONTRADICTION
+d-560	Neil, Terrence, Leroy, Hugh, Glen, Patrick, Clyde, Scott, Don, Allan, Johnnie, Micheal, Duane, Tommy, Javier, Kent, Jeffery, Francisco and Ivan have only visited Bahrain	Jeffery didn't visit Bahrain	CONTRADICTION
+d-561	Ross has only visited Mali, Switzerland, Chad, Jamaica, Eswatini, Sierra Leone, Marshall Islands, Liberia, Lithuania and Denmark	Ross didn't visit Chad	CONTRADICTION
+d-562	Enrique, Darren and Ricky have only visited South Sudan	Enrique didn't visit South Sudan	CONTRADICTION
+d-563	Lance has only visited Turkey, Macedonia, Estonia and Kosovo	Bobby didn't visit Macedonia	NEUTRAL
+d-564	Oscar has only visited Sri Lanka, Timor-Leste, San Mmarino, Brazil, Ukraine, Comoros, Suriname, Estonia, Pakistan, Guatemala, Belize, Samoa, India, Lebanon, Bhutan, Slovenia, Singapore, Paraguay, Finland and Armenia	Jacob didn't visit Guatemala	NEUTRAL
+d-565	Jeffery has only visited Thailand, Zimbabwe, San Mmarino, Saint Vincent & the Grenadines, Togo, Somalia, Comoros, Cyprus, Bhutan, Kuwait, Ireland, Trinidad & Tobago, Norway, Vatican City and Central African Republic	Jeffery didn't visit San Mmarino	CONTRADICTION
+d-566	Juan, Mario, Allan, Steven, Nicholas, Cody, Maurice, Ian, Tim, Kelly, Anthony, Tracy and Frank have only visited Tuvalu	Allan didn't visit Italy	ENTAILMENT
+d-567	Albert has only visited Laos, Russia, Timor-Leste, Macedonia, Slovakia, Seychelles, Morocco, Oman, Turkey, Yemen, Lithuania, Vatican City, United Kingdom, Syria, Ecuador, Afghanistan and Tonga	Albert didn't visit Yemen	CONTRADICTION
+d-568	Billy has only visited Poland and Pakistan	Leon didn't visit Pakistan	NEUTRAL
+d-569	Richard has only visited Hungary, Togo, New Zealand, Botswana, Japan, Djibouti, Denmark, Tajikistan, United States, Mali, Senegal, Norway and Egypt	Richard didn't visit Hungary	CONTRADICTION
+d-570	Sergio, Ramon, Oscar, Jack, Ernest, Derek, Allan, Brett, Adrian, Bernard, Julian, Richard, Benjamin and Charles have only visited Bosnia & Herzegovinia	Ernest didn't visit Bosnia & Herzegovinia	CONTRADICTION
+d-571	Patrick has only visited Tuvalu, Kuwait, Sri Lanka and Timor-Leste	Patrick didn't visit Sri Lanka	CONTRADICTION
+d-572	Lloyd, Allan, Floyd, Ernest, Bernard, Ruben, Marvin and Jesse have only visited Nigeria	Lloyd didn't visit Serbia	ENTAILMENT
+d-573	Robert has only visited Guinea-Bissau, Marshall Islands, Canada, Comoros, Ireland, Mauritania, Liechtenstein, Brunei, Slovenia, Zambia and Afghanistan	Lee didn't visit Liechtenstein	NEUTRAL
+d-574	Jimmie, Ben, Clayton, Marvin, Dale, Ian, Alex, Gilbert, James, Antonio, Mario, Chad, Randall, Chester, Charlie, Jeffery and Theodore have only visited Belgium	Ian didn't visit Greece	ENTAILMENT
+d-575	Andy, Edward, Larry, Daryl, Francis, Albert and Manuel have only visited United States	Daryl didn't visit Poland	ENTAILMENT
+d-576	George has only visited United Arab Emirates, Burundi, Libya, Zimbabwe, Republic of the Congo, South Africa, Cameroon and Germany	George didn't visit Burundi	CONTRADICTION
+d-577	Wesley, Lee, Ricardo, Chris, Jonathan, Richard, Micheal, Gilbert, Raul, Dennis, Jesse, Henry, Clarence, Nathaniel, Ron and Johnny have only visited Czech Republic	Richard didn't visit Costa Rica	ENTAILMENT
+d-578	Joe has only visited Denmark, Malawi, Ethiopia, Moldova, Armenia, Guatemala, Benin, Venezuela, Afghanistan, Namibia, Lebanon, Iraq and Ghana	Joe didn't visit Afghanistan	CONTRADICTION
+d-579	Derrick has only visited Brazil, Portugal, Algeria, Federated States of Micronesia, Palestine, United Arab Emirates, Nigeria and Vietnam	Derrick didn't visit United Arab Emirates	CONTRADICTION
+d-580	Don and Alfred have only visited Solomon Islands	Don didn't visit Greece	ENTAILMENT
+d-581	Richard, Terry, Nathaniel, Jaime, Glenn, Julian, Bob, Bruce, Brent, Billy, Jon, Alfred, Alex, Douglas, Clifton, Dale, Pedro, Gordon, Arnold and Jose have only visited Egypt	Alfred didn't visit Egypt	CONTRADICTION
+d-582	Clinton, Jim, Steve, Nathaniel, Johnny, Zachary, Edward, Rodney, Duane and Seth have only visited United States	Johnny didn't visit United States	CONTRADICTION
+d-583	Jaime, Marion, Armando, Billy and Seth have only visited Guyana	Armando didn't visit Guyana	CONTRADICTION
+d-584	Wayne has only visited Dominica, Austria, Republic of the Congo, Syria, Italy, Estonia, Togo, Croatia, Paraguay, Zimbabwe, Malta, Cuba, Egypt, Bosnia & Herzegovinia, Luxembourg, Lebanon, Israel, Guatemala and Denmark	Kelly didn't visit Syria	NEUTRAL
+d-585	Peter, Edgar and Alex have only visited Nepal	Peter didn't visit Nepal	CONTRADICTION
+d-586	Kelly has only visited United Arab Emirates, Liberia and Nepal	Kelly didn't visit United Arab Emirates	CONTRADICTION
+d-587	Craig and Richard have only visited Saint Lucia	Craig didn't visit Saint Lucia	CONTRADICTION
+d-588	Dustin has only visited Turkmenistan, France, Belarus, Netherlands, South Korea, Papua New Guinea, Saudi Arabia, Eswatini, Burundi, Philippines, Qatar and Sri Lanka	Glenn didn't visit Sri Lanka	NEUTRAL
+d-589	Leo, Herbert, Howard, Allan, Dave, Erik, Felix and Tom have only visited Guinea-Bissau	Allan didn't visit Guinea-Bissau	CONTRADICTION
+d-590	Nelson, Bradley, Juan, Jonathan, Bryan, Daniel, Albert, Alfredo, Joe, Brian, Randy and Lewis have only visited Sweden	Joe didn't visit Sweden	CONTRADICTION
+d-591	Kyle has only visited Maldives, Guinea-Bissau, Monaco, Antigua & Barbuda, Benin, South Korea, Kosovo, Kazakhstan, Bahrain, Suriname, Turkmenistan, Afghanistan, Bangladesh, Georgia, Bulgaria, Latvia, Canada, Yemen and Hungary	Jaime didn't visit Yemen	NEUTRAL
+d-592	Lester has only visited Botswana, Senegal, Guinea, Somalia, Namibia, San Mmarino, Maldives, Egypt, Georgia, Sweden, Ukraine, Saint Vincent & the Grenadines, Lithuania, Slovakia and Sri Lanka	Stanley didn't visit Lithuania	NEUTRAL
+d-593	Juan, Kenneth, Thomas, Clinton, Roland, Eduardo, Gordon, Ron, Henry, Marc, Gene, Elmer, Keith, Corey, Gary and Lloyd have only visited Russia	Roland didn't visit Russia	CONTRADICTION
+d-594	Randall, Ron and Russell have only visited South Sudan	Russell didn't visit Austria	ENTAILMENT
+d-595	Norman has only visited Gambia, Bhutan, Guinea, Norway, Federated States of Micronesia, New Zealand, Nauru, Paraguay, Timor-Leste and Poland	Joel didn't visit Bhutan	NEUTRAL
+d-596	Wayne has only visited Benin, Bahrain and Monaco	Jared didn't visit Bahrain	NEUTRAL
+d-597	Carlos has only visited Central African Republic, Saint Vincent & the Grenadines, Kyrgyzstan, Myanmar, Paraguay, Monaco, Mauritania, Netherlands, Eswatini, Ukraine, Turkmenistan, Nauru and Moldova	Carlos didn't visit Moldova	CONTRADICTION
+d-598	Lester, Donald, Kyle, Christopher, Fred, Clifford, Bob, Clarence, Chester, Eugene, Wayne and Eric have only visited Sweden	Kyle didn't visit Kyrgyzstan	ENTAILMENT
+d-599	Ricardo, Leonard, Jonathan, Jimmy, Jason, Jimmie, Gordon, Clifton, Roland, Willie, Javier, Ruben, Allan and Sidney have only visited Slovenia	Leonard didn't visit Slovenia	CONTRADICTION
+d-600	Alfredo has only visited Turkmenistan, Nauru and Algeria	Alfredo didn't visit Turkmenistan	CONTRADICTION
+d-601	Leonard, Howard, Leroy, Adrian, Wallace, Kelly, Freddie and Felix have only visited Vatican City	Howard didn't visit Mali	ENTAILMENT
+d-602	Sergio has only visited Nigeria and Grenada	Sergio didn't visit Grenada	CONTRADICTION
+d-603	Jeffery, Ralph, Willie, Randall, Bruce, Derrick, Fred, Jamie, Bernard, Willard, Brad, Johnnie, Christopher, Victor, Ricky and Herman have only visited Vanuatu	Willie didn't visit Cameroon	ENTAILMENT
+d-604	Glenn has only visited Georgia, Côte D'ivore, Guyana and Timor-Leste	Roland didn't visit Guyana	NEUTRAL
+d-605	Philip has only visited Albania, Guyana, Singapore, Belarus, Hungary, Gambia, Iran, Serbia, Mauritania, Cuba, Ireland, Argentina, Indonesia, Guatemala and Afghanistan	Tommy didn't visit Hungary	NEUTRAL
+d-606	Terry has only visited South Korea, Zambia, Laos, Argentina, Eritrea, Slovenia, Singapore and Cuba	Terry didn't visit South Korea	CONTRADICTION
+d-607	Hugh has only visited Zimbabwe, Morocco, Cuba, Vanuatu, Seychelles, Malawi, Burkina, Israel, Tonga and China	Carlos didn't visit Burkina	NEUTRAL
+d-608	Paul has only visited Albania, Singapore, Zimbabwe, Mauritania, Malaysia, Cyprus, Georgia, Myanmar, Luxembourg, Sudan, Spain, Trinidad & Tobago, Guyana, Kazakhstan, Macedonia, Chad, Cambodia and Jordan	Thomas didn't visit Luxembourg	NEUTRAL
+d-609	Brent, Brett, Wade, Terrance, Joseph, Oscar, Richard, Philip, Miguel, Jerome, Keith, Ronnie, Danny and Matthew have only visited Peru	Danny didn't visit Zimbabwe	ENTAILMENT
+d-610	Ramon, Barry, Clayton, Joshua, Darrell, Eugene, Roy, Douglas, Lewis, Gerald, Ross, Johnnie, Allen, Gordon, Andre, Ben, Jesse and Patrick have only visited Saint Vincent & the Grenadines	Gordon didn't visit Nicaragua	ENTAILMENT
+d-611	Lester has only visited Mali, Afghanistan, Albania, Myanmar, Qatar, Republic of the Congo, Mexico, Azerbaijan, Greece, Togo, Saint Vincent & the Grenadines and Armenia	Lester didn't visit Myanmar	CONTRADICTION
+d-612	Don, Arthur, Bryan, Rodney, Stephen, Pedro, Darren, Clayton, James, Norman, Raymond, Ernest, Sam, Micheal, Duane, Kirk, Marc and Bruce have only visited Cyprus	Micheal didn't visit Cyprus	CONTRADICTION
+d-613	Phillip, Gerald, Ian, Cecil, Johnny, Rodney, Everett, Seth, Tom, Warren, Kenneth and Bryan have only visited Colombia	Gerald didn't visit Djibouti	ENTAILMENT
+d-614	Anthony, Ernest, Walter, Justin, Peter, Miguel, Arnold, Kenneth, Willie, Marvin and William have only visited Cambodia	Anthony didn't visit Fiji	ENTAILMENT
+d-615	Juan has only visited Norway, Chile, São Tomé & Prícipe, Marshall Islands, Denmark, Suriname, Tonga and Palestine	Juan didn't visit Marshall Islands	CONTRADICTION
+d-616	Ross, Clinton, Jim, Armando, Steve, Leon, Gabriel, John, Willie, Enrique, Wesley, Ruben, Brian, Mike and Frank have only visited Grenada	John didn't visit The Bahamas	ENTAILMENT
+d-617	Perry has only visited Switzerland, Belize, Uzbekistan, India, Federated States of Micronesia, Saudi Arabia, Togo, Netherlands, Brazil, Bulgaria, South Korea and Burkina	Martin didn't visit Burkina	NEUTRAL
+d-618	Frederick, Joel, Steve, Larry, Lloyd, Donald, Chester, Edgar, Barry, Gregory, Jerome, Sean, Alfredo, Thomas and Henry have only visited Eritrea	Barry didn't visit Eritrea	CONTRADICTION
+d-619	Marcus has only visited Mali, Saint Kitts & Nevis, Guinea, Botswana, Ethiopia and Algeria	Marcus didn't visit Guinea	CONTRADICTION
+d-620	Leo, Nathaniel, Patrick, Calvin, Phillip, Cecil, Brett, Marion, Frederick, Marshall, Shawn, Rick, Andrew, Todd, Ted and Dennis have only visited Mexico	Leo didn't visit Mexico	CONTRADICTION
+d-621	Fernando and Steven have only visited Georgia	Steven didn't visit Finland	ENTAILMENT
+d-622	Ronnie, Jim, Hector, Clifton, Raymond, Cecil, Enrique, Floyd, Tommy, Neil, Morris, Jorge, Clyde, Julian and Steven have only visited Uruguay	Cecil didn't visit Uruguay	CONTRADICTION
+d-623	James, Charlie, Andre, Jose, Nathan, Johnnie, Ron, Terrance, Phillip, Christopher, Carl, Jeremy, Clifton, Philip, Bob, Kyle, Tyler and Armando have only visited Montenegro	Jose didn't visit North Korea	ENTAILMENT
+d-624	Aaron has only visited United Arab Emirates, Belize, Kosovo, Serbia, Italy, Qatar, Suriname, Latvia, Rwanda, Federated States of Micronesia, Tunisia and Somalia	Aaron didn't visit Belize	CONTRADICTION
+d-625	Bruce, Scott, Gabriel, Miguel, Billy, Bill, Ray, Terrence, Dean, Lance, Roland, Philip, Harvey, Fernando, Sergio, Dustin, George, Christopher and Leo have only visited Georgia	Scott didn't visit Slovakia	ENTAILMENT
+d-626	Walter, Ruben, Ray, Rafael, Ronnie and Juan have only visited Timor-Leste	Rafael didn't visit Timor-Leste	CONTRADICTION
+d-627	Jerry has only visited Sierra Leone, Nicaragua, Cyprus, Comoros and Saint Lucia	Roy didn't visit Comoros	NEUTRAL
+d-628	Marion, Jason, Adam, Arthur, Pedro, Calvin and Karl have only visited France	Adam didn't visit Mozambique	ENTAILMENT
+d-629	Kirk, Peter, Dwight, Rene and Byron have only visited Zambia	Rene didn't visit Iraq	ENTAILMENT
+d-630	Alfred has only visited Costa Rica, Cameroon, Monaco, Lebanon, France, Liechtenstein, Kazakhstan, Iceland, Russia, Uzbekistan, Trinidad & Tobago, Kosovo, Kyrgyzstan, Germany and Sri Lanka	Frank didn't visit Liechtenstein	NEUTRAL
+d-631	Benjamin has only visited Montenegro, Niger, Sri Lanka, Nigeria, Cabo, Nicaragua, Eritrea, Central African Republic, Guatemala, Jordan, Lebanon, Thailand and Morocco	Tim didn't visit Cabo	NEUTRAL
+d-632	Allen, Michael, Enrique, Nicholas, Lawrence and Leo have only visited Fiji	Michael didn't visit Fiji	CONTRADICTION
+d-633	Keith, Andrew, Rene, Nelson, Glen, Reginald, Hugh, Roy, Hector, Andy, Philip and Gerald have only visited Georgia	Hugh didn't visit Honduras	ENTAILMENT
+d-634	Dennis, Darryl, Juan, Hugh, Samuel, Harold, Jordan, Louis, Reginald, Travis, Lloyd, Gilbert and John have only visited Costa Rica	Reginald didn't visit Costa Rica	CONTRADICTION
+d-635	Wayne has only visited Saint Kitts & Nevis, Kiribati, Laos, Finland, Tajikistan, Libya, Nepal, Venezuela, Eswatini, Vatican City, Bosnia & Herzegovinia, Timor-Leste, Dominican Republic, Central African Republic, Brazil, Paraguay, Sri Lanka and Nauru	Jon didn't visit Tajikistan	NEUTRAL
+d-636	Shane, Travis, Christian, Luis, Alberto, Milton, Enrique, Bobby, Leroy and Daniel have only visited Guatemala	Enrique didn't visit Malaysia	ENTAILMENT
+d-637	Ricardo has only visited Morocco, Niger, Equatorial Guinea, Singapore, Zambia, Fiji, Comoros, Samoa, Nauru and Bosnia & Herzegovinia	Darryl didn't visit Comoros	NEUTRAL
+d-638	Rick has only visited Mali, Seychelles, Poland, Paraguay, Lesotho, Qatar, Guinea-Bissau, Turkey, Côte D'ivore, Brazil, Cabo, Venezuela, Iraq, Rwanda, Lithuania, United Kingdom and Guyana	Rick didn't visit Guinea-Bissau	CONTRADICTION
+d-639	Javier has only visited Lesotho, Kyrgyzstan, Yemen and Cameroon	Lewis didn't visit Kyrgyzstan	NEUTRAL
+d-640	Alfredo, Curtis, Barry, Eric, Chris, Nathan, Randy, Lloyd, Cody, Jeremy and Fred have only visited Zimbabwe	Lloyd didn't visit Saint Lucia	ENTAILMENT
+d-641	Lee, Tim, Cody, Louis, Lewis, Elmer, Victor, Phillip, Terrance, Shane, Kyle, Micheal, Barry, Clifford, Christian, Byron, Luis and Alberto have only visited Guinea-Bissau	Phillip didn't visit Guinea-Bissau	CONTRADICTION
+d-642	Bryan has only visited Ghana, Vietnam, France, Eswatini, Georgia, Tajikistan, Thailand, El Salvador, Saudi Arabia, Serbia, The Bahamas and Vanuatu	Louis didn't visit Eswatini	NEUTRAL
+d-643	Joel has only visited Guatemala, Sudan, South Korea, Ecuador, Angola, Trinidad & Tobago, Kiribati, Gambia, Solomon Islands, Romania, Guinea, Liberia, Tanzania, Latvia, San Mmarino and Czech Republic	Chris didn't visit Liberia	NEUTRAL
+d-644	Peter, Jacob, Danny, Byron, Todd, Roberto and Brent have only visited Venezuela	Byron didn't visit Venezuela	CONTRADICTION
+d-645	Steven, Bob, Willard, Julian, Henry, Brad, Clifford, Ken and Sean have only visited Kosovo	Julian didn't visit Kosovo	CONTRADICTION
+d-646	Byron, Zachary, Sidney, Dale, Nathaniel, Randy, Marvin, Chad, Hector, William, Frederick, Jessie, Johnnie, Clarence, Dave, Oscar, Jerry, Herbert, Aaron and Troy have only visited Australia	Herbert didn't visit Vatican City	ENTAILMENT
+d-647	Douglas, Melvin and William have only visited Afghanistan	Douglas didn't visit Ukraine	ENTAILMENT
+d-648	Derek, Milton, Jon, Bobby and Gilbert have only visited Syria	Bobby didn't visit Angola	ENTAILMENT
+d-649	Jorge has only visited Czech Republic, Saint Kitts & Nevis, São Tomé & Prícipe, Austria, Australia, Lesotho, Chad and Latvia	Jorge didn't visit Austria	CONTRADICTION
+d-650	Ricky has only visited Bhutan, Panama, Luxembourg, Cyprus, Fiji, The Bahamas, Togo, Mali, Mauritius, Sri Lanka, Kuwait, Cameroon, Liechtenstein, Haiti, Norway and Solomon Islands	Mario didn't visit Togo	NEUTRAL
+d-651	Dave, Lewis, Brad, Ruben, Nathan, Antonio, Chester, Ivan, Fernando, Paul, Freddie, Clarence, Mario, Alvin and Hugh have only visited Lebanon	Clarence didn't visit Belarus	ENTAILMENT
+d-652	Wade, Hector, Joseph, Adam, Albert, Lee, Byron, Dwight, Mathew, Mark and Keith have only visited Ecuador	Mathew didn't visit Ecuador	CONTRADICTION
+d-653	Joe, Sam, Duane, Armando, Anthony, Milton, Andrew, Cory, Ray, Allan, Sidney, Brian, Ricardo, Ron and Rafael have only visited Tuvalu	Sam didn't visit Norway	ENTAILMENT
+d-654	Glen has only visited San Mmarino and Norway	Rick didn't visit Norway	NEUTRAL
+d-655	Lawrence has only visited Italy, Malawi, Latvia, Botswana, Croatia, Cabo, Netherlands, Djibouti, Mexico, Paraguay, Cuba, Venezuela, Morocco, Zambia, Turkmenistan and Czech Republic	Brandon didn't visit Italy	NEUTRAL
+d-656	Peter has only visited Liechtenstein, Dominica, Senegal, Malaysia, Switzerland, Eswatini, Slovakia, Tuvalu, Burkina, Kazakhstan, Belize, Malawi, Panama, Maldives, Timor-Leste, United Arab Emirates, Norway and Togo	Peter didn't visit Malaysia	CONTRADICTION
+d-657	Wallace, Darrell, Sergio, Fred, Brad, Samuel, Wayne, Roland, Eddie, Philip, Andre, Michael, Erik, Lewis, Jorge, Melvin, Freddie, Edgar, Albert and Ron have only visited Eswatini	Eddie didn't visit Guinea-Bissau	ENTAILMENT
+d-658	Brent, Cecil, Leon, Jay, Christian, Marion, Erik, Bernard, Tom, Marc, Casey, Angel, Bruce, Alan, Stanley, Nelson, Eduardo, Ivan and Dave have only visited Jordan	Jay didn't visit Guatemala	ENTAILMENT
+d-659	Elmer has only visited Papua New Guinea, Vanuatu, Czech Republic, Croatia, Dominica, Uruguay, Timor-Leste, United Arab Emirates and Seychelles	Everett didn't visit Uruguay	NEUTRAL
+d-660	Cecil, Erik, Rodney, Frederick, Andy, Christopher, Rafael, Brent, Darrell, Shane, Jeffery and Francisco have only visited Germany	Cecil didn't visit Honduras	ENTAILMENT
+d-661	Phillip has only visited Ireland, Botswana and Mozambique	Antonio didn't visit Mozambique	NEUTRAL
+d-662	Anthony, Todd, Dwayne, Samuel, Floyd, Casey, Leon, Mario, Mathew, Manuel, Lonnie, Perry, Sidney, Bryan, Marion and Zachary have only visited Belarus	Floyd didn't visit Belarus	CONTRADICTION
+d-663	Milton, Glenn, Sean, Bobby, Don, Tyler, Joseph, Matthew, Dustin, Willard, Gerald, Charlie, Kirk, Tracy, Edward, Jose and Carl have only visited Senegal	Joseph didn't visit Malawi	ENTAILMENT
+d-664	Gabriel has only visited Kuwait, Barbados, Kenya, El Salvador, Uruguay, Japan, Sweden, Angola, Botswana, Montenegro, Antigua & Barbuda, South Korea, Albania, Eswatini, Palestine, Republic of the Congo, North Korea, Serbia, Bosnia & Herzegovinia and Gabon	Sean didn't visit Japan	NEUTRAL
+d-665	Philip has only visited Israel, Zambia and United States	Melvin didn't visit United States	NEUTRAL
+d-666	Wesley and Eduardo have only visited Armenia	Eduardo didn't visit Russia	ENTAILMENT
+d-667	Nicholas has only visited Republic of the Congo, Suriname, Monaco, Turkmenistan, Gambia, Chile, Cyprus, Norway, Saint Kitts & Nevis, Saint Lucia, São Tomé & Prícipe, Myanmar, Yemen, Saint Vincent & the Grenadines and Equatorial Guinea	George didn't visit Myanmar	NEUTRAL
+d-668	Floyd, Marc, Ricky, David, Jacob, Jordan, Gabriel, Bradley and Freddie have only visited Guyana	Jordan didn't visit Guyana	CONTRADICTION
+d-669	Herbert, Lester, Louis, Jeffrey, Alfredo, Guy, Marvin, Leroy, Gerald, Bernard, Glen, Carlos, Norman, Shawn, Darren and Derek have only visited Equatorial Guinea	Derek didn't visit Equatorial Guinea	CONTRADICTION
+d-670	Mathew, Ernest, Warren, Hector, Harold and Henry have only visited Japan	Warren didn't visit Belarus	ENTAILMENT
+d-671	Jeffrey, Willie, Stanley, Charles, Derrick and Russell have only visited Equatorial Guinea	Willie didn't visit Equatorial Guinea	CONTRADICTION
+d-672	Micheal has only visited Costa Rica, Marshall Islands, Grenada, Iceland, Kiribati, Saint Lucia, Brazil, Malawi and Chile	Andy didn't visit Malawi	NEUTRAL
+d-673	Shane has only visited Austria, Saint Lucia, Trinidad & Tobago, Mexico, Djibouti, Somalia, Angola, Comoros, Luxembourg and New Zealand	Shane didn't visit Comoros	CONTRADICTION
+d-674	Jeremy, Karl, David, Frederick and Reginald have only visited Eswatini	Jeremy didn't visit Iceland	ENTAILMENT
+d-675	Carlos has only visited Croatia, Singapore, Monaco, Guyana, Cuba, Albania, Moldova, Uzbekistan, Lesotho, Vatican City, Philippines, Zambia, Dominica, Azerbaijan, Republic of the Congo, Portugal, South Korea, Palau and Saudi Arabia	Jason didn't visit Guyana	NEUTRAL
+d-676	Edwin has only visited Argentina, Bhutan, Turkmenistan and Guinea	Marshall didn't visit Guinea	NEUTRAL
+d-677	Julio has only visited Gambia, Latvia, Ecuador, Fiji, Tanzania, Democratic Republic of the Congo, Georgia, Senegal, Niger, Romania, Central African Republic, Cameroon, Cuba and Kazakhstan	Sidney didn't visit Latvia	NEUTRAL
+d-678	Sean, Clyde, Tim, Harvey, Philip, Jaime, Edgar, Richard, Rodney, Rene, Russell, Troy, Angel, Jorge, Bobby and Jason have only visited Australia	Russell didn't visit Yemen	ENTAILMENT
+d-679	Terrance has only visited Ecuador, Chad, Moldova, Senegal, Oman, Solomon Islands and Tanzania	Roger didn't visit Senegal	NEUTRAL
+d-680	Ross, Tony, Willard, Ramon, Darren, Howard, Nicholas, Arthur, Jimmie, Alex, Danny, Ray, Chris, Stephen, Wade, Jorge, Felix, Johnny and Sidney have only visited Egypt	Ross didn't visit Suriname	ENTAILMENT
+d-681	Benjamin has only visited Nicaragua, Uruguay, South Sudan, Gambia, India, Panama, Djibouti, Russia, Trinidad & Tobago, Poland, Jordan, Netherlands, United Kingdom, Palestine and Guatemala	Sam didn't visit Panama	NEUTRAL
+d-682	Cecil, Stanley, Darren, Marc, Roy, Kent, Pedro, Marshall and Jaime have only visited Iceland	Cecil didn't visit Israel	ENTAILMENT
+d-683	John has only visited Bahrain, China, Benin, Burundi, Kyrgyzstan, Ukraine, Israel, Latvia, Zambia and Madagascar	Jeffery didn't visit Zambia	NEUTRAL
+d-684	Lester has only visited Malawi, Turkmenistan, Peru, Luxembourg, Central African Republic, Libya, Venezuela, Nauru, Yemen, Belarus, Somalia, Palestine, Ethiopia, Uzbekistan, Bulgaria, North Korea, Grenada and China	Kelly didn't visit North Korea	NEUTRAL
+d-685	Nelson, Ramon, Tom, James, Luis, Jessie, Cory, Erik, Dean, Fred and Morris have only visited Montenegro	Erik didn't visit Croatia	ENTAILMENT
+d-686	Bob, Bobby, Oscar, Thomas, Dave, Micheal, Steven, Jason, Clarence, Howard, Jimmie, Cory, Julian, Claude and Timothy have only visited Panama	Oscar didn't visit Panama	CONTRADICTION
+d-687	Marcus, Hector, Terry, Alfredo and Henry have only visited Netherlands	Alfredo didn't visit Vietnam	ENTAILMENT
+d-688	Wesley has only visited Finland, Republic of the Congo, Panama, Malta, Sri Lanka, Zambia, Saudi Arabia, Ethiopia, Israel, South Korea, Paraguay, Algeria, Eritrea, Laos, Poland, Saint Kitts & Nevis, Liechtenstein, Andorra and Turkey	Wesley didn't visit South Korea	CONTRADICTION
+d-689	Randy, Byron, Marion, Joe, Ralph, Ricardo, Javier and Brad have only visited Uruguay	Randy didn't visit Yemen	ENTAILMENT
+d-690	Lester, Marshall, Jimmie and Richard have only visited Cabo	Marshall didn't visit Cabo	CONTRADICTION
+d-691	Alex has only visited Russia, Pakistan and New Zealand	Sam didn't visit Russia	NEUTRAL
+d-692	Benjamin, Todd, Sergio, Terrence, Philip, Jorge, Bryan, Stephen, Arthur, Louis, Ramon, Ralph, Shane, Enrique and Casey have only visited South Korea	Arthur didn't visit South Korea	CONTRADICTION
+d-693	Calvin has only visited Romania, Jamaica, Portugal, Turkey, Saint Vincent & the Grenadines, Kosovo, Montenegro and Lesotho	Cecil didn't visit Portugal	NEUTRAL
+d-694	Harold has only visited Azerbaijan, Gambia, Algeria, Mozambique, Bahrain, Lithuania, Belize, Chad, Malaysia and Namibia	Harold didn't visit Namibia	CONTRADICTION
+d-695	Leonard and Brandon have only visited Kiribati	Brandon didn't visit Kiribati	CONTRADICTION
+d-696	Casey has only visited Burkina, Papua New Guinea, Myanmar, Bahrain, Uzbekistan, Seychelles, Mozambique, Côte D'ivore, Australia, Russia, Singapore, South Sudan and Thailand	Francis didn't visit Seychelles	NEUTRAL
+d-697	Maurice, Ricky and Ralph have only visited Gambia	Ricky didn't visit Gambia	CONTRADICTION
+d-698	Alfred has only visited Angola, Cambodia, Canada, Ghana, Oman, Tunisia, Vatican City, Comoros, Germany, Palau, Qatar, Gabon, Uganda, Iran, Brunei, Egypt, Switzerland, Mali and Liberia	Alfred didn't visit Mali	CONTRADICTION
+d-699	Kent, Brad, Harold, Larry, Jessie, Gary, Maurice, Bruce and Joseph have only visited Algeria	Jessie didn't visit Algeria	CONTRADICTION
+d-700	Kurt, Bob and Gordon have only visited Lesotho	Kurt didn't visit Lesotho	CONTRADICTION
+d-701	Sam has only visited Equatorial Guinea, Belize, Chile and United States	Gerald didn't visit United States	NEUTRAL
+d-702	Frederick has only visited Suriname, Mauritania, Saudi Arabia, Canada and Yemen	Frederick didn't visit Mauritania	CONTRADICTION
+d-703	Kent, Lester, Ian, Cody, Clifford, Virgil, Willie, Peter, Jordan, Terrence, Jessie, Joel, Darrell, Robert, Danny and Ray have only visited Saudi Arabia	Kent didn't visit Saudi Arabia	CONTRADICTION
+d-704	Benjamin has only visited Barbados, Guinea, Italy, Turkmenistan, South Africa, Antigua & Barbuda, Croatia, Oman, Ukraine, Malaysia, Zambia, Democratic Republic of the Congo, Lesotho, Iceland and Chile	Benjamin didn't visit Chile	CONTRADICTION
+d-705	Antonio, Sean, Jimmie, Patrick, Billy, Jeremy, Gilbert, Tom and Ray have only visited São Tomé & Prícipe	Patrick didn't visit São Tomé & Prícipe	CONTRADICTION
+d-706	Fred has only visited Bulgaria, Saint Vincent & the Grenadines, Estonia, Serbia, Sri Lanka, San Mmarino, Poland, Fiji, South Africa, Côte D'ivore, Palau, Colombia, Jamaica and Mongolia	Edwin didn't visit Estonia	NEUTRAL
+d-707	Victor, Adam, Alan and Jerome have only visited Federated States of Micronesia	Adam didn't visit Bolivia	ENTAILMENT
+d-708	Claude has only visited Panama, Sudan and Lithuania	Frank didn't visit Panama	NEUTRAL
+d-709	Jeffrey has only visited Luxembourg, Togo, Estonia, Jamaica, Netherlands, Chile, Guinea-Bissau, Kazakhstan, Albania, Somalia, Kuwait, Sierra Leone, Palau, Kyrgyzstan, Turkey, Bosnia & Herzegovinia, Macedonia and Georgia	Theodore didn't visit Kazakhstan	NEUTRAL
+d-710	Javier, Matthew, Scott, Tyler, Willard, Edward, Jimmy, Gregory, Ruben, Norman, Maurice, Cecil, Ernest, Bobby, Earl, Richard, Marvin, Dave and Tyrone have only visited Eritrea	Ernest didn't visit Guatemala	ENTAILMENT
+d-711	Felix has only visited Jordan, Kenya, Laos, Kuwait, Niger, Djibouti, Guinea, Kazakhstan, Federated States of Micronesia, Lesotho, Morocco, Dominican Republic, Paraguay, Vanuatu, Jamaica, Fiji, Madagascar, Comoros, Haiti and Nicaragua	Bill didn't visit Niger	NEUTRAL
+d-712	Alex, Eric and Harvey have only visited Bosnia & Herzegovinia	Alex didn't visit Mongolia	ENTAILMENT
+d-713	Paul, Phillip and Cory have only visited South Sudan	Cory didn't visit Tuvalu	ENTAILMENT
+d-714	Justin has only visited Montenegro, The Bahamas, Sierra Leone, Albania, Singapore, Niger, Estonia, El Salvador, Nauru, Tuvalu, Nigeria, Samoa, Seychelles, Saint Kitts & Nevis, Bhutan, Bolivia, Sweden, Italy, Guyana and Australia	Eric didn't visit Guyana	NEUTRAL
+d-715	Ross, Paul and Marion have only visited Guinea	Ross didn't visit Guinea	CONTRADICTION
+d-716	Rick, Alexander, Kurt, Cody, Samuel, Mike, Isaac, Dwight, Larry, Lewis and Calvin have only visited South Sudan	Lewis didn't visit Belize	ENTAILMENT
+d-717	Vernon, Anthony, Everett, Rafael and Brad have only visited United States	Brad didn't visit Nigeria	ENTAILMENT
+d-718	Jason, Daryl, Cory, Freddie, Gene, Eddie, George, Edwin, Chad, Armando, Harry, Oscar and Carl have only visited Dominica	Freddie didn't visit Namibia	ENTAILMENT
+d-719	Willie, Carl and Arthur have only visited Burkina	Willie didn't visit Mexico	ENTAILMENT
+d-720	Arthur has only visited United Arab Emirates, Colombia, Mexico, Andorra, Qatar, Netherlands, Sweden, Brazil, Tonga, Jamaica, Russia, Croatia and Turkmenistan	Gene didn't visit Sweden	NEUTRAL
+d-721	Wade, Neil, Victor, Jim, Alfred, Randy, Jorge, Vernon and Clarence have only visited Chad	Jorge didn't visit Israel	ENTAILMENT
+d-722	Glen has only visited Croatia, Bhutan, Samoa, Liechtenstein, Ireland, Colombia and Norway	Glen didn't visit Ireland	CONTRADICTION
+d-723	Manuel has only visited Sierra Leone, Haiti, Syria, France, Bolivia, Argentina, Armenia, Federated States of Micronesia, Brunei, Monaco, Japan and Canada	Manuel didn't visit Canada	CONTRADICTION
+d-724	Douglas, Adrian, Allan, Zachary, Bruce, Ricky, Nelson, Gene, Perry, Jim, Micheal, Jeffery, Gary, Clinton, Jon, Jack, Harold and Juan have only visited Cameroon	Allan didn't visit Cameroon	CONTRADICTION
+d-725	Everett and Julian have only visited Mozambique	Julian didn't visit Antigua & Barbuda	ENTAILMENT
+d-726	Troy, Sam, Guy, Jacob, Virgil, Bill and Dwayne have only visited Peru	Jacob didn't visit Maldives	ENTAILMENT
+d-727	Mike, Thomas, Brett, Bryan, Alfredo, Morris and Claude have only visited Albania	Thomas didn't visit Albania	CONTRADICTION
+d-728	Mathew has only visited San Mmarino, Denmark, Iceland, Belize, Rwanda, Slovenia, Marshall Islands, Angola, Maldives, Benin, Libya and Guinea-Bissau	Tom didn't visit Maldives	NEUTRAL
+d-729	Ivan has only visited Algeria, Cabo, Saudi Arabia, Djibouti, Côte D'ivore, Latvia, Australia, Equatorial Guinea and Sudan	Lee didn't visit Algeria	NEUTRAL
+d-730	Darren has only visited San Mmarino, Turkmenistan, Panama, Senegal, Comoros, The Bahamas, Armenia, Mexico, Kuwait and Myanmar	Samuel didn't visit Kuwait	NEUTRAL
+d-731	Max has only visited Cabo, Spain, Slovakia, Seychelles, Netherlands, Federated States of Micronesia, Iran, Somalia, Zambia, Vanuatu, France, Luxembourg, Costa Rica, Fiji, Latvia, Ghana, Togo and Bosnia & Herzegovinia	Miguel didn't visit Togo	NEUTRAL
+d-732	Derek has only visited Ghana, Tuvalu, Lithuania, Bulgaria, Liechtenstein, Somalia and Tonga	Chester didn't visit Somalia	NEUTRAL
+d-733	Steven, Mark, Raul, Larry and Ricardo have only visited Barbados	Mark didn't visit Czech Republic	ENTAILMENT
+d-734	Jerry and Joel have only visited Ireland	Jerry didn't visit Ireland	CONTRADICTION
+d-735	Chester and Tracy have only visited Democratic Republic of the Congo	Tracy didn't visit Democratic Republic of the Congo	CONTRADICTION
+d-736	Clifton has only visited Ireland, Israel, Afghanistan, Liberia, Belgium and Nauru	Lee didn't visit Ireland	NEUTRAL
+d-737	Melvin has only visited Bulgaria, Poland, Nepal, Indonesia, Grenada, Sudan, Cuba, Canada and Kenya	Samuel didn't visit Nepal	NEUTRAL
+d-738	Tim has only visited Japan, Zimbabwe, São Tomé & Prícipe, Saint Lucia, Guinea, Iceland, Kosovo, Palestine, Burundi, Equatorial Guinea, South Korea, Namibia, Turkey, Sierra Leone, Panama, Guinea-Bissau, Bahrain, Luxembourg, Chad and Ghana	Andre didn't visit Burundi	NEUTRAL
+d-739	Frank has only visited Montenegro, Chile, Mauritius, Brazil, Egypt, Russia, Papua New Guinea, Sudan and Haiti	Frank didn't visit Haiti	CONTRADICTION
+d-740	Lloyd, Bob, Roger, Jessie, Terry, Glenn, Jose, Leslie, Dennis, Milton, Nicholas, Jeremy, Jacob, Raul, Kirk, Charlie, Calvin, Christian, Derek and Andy have only visited Samoa	Jeremy didn't visit Myanmar	ENTAILMENT
+d-741	Theodore and Gordon have only visited Kiribati	Theodore didn't visit Bulgaria	ENTAILMENT
+d-742	Reginald, Maurice, Eduardo, Jamie, Max, Eugene, Bob, Steven, Billy and Clifford have only visited Peru	Max didn't visit Peru	CONTRADICTION
+d-743	Hugh has only visited Haiti, Angola, Israel, Central African Republic, Australia, Trinidad & Tobago, Spain, Estonia, Nigeria, Russia, Morocco, Ecuador, India, Madagascar, Yemen, Côte D'ivore, Saint Kitts & Nevis and United Arab Emirates	Brent didn't visit Ecuador	NEUTRAL
+d-744	Mathew, Randy, Norman, Morris, Brandon, Jack, Jamie, Lance, Maurice, Alex, Timothy, Troy and Lawrence have only visited Cambodia	Alex didn't visit Bhutan	ENTAILMENT
+d-745	Jon has only visited Venezuela, Niger, Portugal, Saint Vincent & the Grenadines, Tanzania, Morocco, Peru and Burkina	Rene didn't visit Morocco	NEUTRAL
+d-746	Roberto has only visited Burundi, Canada, Honduras, Kazakhstan, Germany, Vietnam, Guinea-Bissau, Bolivia, Lebanon, Monaco, Madagascar, South Africa, Switzerland, Italy, South Sudan, Uzbekistan, Chad and Tunisia	Roberto didn't visit Vietnam	CONTRADICTION
+d-747	Jimmie, Curtis, Walter, Ruben, Russell, Seth, Rick, Franklin, Jerry, Gary, Tyrone, Troy and Hugh have only visited Bangladesh	Curtis didn't visit Democratic Republic of the Congo	ENTAILMENT
+d-748	Steve has only visited San Mmarino, Andorra and Comoros	Felix didn't visit Andorra	NEUTRAL
+d-749	Kent has only visited Lebanon, Cuba, Paraguay, Costa Rica, Jordan, Jamaica, Eritrea and Peru	Kent didn't visit Costa Rica	CONTRADICTION
+d-750	Ted has only visited Cabo, Nicaragua, Palau, Vanuatu and Laos	Ted didn't visit Cabo	CONTRADICTION
+d-751	Sidney has only visited Honduras, Egypt, Belgium, Armenia, Germany, Equatorial Guinea, Laos, Angola, Sierra Leone, Monaco, Czech Republic, Côte D'ivore, Portugal, Guatemala, Japan and Comoros	Jaime didn't visit Belgium	NEUTRAL
+d-752	Harvey, Howard, Corey, Fernando and Lloyd have only visited Philippines	Corey didn't visit Jordan	ENTAILMENT
+d-753	Sidney has only visited South Korea, Iceland, Bangladesh, Kyrgyzstan, The Bahamas, Thailand, Bhutan, United Arab Emirates, Pakistan, Laos, Slovenia, Czech Republic, Australia and Kuwait	Sidney didn't visit Slovenia	CONTRADICTION
+d-754	Adam, Lance, Wayne, Jesus, Lewis, David, Enrique, Ralph, Brent, Terry, Jessie, Patrick, Larry, Anthony, Virgil, Earl, Casey, Joe, Leroy and Kevin have only visited Argentina	Lance didn't visit Tunisia	ENTAILMENT
+d-755	Andrew has only visited Nicaragua, Bolivia, Luxembourg, Armenia, Malta, Laos, Barbados and Latvia	Harry didn't visit Laos	NEUTRAL
+d-756	Roger has only visited Guinea-Bissau, Poland, Vatican City, Iraq, Bangladesh, Seychelles, Peru, Qatar, Sweden and Myanmar	Wesley didn't visit Peru	NEUTRAL
+d-757	Dean, Casey, Herman, Andre, Edgar, Alan, Dan, Dave, Carl, Randall, Neil, Nelson, Vernon, Reginald and Anthony have only visited Barbados	Nelson didn't visit Sri Lanka	ENTAILMENT
+d-758	Leslie, Javier, Jerome, Randall, Matthew, Terrance, Kelly, Corey, Joe, Bruce, Ricky, Herbert, Jason, Leonard, Alvin and Steven have only visited Slovakia	Jerome didn't visit Slovakia	CONTRADICTION
+d-759	William, Frederick, Kirk, Jonathan, Kyle, Ross, Tracy, Jeff, Edward, Christian, Sean and Jose have only visited Cyprus	William didn't visit Nepal	ENTAILMENT
+d-760	Felix has only visited Palau, Bahrain and Uzbekistan	Cecil didn't visit Uzbekistan	NEUTRAL
+d-761	Sean, Wallace, Stephen, Hugh, Jeff, Brad, Lester and Phillip have only visited Grenada	Stephen didn't visit Niger	ENTAILMENT
+d-762	Allen, Casey, Darren, Ted, Michael, Ross, Patrick, Tyler, Kirk, Mike, Tony, Reginald, Greg, Ronnie, Larry, Lester and Carl have only visited Liechtenstein	Carl didn't visit Albania	ENTAILMENT
+d-763	Roberto has only visited Kyrgyzstan, Republic of the Congo, Mali, United Kingdom, Madagascar, Thailand, Spain, Philippines, Belarus, Peru, Montenegro, Costa Rica, Algeria, Estonia, Chile, Bangladesh and Tuvalu	Gregory didn't visit Algeria	NEUTRAL
+d-764	Kyle has only visited Burkina, Estonia, France, Somalia, Uzbekistan, Central African Republic, Ecuador, Rwanda, Romania and Palestine	Jeremy didn't visit Ecuador	NEUTRAL
+d-765	Andrew, Max, Lewis, George, Herman, Curtis, Jon, Kenneth, Tim, Hugh, Edward, Javier, Timothy, Tommy, Daniel and Reginald have only visited Senegal	Tommy didn't visit Vietnam	ENTAILMENT
+d-766	Nathan, Brad, Barry, Tommy, Chris, Terrance, Allan, Frederick, Salvador, Jorge, Shawn, Jeremy, Nelson and Clifford have only visited Madagascar	Nelson didn't visit Vanuatu	ENTAILMENT
+d-767	Ben, Ronald, Samuel, Alvin, Jack, Willard and Alexander have only visited Fiji	Ronald didn't visit Cyprus	ENTAILMENT
+d-768	Christian has only visited Andorra and South Korea	Christian didn't visit South Korea	CONTRADICTION
+d-769	Martin, Johnnie, Armando, Joshua, Kurt, Jimmie, Larry, Allen, Fernando and Ross have only visited Bangladesh	Fernando didn't visit Bangladesh	CONTRADICTION
+d-770	Milton has only visited Moldova, Colombia, Montenegro, Trinidad & Tobago, Liberia, Burkina and Nigeria	Ronnie didn't visit Montenegro	NEUTRAL
+d-771	Nelson has only visited Palestine and Senegal	Andrew didn't visit Palestine	NEUTRAL
+d-772	Edward, Jimmie, Clyde, Derrick, Chester, Brandon, Charlie, Jerry, Anthony, Rene, Jared, Jerome, Lance, Jim, Clarence, Isaac, Alberto, Terrence, Cody and Lewis have only visited Mozambique	Clarence didn't visit Costa Rica	ENTAILMENT
+d-773	Marvin, Ron, Curtis, Mario, Mike, Tommy, Gabriel, Darrell and Douglas have only visited Papua New Guinea	Ron didn't visit Palau	ENTAILMENT
+d-774	Marcus has only visited Syria and Morocco	Clinton didn't visit Syria	NEUTRAL
+d-775	Jacob has only visited Dominican Republic, United Kingdom, Burundi, Marshall Islands, Ecuador, Tuvalu, Nauru, Palau, Chile, Armenia, Mozambique, Ghana, Malaysia, Lesotho and Slovenia	Lester didn't visit Ghana	NEUTRAL
+d-776	Jaime, Raul, Johnnie, Karl, Daryl, Ben and Enrique have only visited Antigua & Barbuda	Daryl didn't visit Ecuador	ENTAILMENT
+d-777	Roberto has only visited Sri Lanka, Lesotho, France, Lithuania, Djibouti, The Bahamas, Iraq, Democratic Republic of the Congo, Côte D'ivore and Solomon Islands	Lloyd didn't visit Djibouti	NEUTRAL
+d-778	Karl has only visited Guatemala, Hungary, Sudan, Equatorial Guinea, Peru, Indonesia, India, Sierra Leone, Burkina, Nicaragua, Thailand, China, Estonia and Chile	Cody didn't visit China	NEUTRAL
+d-779	Juan, Derrick, Brent, Edward, Leroy, Tim, Samuel, Lloyd, Warren, Joe, Gene and Dan have only visited Palestine	Dan didn't visit Palestine	CONTRADICTION
+d-780	Dan, Tom, Alfredo, Alvin, Tim and Christopher have only visited Mongolia	Dan didn't visit Venezuela	ENTAILMENT
+d-781	Barry has only visited Nigeria, Afghanistan, Egypt, Panama, Slovakia, Greece, Costa Rica, Liechtenstein, Estonia, Somalia, Finland, Nicaragua, Eritrea, Tunisia, Singapore, Benin, Andorra, Venezuela and Bangladesh	Barry didn't visit Slovakia	CONTRADICTION
+d-782	Bobby has only visited Vietnam, Czech Republic, Kosovo, South Africa, Belgium, Malta and Nigeria	Eduardo didn't visit Kosovo	NEUTRAL
+d-783	Neil has only visited Sri Lanka, United Kingdom, Tajikistan, Vatican City, South Africa, Cambodia and Norway	Mario didn't visit Tajikistan	NEUTRAL
+d-784	Ryan, Jimmy, Corey, Nathan, Tyrone, Earl, Ted, Jacob, Felix, Ben, Brett, Mitchell, Leonard, Douglas and Stanley have only visited Malaysia	Leonard didn't visit Malaysia	CONTRADICTION
+d-785	Stephen, Terry, Francis, Bradley, Charles, Gabriel, Sean, Alex, Cecil, Adam, Joshua, Victor, Lawrence, Enrique and Ricky have only visited Gabon	Victor didn't visit Afghanistan	ENTAILMENT
+d-786	Roland has only visited Guyana, Ethiopia, San Mmarino, Central African Republic, Austria, Turkmenistan, Liechtenstein, Kenya, Saint Vincent & the Grenadines, Russia, Saint Lucia and Rwanda	Roland didn't visit Saint Lucia	CONTRADICTION
+d-787	Nathan has only visited Federated States of Micronesia, Saint Kitts & Nevis, Nigeria, Turkmenistan, New Zealand, Luxembourg, Andorra and Azerbaijan	Nathan didn't visit Nigeria	CONTRADICTION
+d-788	Edgar has only visited Jamaica, Colombia, Italy and Ireland	Dwight didn't visit Jamaica	NEUTRAL
+d-789	Jeff has only visited Trinidad & Tobago, Cabo, Malta and Latvia	Clinton didn't visit Cabo	NEUTRAL
+d-790	Lee has only visited Brunei, Djibouti, Switzerland, Netherlands, Central African Republic, Tanzania, Moldova, Timor-Leste, Lithuania, Israel and Liberia	Daniel didn't visit Moldova	NEUTRAL
+d-791	Fred has only visited Uganda, Tuvalu, France, Mauritania, United Arab Emirates, Georgia, Nauru, Montenegro, Gambia, Senegal and Jordan	Juan didn't visit Jordan	NEUTRAL
+d-792	Everett, Kyle, Ross, Micheal and Francisco have only visited New Zealand	Micheal didn't visit New Zealand	CONTRADICTION
+d-793	Curtis, Christian, Sam, Bernard, Francis, Perry, Sergio, Herbert, Franklin, Fred, Justin, Troy, Julio, Jorge, Angel, Roy and Kent have only visited Spain	Justin didn't visit Spain	CONTRADICTION
+d-794	Barry, Daryl, Terry, Darren, Julian, Nathaniel, Dean and Stanley have only visited Armenia	Barry didn't visit Armenia	CONTRADICTION
+d-795	Randall, Randy, Phillip, Jamie, Adrian, Terry, Lester, Samuel, Dave and Casey have only visited Italy	Randy didn't visit Italy	CONTRADICTION
+d-796	Dean, Mike, Stephen, Lewis, Larry, Alexander, Tony, Lloyd, Jesse, Glen, Gerald, Karl, Kelly, Jeff, Reginald, Tom, Ted, Francisco and Nicholas have only visited Suriname	Lloyd didn't visit Russia	ENTAILMENT
+d-797	Armando has only visited Italy, Belarus, Portugal, Bulgaria, Spain, Comoros, Fiji, Costa Rica, Monaco and Paraguay	Armando didn't visit Italy	CONTRADICTION
+d-798	Lonnie has only visited Central African Republic, Vietnam, Papua New Guinea, Guinea-Bissau, Dominica, Antigua & Barbuda, Italy, United Arab Emirates, Eswatini, Portugal, Cyprus, Bangladesh, Oman, Equatorial Guinea, Nigeria and Lebanon	Randy didn't visit Central African Republic	NEUTRAL
+d-799	Jason, Ron, John, Rene, Mario, Troy, Gene and Leo have only visited Guatemala	Mario didn't visit Guatemala	CONTRADICTION
+d-800	Cody, Lance, Randy, Terrance, Jamie, Joseph, Alfredo and Albert have only visited Guatemala	Joseph didn't visit Guatemala	CONTRADICTION
+d-801	Virgil has only visited Uzbekistan, Kazakhstan, Yemen and Côte D'ivore	Christian didn't visit Uzbekistan	NEUTRAL
+d-802	Theodore, Lester, Sean, Jorge, Raymond, Corey, Nathaniel, Joshua, Craig, Jaime, Joseph and Alberto have only visited Georgia	Nathaniel didn't visit Ethiopia	ENTAILMENT
+d-803	Gabriel, Todd, Karl, Johnnie, Hector, Dan, Clayton, Lewis, Willie, Allan, Jeremy, Curtis, Leroy, Greg, Donald and Ralph have only visited Togo	Johnnie didn't visit Togo	CONTRADICTION
+d-804	Stephen has only visited Australia, Bahrain, Mauritius, Azerbaijan, Switzerland, South Africa, Ecuador, Vanuatu, Tonga, Russia, Slovakia, Israel, The Bahamas, Bhutan and Iraq	Stephen didn't visit Vanuatu	CONTRADICTION
+d-805	Alex, Philip, Jeffery, William, Andy, Mathew, Wade, Bernard, Anthony, Clyde, Lloyd, Mario, Terry, Ronnie, Sean and Tony have only visited Djibouti	Lloyd didn't visit Djibouti	CONTRADICTION
+d-806	Leonard has only visited Jordan, Ukraine, Cuba and Slovakia	Leonard didn't visit Jordan	CONTRADICTION
+d-807	Marion has only visited Tajikistan, Italy, Niger, Maldives, Republic of the Congo, Haiti, Angola, Spain, Tonga, Nepal and Malawi	Sidney didn't visit Haiti	NEUTRAL
+d-808	Don has only visited Marshall Islands, Laos, Russia, Equatorial Guinea, Eritrea, Nauru, Solomon Islands, Belize, Côte D'ivore, Benin, Cambodia, Venezuela, Tonga, Angola, Norway, Vietnam, Malawi, Uganda, Tuvalu and Antigua & Barbuda	Don didn't visit Uganda	CONTRADICTION
+d-809	Neil has only visited Vanuatu, Slovenia, Malawi, Syria, North Korea, Jordan, Switzerland, Serbia and Ethiopia	Donald didn't visit Jordan	NEUTRAL
+d-810	Arnold, Benjamin, Jimmy, Kent, Shawn, Howard, Marshall, Troy, Luis, Sam, Willard and Tom have only visited Côte D'ivore	Howard didn't visit Ethiopia	ENTAILMENT
+d-811	Jeremy, Andre, Edgar, Glen, Jorge, Jay, Derek, Jimmie, Milton, Hector, Kent, Nathaniel, Corey, Jessie, Carlos, Earl, Duane and Tony have only visited Iran	Earl didn't visit Ecuador	ENTAILMENT
+d-812	Anthony has only visited Belize, South Africa, Moldova, Burundi, Botswana, Kyrgyzstan, Democratic Republic of the Congo, Bangladesh, Denmark, Haiti and Argentina	Mitchell didn't visit Bangladesh	NEUTRAL
+d-813	Adam, Jack, Ray, Brian, Reginald, Bill and Andrew have only visited Tonga	Reginald didn't visit Tonga	CONTRADICTION
+d-814	Marcus, Steven, Jessie, Gordon, Sam, Nathaniel and Eric have only visited Myanmar	Steven didn't visit Germany	ENTAILMENT
+d-815	Walter has only visited Cyprus, Latvia, Libya, Argentina, Malta, Sierra Leone, Iceland, Belize, Cameroon, Norway, Sweden, El Salvador and Belarus	Bruce didn't visit Cameroon	NEUTRAL
+d-816	Cory, Randy, Enrique, Nicholas, Tyrone, Jamie, Jeffrey, Kirk, Thomas, Andrew, Arthur, Curtis, Ralph, Shawn, Jaime, Bob, Neil and Clifton have only visited Togo	Jaime didn't visit Togo	CONTRADICTION
+d-817	Roberto, Harvey, Jared, Jesus, Rick, Lester, Earl, Allen, Everett, Theodore, Jerry, Dan, Phillip and Arthur have only visited Guinea	Rick didn't visit North Korea	ENTAILMENT
+d-818	Terry has only visited Serbia, Jordan, Kiribati, Liberia, Papua New Guinea, Belarus, South Sudan and Marshall Islands	Kenneth didn't visit South Sudan	NEUTRAL
+d-819	Rafael has only visited Greece, Syria, Saudi Arabia, Myanmar, Uruguay, Central African Republic, Laos, Zambia, El Salvador, Belarus, São Tomé & Prícipe, Australia, Tajikistan, Singapore, Sri Lanka, Cabo, Kazakhstan, Turkey, United States and Uganda	Rafael didn't visit Tajikistan	CONTRADICTION
+d-820	Todd has only visited Nauru, Uzbekistan, Zambia, Monaco, Morocco, Libya, Barbados and Netherlands	Todd didn't visit Zambia	CONTRADICTION
+d-821	Hugh, Gary and Willard have only visited Niger	Gary didn't visit Niger	CONTRADICTION
+d-822	Jorge has only visited Togo, Japan, Djibouti, South Sudan and Laos	Jordan didn't visit Djibouti	NEUTRAL
+d-823	Alexander has only visited Singapore, Philippines, Russia, Grenada and The Bahamas	Billy didn't visit Grenada	NEUTRAL
+d-824	Eugene has only visited Macedonia, Tonga, Malawi, Seychelles, Romania and Colombia	Jeffery didn't visit Tonga	NEUTRAL
+d-825	Leo, Bradley, Edgar, David, Chester, Michael, Patrick, Bill and Terry have only visited Serbia	Patrick didn't visit Thailand	ENTAILMENT
+d-826	Kenneth has only visited Lithuania, Brunei, Burundi, South Korea and Slovenia	Casey didn't visit Lithuania	NEUTRAL
+d-827	Roland, Dan, Bob, Rick and Dean have only visited Dominica	Bob didn't visit Dominica	CONTRADICTION
+d-828	Luis, Kenneth, Jonathan, Erik, Nelson, Ted, Fernando, Mario, Barry, Guy, Warren, Paul, Thomas, Edwin and Bill have only visited São Tomé & Prícipe	Edwin didn't visit São Tomé & Prícipe	CONTRADICTION
+d-829	Clifford, Shane, Derrick, Ronnie, Edward, Everett, Ted, Marion, Ralph, Marvin, Larry, Jeremy, Tyler, Lee, Tony, Ben, Tim, Herbert, Franklin and Harold have only visited Brunei	Marvin didn't visit Brunei	CONTRADICTION
+d-830	Luis has only visited Jordan, Serbia, Fiji, Turkey, Paraguay, Libya, The Bahamas, Argentina, Mongolia, Singapore, Bangladesh, Malta, Bulgaria, Federated States of Micronesia, Eswatini and Lesotho	Luis didn't visit Jordan	CONTRADICTION
+d-831	Jacob, Marion, Oscar, Seth, Jimmie, Shane, Rick, Terrance and Ken have only visited Ukraine	Jacob didn't visit Tanzania	ENTAILMENT
+d-832	Hugh has only visited Dominica, El Salvador, Seychelles, Nigeria, Papua New Guinea, Bangladesh, Suriname, Colombia, Solomon Islands, Democratic Republic of the Congo, Eswatini, North Korea, Montenegro, Lebanon, Algeria, Grenada, Federated States of Micronesia, Andorra and Lesotho	Brett didn't visit Seychelles	NEUTRAL
+d-833	Daniel, Thomas, Lloyd, Troy, Brandon, Philip, Kent, Alvin and Adrian have only visited Bolivia	Philip didn't visit Grenada	ENTAILMENT
+d-834	Larry has only visited Bosnia & Herzegovinia, Bangladesh, Federated States of Micronesia, Uzbekistan, Brazil, Yemen, Ireland, Japan and Germany	Gilbert didn't visit Ireland	NEUTRAL
+d-835	Juan has only visited Liechtenstein, Samoa, Lithuania, Turkmenistan, Malawi, Algeria, Angola, Chile, Dominican Republic, Fiji, Iraq, Saint Vincent & the Grenadines, Denmark and San Mmarino	Juan didn't visit Liechtenstein	CONTRADICTION
+d-836	Ken has only visited Bangladesh, Iraq, Tuvalu, Fiji, Morocco, Tajikistan, Palestine, Nigeria, Israel, Vanuatu and Brunei	Ken didn't visit Vanuatu	CONTRADICTION
+d-837	Dave, Terrence, Willard, Brian, Terry, Marion, Wallace, Jason, Craig and Darryl have only visited Ecuador	Terry didn't visit Ecuador	CONTRADICTION
+d-838	Gerald, Clayton, James, Luis, Kirk, Wayne, Jimmy, Leon, Marshall, Brandon, Peter, Jeremy, Morris and Anthony have only visited Somalia	Leon didn't visit Somalia	CONTRADICTION
+d-839	Neil, Ted and Virgil have only visited Guinea-Bissau	Neil didn't visit North Korea	ENTAILMENT
+d-840	Donald, Tyler, Allen, Arnold, Maurice, Rodney and Derek have only visited Sri Lanka	Arnold didn't visit Tonga	ENTAILMENT
+d-841	Jesus has only visited United Arab Emirates, Timor-Leste, Saudi Arabia, China, Sierra Leone, Mongolia, Paraguay, Marshall Islands, Macedonia, Vietnam, Panama and Albania	Rodney didn't visit Macedonia	NEUTRAL
+d-842	Allan, Alexander, Gene, Larry, Raymond, Francis, Ryan, Paul, Ben, Cory, Keith, Tom, Daniel, Roger and Marshall have only visited Costa Rica	Keith didn't visit Costa Rica	CONTRADICTION
+d-843	Lance has only visited Ghana, Saint Kitts & Nevis, Antigua & Barbuda, Lithuania, Libya, Luxembourg, Albania, Dominica, São Tomé & Prícipe and Nicaragua	Byron didn't visit Luxembourg	NEUTRAL
+d-844	Daniel has only visited Argentina, Maldives, Iceland, Mongolia, Vatican City, Tanzania, Cuba, New Zealand, Venezuela, Uganda, Brunei, Albania, Honduras, Finland and Burkina	Daniel didn't visit Albania	CONTRADICTION
+d-845	Cory has only visited Colombia, Nepal, Hungary, El Salvador, Canada, Solomon Islands and Grenada	Ivan didn't visit El Salvador	NEUTRAL
+d-846	Derrick has only visited Democratic Republic of the Congo, Honduras, Gambia, Nepal, Nicaragua and Chad	Donald didn't visit Gambia	NEUTRAL
+d-847	Ruben has only visited Niger, Andorra, Papua New Guinea, Rwanda, Morocco, Zimbabwe, Nigeria, Benin, Kyrgyzstan, Colombia, Malaysia, Gambia, Uruguay, Mongolia, Djibouti, Sierra Leone, Marshall Islands, Paraguay and Algeria	Ruben didn't visit Malaysia	CONTRADICTION
+d-848	Curtis and Julio have only visited South Korea	Curtis didn't visit Costa Rica	ENTAILMENT
+d-849	Robert, Jay, Leroy, Dan, Jared, Larry, Leonard, James, Martin, Karl, Leslie, Rene, Johnnie and Henry have only visited San Mmarino	Leroy didn't visit San Mmarino	CONTRADICTION
+d-850	Shane, Stanley, Jesus, Joe, Ken, Virgil, Jorge, Gary, Calvin, Herbert, Paul and Sam have only visited Slovenia	Gary didn't visit Slovenia	CONTRADICTION
+d-851	Keith has only visited Yemen, Palau, Albania, Singapore, Dominica, Monaco, Panama, Canada, Jamaica, Benin, Haiti, Cyprus, Israel, Greece, Austria and Japan	Keith didn't visit Cyprus	CONTRADICTION
+d-852	Alan has only visited Maldives, Kiribati, Qatar, China, Bhutan, Rwanda, Paraguay, San Mmarino, Sierra Leone, Tonga and Egypt	Alan didn't visit Bhutan	CONTRADICTION
+d-853	Zachary has only visited Kuwait, United Kingdom, Ecuador, Belarus, Albania, Tanzania, Iraq, Iran, Portugal, Armenia, Brazil, Federated States of Micronesia, Venezuela, Nauru and Mozambique	Arnold didn't visit Federated States of Micronesia	NEUTRAL
+d-854	Terrance has only visited Guinea, United States, Saint Kitts & Nevis, Italy, Argentina, Maldives, Lithuania, Luxembourg, Jamaica and Chad	Roy didn't visit Guinea	NEUTRAL
+d-855	Ricky has only visited Yemen, Libya, Indonesia, Madagascar, Argentina, Vietnam, Syria, Djibouti and Timor-Leste	Eduardo didn't visit Libya	NEUTRAL
+d-856	Ben, Dan, Chad, Anthony, Oscar, Antonio, Johnnie, Casey, Donald, Sean, George, Jerry, Douglas and Cody have only visited Kenya	Oscar didn't visit Kenya	CONTRADICTION
+d-857	Earl has only visited Burundi, Malawi, Qatar, Belarus, Germany, Bosnia & Herzegovinia, Mali, Kiribati, Togo, Vatican City, Saint Vincent & the Grenadines, Palau, Suriname and Cyprus	Clinton didn't visit Vatican City	NEUTRAL
+d-858	Claude, Carlos, Juan, Ron, Mark and Jonathan have only visited Ethiopia	Carlos didn't visit Laos	ENTAILMENT
+d-859	Oscar has only visited Democratic Republic of the Congo, Nigeria, Burundi, Czech Republic and Indonesia	Dwight didn't visit Indonesia	NEUTRAL
+d-860	Jaime has only visited Kenya, New Zealand, Nicaragua, Nigeria, Barbados and Greece	Lawrence didn't visit Nicaragua	NEUTRAL
+d-861	Wesley, Daniel, Raymond, Gene, Martin, Kirk, Derrick, Guy, Eddie and Michael have only visited Venezuela	Derrick didn't visit Singapore	ENTAILMENT
+d-862	Arthur has only visited Vanuatu, Andorra, Comoros, Argentina, Australia, Barbados, Venezuela, Madagascar, Kazakhstan, South Sudan, Central African Republic, Cambodia, Kosovo, Mongolia, Togo, Palau, Haiti and Kuwait	Arthur didn't visit Madagascar	CONTRADICTION
+d-863	Tracy has only visited Kosovo, Portugal and Hungary	Tracy didn't visit Kosovo	CONTRADICTION
+d-864	Manuel has only visited Greece, Bolivia, Papua New Guinea, Comoros, Zambia, Finland, Cameroon, Austria, Pakistan and United States	Joshua didn't visit Bolivia	NEUTRAL
+d-865	Ken, Jeremy, Jorge, Jerry, Neil, Roland, Melvin, Raul, Ruben, Dale, Dwayne, William, Bernard, Tyler, Mike, Johnny and Elmer have only visited Montenegro	Elmer didn't visit Georgia	ENTAILMENT
+d-866	Clifford has only visited Mali and Costa Rica	Marshall didn't visit Costa Rica	NEUTRAL
+d-867	Walter has only visited Côte D'ivore, Paraguay, Argentina, United States, Indonesia, Sweden, Zambia, Montenegro, Benin, Cambodia, Italy, Namibia, Tanzania, Slovakia, Iraq, South Korea, Sierra Leone and Eswatini	Allan didn't visit Montenegro	NEUTRAL
+d-868	Allen, Bob and Lee have only visited Malawi	Bob didn't visit Afghanistan	ENTAILMENT
+d-869	Jimmie has only visited Georgia, Slovenia, Tonga, Dominican Republic, Myanmar, Iran, Canada, Samoa, Burundi, Ireland, Mauritius, Pakistan, Central African Republic, Zimbabwe, Lesotho and Hungary	Nathaniel didn't visit Central African Republic	NEUTRAL
+d-870	Jerome and Barry have only visited Honduras	Jerome didn't visit Guinea	ENTAILMENT
+d-871	Antonio has only visited Ecuador, Guinea, Bahrain, Bhutan, Guyana, Somalia, Tuvalu, Malawi and São Tomé & Prícipe	Antonio didn't visit São Tomé & Prícipe	CONTRADICTION
+d-872	Harry has only visited Norway, Germany, San Mmarino and Tuvalu	Harry didn't visit San Mmarino	CONTRADICTION
+d-873	Christian has only visited China, Uganda and Bolivia	Phillip didn't visit Uganda	NEUTRAL
+d-874	Wesley has only visited Oman, Côte D'ivore, Thailand, North Korea, Uruguay, United States, Armenia, Namibia, Vietnam, Venezuela, Serbia, Central African Republic, Jordan, Angola and Kazakhstan	Jesse didn't visit Namibia	NEUTRAL
+d-875	Steve and Jared have only visited Qatar	Jared didn't visit United Kingdom	ENTAILMENT
+d-876	Carlos, Jon, Robert, Milton, Glen and Victor have only visited Belize	Victor didn't visit Belize	CONTRADICTION
+d-877	Larry, Harold, Luis, Byron, Ryan, Marshall, Kurt, Darrell, Henry, Terry, Jimmy, Chester, Antonio, Johnny, Steven and Andrew have only visited Israel	Larry didn't visit Israel	CONTRADICTION
+d-878	Dave, Derrick, Tony, Glen, Antonio, Louis, Walter, Gordon, Jeremy, Patrick, Jimmie, Sidney, Billy, Ronnie, Joel, Jacob, Kirk, Carl, Leon and Eric have only visited Chile	Louis didn't visit Mozambique	ENTAILMENT
+d-879	Bryan, Kevin, Russell, Ramon, Rodney, Alex and Ted have only visited Lesotho	Alex didn't visit Antigua & Barbuda	ENTAILMENT
+d-880	Dale, Timothy, Rafael, Maurice and Bryan have only visited Vatican City	Bryan didn't visit Seychelles	ENTAILMENT
+d-881	Shawn has only visited Gambia, Bosnia & Herzegovinia, Malawi, Tanzania, Kyrgyzstan, France, Bolivia, Uruguay and Paraguay	Larry didn't visit Tanzania	NEUTRAL
+d-882	Ramon has only visited Netherlands, Peru, Malta and Senegal	Christian didn't visit Peru	NEUTRAL
+d-883	Nelson has only visited Fiji, Philippines, Maldives, Serbia, Brunei, Sudan, Turkmenistan, Tanzania, Australia, Egypt and Nepal	Arnold didn't visit Philippines	NEUTRAL
+d-884	Theodore, Jesus, Travis, Dean, Jerry, Gregory, Darrell, Ryan and Tracy have only visited Timor-Leste	Dean didn't visit Zimbabwe	ENTAILMENT
+d-885	Lester, Hector, Clarence, Herman, Earl, Eddie, Karl, Clifton, Jerome, Wayne, Cecil and Donald have only visited Nigeria	Eddie didn't visit Nigeria	CONTRADICTION
+d-886	Sean, Bryan, Ruben, Bradley, Johnnie, Virgil, Tony, Vernon, James, Sidney, Claude, Jacob, Craig, Javier, Roger, Julian, Todd, Tyrone and Andy have only visited Finland	Sean didn't visit Pakistan	ENTAILMENT
+d-887	Leroy has only visited Fiji, Finland, Slovakia, Gambia, Bahrain, Costa Rica, South Sudan, Tunisia, Luxembourg and Cambodia	Wesley didn't visit Finland	NEUTRAL
+d-888	Miguel, Jimmie, Jon, Willard, Johnny, Freddie, Mitchell, Theodore, Tracy and Eugene have only visited Colombia	Tracy didn't visit Colombia	CONTRADICTION
+d-889	Eddie, Tommy, Harold and Guy have only visited Federated States of Micronesia	Guy didn't visit Federated States of Micronesia	CONTRADICTION
+d-890	Cody has only visited South Korea, India, Honduras, Ethiopia, Tanzania, Singapore, Slovenia, Saint Lucia, Mongolia, North Korea, Norway, Maldives and Cabo	Cody didn't visit South Korea	CONTRADICTION
+d-891	Dan, Philip, Willard and Chad have only visited Tonga	Philip didn't visit Tunisia	ENTAILMENT
+d-892	Eugene, Alvin, Marshall, Franklin and Dustin have only visited Romania	Dustin didn't visit Federated States of Micronesia	ENTAILMENT
+d-893	Perry has only visited Saint Kitts & Nevis, Kazakhstan, Pakistan, Cameroon, Chile, Tanzania, China and Canada	Alberto didn't visit Canada	NEUTRAL
+d-894	Nathan and Rodney have only visited Indonesia	Rodney didn't visit Denmark	ENTAILMENT
+d-895	Benjamin and Reginald have only visited Peru	Reginald didn't visit Iraq	ENTAILMENT
+d-896	Marvin and Don have only visited Dominican Republic	Don didn't visit Guinea-Bissau	ENTAILMENT
+d-897	Miguel, Julio, Corey, Johnny, Norman, Fred, Jimmie, Julian, Tim, Shane, Chad, Adrian, Freddie, Gene, Rafael, Ronnie, Neil, Eduardo, William and Patrick have only visited Bolivia	Patrick didn't visit Portugal	ENTAILMENT
+d-898	Eric and Philip have only visited Poland	Philip didn't visit Poland	CONTRADICTION
+d-899	Dustin, Gene, Paul, Jonathan, Douglas, Marvin, Luis, Reginald, Wade, Tyler, Ryan, Raymond, Byron, Kenneth, Greg and Everett have only visited Malta	Tyler didn't visit Costa Rica	ENTAILMENT
+d-900	Kirk has only visited Madagascar, Fiji, Cuba, Senegal, Costa Rica, Kazakhstan, Iran, Estonia, Cabo and Iceland	Kirk didn't visit Madagascar	CONTRADICTION
+d-901	Gregory, Phillip, Leslie, Eugene, Ray, Harry, Ruben, Jesus, Salvador, Leon, Jon, Nelson, Lance, Dennis, Tracy, Ross, Wade, Jim and Fred have only visited Eritrea	Jesus didn't visit Eritrea	CONTRADICTION
+d-902	Harvey, Jorge, Jonathan, Jesse, Samuel and Brett have only visited Mauritania	Samuel didn't visit Montenegro	ENTAILMENT
+d-903	Dustin, Jesus, Tommy, Marion, Julio, Clifton and Tony have only visited Netherlands	Dustin didn't visit Netherlands	CONTRADICTION
+d-904	Kelly has only visited Togo and Liechtenstein	Marcus didn't visit Togo	NEUTRAL
+d-905	Gary has only visited Iran, Canada, Sierra Leone, South Sudan, Comoros, Dominica, Senegal, Fiji, Mauritania, Tunisia, Hungary, Slovenia, Honduras, Madagascar, Peru, Portugal, Lesotho and Kenya	Thomas didn't visit South Sudan	NEUTRAL
+d-906	Terrence has only visited Uruguay, Republic of the Congo and Austria	Rene didn't visit Austria	NEUTRAL
+d-907	Milton, Jamie, Enrique, Darryl, Richard, Zachary, Jesse, Rafael, Carlos, Nathaniel, Andy, Jim, Julio, Lewis and Samuel have only visited Antigua & Barbuda	Andy didn't visit Antigua & Barbuda	CONTRADICTION
+d-908	Gabriel has only visited Malaysia, New Zealand, Uruguay, Bulgaria, Dominican Republic, Azerbaijan, South Korea, Saint Vincent & the Grenadines, Burundi, Venezuela, Bahrain, Panama, Tonga, South Sudan and Morocco	Luis didn't visit Morocco	NEUTRAL
+d-909	Jamie and Jay have only visited Portugal	Jamie didn't visit Lesotho	ENTAILMENT
+d-910	Terrance, Erik, Bernard, Isaac, Perry, Martin, Chad, Dan, Samuel, Bryan, Rodney, James, Brent, Tyrone, Walter, Bruce, Roland, Lee and Norman have only visited Guinea-Bissau	Samuel didn't visit Turkmenistan	ENTAILMENT
+d-911	Stephen, Alfredo, Clifford, Eduardo, Theodore, Bruce, Juan, Alex, Jared, Rene, Wallace, Victor, Alexander, Rafael, Clifton, Carlos and Freddie have only visited Guyana	Freddie didn't visit San Mmarino	ENTAILMENT
+d-912	Keith, Stephen, Stanley, Ian, Clarence, Sam, Arthur, Shawn, Marcus and Wayne have only visited Turkey	Clarence didn't visit Turkey	CONTRADICTION
+d-913	Alfred, Jay, Marshall, Steve, Ralph, Nathan, Jimmy, Isaac, Lawrence, Dwayne and Jimmie have only visited Mauritius	Jay didn't visit Equatorial Guinea	ENTAILMENT
+d-914	Jimmie, Marshall, Leroy, Hector, Nathaniel, Francisco, Randy, Jack, Dwayne, Benjamin, Ronnie, Miguel, Willard, Duane, Dale and Cody have only visited Suriname	Jack didn't visit Central African Republic	ENTAILMENT
+d-915	Tommy has only visited Portugal, Iraq, Serbia, Saint Vincent & the Grenadines, Czech Republic and The Bahamas	Ted didn't visit Portugal	NEUTRAL
+d-916	Joe, Greg, Jared, Enrique, Willie, Clinton, Bill, Glen, Max, Daryl, Milton, Nelson, Mitchell, Russell, Jose, Ron, Floyd and Terry have only visited Italy	Russell didn't visit Italy	CONTRADICTION
+d-917	Troy has only visited Mozambique, Jordan, Slovenia, Tajikistan, Senegal, Ecuador, Moldova, Sudan, South Sudan, Estonia, Sweden, Antigua & Barbuda and Argentina	Troy didn't visit Senegal	CONTRADICTION
+d-918	Jeremy, Kurt, Duane, Claude, Travis, Eric, Kevin, Byron, Jimmy, Manuel, Clayton, Ralph, Armando, Luis, Dale, Cory and Kirk have only visited Poland	Dale didn't visit Poland	CONTRADICTION
+d-919	Ryan has only visited Vanuatu, Estonia, Tajikistan, Nepal, Cuba, Portugal, Andorra, Dominica, Saint Vincent & the Grenadines, Belize, Venezuela, Netherlands and Canada	Fred didn't visit Portugal	NEUTRAL
+d-920	Gordon has only visited Samoa, Bosnia & Herzegovinia, Mauritania and Paraguay	Harold didn't visit Mauritania	NEUTRAL
+d-921	Michael, John, Vernon, Shawn and Bobby have only visited Syria	John didn't visit Jordan	ENTAILMENT
+d-922	Greg, Bradley, Clifton, Jeffrey, Ross, Melvin, Shane, Guy, Floyd, Bobby, Stanley, Reginald, Leslie, Carlos, Steve, Eddie, Rick, Theodore, Jeff and Enrique have only visited France	Theodore didn't visit Kenya	ENTAILMENT
+d-923	Herman, Arnold, Ross, Dwayne, Guy, Matthew, Robert, Leon, George, Bryan, Ernest, Ruben, Armando, Scott, David, Billy, Antonio, Edwin and Leslie have only visited Malta	Bryan didn't visit Germany	ENTAILMENT
+d-924	Matthew, Jacob, Ernest, Virgil, David, Alan, Sam, Dave, Ian and Juan have only visited Lebanon	Ian didn't visit Lebanon	CONTRADICTION
+d-925	Louis has only visited Cyprus, Netherlands, Comoros and Mongolia	Louis didn't visit Comoros	CONTRADICTION
+d-926	Cody has only visited Spain, Barbados, Peru, Yemen, Albania, Gabon, Macedonia, Portugal, Australia, Montenegro, Moldova, Liechtenstein, Georgia, Côte D'ivore, Zimbabwe and Kazakhstan	Mark didn't visit Gabon	NEUTRAL
+d-927	Travis, Terry, Allen, Leslie and Gene have only visited Saudi Arabia	Gene didn't visit Botswana	ENTAILMENT
+d-928	Donald, Danny, Jimmy, Salvador, Scott, Allen, Adam, Freddie, Marvin, Cory and Everett have only visited Chile	Adam didn't visit Sudan	ENTAILMENT
+d-929	Corey has only visited Libya, Samoa, Somalia, Hungary, Uzbekistan, Papua New Guinea and Saint Kitts & Nevis	Daryl didn't visit Samoa	NEUTRAL
+d-930	Clyde, John, Chad, Angel, Gary, Nicholas, Manuel, Franklin, Todd, Dwight, Allan and Travis have only visited Algeria	Chad didn't visit Lithuania	ENTAILMENT
+d-931	Ian has only visited Romania, Senegal, Panama, Turkey, Denmark, Lebanon, Papua New Guinea, Chad, Suriname, Australia, France, Italy, Poland, Singapore and Algeria	Ian didn't visit Italy	CONTRADICTION
+d-932	Marion has only visited Angola, Macedonia, Lithuania, Tuvalu, Singapore, Georgia, Bahrain and Laos	Justin didn't visit Macedonia	NEUTRAL
+d-933	Charlie, Samuel, Bradley, Willard, Christopher, Tony, Karl, Derek, Eugene, Henry, Anthony, Melvin, Terrance, Allen and Martin have only visited Iraq	Allen didn't visit Colombia	ENTAILMENT
+d-934	Rene, Nicholas, Johnny and Roland have only visited Niger	Rene didn't visit Canada	ENTAILMENT
+d-935	Chester has only visited El Salvador, Belgium, South Africa, Germany, United States, Guatemala, Mexico, Azerbaijan, Antigua & Barbuda, Pakistan, Croatia, Andorra, Vietnam, Argentina, Grenada, Niger and Solomon Islands	Chester didn't visit Solomon Islands	CONTRADICTION
+d-936	Harvey, Justin, Arthur and Lloyd have only visited Timor-Leste	Justin didn't visit Timor-Leste	CONTRADICTION
+d-937	Manuel, Allen, Tom, Norman and Arthur have only visited Central African Republic	Manuel didn't visit Central African Republic	CONTRADICTION
+d-938	Timothy, Willie, Ralph, Edgar, Perry, Martin, Erik, Morris, Ricardo, Curtis, Gilbert, Justin, Claude, Juan and Edward have only visited Palestine	Erik didn't visit The Bahamas	ENTAILMENT
+d-939	Steve has only visited Sri Lanka, Marshall Islands, Burundi, Chile, Seychelles, Ukraine, Belize, Iran, Tajikistan, Bangladesh, Serbia, Norway, Barbados, Finland, Armenia and Equatorial Guinea	Willard didn't visit Seychelles	NEUTRAL
+d-940	Craig, Max and Perry have only visited Côte D'ivore	Craig didn't visit Madagascar	ENTAILMENT
+d-941	Alvin, Ryan, Lee, Rick, Johnny, Clifton, Felix, Kent, Dale, Jesse, Jack, Darrell, Clayton, Gerald and Ray have only visited Trinidad & Tobago	Ray didn't visit Trinidad & Tobago	CONTRADICTION
+d-942	Jacob has only visited Hungary, Dominica and Zimbabwe	Dwayne didn't visit Zimbabwe	NEUTRAL
+d-943	Calvin, Gregory, Mike, Barry, Enrique, Brian, Steve, Jack, Tyrone, Bruce, Eddie, Dean, Charlie and Ross have only visited Germany	Brian didn't visit Comoros	ENTAILMENT
+d-944	Milton has only visited Cabo, Gabon, Egypt, Brunei, Tanzania, Slovakia, New Zealand and Bhutan	Adrian didn't visit Bhutan	NEUTRAL
+d-945	Clifford, Arnold, Patrick, Seth, Sidney and Mario have only visited Bangladesh	Mario didn't visit Laos	ENTAILMENT
+d-946	Wesley, Jared, Justin, William, Leslie, Marcus, Bernard, Ernest, Johnny and Lester have only visited Sierra Leone	Marcus didn't visit Sierra Leone	CONTRADICTION
+d-947	Lonnie has only visited Vanuatu, Saudi Arabia, Macedonia, India, Thailand, Mexico, Bhutan and Brunei	David didn't visit Bhutan	NEUTRAL
+d-948	Dave, Chester, Kevin, Jim, Juan, Clarence, Brett, Francis, Edgar, Enrique, Frederick, Oscar, Freddie, Lawrence and Byron have only visited Marshall Islands	Chester didn't visit Rwanda	ENTAILMENT
+d-949	Glen has only visited South Korea, Libya, Chile, Indonesia, Lesotho, Lithuania, Egypt, Maldives, Ukraine and Sri Lanka	Stephen didn't visit Chile	NEUTRAL
+d-950	John, Mitchell, Jim and Adam have only visited Hungary	John didn't visit Poland	ENTAILMENT
+d-951	Felix has only visited Somalia, Cameroon, Armenia, Madagascar, Singapore, Mali, Lesotho, Solomon Islands, Fiji and Central African Republic	Felix didn't visit Mali	CONTRADICTION
+d-952	Andy and Shane have only visited Sri Lanka	Shane didn't visit Sri Lanka	CONTRADICTION
+d-953	Ruben has only visited Angola, China, Dominican Republic, Gabon, Sierra Leone, Guyana, Belarus, Haiti, Ecuador, Madagascar, Finland, India, Ethiopia, Singapore and Belize	Christian didn't visit Ecuador	NEUTRAL
+d-954	Tommy has only visited Belgium, Finland, Philippines and Canada	Norman didn't visit Finland	NEUTRAL
+d-955	Isaac, Lewis, Melvin, Keith, Chad, Donald, Phillip, Jared, Jimmy, Brian, Ken, Nathaniel, Albert, Tyrone, Clyde, Felix, Miguel, Ben and Leonard have only visited China	Isaac didn't visit China	CONTRADICTION
+d-956	Clarence, Ken, John, Andrew, Lloyd, Bobby, Allen, Roberto, Mathew, Isaac, Steven, Gilbert and Glenn have only visited Uzbekistan	Bobby didn't visit Uzbekistan	CONTRADICTION
+d-957	Enrique, Julio and Patrick have only visited Zambia	Enrique didn't visit Nigeria	ENTAILMENT
+d-958	Kirk has only visited South Korea, Eritrea, Germany, Tuvalu, Benin, Ethiopia, Madagascar, Australia, The Bahamas, Thailand, Guinea-Bissau, Kyrgyzstan, Trinidad & Tobago, Greece and São Tomé & Prícipe	Shane didn't visit Eritrea	NEUTRAL
+d-959	Sidney, Joseph, Johnny, Richard, Jimmy, Roy, Adrian, Kirk, Ted, Chris, Charles, Dustin, Chester, Sean, Everett and Herbert have only visited Vanuatu	Chris didn't visit Vanuatu	CONTRADICTION
+d-960	James has only visited Honduras, Venezuela, Republic of the Congo, Maldives, Lithuania, Morocco, Central African Republic and Syria	Roberto didn't visit Lithuania	NEUTRAL
+d-961	Claude, Harry, Cody, Frank, Jorge, Paul, Fred, Ralph, Clayton, Peter, Charlie, Christopher, Matthew and Ricardo have only visited Somalia	Charlie didn't visit Romania	ENTAILMENT
+d-962	Kelly has only visited Albania, Guinea-Bissau, Algeria, Estonia, Nauru, Tunisia and Comoros	Jonathan didn't visit Tunisia	NEUTRAL
+d-963	Claude has only visited Grenada, Kiribati, Côte D'ivore, Andorra, Denmark, Malawi, Zimbabwe and Mongolia	Claude didn't visit Malawi	CONTRADICTION
+d-964	Travis has only visited Venezuela, Trinidad & Tobago, Singapore, Maldives, Hungary, Bosnia & Herzegovinia, Japan, Mauritania, Belgium, Norway, Central African Republic, Uganda, Kosovo and Bangladesh	Jeff didn't visit Hungary	NEUTRAL
+d-965	Cody, Tyler, Mathew, Eddie, Brett, Zachary, Steve, Glenn, Mark, Felix and Maurice have only visited Saint Kitts & Nevis	Zachary didn't visit Oman	ENTAILMENT
+d-966	Clifton, Leo, Stephen, Brian, Ronald, John, Sidney, Jessie, Oscar, Don, Jeffery, Jack, Ernest, Ian, Richard, Carlos, Claude, Sergio and Rick have only visited Cameroon	Oscar didn't visit Canada	ENTAILMENT
+d-967	Brian has only visited Botswana, Vietnam, Tonga, Luxembourg, Bulgaria, South Sudan, Japan and Peru	Wallace didn't visit Botswana	NEUTRAL
+d-968	Julio has only visited Honduras and Solomon Islands	Brad didn't visit Solomon Islands	NEUTRAL
+d-969	Clinton has only visited Ghana, Vietnam, Portugal, Kuwait, Laos, Guyana, Saudi Arabia, Zimbabwe, Palau and Cyprus	Jacob didn't visit Cyprus	NEUTRAL
+d-970	Ken has only visited Grenada, Armenia, Democratic Republic of the Congo and El Salvador	Chester didn't visit Grenada	NEUTRAL
+d-971	Micheal has only visited Lebanon, Saint Lucia, Mauritania, North Korea, Germany, Antigua & Barbuda, Algeria and Tuvalu	Gabriel didn't visit Antigua & Barbuda	NEUTRAL
+d-972	Norman has only visited Fiji, Italy, Ukraine, Timor-Leste, Suriname, Dominican Republic, Israel, Panama, Ecuador, Solomon Islands, Syria, Chile, Mexico, Thailand, Denmark and Guyana	Norman didn't visit Ukraine	CONTRADICTION
+d-973	Herbert, Bob, Oscar and Marshall have only visited Dominica	Bob didn't visit Dominica	CONTRADICTION
+d-974	Christopher, Jeremy, Ivan, Jessie, Chester, Neil, Dale, Louis, Ernest, Eduardo, Keith, Enrique, Bernard, Alan, Frank, Eric and Claude have only visited Lebanon	Claude didn't visit North Korea	ENTAILMENT
+d-975	Jon has only visited Cambodia, Peru, Palestine, Kenya, North Korea and Benin	Jon didn't visit Palestine	CONTRADICTION
+d-976	Ricardo has only visited China, Colombia, Romania, Uzbekistan, Rwanda, Liechtenstein, São Tomé & Prícipe, Ukraine, Japan, Algeria, Equatorial Guinea, Syria, Moldova, Ecuador, Latvia, South Korea, Ireland, Netherlands and Palau	Ricardo didn't visit Moldova	CONTRADICTION
+d-977	Jesse has only visited Argentina, Greece, Malaysia, San Mmarino, Panama, Seychelles, Saint Lucia, Samoa, Lebanon, Saint Kitts & Nevis and Nicaragua	Edward didn't visit Nicaragua	NEUTRAL
+d-978	Aaron, Jessie, Larry, Bruce, Edward, Duane, Michael, Phillip, Leroy, Virgil, Gene, Freddie, Jimmy, Felix, Wallace, Zachary and Shawn have only visited Dominica	Felix didn't visit Dominica	CONTRADICTION
+d-979	Tyrone, Ralph, Calvin, Jack, Travis, Larry, Kirk, Kenneth, Kurt, Ken, John, Billy, Jordan and Jamie have only visited Oman	Kirk didn't visit Uzbekistan	ENTAILMENT
+d-980	Jamie, Marshall, Rodney, Melvin, Norman and Eddie have only visited China	Melvin didn't visit Mongolia	ENTAILMENT
+d-981	Gabriel has only visited Democratic Republic of the Congo, Spain, Gambia, Serbia, Georgia, Cameroon, Bangladesh, Hungary, Eritrea, Israel, India, Kiribati, Andorra, Nauru, Guinea and Switzerland	Dennis didn't visit Gambia	NEUTRAL
+d-982	Kirk, Jaime, Ivan, Vernon, Lawrence, Louis, Eugene, Ronald, Kent, Dwight, Steve, Willard and Victor have only visited Timor-Leste	Eugene didn't visit Seychelles	ENTAILMENT
+d-983	Frank has only visited Bosnia & Herzegovinia, Mauritania, South Africa, Singapore, Serbia, Yemen, North Korea, Nauru, Mauritius, Iceland, Iran, Latvia, Peru, Saint Lucia and Marshall Islands	Frank didn't visit Mauritius	CONTRADICTION
+d-984	Dave, Ricardo, Barry, Dean, Timothy, Gregory, Cody, Tim, Terrence, Jeremy, Joe, Eduardo, Aaron, Cory, Louis, Wallace, Clifton, Ron and Ramon have only visited Jordan	Clifton didn't visit Jordan	CONTRADICTION
+d-985	Ronald has only visited Latvia, Kiribati, Trinidad & Tobago, Myanmar, South Sudan, Japan, Uganda, Cambodia and Romania	Frank didn't visit Trinidad & Tobago	NEUTRAL
+d-986	Terrence, Roger, Eddie and Danny have only visited Seychelles	Roger didn't visit The Bahamas	ENTAILMENT
+d-987	Manuel, Julio, Sean, Mitchell, Roberto, Bob, Clarence, Derrick, Alan, Jay, John, Ron, Tom, Paul, Leonard, Fernando, Hector, Jared, Randall and Glen have only visited Palestine	Derrick didn't visit Mauritius	ENTAILMENT
+d-988	Joe, Roy, Wesley, Sergio, Melvin, Elmer, Wade, Alfred, Ernest, Daniel, Leroy, Lloyd, Barry, Roberto, Eugene and Cody have only visited Denmark	Melvin didn't visit Denmark	CONTRADICTION
+d-989	Randall has only visited Malaysia, Kyrgyzstan and The Bahamas	Christopher didn't visit Malaysia	NEUTRAL
+d-990	Kent has only visited The Bahamas, Serbia, Zimbabwe, Republic of the Congo, Suriname, Norway, Uganda, Libya, Macedonia, Ecuador, Brunei, Kyrgyzstan, Liberia, San Mmarino, Madagascar, Marshall Islands, Trinidad & Tobago, Greece and Samoa	Kent didn't visit Liberia	CONTRADICTION
+d-991	Cody, Ronnie, Robert, Zachary, Luis and Jerry have only visited Cambodia	Robert didn't visit Malaysia	ENTAILMENT
+d-992	Gerald, Tommy, Jim, Bruce, Darrell, Elmer, Edward, Jack, Craig and Stephen have only visited Egypt	Tommy didn't visit Egypt	CONTRADICTION
+d-993	Perry has only visited Jordan, Belize, Canada, Netherlands, Marshall Islands, Mauritius and Samoa	Perry didn't visit Belize	CONTRADICTION
+d-994	Alvin has only visited Somalia, United Arab Emirates, Burundi, Timor-Leste, South Africa, Madagascar, Trinidad & Tobago, Peru and Syria	Marshall didn't visit Madagascar	NEUTRAL
+d-995	Lewis has only visited Tajikistan, Guyana, Indonesia and Azerbaijan	Lewis didn't visit Azerbaijan	CONTRADICTION
+d-996	Albert has only visited Chile, Cameroon, South Sudan, Palau, Montenegro, Pakistan, Marshall Islands, Turkey, Iceland, Brazil, Federated States of Micronesia, Slovenia and Central African Republic	Albert didn't visit Central African Republic	CONTRADICTION
+d-997	Cecil has only visited Federated States of Micronesia, Burundi, Afghanistan, Argentina, Algeria, Andorra, Republic of the Congo, Spain, Tuvalu, Romania, Kosovo, Switzerland, Lebanon, Marshall Islands, Georgia, Poland and Monaco	Luis didn't visit Monaco	NEUTRAL
+d-998	Derrick has only visited Lebanon and France	Karl didn't visit Lebanon	NEUTRAL
+d-999	Chester, Randy, Raymond, Morris, Charlie, Salvador, Adrian, Edgar, Edwin, Craig, Mark, Kenneth and Brandon have only visited Kazakhstan	Salvador didn't visit Guyana	ENTAILMENT

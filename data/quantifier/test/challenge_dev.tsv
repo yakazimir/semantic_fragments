@@ -1,0 +1,1000 @@
+tt-0	Everyone has visited every person	Martha didn't visit Joann	CONTRADICTION
+tt-1	Someone has visited every person and every place	An individual didn't visit Saint Louis	CONTRADICTION
+tt-2	Everyone has visited Akron, Calumet City, Willmar, Troy, Coronado, Montana, Hoboken, Chattanooga, Salisbury, Alma, Natick, Ventura and California	Monica did visit Hoboken	ENTAILMENT
+tt-3	Everyone has visited every place	Edith didn't visit Charles City	CONTRADICTION
+tt-4	Everyone has visited New Market, Plymouth, Grand Island, Watertown, Elmira, Ottumwa, Sweetwater, Guilford, Williamson, Minneapolis, Austin, Alexander City, Summersville and Yellow Springs	A person did visit New Market	ENTAILMENT
+tt-5	Everyone has visited Watts, Pierre, Redmond, Guntersville, Winnetka, Ansonia, Harlan, Hodgenville, Pryor, Claremont, Sharon, Taunton, Nanticoke, Lawrence, Alabama, Victorville, New Glarus, Conneaut, Barnstable and Orange	A person did visit Guntersville	ENTAILMENT
+tt-6	Someone has visited every person and every place	An individual didn't visit Hampton	CONTRADICTION
+tt-7	Someone has visited every person and every place	That person there didn't visit Rosa	NEUTRAL
+tt-8	Everyone has visited Nahant, Pawhuska, Palmer, Sharon, Bellows Falls, Menasha, Woodward, Staunton, Los Alamos, Spartanburg, Cuyahoga Falls, Telluride, Baltimore, Westminster and Medford	An individual didn't visit Cuyahoga Falls	CONTRADICTION
+tt-9	Everyone has visited Weehawken, Los Angeles, Skokie, Somerville, Dickinson, Wilmington, Goshen, Mountain View, Santa Claus, North Platte, Arkansas, Oceanside, Gettysburg, Clearwater, Narragansett, Mamaroneck, Jonesborough and Smyrna	Beulah didn't visit Santa Claus	CONTRADICTION
+tt-10	Everyone has visited Huron, Fort Valley, Everett, Miami, Wayne, Kotzebue, Jacksonville, Akron, Cleveland, Atlantic City and Batesville	Deborah didn't visit Everett	CONTRADICTION
+tt-11	Everyone has visited every person	Erika didn't visit Mae	CONTRADICTION
+tt-12	Everyone has visited Oshkosh, Oak Ridge, Centralia, Willimantic, Mission, Malden, Fort Kent, Ashland, Essex and South Charleston	Someone did visit Willimantic	ENTAILMENT
+tt-13	Everyone has visited every person	Kelly didn't visit Teresa	CONTRADICTION
+tt-14	Everyone has visited Nome, Ticonderoga, Ontario, Euclid, Litchfield, Chattanooga, New Castle, Mobile, Clearwater, Pecos, Kalamazoo, Virginia City, Morrilton, Irvine and Rockville	Clara didn't visit Schenectady	NEUTRAL
+tt-15	Someone has visited every person and every place	That person there didn't visit Courtney	NEUTRAL
+tt-16	Everyone has visited Santa Clarita, Springfield, West Hartford, Jacksonville, Chicopee, Lander, Hillsboro, Newberg, Idaho, Watervliet, Cody, Ripon, Rocky Mount, Bountiful, Columbus, Midland and Hopewell	Joyce didn't visit Osceola	NEUTRAL
+tt-17	Someone has visited every person and every place	That individual there didn't visit Cohasset	NEUTRAL
+tt-18	Everyone has visited Sheridan, Alaska, Orem, Kearney, Newberg, Coffeyville, Provincetown, Rockland, Elkhart, Mexico, Asheville, Lexington, Saint Joseph, Toledo, Newport Beach, Bossier City, Durham and Marion	A person did visit Newberg	ENTAILMENT
+tt-19	Everyone has visited Orderville, Edinburg, Alexandria, Newburgh, Walla Walla, Lompoc, Independence, Missoula, Dayton, Waterford, Schenectady, Pawtucket and McAlester	Minnie did visit Orderville	ENTAILMENT
+tt-20	Everyone has visited Lake Forest, Ephrata, Sag Harbor, Portales, Corydon, McMinnville, River Forest, Cuyahoga Falls, Boulder, Maryland, Grand Haven, Coeur d’Alene, Casa Grande, Vermillion, Kapaa and Saint Joseph	Brandy didn't visit Boulder	CONTRADICTION
+tt-21	Everyone has visited Bangor, Houghton, Midwest City, Sebring, Layton, Tooele, Mobridge, Rock Island, Johnson City, Orlando, Fort Worth, Derby, Las Vegas, Killeen, Livingston, Leadville and Climax	An individual did visit Bangor	ENTAILMENT
+tt-22	Everyone has visited Adams, Richmond, Austin, Geneva, Fairbanks, Wauwatosa, Burlington, Stroudsburg, Missouri, Fort Dodge, Hyattsville, West Orange, Wahiawa, Eufaula and Cedar Rapids	Molly didn't visit Hyattsville	CONTRADICTION
+tt-23	Everyone has visited Bedford, Saint Paul, Priest River, Warren, Glassboro, Attleboro, Moorhead, Bath, Branford, Mount Pleasant, Long Beach, Central City, Yellow Springs, Interlochen and Fontana	Florence didn't visit Hartford	NEUTRAL
+tt-24	Someone has visited every person and every place	A person visited Kokomo	ENTAILMENT
+tt-25	Someone has visited every person and every place	That individual there didn't visit Debbie	NEUTRAL
+tt-26	Everyone has visited Welch, Gastonia, Mount Vernon, Clarksburg, Rawlins, Deerfield Beach, Marion, Middlebury, Lebanon, Pittsburg, South Hadley, Cheyenne, Medford, Newport News, Alta, Ticonderoga and Sioux Falls	Someone didn't visit Rawlins	CONTRADICTION
+tt-27	Everyone has visited Bloomington, Hawaii, Sonoma, Alexander City, Hot Springs, Omaha, Palatka, Canton, Union City and Delray Beach	Audrey didn't visit Union City	CONTRADICTION
+tt-28	Someone has visited every person and every place	That particular person didn't visit Helena	NEUTRAL
+tt-29	Everyone has visited every person and every place	Victoria didn't visit Jill	CONTRADICTION
+tt-30	Someone has visited every person and every place	That particular person didn't visit Lindsey	NEUTRAL
+tt-31	Everyone has visited La Junta, Harrison, Longmont, Grand Island, Canton, Elwood, Warrensburg, Brattleboro, Delaware, Somersworth, Shepherdstown, Lancaster, Point Roberts, Tucumcari, Oak Harbor, Marietta, Lowell, Bath and Springfield	Someone did visit Harrison	ENTAILMENT
+tt-32	Everyone has visited Nauvoo, Fort Dodge, Litchfield, Southington, Middletown, Brookings, Orange, Johnson City, Bellevue, Redding, Estes Park, Port Arthur, Sebring, Lebanon, Torrance, Princeton, Mentor, Shelbyville, Mansfield and Fort Lauderdale	Juanita didn't visit Devils Lake	NEUTRAL
+tt-33	Everyone has visited every place	Barbara didn't visit Clara	NEUTRAL
+tt-34	Everyone has visited every place	Jane didn't visit Velma	NEUTRAL
+tt-35	Everyone has visited San Felipe, Sarasota, Eufaula, John Day, Alcoa, Winooski, Park Ridge, Port Orford, Bar Harbor, Redondo Beach, El Reno, Opelousas, Compton, Ecorse, Concord, Marinette, Marquette, Oberlin and Palm Springs	Stacy didn't visit Peterborough	NEUTRAL
+tt-36	Someone has visited every person and every place	Someone visited Eleanor	ENTAILMENT
+tt-37	Someone has visited every person and every place	A person didn't visit Richmond	CONTRADICTION
+tt-38	Everyone has visited Chelmsford, Corona, Oakland, John Day, Hastings, Kent, Kellogg, Seneca Falls, East Cleveland, Ysleta, Babylon, Groton, Waterbury and North Adams	An individual did visit Corona	ENTAILMENT
+tt-39	Everyone has visited Sherman, Richland, Saint Joseph, Duluth, Fort Valley, Johnson City, College Park, Fort Collins, Chattanooga, Ardmore, Fernandina Beach, Plano, Butte and Shreveport	An individual did visit Butte and Shreveport	ENTAILMENT
+tt-40	Everyone has visited Overland Park, Belfast, Canton, Everett, Goldfield, Palm Springs, Columbus, South Hadley, Mount Vernon, Irving, San Rafael, Abbeville, Lewistown, Greenville, Garden City and Newark	Regina didn't visit Newburgh	NEUTRAL
+tt-41	Everyone has visited every place	Stephanie didn't visit Tammy	NEUTRAL
+tt-42	Everyone has visited San Pedro, Clearwater, Wabash, Honesdale, Weatherford, Peekskill, Alva, Red Bluff, Scarsdale, Bordentown, Palmyra and Towson	An individual did visit Palmyra and Towson	ENTAILMENT
+tt-43	Everyone has visited Potsdam, North Kingstown, Geneva, Canton, Garden City, Middletown, Ann Arbor, Kinston, Aberdeen, Smyrna, Amesbury, Key West, Burlington, Natchitoches, Lawrence, White Sulphur Springs and Danbury	Tara didn't visit Smyrna	CONTRADICTION
+tt-44	Everyone has visited every place	Stephanie didn't visit Allison	NEUTRAL
+tt-45	Everyone has visited Niagara Falls, Belmont, Riverside, Camden, Springfield, Yankton, Fontana, Newton, Troy, Superior, Sunnyvale, Belfast and Webster	Lauren didn't visit Livermore	NEUTRAL
+tt-46	Everyone has visited every place	Melissa didn't visit Gladys	NEUTRAL
+tt-47	Everyone has visited Gallatin, Winter Park, New Rochelle, Clovis, Hawaii, Flushing, Tampa, Oregon City, Adrian, Chicopee, South Dakota, Lubec, Wellesley, Darlington, Gunnison, Columbia, Laurel and Toccoa	A person didn't visit South Dakota	CONTRADICTION
+tt-48	Everyone has visited Cape May, Calhoun, Waterville, Newton, Virginia Beach, Garden Grove, Cooperstown, Kodiak, Muscatine, Painesville, Bedford and Evanston	Nina didn't visit Harrodsburg	NEUTRAL
+tt-49	Everyone has visited Portsmouth, North Carolina, Romney, Anniston, Durant, Lakeland, Durango, Union City, West New York, Sumter, Chelmsford, Camden and Elizabeth City	Brandi didn't visit Wenatchee	NEUTRAL
+tt-50	Everyone has visited every person	Charlotte didn't visit Vicki	CONTRADICTION
+tt-51	Someone has visited every person and every place	A person visited Tina	ENTAILMENT
+tt-52	Everyone has visited every place	Laurie didn't visit Ella	NEUTRAL
+tt-53	Everyone has visited every person and every place	Joy didn't visit Eastport	CONTRADICTION
+tt-54	Everyone has visited Oregon City, Bluefield, South Dakota, Johnson City, Everett, Tiffin, Athol, Marion, Rapid City, Truro, Bangor, Portales, Cumberland, Hayward, Fitzgerald, Hingham, Rutherford, Littleton and Berea	Esther did visit Portales	ENTAILMENT
+tt-55	Everyone has visited North Little Rock, Decatur, Middletown, Crossett, Berea, Huntington, Abington, Hillsborough, Casa Grande, Randolph, Stockton, Rantoul, Sauk Centre and Eugene	Ethel didn't visit Sylacauga	NEUTRAL
+tt-56	Everyone has visited Westerly, Groton, Stuttgart, Camden, Atlanta, Virginia, Marinette, Miami, Grafton, Fullerton, Kaskaskia, La Grande, Manitowoc, Palo Alto, Dothan, Grinnell, Ypsilanti, Summersville and Vail	Someone did visit Westerly	ENTAILMENT
+tt-57	Everyone has visited every place	Frances didn't visit Helen	NEUTRAL
+tt-58	Everyone has visited every place	Wanda didn't visit Kim	NEUTRAL
+tt-59	Someone has visited every person and every place	That particular person didn't visit Ontario	NEUTRAL
+tt-60	Someone has visited every person and every place	An individual visited Gina	ENTAILMENT
+tt-61	Everyone has visited Binghamton, Edison, Centralia, Palmdale, Grafton, Streator, Atlantic City, Central Falls, Sumter, Stamford, Gallipolis, Lebanon, Missoula and New Martinsville	Rebecca did visit Sumter	ENTAILMENT
+tt-62	Everyone has visited Bloomfield, Georgetown, Lumberton, Wood River, Danville, Rock Island, Thousand Oaks, Newton, Caribou, Mansfield, Breckenridge, Staunton, Weston, Westport, Lakewood, Raleigh and Winslow	That individual there did visit Georgetown	ENTAILMENT
+tt-63	Everyone has visited Woods Hole, Burlington, Devils Lake, Tuscaloosa, Harlan, New Market, New Glarus, Marinette, Belle Glade, Camden, Winooski, Nome, Swarthmore and Lancaster	Judy didn't visit Mishawaka	NEUTRAL
+tt-64	Everyone has visited every place	Mamie didn't visit Easton	CONTRADICTION
+tt-65	Everyone has visited Fort Valley, Idaho Falls, Bedford, Milbank, Prichard, Yorba Linda, Johnson City, Dearborn, Rockville, Stonington, Newton, White Springs and Independence	Natasha didn't visit Santa Claus	NEUTRAL
+tt-66	Everyone has visited Totowa, Kellogg, Ormond Beach, East Liverpool, Marietta, Bath, Windsor, Rock Springs, Nebraska City, Livingston, Blytheville, Lufkin, Middletown, Chickasha, Rolla, Redwood City and Muscatine	An individual did visit Rock Springs	ENTAILMENT
+tt-67	Someone has visited every person and every place	A person didn't visit Jane	CONTRADICTION
+tt-68	Everyone has visited Saranac Lake, Utica, Hagerstown, Hibbing, Centralia, Jonesborough, Hodgenville, Athens, Phoenixville, Arkadelphia, Moline, East Chicago, Lake Charles, Goshen, McAllen, Boothbay Harbor, American Fork, Lock Haven and Laguna Beach	Cecilia didn't visit Independence	NEUTRAL
+tt-69	Someone has visited every person and every place	That individual there didn't visit West Covina	NEUTRAL
+tt-70	Everyone has visited Menlo Park, Lodi, Chadron, Minneapolis, Hartford, Turlock, Vinita, Virginia, Hoboken, Chester, Largo and Palmdale	Jessie didn't visit Laredo	NEUTRAL
+tt-71	Everyone has visited Lake Forest, Ephrata, Sag Harbor, Portales, Corydon, McMinnville, River Forest, Cuyahoga Falls, Boulder, Maryland, Grand Haven, Coeur d’Alene, Casa Grande, Vermillion, Kapaa and Saint Joseph	Brandy did visit River Forest	ENTAILMENT
+tt-72	Everyone has visited every person	Melissa didn't visit Peggy	CONTRADICTION
+tt-73	Everyone has visited Bennington, Palmdale, Springfield, Painesville, Brownsville, Cushing, Cohoes, Ysleta, Ossining, Mexico, Corinth, Waimea, Concord, Montana, Brighton, Wahiawa, Emmitsburg and Barstow	Shelley did visit Ysleta	ENTAILMENT
+tt-74	Everyone has visited Willmar, Queens, Lexington, Bloomsburg, Greenville, Braintree, Corvallis, Tallahassee, Blairsville, Mundelein, Salem, Altus, El Dorado and Lewes	Sherri did visit Altus	ENTAILMENT
+tt-75	Everyone has visited every person and every place	Carol didn't visit Farmington	CONTRADICTION
+tt-76	Everyone has visited every place	Cheryl didn't visit Ethel	NEUTRAL
+tt-77	Everyone has visited Hot Springs, Canton, Ocala, Millburn, Terre Haute, Sheffield, Clovis, High Point, Joliet, Dillon, Thibodaux, Concord, Belle Glade, Dallas, Moses Lake, Ketchikan and Rome	Louise did visit Terre Haute	ENTAILMENT
+tt-78	Everyone has visited every place	Rita didn't visit Pearl	NEUTRAL
+tt-79	Everyone has visited every person	Antoinette didn't visit Maureen	CONTRADICTION
+tt-80	Someone has visited every person and every place	A person visited Kristin	ENTAILMENT
+tt-81	Someone has visited every person and every place	A person visited Cedar Falls	ENTAILMENT
+tt-82	Everyone has visited Jeffersonville, Cranford, Holland, Brainerd, Columbia, Columbus, Cushing, Deming, Bartlesville, Ilion, Escondido, Lebanon, Salisbury, Miles City, Fitzgerald and Mount Pleasant	That person there did visit Columbia	ENTAILMENT
+tt-83	Everyone has visited Selma, Charleston, Hinton, Bedford, Valdosta, Salem, Newport Beach, Port Orford, Grafton, Elmhurst and Northfield	Edna didn't visit Gainesville	NEUTRAL
+tt-84	Everyone has visited Plano, Bath, Lake City, Cincinnati, Valparaiso, Reading, Farmington, Alaska, La Crosse, Conneaut, La Habra, Elk City and Belfast	Someone didn't visit Conneaut	CONTRADICTION
+tt-85	Everyone has visited Hugo, Mount Vernon, Somersworth, Xenia, Fresno, Flagstaff, Lewiston, Willimantic, El Cerrito, Stockton, Oakland, Urbana, Somerville, Newberg and Cincinnati	That person there did visit Willimantic	ENTAILMENT
+tt-86	Someone has visited every person and every place	That individual there didn't visit Lahaina	NEUTRAL
+tt-87	Everyone has visited every place	Bobbie didn't visit Constance	NEUTRAL
+tt-88	Everyone has visited Tucumcari, San Clemente, Newton, Port Arthur, Saint Johnsbury, Mount Pleasant, Indiana, Milbank, Ada, Revere, Port Hueneme, Ansonia, Pontiac and Plainfield	Minnie didn't visit Bismarck	NEUTRAL
+tt-89	Someone has visited every person and every place	A person didn't visit Georgia	CONTRADICTION
+tt-90	Everyone has visited Randolph, Guthrie, Moline, Mount Pleasant, Layton, Devils Lake, Bay City, North Carolina, Hayward, South Dakota, Pittsburg, Wichita Falls, Hillsboro, Youngstown, Port Washington, Willmar, Canon City and Alva	Tammy didn't visit Hillsboro	CONTRADICTION
+tt-91	Everyone has visited Rock Springs, Valley City, Geneva, Hillsboro, Ohio, Lincoln, Piqua, DeKalb, Gloucester, Bath, Eugene and Ventura	Dolores didn't visit Lincoln	CONTRADICTION
+tt-92	Someone has visited every person and every place	An individual visited Cohasset	ENTAILMENT
+tt-93	Someone has visited every person and every place	That individual there didn't visit Eufaula	NEUTRAL
+tt-94	Everyone has visited Albuquerque, Lakeview, Ironwood, Clarksville, Louisiana, Amherst, Fullerton, Farmington, Elizabethtown and Kahului	Someone did visit Farmington	ENTAILMENT
+tt-95	Someone has visited every person and every place	That person there didn't visit Irene	NEUTRAL
+tt-96	Everyone has visited Forest Hills, Belmont, Wellesley, Johnstown, Farmington, Fulton, Centralia, La Salle, Campbellsville, South Holland, Fargo, Wyandotte, Pullman, Las Vegas, Saint Ignace, Oceanside, Newburyport, Lewiston and Hanover	That individual there did visit Wellesley	ENTAILMENT
+tt-97	Everyone has visited every place	Madeline didn't visit Betty	NEUTRAL
+tt-98	Someone has visited every person and every place	That person there didn't visit Bonnie	NEUTRAL
+tt-99	Everyone has visited Madison, Boothbay Harbor, Franklin, Mesa, Palmdale, Lebanon, Cushing, Goliad, Virginia Beach, Delaware, Smyrna, Chesapeake and Buffalo	That person there did visit Madison	ENTAILMENT
+tt-100	Someone has visited every person and every place	That individual there didn't visit Orderville	NEUTRAL
+tt-101	Everyone has visited Norwalk, Newport, Montana, Brooklyn, Calais, Turlock, Warren, Vermillion, Dover, Fort Dodge, Mishawaka and Hayward	That particular person did visit Brooklyn	ENTAILMENT
+tt-102	Someone has visited every person and every place	Someone visited Bertha	ENTAILMENT
+tt-103	Someone has visited every person and every place	That particular person didn't visit Lynn	NEUTRAL
+tt-104	Everyone has visited Indiana, Liberal, Roseville, Trenton, Staten Island, Melbourne, Freeport, Hammondsport, East Haven, Fort Morgan, Norwalk, The Village, Brunswick and Prineville	Claire didn't visit Guymon	NEUTRAL
+tt-105	Everyone has visited Hot Springs, Woonsocket, Corinth, Hillsborough, Mount Vernon, Shawneetown, Claremore, Binghamton, Boys Town, Philadelphia and Wenatchee	Rosa didn't visit Prescott	NEUTRAL
+tt-106	Everyone has visited Plattsburgh, Utah, Monett, Johnstown, Suffolk, Livonia, Massillon, Independence, South Orange Village, Jamestown, Ocean City, Rochester, Bridgeport, Fort Kent, Ellensburg and Tuscaloosa	Someone did visit Bridgeport	ENTAILMENT
+tt-107	Everyone has visited Hickory, Detroit, Ecorse, Macomb, Winsted, Tyler, Hastings, Sweetwater, Bennington, Stuttgart, Charles City, Cambridge, Sturgeon Bay, Aberdeen, Delaware and Meriden	Claire didn't visit Middletown	NEUTRAL
+tt-108	Everyone has visited Palm Springs, Frankfort, Amherst, Park Forest, Tombstone, Miami, Fort Walton Beach, Arizona, Ames, Kearney and Skokie	Bernice didn't visit Skokie	CONTRADICTION
+tt-109	Someone has visited every person and every place	That individual there didn't visit Lydia	NEUTRAL
+tt-110	Someone has visited every person and every place	A person visited Lake Charles	ENTAILMENT
+tt-111	Everyone has visited Morehead City, Newport, Lower Southampton, Warwick, Kingsville, Saint Joseph, Lakewood, Romney, Hackensack, Hollywood and Norwalk	Sandra did visit Hollywood and Norwalk	ENTAILMENT
+tt-112	Everyone has visited New Kensington, Sterling, High Point, Bellows Falls, West Des Moines, Waterloo, Vineland, Newton, Dover, Waterford, Ohio and Indianola	Tracy did visit Waterloo	ENTAILMENT
+tt-113	Everyone has visited every person and every place	April didn't visit Jacksonville	CONTRADICTION
+tt-114	Someone has visited every person and every place	An individual visited Samantha	ENTAILMENT
+tt-115	Everyone has visited Hot Springs, Rye, Tullahoma, Gretna, Layton, Helena, Bryan, Kittery, Garden City, Arkansas Post, Warren, Kitty Hawk and Delaware	A person did visit Arkansas Post	ENTAILMENT
+tt-116	Someone has visited every person and every place	That individual there didn't visit Sandra	NEUTRAL
+tt-117	Everyone has visited every place	Stephanie didn't visit Bobbie	NEUTRAL
+tt-118	Everyone has visited Harrisburg, Grand Rapids, Texas, Orange, Moore, Little Falls, Saint George, Red Wing, Bridgeport, Willimantic and Conway	Someone didn't visit Saint George	CONTRADICTION
+tt-119	Everyone has visited Pontiac, Bay Saint Louis, Kewanee, Bristol, Shamokin, Norton, Fremont, Warm Springs, Benton, Hamden, Goldfield, Hartford, Dothan, Hickory, New Rochelle, Coral Gables, Gadsden, Rancho Cucamonga and Mankato	Pauline didn't visit Wickford	NEUTRAL
+tt-120	Someone has visited every person and every place	That particular person didn't visit Naomi	NEUTRAL
+tt-121	Someone has visited every person and every place	That particular person didn't visit Maxine	NEUTRAL
+tt-122	Everyone has visited every person and every place	Cynthia didn't visit Marguerite	CONTRADICTION
+tt-123	Everyone has visited Hammond, Roswell, Hopkinsville, Dothan, Kingman, Plainfield, Lower Southampton, Cody, Menlo Park, Murray, Valdez, Arkansas, Biddeford, Oregon and Shawneetown	Charlotte didn't visit Redmond	NEUTRAL
+tt-124	Everyone has visited every place	Mary didn't visit Myrtle	NEUTRAL
+tt-125	Everyone has visited Green River, Princeton, Birmingham, Irvine, Cairo, Pendleton, Santa Fe, Owatonna, Littleton, Gallatin, Shepherdstown, Saint Joseph, Tallahassee, Ipswich, Bradenton, Lewiston, Park Forest, Sunnyvale and Roseville	Tonya didn't visit Cairo	CONTRADICTION
+tt-126	Everyone has visited every person and every place	Vickie didn't visit Gallipolis	CONTRADICTION
+tt-127	Everyone has visited Frederick, Selma, Point Pleasant, Kaneohe, Marion, Holland, Council Grove, Charleston, Largo and Virginia	Someone didn't visit Council Grove	CONTRADICTION
+tt-128	Everyone has visited every person	Jackie didn't visit Carolyn	CONTRADICTION
+tt-129	Everyone has visited Lehi, Bristol, Napa, Parma, Oregon, San Fernando, El Paso, Athens, Troy, Calais, The Village, Muskegon and Salem	Someone did visit The Village	ENTAILMENT
+tt-130	Someone has visited every person and every place	That individual there didn't visit Juneau	NEUTRAL
+tt-131	Everyone has visited every place	Gladys didn't visit Cassandra	NEUTRAL
+tt-132	Someone has visited every person and every place	Someone visited Rye	ENTAILMENT
+tt-133	Someone has visited every person and every place	An individual didn't visit Middlesboro	CONTRADICTION
+tt-134	Everyone has visited Fresno, Fort Kent, Windsor Locks, North Haven, Quincy, Chicopee, Jersey City, Warren, White Plains, Andalusia, Greenville, Groton, Libertyville, Seward, Starkville and Springfield	Someone didn't visit Starkville and Springfield	CONTRADICTION
+tt-135	Someone has visited every person and every place	That person there didn't visit Joanna	NEUTRAL
+tt-136	Everyone has visited Charlestown, York, Elko, Claremore, Waterbury, Suffolk, Eureka, Cape Girardeau, Nyack and Sioux Falls	Sandy did visit York	ENTAILMENT
+tt-137	Everyone has visited Council Bluffs, Santa Clarita, Newport, New Britain, Oakland, Wood River, Bellevue, Topeka, Bismarck, Rock Hill, Harlem, Andover and Redmond	An individual did visit Wood River	ENTAILMENT
+tt-138	Everyone has visited Park Ridge, Hammond, Alamogordo, Opelika, Buffalo, Abington, Lubec, Milbank, Marion, Lexington, Tooele, West Palm Beach, Alexander City, Illinois, Bedford, Pontiac, Eufaula and Paducah	Natasha didn't visit West Chester	NEUTRAL
+tt-139	Everyone has visited Bellingham, Lufkin, El Dorado, Newport, Hancock, Petoskey, North College Hill, New Bern, Rochester, Logan, Keokuk, Levittown, Menasha, Stockbridge, Lewes and Hattiesburg	Sarah didn't visit Orderville	NEUTRAL
+tt-140	Everyone has visited every place	Kristen didn't visit Lucy	NEUTRAL
+tt-141	Everyone has visited every person	Dianne didn't visit Jane	CONTRADICTION
+tt-142	Everyone has visited every person and every place	Linda didn't visit Iris	CONTRADICTION
+tt-143	Everyone has visited Rugby, Price, Hollywood, Lower Southampton, Plymouth, West Springfield, Beloit, New Glarus, Jim Thorpe, Santa Ana, Ithaca, Shawnee and Pottsville	That individual there did visit West Springfield	ENTAILMENT
+tt-144	Everyone has visited Centralia, Albany, Ripon, Coupeville, Concord, Camden, Mishawaka, Louisville, Mount Pleasant, Yazoo City, Ecorse, Gainesville, Sioux City and Madison	Wilma didn't visit Yazoo City	CONTRADICTION
+tt-145	Everyone has visited El Paso, Enfield, Lakeland, Mount Pleasant, Salem, Saint Louis, Amarillo, Winooski, Delta, Newton and Yonkers	Lorraine didn't visit Burlington	NEUTRAL
+tt-146	Everyone has visited every person and every place	Grace didn't visit Bronx	CONTRADICTION
+tt-147	Everyone has visited Sharon, Cicero, Mamaroneck, Chicopee, Chester, Texas City, Millburn, Torrance, Pryor, Wilkes-Barre, Fort Collins, Kentucky, Lackawanna, Newark, Barnstable and Kilgore	An individual did visit Millburn	ENTAILMENT
+tt-148	Someone has visited every person and every place	That person there didn't visit Macon	NEUTRAL
+tt-149	Everyone has visited every place	Nancy didn't visit Brenda	NEUTRAL
+tt-150	Everyone has visited Dover, Idaho City, Palatine, Pottsville, Norwich, Stockbridge, Hershey, Bedford, Sunnyvale, Sag Harbor, Central City, Athens, Belle Fourche, Elizabethton, Lewistown, Jeffersonville and Hobbs	Priscilla did visit Stockbridge	ENTAILMENT
+tt-151	Everyone has visited every place	Rebecca didn't visit Juana	NEUTRAL
+tt-152	Everyone has visited every place	Ida didn't visit Alaska	CONTRADICTION
+tt-153	Someone has visited every person and every place	Someone visited Holly Springs	ENTAILMENT
+tt-154	Everyone has visited Xenia, Bowling Green, Klamath Falls, Geneva, Mamaroneck, Lowell, Boothbay Harbor, Vicksburg, Anniston, Las Vegas, Columbia, Port Orford, Greenbelt, Elk City, Blackfoot, Hingham, Chicago Heights, Herrin and Saint Johnsbury	Sherri didn't visit Blackfoot	CONTRADICTION
+tt-155	Someone has visited every person and every place	An individual visited Jennie	ENTAILMENT
+tt-156	Everyone has visited Bountiful, Millville, Palo Alto, Provincetown, South Saint Paul, Lubbock, Nevada, Ogdensburg, Idaho, New Windsor, Kaneohe, Derby and Coeur d’Alene	Anna did visit Idaho	ENTAILMENT
+tt-157	Everyone has visited every place	Amy didn't visit Debra	NEUTRAL
+tt-158	Everyone has visited every place	Ada didn't visit Beverly	NEUTRAL
+tt-159	Someone has visited every person and every place	That particular person didn't visit Machias	NEUTRAL
+tt-160	Everyone has visited Vernal, West Hartford, Parkersburg, Columbus, East Lansing, Asheboro, Jamestown, Chapel Hill, Moorhead and Plymouth	That particular person did visit West Hartford	ENTAILMENT
+tt-161	Everyone has visited Carbondale, El Dorado, Great Bend, Lincoln, Hanalei, San Antonio, Bossier City, Gettysburg, Dillon, Bloomington, Fort Myers, Barnstable, Lebanon, Cheyenne, Roselle, Portland, Franklin and Cripple Creek	Colleen didn't visit Gettysburg	CONTRADICTION
+tt-162	Everyone has visited every person	Christina didn't visit Amelia	CONTRADICTION
+tt-163	Someone has visited every person and every place	A person visited Anne	ENTAILMENT
+tt-164	Someone has visited every person and every place	A person didn't visit Duxbury	CONTRADICTION
+tt-165	Someone has visited every person and every place	That person there didn't visit Marion	NEUTRAL
+tt-166	Everyone has visited every place	Melissa didn't visit Jean	NEUTRAL
+tt-167	Everyone has visited every place	Bernice didn't visit Palatine	CONTRADICTION
+tt-168	Everyone has visited Morehead City, Newport, Lower Southampton, Warwick, Kingsville, Saint Joseph, Lakewood, Romney, Hackensack, Hollywood and Norwalk	A person did visit Hollywood and Norwalk	ENTAILMENT
+tt-169	Everyone has visited Cody, Shamokin, Santa Cruz, Nanticoke, Silver City, Wahiawa, Frederick, Gainesville, Bainbridge, Apalachicola, Waterbury, Chicago, Aberdeen and New Bern	Someone didn't visit Wahiawa	CONTRADICTION
+tt-170	Someone has visited every person and every place	That particular person didn't visit Opal	NEUTRAL
+tt-171	Everyone has visited Van Buren, Carlisle, Waterloo, Albany, Paducah, Council Grove, Yellow Springs, Pottstown, Hackensack and Jacksonville	Lynda didn't visit Belfast	NEUTRAL
+tt-172	Everyone has visited Chautauqua, Abilene, Compton, Abington, Newport, Dothan, Port Lavaca, Exeter, Huntington and Manti	Someone did visit Compton	ENTAILMENT
+tt-173	Someone has visited every person and every place	A person visited Yorba Linda	ENTAILMENT
+tt-174	Someone has visited every person and every place	A person visited Santa Clarita	ENTAILMENT
+tt-175	Everyone has visited every person and every place	Martha didn't visit Jill	CONTRADICTION
+tt-176	Everyone has visited Lufkin, Petoskey, Conneaut, Seymour, Winslow, Sandwich, Atlanta, Lorain, Kingman, Laurel, Newport and Coeur d’Alene	An individual didn't visit Lorain	CONTRADICTION
+tt-177	Someone has visited every person and every place	That particular person didn't visit Lois	NEUTRAL
+tt-178	Everyone has visited Alpine, Mamaroneck, Xenia, Coeur d’Alene, West Springfield, Fairfield, Junction City, Douglas, Manhattan, Wailuku, Bartlesville, Willimantic, Moab, Williston and Torrance	That particular person did visit Williston and Torrance	ENTAILMENT
+tt-179	Everyone has visited every person and every place	Lydia didn't visit Findlay	CONTRADICTION
+tt-180	Everyone has visited every place	Louise didn't visit Johnson City	CONTRADICTION
+tt-181	Everyone has visited South Bend, Greenwood, Casper, Florida, Oyster Bay, Montclair, Palmer, Lancaster, Pontiac, Oregon, Golden, Durham, Pacific Grove, Middlesboro, Anderson and Rutland	Jeanette did visit Oyster Bay	ENTAILMENT
+tt-182	Someone has visited every person and every place	A person visited Sheila	ENTAILMENT
+tt-183	Someone has visited every person and every place	That individual there didn't visit Edna	NEUTRAL
+tt-184	Someone has visited every person and every place	That particular person didn't visit Barberton	NEUTRAL
+tt-185	Everyone has visited Whitman, Farmington, Oyster Bay, East Saint Louis, Logan, Urbana, New Brunswick, Willmar, The Village and Downey	That person there did visit Oyster Bay	ENTAILMENT
+tt-186	Everyone has visited every person	Tanya didn't visit Emma	CONTRADICTION
+tt-187	Everyone has visited Opelika, Longmont, Johnstown, Hillsboro, Douglas, The Dalles, Kent, Ardmore, Burlington, Shelton, Lorain and Norfolk	That person there did visit The Dalles	ENTAILMENT
+tt-188	Everyone has visited Glenview, Lakeland, Genoa, Fort Myers, Lowell, Wethersfield, Zanesville, Abingdon, Gary and Elkins	Cindy didn't visit Seaside	NEUTRAL
+tt-189	Everyone has visited Malden, Irvington, Rocky Mount, Homer, Richmond, Saginaw, Buena Park, Madison, Prairie du Chien, Rye, Clearwater, Plainview, State College, Peshtigo, Trenton, Washington, Connersville and Tupelo	Jacqueline didn't visit Chadron	NEUTRAL
+tt-190	Everyone has visited Plymouth, Urbana, Willmar, Ogdensburg, Findlay, Minden, Stratford, Grand Haven, Orem, Illinois, Butte, Elmira, Susanville, Williston, Oneonta, Steubenville, Magnolia, Sebring and Nome	Jessica did visit Steubenville	ENTAILMENT
+tt-191	Everyone has visited Greeneville, Columbia, Painesville, Berlin, Kettering, Gettysburg, Fairbanks, Framingham, Chandler, Hanover and Cape Girardeau	A person didn't visit Framingham	CONTRADICTION
+tt-192	Everyone has visited every place	Regina didn't visit Norma	NEUTRAL
+tt-193	Someone has visited every person and every place	A person didn't visit Barbara	CONTRADICTION
+tt-194	Someone has visited every person and every place	That particular person didn't visit Kelly	NEUTRAL
+tt-195	Someone has visited every person and every place	Someone didn't visit Veronica	CONTRADICTION
+tt-196	Everyone has visited Pagosa Springs, Cape Girardeau, Chelsea, Idaho City, Canton, Saint Joseph, Park Ridge, Hattiesburg, Rogers, Bellevue, Camden, Maryland, Colorado Springs, Sausalito, Elkton, Milwaukee, Kingsville and Bethesda-Chevy Chase	Melissa did visit Chelsea	ENTAILMENT
+tt-197	Everyone has visited Marquette, Chelsea, Willimantic, Cortez, Pottsville, Hialeah, Chester, McKeesport, Billings, La Junta, Indiana, Arlington Heights, Barberton, Key West, Sheffield and Hazleton	That individual there did visit Chester	ENTAILMENT
+tt-198	Everyone has visited Menlo Park, Bordentown, Temple, Amherst, Stillwater, Homer, El Dorado, Bartow, Del Rio, San Gabriel, Bridgeton, Duluth, Wyandotte, La Junta, Somerville, Lawton, Worcester, Rochester, El Centro and Brea	Amy did visit Temple	ENTAILMENT
+tt-199	Everyone has visited every person	Sylvia didn't visit Anne	CONTRADICTION
+tt-200	Everyone has visited Everett, Florence, Rochester, Newburgh, Park Ridge, Lakewood, Nauvoo, Pampa, Millburn, Bellevue, Killeen, New Castle, Eastchester, Middletown, San Angelo, Petersburg, Canon City, Pasadena, Williamsburg and Mundelein	That individual there did visit Newburgh	ENTAILMENT
+tt-201	Everyone has visited Indiana, Elyria, Washington, Michigan, Cuyahoga Falls, Gatlinburg, Bristol, Cohasset, Sonoma, Tahlequah, Germantown, Saratoga Springs, Albany, Pampa and Biddeford	Doris did visit Cohasset	ENTAILMENT
+tt-202	Everyone has visited Plattsmouth, Altoona, Venice, Santa Clara, Wahpeton, Mount Vernon, Champaign, Decatur, Palmdale, El Monte, Sturgis, Cleburne, New Orleans, Maryville, Moore, Walnut Creek, North Hempstead, Claremont, Ashland and Ocean Springs	Laura did visit Walnut Creek	ENTAILMENT
+tt-203	Someone has visited every person and every place	That particular person didn't visit Naperville	NEUTRAL
+tt-204	Someone has visited every person and every place	That particular person didn't visit Margie	NEUTRAL
+tt-205	Everyone has visited Jamestown, White Sulphur Springs, Millburn, Denison, Barbourville, Pottsville, Cedar City, Macomb, Renton, Barnstable, Council Bluffs, Point Roberts and Hillsborough	Regina didn't visit Denison	CONTRADICTION
+tt-206	Everyone has visited every place	Carla didn't visit Erin	NEUTRAL
+tt-207	Everyone has visited El Cerrito, North Dakota, Akron, Collinsville, Richland, Rocky Mount, Seward, Gulfport, Fort Pierce, Winnetka, South Charleston and Elyria	Debbie didn't visit North Dakota	CONTRADICTION
+tt-208	Everyone has visited Newport, Watertown, Meridian, Denton, Honolulu, Jefferson City, Manistee, Wyoming, Laurel, Murfreesboro, Westfield, Alta, Zion, Vermillion, Selma, Garden City, Ocean Springs, Rugby, Irving and Tucson	Diana did visit Rugby	ENTAILMENT
+tt-209	Everyone has visited every person	Daisy didn't visit Terry	CONTRADICTION
+tt-210	Everyone has visited every person	Brittany didn't visit Jodi	CONTRADICTION
+tt-211	Someone has visited every person and every place	That particular person didn't visit Sun Valley	NEUTRAL
+tt-212	Everyone has visited every person and every place	Jessica didn't visit Patricia	CONTRADICTION
+tt-213	Everyone has visited Adams, Richmond, Austin, Geneva, Fairbanks, Wauwatosa, Burlington, Stroudsburg, Missouri, Fort Dodge, Hyattsville, West Orange, Wahiawa, Eufaula and Cedar Rapids	An individual did visit Adams	ENTAILMENT
+tt-214	Everyone has visited El Centro, Orange, Pauls Valley, Emporia, Pittsburg, Moore, Douglas, Morristown, Salem, San Felipe, Bath, Braintree, Rutherford, Morgan City, Natick, Pocatello, North Chicago and Prescott	That individual there did visit Pocatello	ENTAILMENT
+tt-215	Everyone has visited Geneva, Provo, John Day, Green River, Vineland, Wisconsin Dells, Exeter, Oceanside, Valdez, Oneonta, Moab, Pine Bluff, Worland, Warren, Leadville, Alta and Canton	Bessie did visit Pine Bluff	ENTAILMENT
+tt-216	Everyone has visited every person and every place	Georgia didn't visit West Point	CONTRADICTION
+tt-217	Someone has visited every person and every place	Someone visited Isabel	ENTAILMENT
+tt-218	Everyone has visited Brattleboro, Corpus Christi, Santa Clarita, Yonkers, Sharon, Norton, Jacksonville, Delaware, Marquette, Oroville, Rapid City, Flint, Emporia and Great Bend	That individual there did visit Norton	ENTAILMENT
+tt-219	Someone has visited every person and every place	Someone visited Joann	ENTAILMENT
+tt-220	Everyone has visited Cheyenne, Leadville, Palmyra, Thermopolis, Cheboygan, North Carolina, Burlington, McPherson, Los Angeles, Muscatine and Glendale	Brandy did visit North Carolina	ENTAILMENT
+tt-221	Someone has visited every person and every place	Someone visited Corvallis	ENTAILMENT
+tt-222	Everyone has visited every place	Daisy didn't visit Rancho Cucamonga	CONTRADICTION
+tt-223	Someone has visited every person and every place	That particular person didn't visit Stacy	NEUTRAL
+tt-224	Everyone has visited Weehawken, Newport News, Lafayette, Iowa City, Buffalo, New Philadelphia, Shiprock, Loveland, Palmer, New York City, Concord, Palatka, Clanton, Sunbury, Santa Clarita and Fitchburg	An individual did visit Clanton	ENTAILMENT
+tt-225	Everyone has visited Lancaster, Little Falls, Southington, Gila Bend, Brockton, Parkersburg, Winnemucca, South Dakota, Crystal City, Middletown, Hopewell and Fairfield	Ruth did visit Crystal City	ENTAILMENT
+tt-226	Everyone has visited Chickasha, Lafayette, Auburn, Michigan City, Oshkosh, Fort Morgan, El Paso, Bourne, Danbury, Cambridge, Hagerstown, Mason City, Wahpeton, Petersburg, Honaunau, Eau Claire, Corvallis, Irvington and Meadville	Someone didn't visit Chickasha	CONTRADICTION
+tt-227	Everyone has visited Urbana, Gettysburg, Laredo, Bemidji, Carlsbad, Brownsville, Gallatin, Ilion, Trinidad, Valparaiso, Farmington and Shiprock	That person there did visit Carlsbad	ENTAILMENT
+tt-228	Everyone has visited Carlsbad, Oak Park, Yonkers, Clifton, Frederick, Merced, Pharr, McKeesport, Nephi, Calistoga, Pasadena, Honaunau and White Sulphur Springs	Marion did visit Honaunau and White Sulphur Springs	ENTAILMENT
+tt-229	Everyone has visited Petoskey, East Lansing, Emporia, Chico, Hoquiam, Santa Monica, Spearfish, Annapolis, Concord, Yuma, Longview, Norman, Elko, Montclair, Shelton and Maryville	Katie didn't visit Beverly Hills	NEUTRAL
+tt-230	Everyone has visited Canyon, Atlantic City, Cadillac, Grand Forks, Seymour, Shepherdstown, Dover, Harlan, Newport, Plainview and Hastings	An individual did visit Harlan	ENTAILMENT
+tt-231	Everyone has visited every place	Erika didn't visit Vicksburg	CONTRADICTION
+tt-232	Everyone has visited Kapaa, Winchester, Rutherford, Cortland, Douglas, South Bend, Royal Oak, Petaluma, Nampa, Grand Haven, Atchison, Revere, Glassboro, Ashland, Laramie, Swarthmore, Waimea, Vincennes, Monmouth and Pittsfield	Someone didn't visit Monmouth and Pittsfield	CONTRADICTION
+tt-233	Everyone has visited Calistoga, Montpelier, Indiana, Santa Fe, Manistee, Lancaster, Kahului, Machias, Williamsburg, Pierre, Loveland, Littleton and Bloomington	That person there did visit Santa Fe	ENTAILMENT
+tt-234	Everyone has visited Bridgeton, Stony Brook, New Harmony, French Lick, West Palm Beach, Delta, Buckhannon, Herrin, Derby, Chautauqua, Saint Cloud, Ecorse, Rochester, Annapolis, Gloucester and Bainbridge	Hazel didn't visit Delta	CONTRADICTION
+tt-235	Someone has visited every person and every place	A person visited Little Falls	ENTAILMENT
+tt-236	Everyone has visited every place	Margaret didn't visit Kristen	NEUTRAL
+tt-237	Everyone has visited every place	Gail didn't visit New Albany	CONTRADICTION
+tt-238	Everyone has visited Elizabeth City, Columbia, Elizabethtown, Pittsburgh, McPherson, Park Ridge, Monterey, Kansas City, Sturbridge, Beckley, Albuquerque, Utah, Moorhead, Anderson, Wilkes-Barre, Fairfield and Morehead City	A person did visit Elizabethtown	ENTAILMENT
+tt-239	Everyone has visited Edison, Vancouver, Altoona, Mount Vernon, Waynesboro, Carlisle, Chicago Heights, Windham, Bayonne, Watkins Glen, Port Orford, Martinez, Bath, Mount Holly, Santa Cruz, Frederick and Morristown	That particular person did visit Mount Holly	ENTAILMENT
+tt-240	Someone has visited every person and every place	That person there didn't visit Elko	NEUTRAL
+tt-241	Everyone has visited Decatur, Staten Island, Yorba Linda, Tamaqua, Layton, Beaverton, Charlotte, Tombstone, Cedar City, Wayne, McAlester, Killeen, Maryville and Kewanee	A person didn't visit Yorba Linda	CONTRADICTION
+tt-242	Everyone has visited every place	Tonya didn't visit Alamosa	CONTRADICTION
+tt-243	Someone has visited every person and every place	An individual visited Kathryn	ENTAILMENT
+tt-244	Everyone has visited Longview, Dennis, Bloomfield, Mayfield, Wahiawa, Saint Louis, Ocean Springs, Boulder City, Green River, Greensboro, Monroe, Leadville, Minnesota, Bay City and Montpelier	Someone didn't visit Saint Louis	CONTRADICTION
+tt-245	Everyone has visited Americus, Glenview, Kalamazoo, American Fork, Bismarck, Compton, Climax, Centralia, Warrensburg and Canton	Diane didn't visit Warrensburg	CONTRADICTION
+tt-246	Everyone has visited Watkins Glen, Ottawa, Martinsville, Susanville, Glassboro, Ontario, Norton, Ormond Beach, Bloomfield Hills, Port Arthur and Brownsville	Marilyn didn't visit Norton	CONTRADICTION
+tt-247	Everyone has visited Ann Arbor, Anderson, Richmond, Arkansas, Killeen, Kalispell, Lafayette, Charleston, Huntsville, Sapulpa, Chelmsford, Redding, Ellsworth, Ypsilanti, Jacksonville, Erie, Salem, Ansonia and Newton	A person didn't visit Chelmsford	CONTRADICTION
+tt-248	Someone has visited every person and every place	A person visited Concord	ENTAILMENT
+tt-249	Someone has visited every person and every place	That individual there didn't visit Biloxi	NEUTRAL
+tt-250	Everyone has visited every place	Dolores didn't visit Maureen	NEUTRAL
+tt-251	Everyone has visited Milbank, Santa Cruz, Ely, Cleveland, Homestead, Totowa, Morristown, Middletown, Pasadena, Naugatuck, Stillwater, Ambridge, Tupelo and Valley City	That person there did visit Totowa	ENTAILMENT
+tt-252	Everyone has visited York, West Bridgewater, Amesbury, Cohoes, Winnemucca, Syracuse, Long Beach, Old Saybrook, Kellogg, Oak Ridge, American Fork, Monroe, Austin, Corpus Christi, Bradenton, Parma, Blytheville, Kittery, Tooele and Del Rio	Verna didn't visit Beverly	NEUTRAL
+tt-253	Someone has visited every person and every place	An individual visited Mabel	ENTAILMENT
+tt-254	Everyone has visited Sparks, Central Falls, Bedford, Galena, Barberton, Troy, Salem, Beacon, Rogers, Muskegon, Hollywood, Garden Grove, Shelbyville, Lynchburg, Delray Beach, Wheaton, Smyrna, New Smyrna Beach and West Hartford	That person there did visit Galena	ENTAILMENT
+tt-255	Everyone has visited Lewistown, Saint Petersburg, Minot, Powell, Arkansas, Waimea, Newport, Peabody, Norwalk, Alexandria, Alcoa, Bristol, Oskaloosa and Maysville	Someone didn't visit Oskaloosa and Maysville	CONTRADICTION
+tt-256	Everyone has visited Willmar, Queens, Lexington, Bloomsburg, Greenville, Braintree, Corvallis, Tallahassee, Blairsville, Mundelein, Salem, Altus, El Dorado and Lewes	An individual didn't visit Altus	CONTRADICTION
+tt-257	Everyone has visited every place	Alberta didn't visit Mildred	NEUTRAL
+tt-258	Everyone has visited every person	Eunice didn't visit Lydia	CONTRADICTION
+tt-259	Everyone has visited Vernal, West Hartford, Parkersburg, Columbus, East Lansing, Asheboro, Jamestown, Chapel Hill, Moorhead and Plymouth	Becky did visit West Hartford	ENTAILMENT
+tt-260	Someone has visited every person and every place	Someone didn't visit Judith	CONTRADICTION
+tt-261	Someone has visited every person and every place	A person visited Maria	ENTAILMENT
+tt-262	Someone has visited every person and every place	An individual visited Tacoma	ENTAILMENT
+tt-263	Everyone has visited every person	Beatrice didn't visit Amanda	CONTRADICTION
+tt-264	Someone has visited every person and every place	That person there didn't visit Margie	NEUTRAL
+tt-265	Everyone has visited Milbank, Wauwatosa, Nogales, Gary, Calhoun, Derby, Council Bluffs, Manchester, Fort Collins, Reedsport, Monmouth, Tuscaloosa, Ipswich, Hamden and Holdenville	Lois didn't visit Fort Kent	NEUTRAL
+tt-266	Everyone has visited every person and every place	Annette didn't visit Yvonne	CONTRADICTION
+tt-267	Everyone has visited every person	Samantha didn't visit Mary	CONTRADICTION
+tt-268	Someone has visited every person and every place	That individual there didn't visit Tammy	NEUTRAL
+tt-269	Everyone has visited every place	Carla didn't visit Joy	NEUTRAL
+tt-270	Everyone has visited Clinton, Murfreesboro, Rockland, Shreveport, Petersburg, Northampton, Gunnison, Brooklyn, Darlington, Nampa, Conneaut, Marietta, Sault Sainte Marie, New Windsor, New Milford, Oxnard, Panguitch, Juneau and Fillmore	Someone didn't visit Sault Sainte Marie	CONTRADICTION
+tt-271	Everyone has visited Simsbury, Wisconsin Dells, Florida, Valdosta, Somersworth, Holyoke, Inglewood, Sebring, Eastport, Walsenburg, Big Spring, Talladega, Uvalde, Spring Green, Coventry and Abbeville	A person did visit Sebring	ENTAILMENT
+tt-272	Everyone has visited Bridgeport, Elk City, Bessemer, Johnson City, Boston, Montclair, Brooklyn, Oil City, Corinth, Independence, Germantown and Jacksonville	Kristi did visit Germantown and Jacksonville	ENTAILMENT
+tt-273	Someone has visited every person and every place	That individual there didn't visit Angie	NEUTRAL
+tt-274	Everyone has visited Daytona Beach, Oconto, Union, Blackfoot, West New York, Alamosa, Bowling Green, Exeter, Coney Island, Nyack, Columbia, Cullman, Westfield, Lake City, Devils Lake, Narragansett, Suffolk, Guthrie, Orange and Philadelphia	Someone did visit Orange and Philadelphia	ENTAILMENT
+tt-275	Someone has visited every person and every place	An individual visited Kristy	ENTAILMENT
+tt-276	Everyone has visited Santa Claus, Quincy, Great Bend, Elyria, Bloomsburg, Myrtle Beach, Point Pleasant, Glenwood Springs, Madison, Beverly Hills, Norfolk, Abingdon, Hannibal, Elizabethtown, Ely, Pittsburg, Redlands and South Charleston	Fannie didn't visit Hannibal	CONTRADICTION
+tt-277	Someone has visited every person and every place	Someone visited Searcy	ENTAILMENT
+tt-278	Everyone has visited Henderson, Grayling, Greenville, Springfield, San Francisco, Mackinaw City, Eau Claire, Arlington Heights, Pascagoula, Franklin, Starkville, Logan, Watertown, Elkton and Florence	Rosa did visit Grayling	ENTAILMENT
+tt-279	Everyone has visited every place	Beulah didn't visit Stephanie	NEUTRAL
+tt-280	Everyone has visited Oroville, Manhattan, Dover, Petersburg, New Braunfels, Norristown, New Glarus, Macon, Morrilton, Gainesville, Saint Joseph, Hastings, Shiprock, Juneau, Daly City, Plymouth, Columbus, Long Branch and Decatur	An individual did visit Hastings	ENTAILMENT
+tt-281	Everyone has visited every place	Annie didn't visit Crystal	NEUTRAL
+tt-282	Everyone has visited Apalachicola, Scarsdale, Palmyra, Belle Glade, Haverhill, Lead, Alliance, Virginia, Red Wing, Streator, Burbank, Rock Hill, Pendleton, Cocoa-Rockledge, Kennewick, Greenville, Pennsylvania and Victoria	Geneva didn't visit College Station	NEUTRAL
+tt-283	Everyone has visited Milan, Lafayette, Utah, Eufaula, Titusville, Des Moines, Monterey, Branson, Lexington, Elkins, Provo, Phoenixville, Saranac Lake, Brunswick, Bluefield, Custer, Lima, Morgantown, Ketchikan and Warren	Thelma did visit Elkins	ENTAILMENT
+tt-284	Everyone has visited Southampton, Morristown, Bossier City, Salem, Elmhurst, Portland, Middletown, Marlborough, Moorhead, Corpus Christi, Carmel, Northampton, Titusville, Staunton, Rantoul, Harpers Ferry, Moscow, Milbank and Kennewick	Penny did visit Moorhead	ENTAILMENT
+tt-285	Everyone has visited Malden, Baton Rouge, Branford, Pampa, Hobart, Newberg, Ellsworth, Hillsboro, Newport, Atlantic City, Alexandria, Scarsdale, Laramie, Elkton and Cape Girardeau	Someone did visit Branford	ENTAILMENT
+tt-286	Everyone has visited East Point, Plainfield, Newark, Saint Charles, Bartow, Hobart, Andersonville, Defiance, Garland, Abbeville, Oregon, Passaic, Florence, Holdenville, Beatrice, Homer and Atlanta	A person did visit Homer and Atlanta	ENTAILMENT
+tt-287	Someone has visited every person and every place	That person there didn't visit Kristi	NEUTRAL
+tt-288	Someone has visited every person and every place	That individual there didn't visit Claire	NEUTRAL
+tt-289	Everyone has visited Crossett, Batesville, Cape May, Fort Pierce, Norwalk, Dothan, Elkins, Arkansas Post, Greenwood, Roseville, Farmington and New Market	Ella did visit Norwalk	ENTAILMENT
+tt-290	Someone has visited every person and every place	Someone visited June	ENTAILMENT
+tt-291	Everyone has visited Sanford, Waterford, Beaufort, Napa, Loveland, Union, Rochester, Iowa, Valley City, Florence, Nampa, Longmont, DeKalb, Albany, Collinsville, Lake Geneva and Aiken	That individual there did visit Napa	ENTAILMENT
+tt-292	Someone has visited every person and every place	That person there didn't visit Nora	NEUTRAL
+tt-293	Everyone has visited Red Wing, Saint Joseph, Gainesville, Salem, Ponca City, Worthington, Laurel, Titusville, Minden, Lake Oswego, Little Rock, Clifton and San Francisco	A person did visit Clifton and San Francisco	ENTAILMENT
+tt-294	Everyone has visited Swarthmore, Weehawken, Laie, Sturbridge, Bradford, Morehead City, Montpelier, Palatine, McPherson, Carlsbad, Norton, Arkansas City and Buena Park	Maria didn't visit Lock Haven	NEUTRAL
+tt-295	Everyone has visited every place	Nancy didn't visit Danville	CONTRADICTION
+tt-296	Everyone has visited every place	Beth didn't visit Teresa	NEUTRAL
+tt-297	Everyone has visited Harmony, Juneau, Superior, Great Bend, Rye, Beaufort, Calistoga, Chautauqua, Milton, Greensburg, Chester, Fremont, San Mateo, Santa Cruz, Fitzgerald, Highland Park, Owensboro, Englewood and Taunton	A person didn't visit Fremont	CONTRADICTION
+tt-298	Everyone has visited Chicopee, Cookeville, Silverton, Telluride, Rhinelander, East Providence, Chautauqua, Greensboro, Chelmsford, Norwalk, Rockland, Demopolis, New Madrid, Petersburg, Pasadena, Union City, Johnstown and Tonawanda	A person did visit Union City	ENTAILMENT
+tt-299	Everyone has visited Barrington, Clearfield, Muncie, Ecorse, Oraibi, Wellsburg, Coulee Dam, Nebraska, Petoskey, Skagway, Mount Vernon, Hot Springs, Great Neck and New Bedford	Bobbie did visit Nebraska	ENTAILMENT
+tt-300	Everyone has visited Fort Walton Beach, Erie, Glendive, Whittier, Rhode Island, Parma, Andover, Vallejo, Sturgeon Bay, Fort Valley, Boone and East Greenwich	Someone did visit Vallejo	ENTAILMENT
+tt-301	Everyone has visited Springfield, Dickinson, Eagle Pass, Morehead City, Riverton, Stony Brook, Seward, Mitchell, Calhoun, Scranton, Cincinnati and Pinehurst	That individual there did visit Mitchell	ENTAILMENT
+tt-302	Everyone has visited Lumberton, Leadville, Ashland, Ocean Springs, Marion, Menominee, Plano, Mexico, Kittery, Cedar Falls, East Liverpool and Farmington	Alicia didn't visit Centralia	NEUTRAL
+tt-303	Everyone has visited Corvallis, Sapulpa, Danvers, Lake Oswego, Cleveland, South Orange Village, Cedar City, Stamford, West Hartford and West Lafayette	Emily didn't visit Tiverton	NEUTRAL
+tt-304	Everyone has visited every place	Janet didn't visit Stockbridge	CONTRADICTION
+tt-305	Everyone has visited Huntsville, New Castle, Sioux Falls, Grand Haven, Garden City, Florence, Vicksburg, Kelso, Reedsport, Mamaroneck, Greensburg, Camden, Augusta, Springfield, Globe, Normal, Bellows Falls, West Chester, Parma and Martinez	That particular person did visit Parma and Martinez	ENTAILMENT
+tt-306	Everyone has visited every person	Tina didn't visit Christy	CONTRADICTION
+tt-307	Everyone has visited every person and every place	Terri didn't visit Salem	CONTRADICTION
+tt-308	Everyone has visited Holly Springs, La Crosse, Glenwood Springs, Haines, Grand Island, New Castle, Anadarko, New Rochelle, Milan, Williamsburg, Newport, Mankato, East Chicago, Stevens Point, Wilkes-Barre and Canton	Angie didn't visit Easton	NEUTRAL
+tt-309	Everyone has visited every person	Deanna didn't visit Juanita	CONTRADICTION
+tt-310	Everyone has visited Mishawaka, Idaho Falls, Muscatine, Alamosa, Mission, Kingsville, Clearfield, Wilmette, Tamaqua, Jamestown, Glendale, Sauk Centre, Rockford, The Village, Chadron, Middlesboro, Ferguson, Guntersville and Napa	A person did visit Muscatine	ENTAILMENT
+tt-311	Everyone has visited every place	Clara didn't visit Rosemary	NEUTRAL
+tt-312	Everyone has visited every person and every place	Bobbie didn't visit Coulee Dam	CONTRADICTION
+tt-313	Everyone has visited Flagstaff, Somerville, Alamosa, Seaside, Eastchester, Glenwood Springs, Beaverton, Austin, Farmington, Minnesota and Stonington	Jennie didn't visit Palatine	NEUTRAL
+tt-314	Someone has visited every person and every place	That particular person didn't visit Sharon	NEUTRAL
+tt-315	Everyone has visited Acoma, Nogales, New Milford, Chickasaw, Santa Ana, Lebanon, Cadillac, Middlesboro, Bardstown, Kingman, Kodiak, Texas City, Menasha, Reston, Cordova, Massachusetts, Waterford, Marion, Sweetwater and Independence	An individual did visit Marion	ENTAILMENT
+tt-316	Everyone has visited Miles City, Potsdam, Superior, San Juan Capistrano, Seaside, Lodi, Maine, Fulton, Grants, El Reno, Silverton, Ellsworth, Lincoln, Conway, Logan, Ashland, Medford, Thibodaux, Carlsbad and Redlands	An individual did visit Ashland	ENTAILMENT
+tt-317	Everyone has visited Quincy, East Liverpool, Ocean City, Virginia Beach, Newport News, Derby, El Cerrito, Barberton, Ogden, Calais, Long Beach, Harlan, Okmulgee and Hollywood	A person did visit Quincy	ENTAILMENT
+tt-318	Someone has visited every person and every place	Someone didn't visit Cocoa Beach	CONTRADICTION
+tt-319	Everyone has visited every place	Josephine didn't visit Shannon	NEUTRAL
+tt-320	Everyone has visited every place	Amber didn't visit Miriam	NEUTRAL
+tt-321	Someone has visited every person and every place	Someone visited Renton	ENTAILMENT
+tt-322	Someone has visited every person and every place	Someone visited South Bend	ENTAILMENT
+tt-323	Someone has visited every person and every place	A person visited Madison	ENTAILMENT
+tt-324	Everyone has visited Lancaster, Austin, Baker City, Battle Creek, Fremont, Mason City, Albany, North College Hill, Lakehurst, Arizona, Redmond, Swarthmore, Elkton, Prineville and Greenwich	A person did visit Redmond	ENTAILMENT
+tt-325	Everyone has visited Provo, Alva, Newport, Tennessee, Sioux City, Greenwood, Wabash, Carlisle, Plainview, Garden Grove, McKeesport, Mississippi, Oregon, Pontiac, Ocean City, Portsmouth, Warren, Scranton, Berkeley and Chanute	Jeanne didn't visit Berkeley	CONTRADICTION
+tt-326	Everyone has visited every person	Lindsay didn't visit Christy	CONTRADICTION
+tt-327	Everyone has visited Muskogee, Morristown, International Falls, Narragansett, North College Hill, Douglas, Sudbury, West Lafayette, East Lansing, Mackinaw City, Henderson, Sapulpa, Scottsboro, Jasper and Redmond	Norma didn't visit Maryville	NEUTRAL
+tt-328	Everyone has visited East Aurora, Bristol, Petaluma, Pasadena, Emporia, Clinton, Genoa, Shelbyville, Gunnison, Abbeville, Amana Colonies, Tennessee, Alamosa, Wauwatosa, Faribault, Virginia City and Trenton	An individual did visit Wauwatosa	ENTAILMENT
+tt-329	Someone has visited every person and every place	A person didn't visit Danielle	CONTRADICTION
+tt-330	Everyone has visited Lewiston, Kapaa, Irvine, Walsenburg, Independence, Charles Town, Marietta, Sacramento, Hackensack and Oregon	Grace didn't visit Marietta	CONTRADICTION
+tt-331	Someone has visited every person and every place	A person didn't visit Anita	CONTRADICTION
+tt-332	Everyone has visited Santa Cruz, Catonsville, Waterloo, Topeka, Eau Claire, Phoenix, Kaneohe, Lake Oswego, International Falls, Mineola, Demopolis, Uniontown, Green River, Batavia, Alma and Brattleboro	Alice did visit Santa Cruz	ENTAILMENT
+tt-333	Everyone has visited Burlington, Marinette, Waco, Kettering, Kirksville, Orange, Rome, Lombard, Durham, North Kingstown, Lakewood, Powell, Gloversville, Marblehead, Jackson, New Glarus, Idaho, Benton and San Felipe	That particular person did visit Marinette	ENTAILMENT
+tt-334	Everyone has visited Lake Placid, Elkins, East Point, Orderville, Pottsville, Connersville, Fairhaven, Lakehurst, Mount Pleasant, Norris and Bend	Someone did visit Mount Pleasant	ENTAILMENT
+tt-335	Someone has visited every person and every place	A person visited Talladega	ENTAILMENT
+tt-336	Someone has visited every person and every place	A person visited Dianne	ENTAILMENT
+tt-337	Everyone has visited Rantoul, Anniston, Winona, Freeport, Grand Haven, Jamestown, Council Bluffs, Maine, Des Moines, Williamsport, Huntsville, Cohoes, Portsmouth, Lahaina, Nyack, Windsor, Utah, Greenwich and Borger	Bertha did visit Maine	ENTAILMENT
+tt-338	Everyone has visited every person and every place	Jessica didn't visit Jackie	CONTRADICTION
+tt-339	Everyone has visited Nauvoo, Washington, Pauls Valley, Gallipolis, Lakeview, Bloomfield, Menlo Park, Bismarck, Jamestown and Chico	That particular person did visit Menlo Park	ENTAILMENT
+tt-340	Everyone has visited every person and every place	Beulah didn't visit Deming	CONTRADICTION
+tt-341	Everyone has visited every place	Carla didn't visit Cindy	NEUTRAL
+tt-342	Everyone has visited Grenada, Perry, Ogden, Boone, Jefferson City, Paducah, Chanute, New Bedford, Scottsdale, Fort Morgan, Brookings, Caldwell, West Lafayette, Skokie, Groton, West Allis and Oswego	Ellen didn't visit Pullman	NEUTRAL
+tt-343	Everyone has visited Knoxville, Brigham City, Waycross, Turlock, Dalton, Laurel, New Madrid, Warren, Interlochen, Stuttgart and Visalia	A person did visit Turlock	ENTAILMENT
+tt-344	Everyone has visited every person	Kristin didn't visit Carol	CONTRADICTION
+tt-345	Everyone has visited Racine, Kennewick, Massena, Enfield, Kewanee, Port Angeles, Ysleta, Superior, Bend, Ilion, Sarasota, Oskaloosa, Belle Glade, Salem, Bowling Green and River Forest	That particular person did visit Bend	ENTAILMENT
+tt-346	Someone has visited every person and every place	Someone visited Beth	ENTAILMENT
+tt-347	Someone has visited every person and every place	An individual visited Genoa	ENTAILMENT
+tt-348	Everyone has visited West Bend, West Covina, Huntsville, Braintree, Newton, Ames, Vincennes, Valdez, La Crosse, Mississippi, Seminole, Pocatello, Cocoa Beach, South Holland, North Kingstown, Newport News, Salem, Arkansas City and Jamestown	Frances did visit Ames	ENTAILMENT
+tt-349	Everyone has visited Elk City, Salem, Naples, Stockbridge, Bloomsburg, Toccoa, Sudbury, Sault Sainte Marie, Greenville, Cleveland, Artesia, Beverly Hills, Miami, Corona, Edmond, John Day, Sturgis, Ecorse and Lakeview	That person there did visit Greenville	ENTAILMENT
+tt-350	Someone has visited every person and every place	A person visited Philadelphia	ENTAILMENT
+tt-351	Someone has visited every person and every place	That individual there didn't visit Juana	NEUTRAL
+tt-352	Everyone has visited New Madrid, Bossier City, Weatherford, Huntington, Sacramento, Anniston, Lansing, Orange, Rockville, New Philadelphia, San Diego, West Springfield and Hannibal	That particular person did visit Rockville	ENTAILMENT
+tt-353	Everyone has visited every place	Joy didn't visit Jamie	NEUTRAL
+tt-354	Someone has visited every person and every place	That individual there didn't visit Kristen	NEUTRAL
+tt-355	Someone has visited every person and every place	A person didn't visit Elaine	CONTRADICTION
+tt-356	Someone has visited every person and every place	Someone didn't visit Quincy	CONTRADICTION
+tt-357	Someone has visited every person and every place	That particular person didn't visit Point Roberts	NEUTRAL
+tt-358	Everyone has visited Lincoln, Monticello, Bellingham, McAllen, Poughkeepsie, Lewistown, Carlinville, Santa Claus, Richmond, Auburn, Bound Brook, Sparks, Seymour, Bloomsburg, Collinsville, Wooster and Chattanooga	Yvette did visit Bound Brook	ENTAILMENT
+tt-359	Everyone has visited Salem, Emmitsburg, Osceola, Van Buren, Monroeville, Welch, Oakland, Morganton, Lancaster, Ruston, Franklin, West Allis and Waynesboro	Joyce didn't visit Welch	CONTRADICTION
+tt-360	Everyone has visited every place	Christina didn't visit Lumberton	CONTRADICTION
+tt-361	Everyone has visited every person	Catherine didn't visit Juanita	CONTRADICTION
+tt-362	Everyone has visited every place	Molly didn't visit Esther	NEUTRAL
+tt-363	Everyone has visited Palm Beach, Natchez, Buckhannon, Holly Springs, Fitchburg, Charlevoix, Lakeland, Antioch, Henderson, Carthage, Macon, Middletown, Nags Head, Trinidad, Lancaster, Hanover, Port Lavaca, Menlo Park, Homestead and Portland	That particular person did visit Antioch	ENTAILMENT
+tt-364	Everyone has visited Geneva, Provo, John Day, Green River, Vineland, Wisconsin Dells, Exeter, Oceanside, Valdez, Oneonta, Moab, Pine Bluff, Worland, Warren, Leadville, Alta and Canton	Bessie didn't visit Provo	CONTRADICTION
+tt-365	Everyone has visited every place	Misty didn't visit Saint Charles	CONTRADICTION
+tt-366	Everyone has visited Branford, Terre Haute, Killeen, Haddonfield, Tarrytown, Cocoa Beach, Calistoga, Vallejo, Bedford, Newburyport, Tonawanda, Ludlow, Waterbury, Milford, East Cleveland, Lamar, Lodi and Orange	Jacqueline didn't visit Brookings	NEUTRAL
+tt-367	Everyone has visited Bellevue, Wethersfield, Hinton, Newberg, Concord, Terre Haute, Asbury Park, Fort Payne, Pueblo, Gaffney, Portsmouth and Lompoc	Candice did visit Terre Haute	ENTAILMENT
+tt-368	Everyone has visited every place	Glenda didn't visit Trenton	CONTRADICTION
+tt-369	Everyone has visited every place	Penny didn't visit West Bridgewater	CONTRADICTION
+tt-370	Everyone has visited Oxford, Jersey City, Kaneohe, Wahiawa, Burns, Waterloo, Peshtigo, Derby, Ocean City, Bay Saint Louis, Kapaa, Murfreesboro, Newton, Lake City, Sainte Genevieve, Columbia, Collinsville, Overland Park and Saint Joseph	Lena did visit Burns	ENTAILMENT
+tt-371	Everyone has visited every person	Willie didn't visit Rebecca	CONTRADICTION
+tt-372	Someone has visited every person and every place	That particular person didn't visit Princeton	NEUTRAL
+tt-373	Everyone has visited every person and every place	Ann didn't visit Saco	CONTRADICTION
+tt-374	Everyone has visited Branson, Oneonta, Colorado Springs, Saint Joseph, Shawnee, San Jose, Greensboro, Bonners Ferry, East Orange, Melbourne, Portage, Cortland, Terre Haute, South Saint Paul, State College, Borger and Cambridge	Mary did visit Oneonta	ENTAILMENT
+tt-375	Everyone has visited Kilgore, Hartsville, Buffalo, Irvine, Oskaloosa, Arkansas, Pittsburg, Austin, Richland, Grafton, Clayton, West Memphis, Palm Bay and Kodiak	Cheryl did visit Hartsville	ENTAILMENT
+tt-376	Someone has visited every person and every place	That individual there didn't visit Lawrence	NEUTRAL
+tt-377	Someone has visited every person and every place	A person visited Thelma	ENTAILMENT
+tt-378	Everyone has visited Indiana, Norwalk, Sheridan, Gloucester, Chico, Perry, Aurora, Ottawa, West Des Moines and Winsted	Carol didn't visit Lynn	NEUTRAL
+tt-379	Someone has visited every person and every place	Someone visited Naperville	ENTAILMENT
+tt-380	Everyone has visited Greensboro, Astoria, Middletown, Alamosa, Loveland, Woods Hole, Watertown, New Milford, Norristown, Alma, Marshall, Fort Worth, Truro, Champaign, Ojai, Stuttgart, Deerfield Beach, Bristol and Goshen	An individual didn't visit Watertown	CONTRADICTION
+tt-381	Everyone has visited Abilene, Saint Martinville, Rockford, Odessa, Andalusia, Salinas, Hyde Park, Boston, Quincy, Palm Springs and Branson	Someone did visit Hyde Park	ENTAILMENT
+tt-382	Everyone has visited every place	Carolyn didn't visit Melanie	NEUTRAL
+tt-383	Everyone has visited Lewes, Stillwater, Belfast, Mountain View, Kansas City, Morrilton, Salem, Walsenburg, Bay City, Goldsboro, New Smyrna Beach, San Gabriel, Camden, Marion, Columbus and Douglas	Marsha did visit Salem	ENTAILMENT
+tt-384	Everyone has visited Hanover, Torrington, El Centro, Brookfield, Worthington, San Fernando, Lakehurst, Rockford, Virden, Newport, Springfield and Bellevue	That person there did visit El Centro	ENTAILMENT
+tt-385	Someone has visited every person and every place	A person visited Redwood City	ENTAILMENT
+tt-386	Everyone has visited Belfast, Manhattan, Farmington, Charlevoix, Temple, Juneau, Worcester, Niagara Falls, Coeur d’Alene, Potsdam, Los Alamos, New Paltz, Grand Rapids, Charlestown, Woodbridge, Pensacola and Lawton	Juanita didn't visit Los Alamos	CONTRADICTION
+tt-387	Everyone has visited Medicine Lodge, Kalispell, Spartanburg, Sturgis, Massena, Plano, Sioux City, Montclair, Kingsport and Ashland	Tracey didn't visit Steubenville	NEUTRAL
+tt-388	Everyone has visited Pawtucket, Guntersville, Kaneohe, Santa Fe, Seward, Blytheville, Littleton, The Village, Hartford, Albany, Starkville, Haines, Saint Ignace, Point Roberts, Wewoka, Interlochen, Parsippany–Troy Hills, Stony Brook and Vineland	That particular person did visit Kaneohe	ENTAILMENT
+tt-389	Everyone has visited every place	Lynn didn't visit Hopkinsville	CONTRADICTION
+tt-390	Everyone has visited Greenville, Bethany, Freeport, Santa Clara, Clearwater, Key West, Athens, Cambridge, Newport, Haddonfield, Emporia, Gadsden, Lawrence, Lower Southampton, Nappanee, Wilson, Norwalk and Carmel	Opal didn't visit Spring Green	NEUTRAL
+tt-391	Everyone has visited Ouray, Eau Claire, Fayetteville, Spring Green, Columbus, Beaverton, Gallup, Norris, Waterford, Tucson and Americus	A person didn't visit Gallup	CONTRADICTION
+tt-392	Everyone has visited Battle Creek, Moundsville, Chelsea, Jonesborough, Rogers, Harmony, El Monte, Narragansett, Houston, Anderson, Bessemer and Englewood	That individual there did visit Harmony	ENTAILMENT
+tt-393	Everyone has visited Branson, Willimantic, Gettysburg, Lynn, New Ulm, Fresno, Joliet, Columbia, Cambridge, Colorado and Ouray	Dorothy didn't visit Clinton	NEUTRAL
+tt-394	Someone has visited every person and every place	That individual there didn't visit Marie	NEUTRAL
+tt-395	Someone has visited every person and every place	That particular person didn't visit Evanston	NEUTRAL
+tt-396	Everyone has visited every person	Marguerite didn't visit Pamela	CONTRADICTION
+tt-397	Everyone has visited every person	Yvette didn't visit Marlene	CONTRADICTION
+tt-398	Everyone has visited West Bridgewater, Meadville, Elko, New Castle, Glens Falls, West Plains, New Glarus, Nephi, Abbeville, Norfolk, Monticello, West Des Moines and Bethesda-Chevy Chase	Someone did visit Abbeville	ENTAILMENT
+tt-399	Everyone has visited Cedar Falls, Levittown, Farmington, Phoenixville, Mansfield, Harrisburg, Macon, Barbourville, Mesa, Bainbridge and Wooster	Rachel didn't visit Levittown	CONTRADICTION
+tt-400	Everyone has visited Great Neck, Plainfield, Norman, Bloomfield Hills, Hyattsville, Benton, Baker City, Montpelier, Magnolia, Hawaii, Chickasha, Marlborough, Tillamook, Arkansas City, Dover, Garden Grove, Macon, Hinton and Somerville	That particular person did visit Tillamook	ENTAILMENT
+tt-401	Everyone has visited every person and every place	Pauline didn't visit Maryann	CONTRADICTION
+tt-402	Everyone has visited Lancaster, Austin, Baker City, Battle Creek, Fremont, Mason City, Albany, North College Hill, Lakehurst, Arizona, Redmond, Swarthmore, Elkton, Prineville and Greenwich	Heidi didn't visit Albany	CONTRADICTION
+tt-403	Someone has visited every person and every place	Someone didn't visit Madeline	CONTRADICTION
+tt-404	Everyone has visited Hillsborough, Philippi, Brooklyn, Pomona, Norwalk, Burbank, Joliet, Wabash, Menominee, Long Beach, Abington, Plains, Durant, Springfield, Rochester and Salem	Cheryl didn't visit Macon	NEUTRAL
+tt-405	Everyone has visited every place	Geraldine didn't visit Allison	NEUTRAL
+tt-406	Everyone has visited Bridgeton, Stony Brook, New Harmony, French Lick, West Palm Beach, Delta, Buckhannon, Herrin, Derby, Chautauqua, Saint Cloud, Ecorse, Rochester, Annapolis, Gloucester and Bainbridge	Someone didn't visit Bridgeton	CONTRADICTION
+tt-407	Everyone has visited Randolph, Hastings, Fillmore, Stockton, Washington, Sioux Falls, Cuyahoga Falls, Dayton, Shawnee, West Haven, Newark, Woods Hole, Edmond, College Station, Madison, Bayonne and Granite City	Violet didn't visit Bayonne	CONTRADICTION
+tt-408	Everyone has visited Glendive, Plains, Plymouth, Columbus, Tahlequah, Ozark, Lompoc, El Paso, Panama City, Bainbridge, Biloxi and New Brunswick	That individual there did visit Lompoc	ENTAILMENT
+tt-409	Someone has visited every person and every place	An individual visited Jeanne	ENTAILMENT
+tt-410	Everyone has visited every place	Terry didn't visit Rockford	CONTRADICTION
+tt-411	Everyone has visited Vandalia, Chapel Hill, Grayling, Marion, Jackson, Santa Rosa, Fitchburg, Oklahoma City, Kalamazoo, Brookings, Miami Beach, Worland and Mansfield	Violet didn't visit Yankton	NEUTRAL
+tt-412	Someone has visited every person and every place	Someone didn't visit Felicia	CONTRADICTION
+tt-413	Everyone has visited Maine, Athens, New York City, Chambersburg, Presque Isle, Fort Kent, Glassboro, Bath, Cleveland, Paterson and Sarasota	A person didn't visit Cleveland	CONTRADICTION
+tt-414	Someone has visited every person and every place	An individual didn't visit Charleston	CONTRADICTION
+tt-415	Someone has visited every person and every place	Someone visited Margie	ENTAILMENT
+tt-416	Everyone has visited every place	Harriet didn't visit Sandy	NEUTRAL
+tt-417	Someone has visited every person and every place	Someone didn't visit Eugene	CONTRADICTION
+tt-418	Everyone has visited every person and every place	Betty didn't visit Verna	CONTRADICTION
+tt-419	Everyone has visited Havre, Boca Raton, Newport, Cape Girardeau, Ephrata, Moore, Chester, Palm Beach, Bluefield, Highland Park and Barrington	Someone didn't visit Palm Beach	CONTRADICTION
+tt-420	Everyone has visited every place	Linda didn't visit Janice	NEUTRAL
+tt-421	Everyone has visited Lexington, Norwalk, Salem, Carlsbad, Oakland, Lancaster, Tiffin, Bogalusa, Kanab and Durham	Juanita did visit Oakland	ENTAILMENT
+tt-422	Everyone has visited every person and every place	Vickie didn't visit Manistee	CONTRADICTION
+tt-423	Everyone has visited Delta, Lumberton, Jim Thorpe, Saint Charles, Livingston, Houma, South Charleston, Edinburg, Elkins, Watertown, Sierra Vista, Camden, Lubbock, Grand Rapids, Gloversville, Hannibal and Evanston	An individual didn't visit Edinburg	CONTRADICTION
+tt-424	Everyone has visited New Paltz, Greeley, Sapulpa, Houma, Charleston, Palo Alto, Genoa, Victoria, Kaneohe, Lansing, Denton, Grand Island, Crossett and Cairo	Tammy didn't visit Kaneohe	CONTRADICTION
+tt-425	Someone has visited every person and every place	That particular person didn't visit Sandy	NEUTRAL
+tt-426	Someone has visited every person and every place	That individual there didn't visit Houma	NEUTRAL
+tt-427	Someone has visited every person and every place	That individual there didn't visit Madeline	NEUTRAL
+tt-428	Everyone has visited every person	Opal didn't visit Stella	CONTRADICTION
+tt-429	Everyone has visited Delta, Lumberton, Jim Thorpe, Saint Charles, Livingston, Houma, South Charleston, Edinburg, Elkins, Watertown, Sierra Vista, Camden, Lubbock, Grand Rapids, Gloversville, Hannibal and Evanston	That individual there did visit Edinburg	ENTAILMENT
+tt-430	Everyone has visited every person	Lena didn't visit Debbie	CONTRADICTION
+tt-431	Someone has visited every person and every place	That individual there didn't visit Stacey	NEUTRAL
+tt-432	Everyone has visited Red Cloud, Lewisburg, Salem, Saint George, Grand Junction, Sharon, Claremont, Atmore, Shelbyville, Yonkers, Crawfordsville, Levittown, San Jose, Truro, Yorba Linda, East Haven, Spring Green, Keyser and Orange	Genevieve didn't visit Tyler	NEUTRAL
+tt-433	Everyone has visited Passaic, Elgin, Medford, Gainesville, Bonners Ferry, Rapid City, Coos Bay, Watertown, Stuttgart, Kodiak, American Fork, Saint Louis, Steamboat Springs and New Hampshire	Lola didn't visit Lombard	NEUTRAL
+tt-434	Everyone has visited every place	Janet didn't visit Mattie	NEUTRAL
+tt-435	Everyone has visited Reading, Philadelphia, Kearney, Yankton, San Luis Obispo, American Fork, Osawatomie, Oberlin, Muskogee, Eufaula, Boone, Midwest City, Oklahoma, Union and Fairmont	Lena did visit Oklahoma	ENTAILMENT
+tt-436	Everyone has visited Sacramento, Hollywood, Streator, Westminster, Cohoes, Barstow, Phoenixville, Bradenton, Sitka, Portland and West Chester	That person there did visit Portland and West Chester	ENTAILMENT
+tt-437	Everyone has visited every person and every place	Alice didn't visit Darlene	CONTRADICTION
+tt-438	Everyone has visited Lovington, Waterbury, Clinton, Paris, Brockton, Sun Valley, Pensacola, Norfolk, Palm Beach and Southington	Someone didn't visit Clinton	CONTRADICTION
+tt-439	Everyone has visited Murfreesboro, Athol, Virden, New Kensington, North Adams, Sumter, Mount Vernon, John Day, Midland, Baton Rouge, El Cerrito, Asheboro, Irvington, Batavia, Skagway, Titusville, New Braunfels and Woburn	An individual did visit Titusville	ENTAILMENT
+tt-440	Someone has visited every person and every place	Someone visited Denise	ENTAILMENT
+tt-441	Everyone has visited Santa Clara, Sherman, Somerville, Columbia, Bremerton, Stroudsburg, Ansonia, Kentucky, Winchester, East Haven, Louisville, Kennebunkport and Saint George	That particular person did visit Somerville	ENTAILMENT
+tt-442	Everyone has visited every person	Deanna didn't visit Tiffany	CONTRADICTION
+tt-443	Everyone has visited every person	Tracy didn't visit Mabel	CONTRADICTION
+tt-444	Everyone has visited every place	Lee didn't visit Daisy	NEUTRAL
+tt-445	Everyone has visited Saint George, Pittsburgh, Massachusetts, Franklin, Norwalk, Washington, Southampton, Loveland, Weatherford, Chesapeake and Kalispell	That individual there did visit Southampton	ENTAILMENT
+tt-446	Someone has visited every person and every place	A person didn't visit Molly	CONTRADICTION
+tt-447	Everyone has visited every place	Jessie didn't visit Rita	NEUTRAL
+tt-448	Someone has visited every person and every place	An individual visited Thelma	ENTAILMENT
+tt-449	Everyone has visited Hanover, Yazoo City, Lubec, Lebanon, Newport News, Portales, Marlborough, Midland, Beatrice, Mandan and Warren	Marsha didn't visit Rochester	NEUTRAL
+tt-450	Everyone has visited Beckley, Mesa, Panguitch, Mission, Aberdeen, Camden, Frederick, Tucson, Bourne, Hammond, Elgin, Rockford, Alexander City, Guthrie, Amesbury and Winchester	Jessie didn't visit Woburn	NEUTRAL
+tt-451	Everyone has visited every person	Edna didn't visit Shannon	CONTRADICTION
+tt-452	Everyone has visited every place	Julie didn't visit Katherine	NEUTRAL
+tt-453	Someone has visited every person and every place	A person visited Ottawa	ENTAILMENT
+tt-454	Everyone has visited every place	Allison didn't visit Clearwater	CONTRADICTION
+tt-455	Everyone has visited Hannibal, Cumberland, Branson, Sun Valley, Goldfield, Sheffield, East Point, Hillsboro, Mitchell, Greenville, Plains, Stuttgart, Holly Springs, Portsmouth, Aspen, Guymon, Elkins, Alexandria and Pacific Grove	Willie did visit Mitchell	ENTAILMENT
+tt-456	Everyone has visited West Memphis, Greensburg, Castine, Lake Geneva, South Hadley, Plymouth, Hawaii, Tacoma, Tonawanda, Central Falls, Quincy, Mesquite, Fulton, Harrisburg, San Gabriel, Sheridan and Decatur	Courtney didn't visit Appleton	NEUTRAL
+tt-457	Everyone has visited Indianapolis, Rock Island, Piqua, Panguitch, Swarthmore, Clinton, Oberlin, Lakeland, East Hampton, Grand Forks, Alcoa, Lake Forest, Gallup, Brookline and Laramie	Monique didn't visit Hampton	NEUTRAL
+tt-458	Everyone has visited San Jose, New Windsor, North Dakota, Prescott, Ypsilanti, Roseville, Arkansas, Casper, Lebanon, Asheville, Painesville, Brainerd, Halifax, South Carolina and Coral Gables	An individual did visit Lebanon	ENTAILMENT
+tt-459	Someone has visited every person and every place	An individual visited Westport	ENTAILMENT
+tt-460	Someone has visited every person and every place	Someone didn't visit Yazoo City	CONTRADICTION
+tt-461	Everyone has visited every person and every place	Constance didn't visit Lehi	CONTRADICTION
+tt-462	Everyone has visited Philadelphia, Beatrice, Victorville, Minnesota, Arlington Heights, Altoona, Brooklyn, Randolph, Kalamazoo and Ferguson	Someone did visit Brooklyn	ENTAILMENT
+tt-463	Someone has visited every person and every place	That individual there didn't visit Flagstaff	NEUTRAL
+tt-464	Everyone has visited Chelmsford, Corona, Oakland, John Day, Hastings, Kent, Kellogg, Seneca Falls, East Cleveland, Ysleta, Babylon, Groton, Waterbury and North Adams	Ellen did visit Corona	ENTAILMENT
+tt-465	Everyone has visited El Paso, Portsmouth, Greenwood, Dartmouth, Orono, Santa Clarita, Jamestown, Clinton, Lenox, Delta, Ocean City, Stockton, Somerville, Spokane, Kittery, Fairbanks, Oak Harbor and Paris	That particular person did visit Jamestown	ENTAILMENT
+tt-466	Everyone has visited every place	Tracy didn't visit Lindsey	NEUTRAL
+tt-467	Everyone has visited every person and every place	Ann didn't visit Beulah	CONTRADICTION
+tt-468	Everyone has visited every place	Gloria didn't visit Pauline	NEUTRAL
+tt-469	Everyone has visited Sioux City, Hutchinson, Fredonia, Streator, Nevada, Long Beach, Fulton, El Cerrito, Mansfield, Winnemucca and Ambridge	A person did visit Nevada	ENTAILMENT
+tt-470	Someone has visited every person and every place	Someone didn't visit Elaine	CONTRADICTION
+tt-471	Everyone has visited Sacramento, Hollywood, Streator, Westminster, Cohoes, Barstow, Phoenixville, Bradenton, Sitka, Portland and West Chester	Tara didn't visit Cohoes	CONTRADICTION
+tt-472	Everyone has visited Richmond, Newport, East Lansing, Brunswick, Las Vegas, Yellow Springs, Traverse City, Houma, San Juan Capistrano, Nephi, Brooklyn, Columbia, Alton, Sterling and Duluth	Bernice didn't visit Mount Vernon	NEUTRAL
+tt-473	Everyone has visited Holdenville, Shamokin, Newark, La Grange, Athens, Newport, Euclid, Pawtucket, Murfreesboro and Pennsylvania	An individual did visit La Grange	ENTAILMENT
+tt-474	Everyone has visited Truro, Warwick, Honolulu, West New York, Dayton, Barberton, Ohio, Fairfield, Anacortes, Haines, Eveleth, Ephrata, Amesbury, Ambridge and Hibbing	Someone didn't visit Amesbury	CONTRADICTION
+tt-475	Everyone has visited Spring Green, Covington, Hoboken, Carbondale, Salem, Vandalia, San Gabriel, Bristol, McAlester and Fontana	Juanita didn't visit Longview	NEUTRAL
+tt-476	Everyone has visited Salisbury, Racine, Pottstown, Salem, White Plains, New Bedford, Hudson, Pueblo, Vancouver, East Cleveland, De Land, San Juan Capistrano and Ormond Beach	Erica did visit White Plains	ENTAILMENT
+tt-477	Everyone has visited Borger, Salt Lake City, Lexington, Harpers Ferry, Oshkosh, San Marcos, Sidney, Blackfoot, Orange, Bradford, Oswego, Chillicothe, Shelton and Elwood	Amber didn't visit Blackfoot	CONTRADICTION
+tt-478	Everyone has visited Midland, Saint Charles, Las Vegas, Lowell, Sun Valley, Texarkana, Goliad, Bethany, Boulder City, Altoona, Visalia, Spearfish, Maryville and Bordentown	Tamara didn't visit Midland	CONTRADICTION
+tt-479	Everyone has visited every place	Heidi didn't visit Alberta	NEUTRAL
+tt-480	Someone has visited every person and every place	A person didn't visit Amanda	CONTRADICTION
+tt-481	Someone has visited every person and every place	That particular person didn't visit Bernice	NEUTRAL
+tt-482	Someone has visited every person and every place	That particular person didn't visit Dawn	NEUTRAL
+tt-483	Everyone has visited Newton, Bemidji, South San Francisco, Oak Harbor, Natick, Chandler, Mesa, Williamsport, Mundelein, Fairhaven and Delray Beach	An individual did visit Newton	ENTAILMENT
+tt-484	Everyone has visited West Des Moines, Harmony, Marlborough, York, Iron Mountain, Hollywood, Rocky Mount, Lubec, De Land, Union, Beacon, Lead, Macon, Chattanooga, Hannibal, Deadwood, Oconto, Alva and Oregon	That individual there did visit West Des Moines	ENTAILMENT
+tt-485	Everyone has visited Bellevue, Newport Beach, Calumet City, Old Saybrook, Middletown, Ithaca, Leadville, El Centro, Morristown, Oregon, Kilgore, Mamaroneck, Eastpointe and Springfield	That person there did visit Calumet City	ENTAILMENT
+tt-486	Someone has visited every person and every place	An individual visited Lakewood	ENTAILMENT
+tt-487	Everyone has visited Greeneville, Columbia, Painesville, Berlin, Kettering, Gettysburg, Fairbanks, Framingham, Chandler, Hanover and Cape Girardeau	A person did visit Framingham	ENTAILMENT
+tt-488	Everyone has visited Plains, Phoenixville, Belen, Glendale, Alabama, Arkadelphia, Pawtucket, Hobart, Chico, Eastpointe, Chester, Michigan City, Aberdeen, Belleville and Marion	Susie didn't visit Chester	CONTRADICTION
+tt-489	Everyone has visited every place	Carole didn't visit Rhinelander	CONTRADICTION
+tt-490	Everyone has visited Oxford, Chapel Hill, Woodward, Highland Park, Norton, Huntington Beach, Brattleboro, Minot, Amsterdam, Derry, Menasha, South Bend, Elizabethton, Provo and Starkville	Someone did visit Norton	ENTAILMENT
+tt-491	Everyone has visited Bedford, Granite City, Colorado Springs, Orangeburg, Acoma, Santa Cruz, Redmond, Castine, De Smet, Harmony and Alexander City	Someone did visit De Smet	ENTAILMENT
+tt-492	Everyone has visited Lewiston, Cherokee, Mesa, Pittsfield, Beloit, Bedford, Idaho Falls, New Haven, Oil City, Carrollton, Guilford, Lowell, Monroeville, Virginia Beach, Geneva, Pine Bluff, Fort Kent, Cape Coral, Fort Wayne and Bellingham	Lucille did visit Idaho Falls	ENTAILMENT
+tt-493	Everyone has visited every place	Carrie didn't visit Saint George	CONTRADICTION
+tt-494	Everyone has visited every person and every place	Ethel didn't visit Wanda	CONTRADICTION
+tt-495	Someone has visited every person and every place	An individual visited Louise	ENTAILMENT
+tt-496	Someone has visited every person and every place	That individual there didn't visit Joan	NEUTRAL
+tt-497	Everyone has visited Longmont, Belmont, San Leandro, Simi Valley, Panguitch, Douglas, West Point, Presque Isle, Bowling Green, Maine, Maryville and Gaffney	Viola didn't visit Bowling Green	CONTRADICTION
+tt-498	Someone has visited every person and every place	An individual visited Bowie	ENTAILMENT
+tt-499	Someone has visited every person and every place	An individual didn't visit Hazel	CONTRADICTION
+tt-500	Everyone has visited every place	Vivian didn't visit North Carolina	CONTRADICTION
+tt-501	Everyone has visited Santa Claus, San Antonio, Williamsport, Effingham, Glendale, Green Bay, McAlester, Maine, Sallisaw and Simsbury	That particular person did visit San Antonio	ENTAILMENT
+tt-502	Everyone has visited every person	Victoria didn't visit Lucille	CONTRADICTION
+tt-503	Everyone has visited every person	Candace didn't visit Luz	CONTRADICTION
+tt-504	Everyone has visited every place	Georgia didn't visit Orange	CONTRADICTION
+tt-505	Everyone has visited Mineola, Hollywood, Atmore, Nampa, Yellow Springs, Hobart, Rawlins, Spokane, Bethesda-Chevy Chase, Indiana, Saco, Hanover, Ossining, Ysleta, Richmond, Deerfield Beach, Oceanside, Fort Pierce, Kingston and Wellfleet	Cindy did visit Mineola	ENTAILMENT
+tt-506	Everyone has visited Dubuque, Saint Cloud, Queens, Berlin, Bardstown, Albany, Clinton, Aiken, Calhoun, Massena, North Las Vegas and Oak Ridge	Faye didn't visit Oxnard	NEUTRAL
+tt-507	Everyone has visited Malibu, Taos, Laie, Douglas, Phoenix, Berlin, Blytheville, Sault Sainte Marie, Wyandotte, Marblehead, Smyrna and Seymour	An individual didn't visit Laie	CONTRADICTION
+tt-508	Someone has visited every person and every place	An individual visited Chillicothe	ENTAILMENT
+tt-509	Everyone has visited Royal Oak, Hillsboro, Hyattsville, Junction City, Plymouth, Leavenworth, California, Martinsville, Fullerton, East Hampton, Hollywood, Santa Claus and Wellsburg	Natalie did visit Fullerton	ENTAILMENT
+tt-510	Everyone has visited Valdez, Natchez, Woodland, Cookeville, Westerly, Sylacauga, Hampton, Yakima, York, Newark, Harrisburg and Fullerton	A person didn't visit Valdez	CONTRADICTION
+tt-511	Someone has visited every person and every place	Someone visited Sault Sainte Marie	ENTAILMENT
+tt-512	Everyone has visited every place	Alberta didn't visit East Saint Louis	CONTRADICTION
+tt-513	Everyone has visited Aspen, Royal Oak, Okmulgee, Carbondale, Elizabethtown, Lynchburg, Stony Point, Pierre, Valdez and Sag Harbor	Michele didn't visit Alamogordo	NEUTRAL
+tt-514	Everyone has visited Olathe, Richmond, Trinidad, Manhattan, Jackson, Cuyahoga Falls, Saratoga Springs, Kinston, Homer, Reading, Elko, Bath, Berlin, Princeton, North Little Rock, Morrilton, Boothbay Harbor, Rock Hill, Ferguson and Sauk Centre	Marie did visit Elko	ENTAILMENT
+tt-515	Everyone has visited Pecos, Duncan, Jefferson City, Auburn, Rome, Stonington, Plainview, Geneva, Brookings, East Point, Walla Walla, San Juan Capistrano, Lake Wales, Las Vegas, Jamestown, Peterborough, Duxbury and Indianola	An individual did visit Brookings	ENTAILMENT
+tt-516	Everyone has visited Englewood, Bedford, Petersburg, Manchester, Hopkinsville, Athol, Lewiston, Virginia City, Green River, Rotterdam, Chesapeake, Shawneetown, Dalton, Mineola, Everett, Helena, Novato and Smyrna	Vanessa didn't visit Pass Christian	NEUTRAL
+tt-517	Everyone has visited Quincy, Manti, Las Cruces, Northfield, Johnstown, Milford, Fresno, Newark, Oceanside, Texas City, Casper, Astoria and Cheektowaga	Jennie didn't visit McKinney	NEUTRAL
+tt-518	Everyone has visited Raton, Des Plaines, Aurora, Put-in-Bay, Springfield, Woonsocket, Redmond, Bennington, Davenport, Heber City, Bourne, Manhattan and Shaker Heights	Erica did visit Bennington	ENTAILMENT
+tt-519	Everyone has visited Falmouth, Lawrence, Palm Beach, Ysleta, Pine Bluff, Fort Collins, Pass Christian, Randolph, Webster, Lafayette, Rexburg, Downey and Lewisburg	Someone did visit Rexburg	ENTAILMENT
+tt-520	Everyone has visited every person and every place	Charlene didn't visit Melinda	CONTRADICTION
+tt-521	Everyone has visited Laurel, Salt Lake City, Modesto, Oakland, Cedar Rapids, Richmond, Austin, Pompano Beach, Bristol, Pasadena, Sebring, Decatur, Menasha, Zion, Elmira, Streator, Williamson and Orange	Kristy didn't visit Flushing	NEUTRAL
+tt-522	Everyone has visited Thousand Oaks, Martinsburg, Abilene, Smyrna, Highland Park, Shawnee, Eastchester, East Saint Louis, Bridgeton, Ottumwa and Pass Christian	Jennifer didn't visit Rock Hill	NEUTRAL
+tt-523	Everyone has visited Olathe, Saint Marys City, Amarillo, Salem, Redmond, Apalachicola, Jacksonville, Irvington, Newburgh and Kankakee	An individual didn't visit Apalachicola	CONTRADICTION
+tt-524	Everyone has visited every person and every place	Leslie didn't visit Guadalupe	CONTRADICTION
+tt-525	Someone has visited every person and every place	A person visited Felicia	ENTAILMENT
+tt-526	Everyone has visited Rye, Kansas City, Sioux Falls, Waterloo, Lovington, Sweetwater, Williston, Dixon, Everett, Estherville, Calistoga, Grenada, Marblehead, Taunton, Lewistown and Little Rock	A person didn't visit Calistoga	CONTRADICTION
+tt-527	Everyone has visited Nashua, Janesville, Nappanee, Narragansett, Norris, Totowa, Beatrice, Skokie, Denton, Charlestown, Auburn, Bridgeport, Johnson City, Logan, Danvers, Douglas, Arlington, Bowling Green and Claremont	An individual did visit Denton	ENTAILMENT
+tt-528	Everyone has visited Clifton, River Forest, Boone, Elmira, Red Bluff, Jacksonville, York, Pittsburg, Naugatuck, Fort Smith, Queens and Willmar	A person didn't visit River Forest	CONTRADICTION
+tt-529	Everyone has visited Branson, Butte, Johnson City, Valdosta, New Smyrna Beach, Santa Clara, North Adams, Brockton, Bath and Newburyport	Someone did visit Butte	ENTAILMENT
+tt-530	Someone has visited every person and every place	That particular person didn't visit Dianne	NEUTRAL
+tt-531	Someone has visited every person and every place	That individual there didn't visit Jill	NEUTRAL
+tt-532	Someone has visited every person and every place	That particular person didn't visit Valdez	NEUTRAL
+tt-533	Everyone has visited Clifton, River Forest, Boone, Elmira, Red Bluff, Jacksonville, York, Pittsburg, Naugatuck, Fort Smith, Queens and Willmar	A person did visit River Forest	ENTAILMENT
+tt-534	Everyone has visited Bennington, Emmitsburg, Gadsden, East Haven, Laurel, Nanticoke, Belle Glade, Salisbury, Bend, Brigham City, Kirksville, Coeur d’Alene, West Bridgewater, Lowell, North Las Vegas, Danbury, Redmond and Prairie du Chien	Penny did visit East Haven	ENTAILMENT
+tt-535	Everyone has visited Palatka, Bath, Madison, Middletown, Murfreesboro, Medicine Lodge, Alma, Levittown, Harpers Ferry, Farmington, Taos, Clarksburg, Randolph and Beckley	Denise didn't visit Auburn	NEUTRAL
+tt-536	Everyone has visited Bath, Gainesville, Dixon, Kahului, Paterson, Plainview, Norwood, Ossining, Heber City, Belmont, Stillwater, Ontario, Nauvoo, Forrest City, Joplin, Flushing, Waterville and Hazleton	That person there did visit Belmont	ENTAILMENT
+tt-537	Everyone has visited every place	Tamara didn't visit Lydia	NEUTRAL
+tt-538	Everyone has visited every person	Jeanette didn't visit Jane	CONTRADICTION
+tt-539	Everyone has visited Catonsville, Baytown, Harrisburg, Lynchburg, New Harmony, Sharon, Vallejo, Tacoma, Marinette, Boulder City, Alamosa, West Covina, Aberdeen, Alabama, Georgetown, Mountain View, Lorain, Dubuque and Cahokia	Monique didn't visit Troy	NEUTRAL
+tt-540	Everyone has visited El Dorado, Lawton, Hopewell, Rock Hill, Oak Ridge, Windsor, Ely, Dixon, Colorado Springs, Belfast, San Gabriel and Brookline	Molly didn't visit Saint Charles	NEUTRAL
+tt-541	Everyone has visited Zion, Garden City, Greenville, Wheeling, Antioch, Watertown, Greenfield, Boonesborough, Flushing, Colorado, Everett, Deadwood, Winter Park, Canon City, Prairie du Chien, New Castle, Tampa, Clarksville, Oconto and Newburyport	An individual didn't visit Greenville	CONTRADICTION
+tt-542	Everyone has visited Greenville, Sidney, Valdosta, Douglas, Palm Springs, Garden City, Union, Fullerton, Hollywood and Lexington	An individual didn't visit Garden City	CONTRADICTION
+tt-543	Everyone has visited Opelousas, College Park, Weston, Northampton, West Point, Barberton, Chelsea, Campbellsville, Canton, Huntington, Auburn, Cohasset and Logan	Marguerite didn't visit Shawnee	NEUTRAL
+tt-544	Everyone has visited every place	Pearl didn't visit Guadalupe	NEUTRAL
+tt-545	Everyone has visited every person and every place	Susie didn't visit Anna	CONTRADICTION
+tt-546	Everyone has visited Hanalei, Cumberland, New Windsor, Bismarck, Fort Walton Beach, Palatka, Guntersville, Youngstown, Eastpointe, Phoenix, Menlo Park, Asbury Park, Fargo, Sacramento, Claremont, Minneapolis, Boston, Winsted and Columbia	Michele didn't visit Newburyport	NEUTRAL
+tt-547	Everyone has visited Bloomsburg, Manhattan, Columbia, Johnstown, Lake Geneva, Windsor Locks, Kansas City, West Palm Beach, Watkins Glen, Clearwater, Plainview, Washington and Miami Beach	An individual didn't visit Plainview	CONTRADICTION
+tt-548	Everyone has visited Burlington, Moline, Rye, Gallup, Bristol, Mankato, Falmouth, Kaneohe, Arkansas City, Denver, Union, Englewood, Farmington, Palatka, Calhoun, Jonesboro and Sand Springs	That person there did visit Mankato	ENTAILMENT
+tt-549	Everyone has visited Newark, Phoenixville, Devils Lake, Rochester, Stratford, South Holland, Danville, Titusville, Watertown, Salem, Andalusia and Jersey City	Elsie did visit South Holland	ENTAILMENT
+tt-550	Everyone has visited Watts, Wenatchee, Buffalo, Garden Grove, Elkhart, Orem, Darlington, Bluefield, Ames, Saint Johnsbury, Harrodsburg, Zion, Falls Church, Chicago, Texarkana, Cushing, Frederick and Falmouth	Eva didn't visit Darlington	CONTRADICTION
+tt-551	Everyone has visited Kotzebue, Richmond, Norwich, Elkins, Marion, Henderson, Germantown, Lander, Shawnee, Richardson, Chattanooga, Wooster, Smith Center, Indiana, Oceanside, Santa Rosa, Washington, Towson, Mitchell and Abington	Rosie didn't visit Heber City	NEUTRAL
+tt-552	Everyone has visited every place	Jackie didn't visit Mineola	CONTRADICTION
+tt-553	Someone has visited every person and every place	That particular person didn't visit Lorain	NEUTRAL
+tt-554	Someone has visited every person and every place	That individual there didn't visit Renton	NEUTRAL
+tt-555	Everyone has visited every place	Margarita didn't visit Debra	NEUTRAL
+tt-556	Everyone has visited Grosse Pointe, Utica, San Marcos, Plainfield, Wethersfield, New Castle, College Station, Sidney, Waycross, Tennessee, Novato, Wichita Falls, Tombstone, Louisville, La Grange, Missouri, Bethesda-Chevy Chase and Pontiac	Brenda didn't visit Cicero	NEUTRAL
+tt-557	Everyone has visited Manhattan, Scottsdale, Thermopolis, Huntington, Danvers, Niles, Natick, Norristown, Marion, Reading and Akron	Juanita didn't visit Manhattan	CONTRADICTION
+tt-558	Everyone has visited every place	Carolyn didn't visit Shelby	CONTRADICTION
+tt-559	Everyone has visited every place	Diane didn't visit Holly	NEUTRAL
+tt-560	Everyone has visited every place	Jenny didn't visit Sue	NEUTRAL
+tt-561	Everyone has visited every place	Judy didn't visit Candace	NEUTRAL
+tt-562	Everyone has visited Owensboro, Morgantown, Florence, Orderville, Lewisburg, Cranston, Westport, Wyoming, Deerfield Beach, Edison, Georgetown and Redwood City	Someone didn't visit Edison	CONTRADICTION
+tt-563	Everyone has visited every place	Gladys didn't visit Beverly	NEUTRAL
+tt-564	Everyone has visited every place	Kristina didn't visit Wilma	NEUTRAL
+tt-565	Everyone has visited every person and every place	Darlene didn't visit Danielle	CONTRADICTION
+tt-566	Everyone has visited Meridian, West Covina, Plymouth, Natchez, Lombard, Barberton, Hialeah, Warrensburg, Detroit, Coffeyville, Streator, Key West, White Springs, Eastpointe, Sterling and North Hempstead	Allison didn't visit Warrensburg	CONTRADICTION
+tt-567	Someone has visited every person and every place	Someone didn't visit Genevieve	CONTRADICTION
+tt-568	Someone has visited every person and every place	A person visited Hinton	ENTAILMENT
+tt-569	Someone has visited every person and every place	That particular person didn't visit Lisa	NEUTRAL
+tt-570	Someone has visited every person and every place	That particular person didn't visit Christy	NEUTRAL
+tt-571	Everyone has visited every person and every place	Vicki didn't visit Plattsmouth	CONTRADICTION
+tt-572	Everyone has visited every place	Toni didn't visit Catherine	NEUTRAL
+tt-573	Everyone has visited Burlington, New Castle, Portage, Iowa City, Searcy, Milton, Martinsburg, Reading, Emporia, Renton, Pasadena, Culver City, Calais, Alpine, Belleville and Everett	Marsha didn't visit Renton	CONTRADICTION
+tt-574	Everyone has visited Tarpon Springs, Galesburg, Elyria, Fontana, Sebring, Provincetown, Winter Haven, El Monte, Decatur, Orangeburg, Hyannis and Aiken	Monique didn't visit Kinston	NEUTRAL
+tt-575	Someone has visited every person and every place	An individual visited Fort Myers	ENTAILMENT
+tt-576	Everyone has visited every place	Minnie didn't visit Glenda	NEUTRAL
+tt-577	Everyone has visited Alhambra, Elk City, Newport, Wisconsin, Newark, Lewiston, Des Moines, East Hartford, Fort Worth, Ishpeming, Green River, Bradenton, Rye, White Springs, Fairfield, Elkins and Benton	That particular person did visit Newark	ENTAILMENT
+tt-578	Someone has visited every person and every place	A person didn't visit Ventura	CONTRADICTION
+tt-579	Everyone has visited every place	Joanna didn't visit New Rochelle	CONTRADICTION
+tt-580	Everyone has visited Tupelo, Saint Ignace, Richardson, Ossining, Elgin, Shelby, Crown Point, Vincennes, Grand Rapids, Wellesley, Racine, Plymouth, Windsor, Millburn, Johnstown, Saint Joseph, Pampa, Santa Monica and Connersville	An individual did visit Richardson	ENTAILMENT
+tt-581	Everyone has visited Jeannette, Paris, Huntington, Pekin, Calistoga, Randolph, Vernal, Kalispell, Oswego, Potsdam, Lake Charles, Norwalk, Babylon, Gallipolis, Lancaster and Bloomington	Sue did visit Calistoga	ENTAILMENT
+tt-582	Everyone has visited Painesville, Moses Lake, Waukesha, Crossett, Chester, Glendale, Lincoln, El Reno, Cape Coral, Marblehead, Priest River, Rochester, Orangeburg and Tuscumbia	A person didn't visit Moses Lake	CONTRADICTION
+tt-583	Everyone has visited every place	Marguerite didn't visit Philippi	CONTRADICTION
+tt-584	Everyone has visited every person	Katherine didn't visit Sylvia	CONTRADICTION
+tt-585	Someone has visited every person and every place	That particular person didn't visit Galena	NEUTRAL
+tt-586	Everyone has visited Washington, Claremore, Gainesville, McCook, Rantoul, Calais, Peterborough, Keene, Beloit, Worland, Rensselaer, Middlebury, Monroe, College Station and El Paso	Yolanda didn't visit Wood River	NEUTRAL
+tt-587	Everyone has visited every person	Tara didn't visit Josephine	CONTRADICTION
+tt-588	Everyone has visited Bethlehem, Mankato, Winter Haven, Sausalito, Largo, East Lansing, Fort Wayne, Houston, Murfreesboro, Laconia, Goliad, Medford and Altoona	That person there did visit Sausalito	ENTAILMENT
+tt-589	Someone has visited every person and every place	A person visited Florence	ENTAILMENT
+tt-590	Someone has visited every person and every place	An individual didn't visit Climax	CONTRADICTION
+tt-591	Someone has visited every person and every place	An individual didn't visit Norma	CONTRADICTION
+tt-592	Someone has visited every person and every place	A person visited Mabel	ENTAILMENT
+tt-593	Everyone has visited every person and every place	Debra didn't visit Hot Springs	CONTRADICTION
+tt-594	Everyone has visited West Allis, Saint Augustine, Hanover, Stevens Point, Oklahoma, Vineland, Uvalde, Kalispell, Phenix City, Connecticut, Crystal City, Burlington, Wisconsin, Shelbyville, Palo Alto, Hackensack, Santa Clarita, Ogdensburg and Revere	Tonya didn't visit Mount Pleasant	NEUTRAL
+tt-595	Everyone has visited Portsmouth, Staten Island, Olean, Ames, Silver City, Johnson City, Kittery, Bath, La Junta, Bakersfield, Belmont, Hillsborough, River Forest, Irvington, Nebraska, Watertown, Kaneohe and Monterey	Joanne didn't visit River Forest	CONTRADICTION
+tt-596	Everyone has visited every person	Bessie didn't visit Melody	CONTRADICTION
+tt-597	Everyone has visited every person and every place	Megan didn't visit Christy	CONTRADICTION
+tt-598	Someone has visited every person and every place	That particular person didn't visit Culver City	NEUTRAL
+tt-599	Everyone has visited Turlock, Pompano Beach, Logan, Tyler, Alabama, Portsmouth, Hanover, Genoa, Brownsville, Sioux Falls and Irving	Someone didn't visit Tyler	CONTRADICTION
+tt-600	Everyone has visited every place	Martha didn't visit Lucille	NEUTRAL
+tt-601	Everyone has visited Oshkosh, Oak Ridge, Centralia, Willimantic, Mission, Malden, Fort Kent, Ashland, Essex and South Charleston	Mary did visit Willimantic	ENTAILMENT
+tt-602	Everyone has visited Richmond, Kettering, Lewistown, Altus, Ashland, Milton, Hanalei, Abington, Anaheim, Moscow, West Seneca, Romney, New Britain, West Springfield, Lake City and Fort Dodge	Melissa didn't visit Lewistown	CONTRADICTION
+tt-603	Everyone has visited every person	Florence didn't visit Wilma	CONTRADICTION
+tt-604	Everyone has visited every place	Kristi didn't visit Louise	NEUTRAL
+tt-605	Everyone has visited High Point, Brockton, Petersburg, Urbana, Knoxville, Salt Lake City, Attleboro, Barstow, Brooklyn, Adrian, Stony Point, Burlington, Provincetown, Trenton, Arkansas, Edmond and Kellogg	That particular person did visit Provincetown	ENTAILMENT
+tt-606	Everyone has visited every place	Isabel didn't visit Beatrice	NEUTRAL
+tt-607	Someone has visited every person and every place	That individual there didn't visit Sherry	NEUTRAL
+tt-608	Everyone has visited Bainbridge, Rockford, Montpelier, California, Camden, Moab, Erie, Telluride, State College, Canyon, Belmont, College Station, Barrington, Bristol, Brainerd, Woodbridge, Harmony, Guntersville, White Sulphur Springs and Ecorse	Naomi didn't visit New Kensington	NEUTRAL
+tt-609	Someone has visited every person and every place	That individual there didn't visit Memphis	NEUTRAL
+tt-610	Everyone has visited Elyria, South Hadley, Buffalo, Glenwood Springs, Scarborough, Hastings, Mount Pleasant, West Allis, Georgetown, Ventura, Portland, New Market, Sault Sainte Marie, Duxbury, Boonesborough, Oak Harbor, Hancock and San Juan Capistrano	A person didn't visit Hastings	CONTRADICTION
+tt-611	Everyone has visited every place	Sabrina didn't visit Ellen	NEUTRAL
+tt-612	Everyone has visited every person and every place	Debbie didn't visit Lula	CONTRADICTION
+tt-613	Everyone has visited every person and every place	Norma didn't visit Alcoa	CONTRADICTION
+tt-614	Everyone has visited every person and every place	Dorothy didn't visit Pauline	CONTRADICTION
+tt-615	Everyone has visited Andalusia, Owatonna, West Covina, Kaskaskia, Gallipolis, Grosse Pointe, Petersburg, Brunswick, Grand Island, Chickasha, Kanab, Atlantic City, Rochester, Morristown, Newark and New Brunswick	An individual didn't visit Andalusia	CONTRADICTION
+tt-616	Everyone has visited every person	Helen didn't visit Tara	CONTRADICTION
+tt-617	Everyone has visited every person and every place	Patricia didn't visit Southampton	CONTRADICTION
+tt-618	Someone has visited every person and every place	That individual there didn't visit Andalusia	NEUTRAL
+tt-619	Someone has visited every person and every place	That person there didn't visit Melanie	NEUTRAL
+tt-620	Everyone has visited Vernal, Las Vegas, New Harmony, Idaho City, Norwalk, Saint Paul, Coronado, Mayfield, Adams, Ludington, Napa and Newport	That individual there did visit Mayfield	ENTAILMENT
+tt-621	Everyone has visited every place	Natasha didn't visit Dodge City	CONTRADICTION
+tt-622	Everyone has visited every place	Julia didn't visit Deanna	NEUTRAL
+tt-623	Everyone has visited Carson City, Rapid City, Stamford, Port Washington, Cicero, Douglas, Dennis, Walpi, McKinney, Sudbury, Beckley and Arlington	Someone did visit Rapid City	ENTAILMENT
+tt-624	Everyone has visited Dubuque, Tucson, Scarborough, Florence, Charlevoix, Concord, Indiana, Derry, Rancho Cucamonga, East Aurora and Lewisburg	That individual there did visit Derry	ENTAILMENT
+tt-625	Someone has visited every person and every place	Someone visited Jo	ENTAILMENT
+tt-626	Everyone has visited Albany, Pottsville, Pinehurst, Naugatuck, Alcoa, Bordentown, Hartford, Bremerton, Tamaqua and Orangeburg	Janie did visit Hartford	ENTAILMENT
+tt-627	Everyone has visited every person and every place	Olivia didn't visit Lisa	CONTRADICTION
+tt-628	Someone has visited every person and every place	An individual didn't visit Anderson	CONTRADICTION
+tt-629	Someone has visited every person and every place	Someone visited Newton	ENTAILMENT
+tt-630	Everyone has visited every place	Katrina didn't visit Debbie	NEUTRAL
+tt-631	Someone has visited every person and every place	An individual visited Linda	ENTAILMENT
+tt-632	Everyone has visited Salem, Emporia, Salina, Texas, Warren, Virginia City, Carrollton, High Point, East Liverpool, Chambersburg, Palmdale, New Milford, Boonville, Newcastle, Mandan, San Rafael and Monett	That particular person did visit Chambersburg	ENTAILMENT
+tt-633	Everyone has visited Compton, Laramie, Somerville, Chelmsford, Old Saybrook, Jacksonville, Lincoln, Monterey, Cuyahoga Falls, Elk City, Traverse City and Nebraska City	A person didn't visit Somerville	CONTRADICTION
+tt-634	Everyone has visited Pueblo, Zion, Poughkeepsie, Rotterdam, De Land, Martinsburg, Dahlonega, Abington, Point Roberts, Canton, Frankfort, Knoxville, Huntington, Fullerton, New Philadelphia, Kitty Hawk and Ashland	Someone did visit New Philadelphia	ENTAILMENT
+tt-635	Someone has visited every person and every place	Someone visited Nina	ENTAILMENT
+tt-636	Everyone has visited Germantown, Little Falls, John Day, Madison, South Carolina, Gainesville, Hobbs, Calistoga, Moorhead, Fort Worth, Redding, Tewksbury, Clovis, Gatlinburg, Alton, Webster City and Fayetteville	Jessica didn't visit South Carolina	CONTRADICTION
+tt-637	Everyone has visited Edenton, Lebanon, Carthage, Bountiful, Prescott, Arizona, Elkton, Macon, Ames, Brunswick, Baker City, Elkhart, Bennington, Barrington and Ponca City	Suzanne didn't visit Suffolk	NEUTRAL
+tt-638	Someone has visited every person and every place	That individual there didn't visit Aberdeen	NEUTRAL
+tt-639	Everyone has visited Mystic, Jamestown, Overland Park, Bridgeton, Saint Louis, Sumter, Gloucester, Lake Oswego, El Paso, Fort Kent, Fairfax and Lakewood	Allison didn't visit Brea	NEUTRAL
+tt-640	Someone has visited every person and every place	An individual visited Ogden	ENTAILMENT
+tt-641	Everyone has visited every place	Ida didn't visit Janie	NEUTRAL
+tt-642	Everyone has visited every person	Daisy didn't visit Natalie	CONTRADICTION
+tt-643	Everyone has visited Rensselaer, Tahlequah, Narragansett, California, Muscatine, Winooski, Corpus Christi, Sturbridge, Clinton, Homer, Forest Hills, Bremerton, Shawnee, Waukesha, Saint Joseph, Port Huron, Ottawa and Plains	That person there did visit Ottawa and Plains	ENTAILMENT
+tt-644	Everyone has visited Rogers, Gloucester, Hayward, Hobbs, West Lafayette, Scottsboro, Virginia Beach, Washington, Susanville, California, Ellensburg, Narragansett, Ishpeming, Nashville, Granite City, Westport, New Paltz and Victorville	Ida didn't visit Holdenville	NEUTRAL
+tt-645	Someone has visited every person and every place	A person didn't visit Carmen	CONTRADICTION
+tt-646	Everyone has visited every place	Danielle didn't visit Alicia	NEUTRAL
+tt-647	Someone has visited every person and every place	That individual there didn't visit Bellevue	NEUTRAL
+tt-648	Someone has visited every person and every place	An individual visited Tammy	ENTAILMENT
+tt-649	Everyone has visited every place	Carmen didn't visit Wilma	NEUTRAL
+tt-650	Everyone has visited every place	Luz didn't visit Davenport	CONTRADICTION
+tt-651	Someone has visited every person and every place	That individual there didn't visit Joyce	NEUTRAL
+tt-652	Everyone has visited Grants Pass, Huntington, Monroe, San Fernando, Douglas, Millville, Cookeville, Visalia, Wheeling, Machias, Des Plaines, Cumberland, Orono, Houghton, East Providence, Buffalo and Trenton	That person there did visit Cumberland	ENTAILMENT
+tt-653	Someone has visited every person and every place	That individual there didn't visit Richmond	NEUTRAL
+tt-654	Everyone has visited every place	Roberta didn't visit Katrina	NEUTRAL
+tt-655	Someone has visited every person and every place	Someone visited Marsha	ENTAILMENT
+tt-656	Everyone has visited Corning, Elizabeth City, Culver City, Middletown, Texarkana, Berlin, Windsor, Norris, East Cleveland, Leominster, Nogales, Taunton, Framingham, Johnstown, Geneva and Manhattan	That person there did visit Windsor	ENTAILMENT
+tt-657	Everyone has visited every place	Shirley didn't visit Oklahoma City	CONTRADICTION
+tt-658	Everyone has visited Ecorse, Santa Clara, Freeport, Oneida, Bound Brook, Babylon, Andalusia, Randolph, Aberdeen, Tarpon Springs, Caldwell, Leavenworth, Auburn, Cody and Pottsville	Someone did visit Tarpon Springs	ENTAILMENT
+tt-659	Everyone has visited Ashland, Pittsburg, Arcadia, Park Ridge, Aurora, Bartlesville, Lake Oswego, New Madrid, Biloxi and Demopolis	Alma didn't visit Niles	NEUTRAL
+tt-660	Everyone has visited Xenia, Bainbridge, Portage, Saranac Lake, Chattanooga, Pampa, Kansas City, Coventry, Belvidere, Duxbury, Oregon City, Pensacola, Bronx, Hempstead, College Station, Rumford, Palm Springs, Kewanee and Cranston	A person didn't visit Bronx	CONTRADICTION
+tt-661	Everyone has visited Bedford, Eveleth, Saratoga Springs, Cordova, Rocky Mount, Santa Claus, Alexandria, Waterford, Chanute, Ephrata, Oraibi, Oroville, Lodi, Montgomery, Lancaster, Ely, Cumberland, Kokomo and Wyoming	That person there did visit Santa Claus	ENTAILMENT
+tt-662	Someone has visited every person and every place	Someone visited South Dakota	ENTAILMENT
+tt-663	Everyone has visited every person	Ida didn't visit Rose	CONTRADICTION
+tt-664	Everyone has visited Alaska, Saint Ignace, Elkhart, Racine, Great Neck, Rome, Murray, Franklin, Westminster, Forrest City, Council Bluffs, Fairmont, San Francisco, Waterville, Fernandina Beach, Heber City, Canton, Chico and Warrensburg	An individual did visit Forrest City	ENTAILMENT
+tt-665	Everyone has visited every person and every place	Sonia didn't visit Goldfield	CONTRADICTION
+tt-666	Everyone has visited every person and every place	Miriam didn't visit Kayla	CONTRADICTION
+tt-667	Everyone has visited every place	Eleanor didn't visit Beulah	NEUTRAL
+tt-668	Everyone has visited Sheboygan, Spearfish, Braintree, Palatka, Olympia, Nome, Kelso, Pacific Grove, Trenton, West New York, Portland, Coral Gables, Tempe, Herkimer and Sumter	Tonya didn't visit Sumter	CONTRADICTION
+tt-669	Someone has visited every person and every place	That individual there didn't visit Presque Isle	NEUTRAL
+tt-670	Everyone has visited Naugatuck, Daly City, McMinnville, Kennewick, Bountiful, Los Alamos, Pasadena, Suffolk, New Harmony, Carlsbad, Talladega and Schenectady	Someone didn't visit Naugatuck	CONTRADICTION
+tt-671	Everyone has visited Houlton, Helena, Bound Brook, Petoskey, Hickory, Huntington Beach, Haddonfield, Dover, Worcester, Perry, Cleburne, Sudbury, Ottumwa, Muskegon, Pocatello, Athens and Breckenridge	Donna did visit Petoskey	ENTAILMENT
+tt-672	Everyone has visited every place	Ella didn't visit Richland	CONTRADICTION
+tt-673	Everyone has visited every place	Geneva didn't visit Hillsborough	CONTRADICTION
+tt-674	Everyone has visited Lexington, Ilion, Guntersville, Syracuse, Prichard, Decatur, Telluride, Ellensburg, Bristol, Cincinnati and Chico	Someone didn't visit Ellensburg	CONTRADICTION
+tt-675	Everyone has visited every person	Carmen didn't visit Julia	CONTRADICTION
+tt-676	Everyone has visited Reno, Bessemer, New Castle, Albuquerque, Bisbee, Galveston, North Little Rock, Findlay, San Marcos, Woonsocket, Gunnison, Eveleth, Nauvoo, Demopolis and Albany	That person there did visit Demopolis and Albany	ENTAILMENT
+tt-677	Everyone has visited Winnetka, North Little Rock, Enterprise, Victoria, Independence, Lenox, South Orange Village, New Hope, Sunnyvale, Deadwood, Hobbs, Vermillion, Amherst, Salina and Paris	Penny did visit Amherst	ENTAILMENT
+tt-678	Everyone has visited Silver Spring, Maysville, Honaunau, Morristown, Boston, Montana, Cadillac, Bloomington, Shawneetown, Custer, Bradenton, Madison, Lexington, Cape Coral, Fort Dodge and Midland	A person did visit Honaunau	ENTAILMENT
+tt-679	Everyone has visited Whittier, Athol, La Grande, Hazard, Independence, Texas City, Rensselaer, New Windsor, East Haven, Aurora, Hannibal, Plainfield, Charlottesville, North Carolina, Newport Beach, Pasco, Medford, High Point, Opelika and Claremore	Guadalupe didn't visit Longmont	NEUTRAL
+tt-680	Everyone has visited Petaluma, Canton, Chelmsford, Fort Dodge, Corning, New Paltz, Largo, Lebanon, Goshen, Boulder City, Park City, Telluride, Green River, Willimantic, Boulder and Belmont	Sylvia didn't visit New Philadelphia	NEUTRAL
+tt-681	Someone has visited every person and every place	That particular person didn't visit Deanna	NEUTRAL
+tt-682	Everyone has visited Vinita, Great Neck, Cortland, Waterloo, Smyrna, Carlinville, Ipswich, Irving, Maryland, Chambersburg and Panguitch	Tammy did visit Cortland	ENTAILMENT
+tt-683	Everyone has visited Merced, El Dorado, Wilmington, River Forest, Dennis, New Britain, Saint Charles, Monroeville, Lafayette and Eveleth	Jamie didn't visit Hialeah	NEUTRAL
+tt-684	Everyone has visited every place	Kathryn didn't visit Oconto	CONTRADICTION
+tt-685	Everyone has visited every place	Debra didn't visit Alicia	NEUTRAL
+tt-686	Everyone has visited Fairfield, Taunton, Troy, Pocatello, Fort Walton Beach, Hayward, Twin Falls, Danbury, Newburyport, Clovis, Union, Coronado, Olean, Detroit and Clayton	Olivia did visit Fairfield	ENTAILMENT
+tt-687	Everyone has visited Henderson, Grayling, Greenville, Springfield, San Francisco, Mackinaw City, Eau Claire, Arlington Heights, Pascagoula, Franklin, Starkville, Logan, Watertown, Elkton and Florence	A person didn't visit Grayling	CONTRADICTION
+tt-688	Everyone has visited every person	Tonya didn't visit Miriam	CONTRADICTION
+tt-689	Everyone has visited every person and every place	Lucy didn't visit Silverton	CONTRADICTION
+tt-690	Someone has visited every person and every place	Someone visited Penny	ENTAILMENT
+tt-691	Everyone has visited Grand Haven, Jefferson City, Osceola, Hyattsville, DeKalb, Kanab, Warrensburg, Clinton, Menlo Park, Columbus, Joplin, Meadville and Rutland	Vivian didn't visit Charleston	NEUTRAL
+tt-692	Everyone has visited Braintree, New Glarus, Fairbanks, Seward, Starkville, Stillwater, Joplin, Lockport, Branson, Kalamazoo, Titusville, McAllen and Winslow	Lucy did visit Starkville	ENTAILMENT
+tt-693	Everyone has visited Alcoa, Fallon, Athens, Searcy, Scranton, Stoughton, Scottsboro, Miami, Keokuk, Nashville, Pittsburg, South San Francisco, Montana, Nags Head, Nashua and Ludlow	That person there did visit Alcoa	ENTAILMENT
+tt-694	Everyone has visited Canyon, Payson, Oberlin, Tonawanda, Presque Isle, Auburn, Loveland, Memphis, Goliad, Twin Falls, Uvalde and Joplin	That individual there did visit Twin Falls	ENTAILMENT
+tt-695	Everyone has visited Litchfield, Plymouth, Bisbee, Osceola, Waukegan, Buena Park, Ludington, Alexandria, Virginia Beach, Goshen, Reedsport, Sioux Falls, Conway, Toledo, Bedford, Harrodsburg, Lancaster, Norwalk, Gloversville and Pasadena	Sonya did visit Harrodsburg	ENTAILMENT
+tt-696	Everyone has visited Chadron, Lock Haven, Napa, Atchison, Red Bluff, Tuscumbia, Herrin, Augusta, Oregon City, Marion, Henderson, Alcoa, Cleveland Heights, Galveston, Huntsville, Orlando and Nashua	Guadalupe didn't visit Hackensack	NEUTRAL
+tt-697	Someone has visited every person and every place	That person there didn't visit Tuskegee	NEUTRAL
+tt-698	Everyone has visited West Palm Beach, Titusville, Vinita, Barstow, Renton, Spanish Fork, Saint Martinville, Williston, Great Bend, Stockbridge, Falls Church, Morgan City, Lancaster, Galesburg, Opelika, Naugatuck and Muskogee	A person didn't visit Titusville	CONTRADICTION
+tt-699	Someone has visited every person and every place	That particular person didn't visit Gail	NEUTRAL
+tt-700	Everyone has visited every place	Jane didn't visit Butte	CONTRADICTION
+tt-701	Everyone has visited Tulsa, Mackinaw City, Davenport, Goldfield, Anaheim, Old Saybrook, Lackawanna, Kelso, Levittown, Narragansett, East Point, McPherson, Norwalk, Rumford, Greenwood, Jackson and Bellows Falls	Annette didn't visit Oraibi	NEUTRAL
+tt-702	Everyone has visited every person and every place	Christina didn't visit Texas City	CONTRADICTION
+tt-703	Someone has visited every person and every place	Someone visited Quincy	ENTAILMENT
+tt-704	Everyone has visited Paterson, Alameda, Nome, Brigham City, Abilene, Ardmore, Arkansas Post, Sharon, Tullahoma, Carthage, Bisbee, Walpi, Spring Green, Crown Point, Philadelphia, Kalamazoo, Ruston and Cocoa Beach	That individual there did visit Philadelphia	ENTAILMENT
+tt-705	Everyone has visited Plymouth, Kahului, Woodland, Oroville, Pekin, Fremont, Carlisle, Biddeford, Saint George, Edinburg, South Charleston, North Chicago, Stockton, Salem, Lexington, Lake Placid, Baltimore, Lebanon, Charlotte and Bradford	That individual there did visit Charlotte and Bradford	ENTAILMENT
+tt-706	Everyone has visited every place	Diana didn't visit Edna	NEUTRAL
+tt-707	Everyone has visited every person and every place	Connie didn't visit Wisconsin	CONTRADICTION
+tt-708	Everyone has visited Salina, Irvine, Cranford, Wheeling, Hillsboro, Bristol, Grinnell, Tyler, Salt Lake City, East Providence, Geneva, Livermore, Mundelein, Flagstaff, Sand Springs, Peabody and Rutherford	Someone did visit Sand Springs	ENTAILMENT
+tt-709	Everyone has visited West Covina, Danville, Lexington, Mount Clemens, Cheboygan, Lawrence, Newark, Millville, Southington and Huntington	That person there did visit Mount Clemens	ENTAILMENT
+tt-710	Everyone has visited Oil City, Shawnee, Minnesota, San Marino, Fort Benton, Millburn, Claremore, New Jersey, East Cleveland, Chico, Abbeville, Fort Myers and Laguna Beach	Vickie did visit Chico	ENTAILMENT
+tt-711	Everyone has visited Towson, Durango, Anacortes, Albany, New Iberia, Cuyahoga Falls, Coeur d’Alene, Red Bluff, Springfield, New Windsor, Port Hueneme, Santa Cruz, Abbeville, Jefferson City, Livermore, Huntington Beach, Beatrice, Battle Creek and Charleston	Lauren didn't visit Artesia	NEUTRAL
+tt-712	Everyone has visited Valdosta, Madison, Charlottesville, State College, Rapid City, Norwalk, Bremerton, Skagway, Trenton, Arcadia, Aiken, Buffalo, Belen, Delaware, Hastings and Florence	Maureen didn't visit Bremerton	CONTRADICTION
+tt-713	Everyone has visited every place	Lisa didn't visit Stacy	NEUTRAL
+tt-714	Someone has visited every person and every place	That individual there didn't visit Rockford	NEUTRAL
+tt-715	Everyone has visited Globe, Carbondale, Carson City, Victorville, Manti, Asbury Park, Shelbyville, New Milford, New Bedford, Kawaihae, Reston, Memphis and Saratoga Springs	Luz didn't visit Memphis	CONTRADICTION
+tt-716	Everyone has visited every person and every place	Olivia didn't visit Glenwood Springs	CONTRADICTION
+tt-717	Someone has visited every person and every place	A person visited North Las Vegas	ENTAILMENT
+tt-718	Everyone has visited Jonesboro, Moore, Hickory, Oakland, Manitowoc, Brooklyn, Terre Haute, Oneida, Danville, Middlesboro, Aurora, Cape May, Shelton, Lebanon and Canton	Someone did visit Moore	ENTAILMENT
+tt-719	Everyone has visited Romney, Gainesville, Wilmington, Lamar, Green Bay, Corvallis, Evanston, Malden, Aiken, Fort Pierce, Wethersfield and Scottsboro	That individual there did visit Wethersfield and Scottsboro	ENTAILMENT
+tt-720	Everyone has visited Gretna, Pasco, Moline, Pittsburgh, Sitka, Tahlequah, Richland, Wilkes-Barre, Toledo, Alexandria, Georgetown, Somerville, Hattiesburg, Lawton, Warren, Fort Myers, Pocatello, Camden and Lenox	That individual there did visit Moline	ENTAILMENT
+tt-721	Everyone has visited every place	Margaret didn't visit Christina	NEUTRAL
+tt-722	Everyone has visited Mount Vernon, Steubenville, Cripple Creek, Barberton, Milton, Opelika, Normal, Roanoke, Litchfield, Grand Haven and Ohio	An individual didn't visit Grand Haven and Ohio	CONTRADICTION
+tt-723	Everyone has visited every person and every place	Cynthia didn't visit Maryann	CONTRADICTION
+tt-724	Everyone has visited Braintree, Fredericksburg, Wilmington, Long Beach, Streator, Shelbyville, Sweetwater, Demopolis, Chickasaw, Guthrie, Groton, Fort Lauderdale and Fort Lee	That person there did visit Demopolis	ENTAILMENT
+tt-725	Everyone has visited Searcy, Eufaula, Calistoga, Jeffersonville, Parsippany–Troy Hills, Sedalia, Pueblo, Okmulgee, Janesville and Saint Petersburg	An individual did visit Parsippany–Troy Hills	ENTAILMENT
+tt-726	Everyone has visited East Cleveland, Idaho, Bristol, Hamden, Payson, Greeley, Hayward, Prairie du Chien, South Charleston, Romney, Richland, Elk City, Malden, Murfreesboro and Athol	Cathy did visit Murfreesboro and Athol	ENTAILMENT
+tt-727	Everyone has visited Merced, Middletown, Heber City, South Carolina, Easton, Greenbelt, Elizabeth, Livingston, Newport, Florissant, South Saint Paul, Rotterdam, Panguitch, Daly City, Bound Brook, Rantoul, Millburn and Fredonia	An individual didn't visit Panguitch	CONTRADICTION
+tt-728	Everyone has visited Lufkin, Petoskey, Conneaut, Seymour, Winslow, Sandwich, Atlanta, Lorain, Kingman, Laurel, Newport and Coeur d’Alene	That individual there did visit Lorain	ENTAILMENT
+tt-729	Everyone has visited every place	Wanda didn't visit Jacqueline	NEUTRAL
+tt-730	Everyone has visited every person and every place	Elaine didn't visit Renee	CONTRADICTION
+tt-731	Someone has visited every person and every place	That person there didn't visit Michigan	NEUTRAL
+tt-732	Everyone has visited every person	Wanda didn't visit Juana	CONTRADICTION
+tt-733	Everyone has visited every place	Catherine didn't visit Ashley	NEUTRAL
+tt-734	Everyone has visited every place	Anita didn't visit Joy	NEUTRAL
+tt-735	Everyone has visited Arkadelphia, Portsmouth, Indiana, Seminole, Saint Joseph, Poughkeepsie, Lombard, Harrodsburg, Cripple Creek, Ellensburg, Vancouver, Edenton, Bath and Jefferson City	Margie didn't visit New Castle	NEUTRAL
+tt-736	Everyone has visited every place	Charlene didn't visit Tennessee	CONTRADICTION
+tt-737	Everyone has visited Wauwatosa, Altus, Pryor, Gettysburg, Haines, West New York, Andover, Schenectady, Eastpointe and Groton	Someone did visit Altus	ENTAILMENT
+tt-738	Someone has visited every person and every place	A person didn't visit Rosa	CONTRADICTION
+tt-739	Everyone has visited Camden, Pasadena, Pharr, Lubec, Peru, Elkhart, Grand Forks, Dayton, Kennewick, Chapel Hill and Bloomington	An individual did visit Lubec	ENTAILMENT
+tt-740	Everyone has visited Westfield, Exeter, Kalispell, Richmond, Swarthmore, Crookston, Hastings, Morehead City, New Iberia, Ogdensburg, Groton, Pasadena, Fredericksburg, Sainte Genevieve and Chelsea	Carmen did visit Morehead City	ENTAILMENT
+tt-741	Everyone has visited every place	Elsie didn't visit Boone	CONTRADICTION
+tt-742	Everyone has visited West Bend, West Covina, Huntsville, Braintree, Newton, Ames, Vincennes, Valdez, La Crosse, Mississippi, Seminole, Pocatello, Cocoa Beach, South Holland, North Kingstown, Newport News, Salem, Arkansas City and Jamestown	An individual did visit Ames	ENTAILMENT
+tt-743	Everyone has visited Vinita, Great Neck, Cortland, Waterloo, Smyrna, Carlinville, Ipswich, Irving, Maryland, Chambersburg and Panguitch	That particular person did visit Cortland	ENTAILMENT
+tt-744	Everyone has visited every place	Cynthia didn't visit Christina	NEUTRAL
+tt-745	Everyone has visited Butte, Madison, Anderson, Franklin, Iowa, Arkansas, Bogalusa, Pine Bluff, Hazleton, Swarthmore, Youngstown, Dearborn, Chickasaw, Oregon City, Wichita Falls and Levittown	Deanna did visit Dearborn	ENTAILMENT
+tt-746	Someone has visited every person and every place	That person there didn't visit Jan	NEUTRAL
+tt-747	Everyone has visited every person and every place	Georgia didn't visit Brittany	CONTRADICTION
+tt-748	Everyone has visited Plattsburgh, Lexington, Stony Brook, Ecorse, Bradenton, Joliet, Green Bay, Blairsville, Yuma, Springfield, Delta, Hanover, Oak Park, Montpelier, Mount Holly, Worcester, Decatur and Tahlequah	A person didn't visit Mount Holly	CONTRADICTION
+tt-749	Everyone has visited every person and every place	Sherri didn't visit South Orange Village	CONTRADICTION
+tt-750	Someone has visited every person and every place	That individual there didn't visit Rosie	NEUTRAL
+tt-751	Someone has visited every person and every place	Someone didn't visit Oxnard	CONTRADICTION
+tt-752	Someone has visited every person and every place	An individual didn't visit Waterloo	CONTRADICTION
+tt-753	Everyone has visited every place	Andrea didn't visit Verna	NEUTRAL
+tt-754	Everyone has visited Ripon, Dayton, Leadville, Frederick, Roseville, Roseburg, Jonesborough, Kanab, Rochester and Aliquippa	That particular person did visit Roseburg	ENTAILMENT
+tt-755	Everyone has visited every person and every place	Miriam didn't visit Cheryl	CONTRADICTION
+tt-756	Someone has visited every person and every place	A person visited Madison	ENTAILMENT
+tt-757	Someone has visited every person and every place	An individual visited Margaret	ENTAILMENT
+tt-758	Everyone has visited Jonesborough, Oxford, Geneva, Cedar City, Coral Gables, Evanston, Orange, Longview, Paterson, Corpus Christi and Grayling	That person there did visit Jonesborough	ENTAILMENT
+tt-759	Everyone has visited Greeneville, Devils Lake, Durant, Stony Point, Cortland, Mexico, Titusville, Panguitch, Prineville, Ysleta, Hibbing and Bloomington	Audrey didn't visit Stony Point	CONTRADICTION
+tt-760	Everyone has visited every person and every place	Verna didn't visit Lynn	CONTRADICTION
+tt-761	Someone has visited every person and every place	That individual there didn't visit Johnson City	NEUTRAL
+tt-762	Everyone has visited Branson, Oneonta, Colorado Springs, Saint Joseph, Shawnee, San Jose, Greensboro, Bonners Ferry, East Orange, Melbourne, Portage, Cortland, Terre Haute, South Saint Paul, State College, Borger and Cambridge	Mary didn't visit Cambridge	CONTRADICTION
+tt-763	Everyone has visited every person	Mary didn't visit Tammy	CONTRADICTION
+tt-764	Everyone has visited Richmond, South Orange Village, Mobile, Frederick, Gettysburg, Moundsville, Ely, Estes Park, Mississippi, Fort Walton Beach, Columbus, Cairo and Dothan	Lindsey did visit South Orange Village	ENTAILMENT
+tt-765	Everyone has visited Bangor, Palatka, Forest Hills, Willmar, Demopolis, Crookston, Gunnison, Sterling, New Hampshire, Canton and Delray Beach	Janie didn't visit Gunnison	CONTRADICTION
+tt-766	Everyone has visited Lake Forest, Warren, Huntington, Vincennes, Weston, Pecos, Kearney, Port Gibson, Greeley, Danbury, Norristown, Oxford, Lakehurst, Largo, Ironwood, Mamaroneck, Sauk Centre and Chicopee	Cindy didn't visit Osceola	NEUTRAL
+tt-767	Someone has visited every person and every place	A person didn't visit Hillsborough	CONTRADICTION
+tt-768	Someone has visited every person and every place	A person didn't visit Huntington	CONTRADICTION
+tt-769	Everyone has visited West Des Moines, Harmony, Marlborough, York, Iron Mountain, Hollywood, Rocky Mount, Lubec, De Land, Union, Beacon, Lead, Macon, Chattanooga, Hannibal, Deadwood, Oconto, Alva and Oregon	Geneva did visit West Des Moines	ENTAILMENT
+tt-770	Everyone has visited Pauls Valley, Chester, Tarpon Springs, New Iberia, Plymouth, Racine, Santa Claus, Titusville, Athens, Demopolis, Hackensack and Beaumont	Gloria didn't visit Pauls Valley	CONTRADICTION
+tt-771	Everyone has visited West Seneca, Fremont, Atlantic City, Salem, Sandusky, San Rafael, Midland, Darlington, Green River and Georgetown	Josephine did visit Green River and Georgetown	ENTAILMENT
+tt-772	Everyone has visited East Hampton, Brainerd, Juneau, West Covina, Shelbyville, Watertown, Santa Rosa, Ajo, Bozeman, Indio, Kingsville and Sunnyvale	That particular person did visit West Covina	ENTAILMENT
+tt-773	Everyone has visited every place	Phyllis didn't visit Iris	NEUTRAL
+tt-774	Everyone has visited Cherokee, Scottsdale, Aberdeen, Poughkeepsie, Pampa, Marshall, Ashtabula, Sterling, Gallatin, Wichita Falls, Takoma Park, Tarpon Springs and Colorado Springs	Someone did visit Tarpon Springs and Colorado Springs	ENTAILMENT
+tt-775	Someone has visited every person and every place	Someone didn't visit Mount Holly	CONTRADICTION
+tt-776	Someone has visited every person and every place	An individual didn't visit Patricia	CONTRADICTION
+tt-777	Everyone has visited Prairie du Chien, Paris, Exeter, Abbeville, Sheboygan, Springfield, White Plains, Corydon, Coulee Dam and Union	A person didn't visit Paris	CONTRADICTION
+tt-778	Everyone has visited every person	Andrea didn't visit Carole	CONTRADICTION
+tt-779	Everyone has visited Watervliet, Lovington, Staten Island, Odessa, Lexington, Petoskey, Hackensack, Uniontown, Hillsboro, Bemidji, Columbus, Monroe and Spring Green	Madeline didn't visit Alamogordo	NEUTRAL
+tt-780	Everyone has visited Bartow, Cambridge, Elkhart, Clinton, Chico, Sheridan, Lowell, Inglewood, Peabody, New Albany, Gettysburg, Hollywood, Batesville and Sacramento	A person did visit Hollywood	ENTAILMENT
+tt-781	Everyone has visited Cheektowaga, Louisiana, Burlington, Simi Valley, Omaha, Jackson, Coffeyville, Lewes, Brigham City, Fargo, Fillmore and Rotterdam	Kristi didn't visit Rotterdam	CONTRADICTION
+tt-782	Everyone has visited every person	Lucy didn't visit Flora	CONTRADICTION
+tt-783	Everyone has visited Cheyenne, Leadville, Palmyra, Thermopolis, Cheboygan, North Carolina, Burlington, McPherson, Los Angeles, Muscatine and Glendale	Someone didn't visit North Carolina	CONTRADICTION
+tt-784	Someone has visited every person and every place	That person there didn't visit Kristina	NEUTRAL
+tt-785	Everyone has visited every person and every place	Claudia didn't visit Marlene	CONTRADICTION
+tt-786	Someone has visited every person and every place	That individual there didn't visit Clinton	NEUTRAL
+tt-787	Someone has visited every person and every place	That particular person didn't visit Valdez	NEUTRAL
+tt-788	Everyone has visited Warwick, Niles, Saint Ignace, Bedford, New Hope, Willmar, Norwalk, Glendale, Columbus, Gaffney, Portland and Trinidad	Wanda didn't visit Hodgenville	NEUTRAL
+tt-789	Someone has visited every person and every place	Someone visited Sharon	ENTAILMENT
+tt-790	Everyone has visited Lumberton, Staten Island, San Gabriel, Cushing, Prescott, Mount Pleasant, Nephi, Maryville, Orem, Lebanon, Rochester, Hoquiam, Williamsburg and Port Hueneme	Leah didn't visit Prescott	CONTRADICTION
+tt-791	Everyone has visited every place	Yvette didn't visit Patricia	NEUTRAL
+tt-792	Everyone has visited every place	Jeanette didn't visit Willie	NEUTRAL
+tt-793	Someone has visited every person and every place	Someone didn't visit Gina	CONTRADICTION
+tt-794	Everyone has visited Alpine, College Park, Champaign, Kettering, Hattiesburg, Mobile, Anderson, Bastrop, Cushing, Middletown, West Seneca, Colorado Springs, Bisbee, Providence, Farmington, Belen and Hampton	An individual did visit College Park	ENTAILMENT
+tt-795	Everyone has visited New Paltz, Garden Grove, Santa Rosa, Martins Ferry, Hazleton, Aiken, Ambridge, Little Falls, Evanston, Holyoke, Binghamton, Buffalo, San Leandro, Salem and Sebring	That individual there did visit Garden Grove	ENTAILMENT
+tt-796	Everyone has visited every place	Glenda didn't visit Donna	NEUTRAL
+tt-797	Everyone has visited every person	Jeanette didn't visit Gertrude	CONTRADICTION
+tt-798	Everyone has visited Great Falls, Camden, Alexandria, Waterbury, El Cerrito, Belen, Augusta, Pontiac, San Marcos, Indiana, Gallipolis and Newberg	Katrina didn't visit Woodward	NEUTRAL
+tt-799	Someone has visited every person and every place	An individual visited Highland Park	ENTAILMENT
+tt-800	Everyone has visited Delaware, Northampton, Vancouver, Lowell, Vernal, Libertyville, Sylacauga, Middletown, West Plains and Tooele	Tonya didn't visit Vancouver	CONTRADICTION
+tt-801	Everyone has visited every person and every place	Virginia didn't visit Grace	CONTRADICTION
+tt-802	Everyone has visited San Jose, New Windsor, North Dakota, Prescott, Ypsilanti, Roseville, Arkansas, Casper, Lebanon, Asheville, Painesville, Brainerd, Halifax, South Carolina and Coral Gables	That individual there did visit Lebanon	ENTAILMENT
+tt-803	Someone has visited every person and every place	That person there didn't visit Becky	NEUTRAL
+tt-804	Everyone has visited every place	Viola didn't visit Cohoes	CONTRADICTION
+tt-805	Everyone has visited Dodge City, Barnstable, Fort Morgan, Topeka, Puyallup, Bloomfield, Plattsmouth, Connecticut, Simsbury, Williamsburg, Ellsworth, Conneaut, Richmond, Fort Wayne, Artesia, Hot Springs and Lake Forest	Thelma didn't visit Lake Forest	CONTRADICTION
+tt-806	Everyone has visited Roanoke, College Station, Halifax, Lompoc, Bountiful, Greeley, Jersey City, Port Lavaca, Bloomsburg, Demopolis, Pawhuska, Weymouth, Ypsilanti, Valparaiso, Decatur and Mexico	Erika didn't visit Ecorse	NEUTRAL
+tt-807	Someone has visited every person and every place	A person visited Aurora	ENTAILMENT
+tt-808	Everyone has visited every person and every place	Marcia didn't visit Bertha	CONTRADICTION
+tt-809	Everyone has visited Lansing, Mitchell, Oxford, Burlington, Findlay, Henderson, Thousand Oaks, Plymouth, San Angelo, Ocean City and Bainbridge	An individual didn't visit Ocean City and Bainbridge	CONTRADICTION
+tt-810	Someone has visited every person and every place	A person visited Hillsborough	ENTAILMENT
+tt-811	Everyone has visited every place	Ethel didn't visit April	NEUTRAL
+tt-812	Everyone has visited every person and every place	Lindsay didn't visit Jersey City	CONTRADICTION
+tt-813	Everyone has visited every person	Lillie didn't visit Katie	CONTRADICTION
+tt-814	Everyone has visited Plainview, Indianapolis, Santa Clarita, North Dakota, New Britain, Glens Falls, Costa Mesa, Mackinaw City, Chanute, Hempstead and San Luis Obispo	That particular person did visit Chanute	ENTAILMENT
+tt-815	Everyone has visited Tarpon Springs, Ukiah, International Falls, Batesville, Winooski, Red Bluff, Guthrie, Keyser, Winona, Wheaton, Marietta, Brattleboro, Streator, Saint Albans, Brunswick and Lawton	Patsy did visit Keyser	ENTAILMENT
+tt-816	Someone has visited every person and every place	That person there didn't visit Downey	NEUTRAL
+tt-817	Everyone has visited Roseburg, Santa Claus, New Braunfels, Pharr, Ponca City, Portage, Las Vegas, Centralia, North Hempstead, Meadville, Tiverton, Wood River, Shawnee, Burlington, Lawton, Havre and Saint Petersburg	Rita didn't visit Ouray	NEUTRAL
+tt-818	Someone has visited every person and every place	That individual there didn't visit Cynthia	NEUTRAL
+tt-819	Everyone has visited Bound Brook, Kahului, Georgetown, Warren, Ironwood, Machias, Biddeford, Demopolis, New Hope, Danbury, Oxford, Lenox, Martins Ferry, Milwaukee, Pinehurst and Kitty Hawk	That particular person did visit Milwaukee	ENTAILMENT
+tt-820	Someone has visited every person and every place	That person there didn't visit Arkansas Post	NEUTRAL
+tt-821	Everyone has visited every place	Edith didn't visit Charlene	NEUTRAL
+tt-822	Everyone has visited Vermont, Kennewick, Utah, Davis, South Carolina, Taunton, Lorain, Lake Forest, Fairmont, Ashland, Lafayette, Smith Center, Silver Spring, Plainfield, Opelika, Kinston and Carbondale	Diane did visit Smith Center	ENTAILMENT
+tt-823	Everyone has visited Dover, Idaho City, Palatine, Pottsville, Norwich, Stockbridge, Hershey, Bedford, Sunnyvale, Sag Harbor, Central City, Athens, Belle Fourche, Elizabethton, Lewistown, Jeffersonville and Hobbs	A person did visit Stockbridge	ENTAILMENT
+tt-824	Everyone has visited Akron, Beaumont, Bloomington, Mount Pleasant, Annapolis, Plains, Neosho, Brownsville, Urbana, Alpine, Brunswick, Helena, Lancaster, Caribou, Springfield, North Haven and Priest River	A person didn't visit Annapolis	CONTRADICTION
+tt-825	Everyone has visited Saint Louis, McMinnville, Kankakee, Wahiawa, Manhattan, Hanover, Fernandina Beach, Tuskegee, Marquette and Anniston	An individual didn't visit Kankakee	CONTRADICTION
+tt-826	Everyone has visited every place	June didn't visit Rosa	NEUTRAL
+tt-827	Someone has visited every person and every place	An individual visited Pearl	ENTAILMENT
+tt-828	Someone has visited every person and every place	A person visited Boulder	ENTAILMENT
+tt-829	Everyone has visited Longview, Hagerstown, Texas City, Calistoga, Williamsport, Chicago, Florence, Bluefield, Newport Beach and Alameda	Lisa didn't visit Scranton	NEUTRAL
+tt-830	Everyone has visited Halifax, Weston, Johnson City, Pasco, Cuyahoga Falls, Asbury Park, New Bedford, Philadelphia, Nevada, Selma, Kaneohe and Billings	Melanie did visit Kaneohe and Billings	ENTAILMENT
+tt-831	Everyone has visited every place	Christine didn't visit Lower Southampton	CONTRADICTION
+tt-832	Someone has visited every person and every place	A person didn't visit Joanne	CONTRADICTION
+tt-833	Everyone has visited Kennewick, Farmington, Cody, Nome, Dennis, Pierre, Elizabethton, Tooele, Douglas, Concord, Beloit, Cheboygan, Greenville and Barberton	Carmen didn't visit Newburyport	NEUTRAL
+tt-834	Everyone has visited Danville, Marinette, Ely, Lawrence, Santa Claus, Coos Bay, Lancaster, Alcoa, Clearwater, Canton, Joplin, Hopewell, Hood River, Windsor, Nevada, Elkins, Pass Christian and McPherson	That person there did visit Lancaster	ENTAILMENT
+tt-835	Everyone has visited every place	Gail didn't visit Kathryn	NEUTRAL
+tt-836	Everyone has visited Saint Charles, Waukesha, Pomona, Carson City, Buckhannon, Coral Gables, Clarksville, Meadville, Genoa, Clinton and Farmington	Holly didn't visit Farmington	CONTRADICTION
+tt-837	Everyone has visited West Orange, Leavenworth, Chandler, Fayetteville, Oregon, Hopewell, Lake Forest, Smyrna, Bedford, Florissant, Denver, Bellingham, Ogdensburg, Jackson, Vermillion, Lawrence, Phoenixville, Maryland and Golden	That individual there did visit Jackson	ENTAILMENT
+tt-838	Everyone has visited Hot Springs, Canton, Ocala, Millburn, Terre Haute, Sheffield, Clovis, High Point, Joliet, Dillon, Thibodaux, Concord, Belle Glade, Dallas, Moses Lake, Ketchikan and Rome	An individual didn't visit Terre Haute	CONTRADICTION
+tt-839	Everyone has visited Gretna, Pasco, Moline, Pittsburgh, Sitka, Tahlequah, Richland, Wilkes-Barre, Toledo, Alexandria, Georgetown, Somerville, Hattiesburg, Lawton, Warren, Fort Myers, Pocatello, Camden and Lenox	An individual didn't visit Moline	CONTRADICTION
+tt-840	Everyone has visited Inglewood, Madison, Portage, Nevada, Las Cruces, Columbia, Pasadena, Brigham City, Watertown, Boonville, Novato, Stevens Point, Dubuque, Dothan, Winona and Anadarko	Violet didn't visit Norwood	NEUTRAL
+tt-841	Everyone has visited every place	Ida didn't visit Veronica	NEUTRAL
+tt-842	Someone has visited every person and every place	Someone visited Gina	ENTAILMENT
+tt-843	Someone has visited every person and every place	That person there didn't visit Hot Springs	NEUTRAL
+tt-844	Everyone has visited Gallipolis, Devils Lake, Stillwater, Deerfield Beach, Honolulu, Monticello, Syracuse, Van Buren, Lexington, Union City, West Hartford, Fort Worth and Fitchburg	Kim didn't visit Devils Lake	CONTRADICTION
+tt-845	Everyone has visited Potsdam, Amesbury, Brookline, Lawrence, Toccoa, Roswell, Altus, Reston, Houghton and Hopkinsville	An individual didn't visit Altus	CONTRADICTION
+tt-846	Everyone has visited every place	Joanna didn't visit Flora	NEUTRAL
+tt-847	Everyone has visited Zanesville, Alta, Utah, Mountain View, Stevens Point, Wilmette, Monroeville, Glassboro, Pass Christian, Rexburg, Bloomfield Hills, Titusville, Hillsborough, Bristol, Lenox, Pueblo and Urbana	Miriam did visit Alta	ENTAILMENT
+tt-848	Everyone has visited every person and every place	Olga didn't visit Sherri	CONTRADICTION
+tt-849	Everyone has visited Fond du Lac, Bossier City, Saint Johnsbury, Harrodsburg, Red Wing, Grinnell, La Salle, Sonoma, San Bernardino, Goldsboro, Parma, Oak Ridge, Anaheim, Ogdensburg, Provo, Maryland, Devils Lake, Lombard and Dearborn	An individual didn't visit Anaheim	CONTRADICTION
+tt-850	Everyone has visited Welch, Cahokia, Weirton, Overland Park, San Marino, Reedsport, Machias, Novato, Mystic, Rotterdam, Columbus, Iowa City, Lebanon, Cooperstown, Hazleton, Crossett, Elizabethtown, El Monte and De Land	Glenda didn't visit Bastrop	NEUTRAL
+tt-851	Everyone has visited Palm Springs, Frankfort, Amherst, Park Forest, Tombstone, Miami, Fort Walton Beach, Arizona, Ames, Kearney and Skokie	Bernice did visit Fort Walton Beach	ENTAILMENT
+tt-852	Everyone has visited Carbondale, Stillwater, Cape May, Dallas, Weatherford, Hattiesburg, Ormond Beach, Marion, Fort Smith and Venice	A person did visit Stillwater	ENTAILMENT
+tt-853	Everyone has visited every place	Alberta didn't visit Maria	NEUTRAL
+tt-854	Everyone has visited every person and every place	Cora didn't visit Lauren	CONTRADICTION
+tt-855	Someone has visited every person and every place	Someone visited Nellie	ENTAILMENT
+tt-856	Everyone has visited Colorado Springs, Saginaw, Wilmington, Culver City, Bremerton, Clarksdale, Buffalo, Lake Wales, Wilson, Compton, Caldwell, Carmel, Arthur, Wahiawa and Biloxi	Dora didn't visit Palo Alto	NEUTRAL
+tt-857	Someone has visited every person and every place	That particular person didn't visit Bessie	NEUTRAL
+tt-858	Someone has visited every person and every place	A person didn't visit Martha	CONTRADICTION
+tt-859	Everyone has visited every place	Rosie didn't visit Velma	NEUTRAL
+tt-860	Someone has visited every person and every place	A person didn't visit Mount Vernon	CONTRADICTION
+tt-861	Someone has visited every person and every place	Someone didn't visit Greenville	CONTRADICTION
+tt-862	Everyone has visited every place	Barbara didn't visit Kellogg	CONTRADICTION
+tt-863	Everyone has visited every place	Cindy didn't visit Janet	NEUTRAL
+tt-864	Everyone has visited Fernandina Beach, Pensacola, Virginia, Fairfield, Oneonta, Lakeland, Bedford, Magnolia, Sharon, Hattiesburg, Huntsville and Moorhead	Lisa didn't visit Moorhead	CONTRADICTION
+tt-865	Everyone has visited Manhattan, Missoula, Millville, Kodiak, Milan, Boone, San Luis Obispo, Charlottesville, De Smet, Warwick, Osceola, West Bend, Saint Augustine, Garden City, Danville, Walpi, Medicine Lodge, Paris, Holland and Billings	Someone didn't visit Warwick	CONTRADICTION
+tt-866	Everyone has visited every person and every place	Catherine didn't visit Angie	CONTRADICTION
+tt-867	Everyone has visited every place	Leona didn't visit Rosie	NEUTRAL
+tt-868	Everyone has visited Wellesley, Portsmouth, Collinsville, Puyallup, Torrance, Valdez, San Francisco, Arlington, Bethlehem, Ticonderoga, Bowling Green, San Gabriel, Santa Ana and Henderson	Someone didn't visit Ticonderoga	CONTRADICTION
+tt-869	Everyone has visited Belle Fourche, Los Angeles, Iowa City, Yazoo City, Abbeville, Nashville, Roswell, Bakersfield, Custer, Buffalo, Harlan, Hickory, Caribou and Tyler	That individual there did visit Caribou and Tyler	ENTAILMENT
+tt-870	Someone has visited every person and every place	An individual visited Marian	ENTAILMENT
+tt-871	Someone has visited every person and every place	That person there didn't visit Andrea	NEUTRAL
+tt-872	Someone has visited every person and every place	Someone visited Madeline	ENTAILMENT
+tt-873	Someone has visited every person and every place	A person visited Brandy	ENTAILMENT
+tt-874	Everyone has visited Wauwatosa, Borger, Boulder, Chanute, Waterbury, Santa Clara, Harpers Ferry, Skokie, Minden, South Holland, Englewood, Waukesha, Anacortes, Opelousas and McMinnville	Doris did visit South Holland	ENTAILMENT
+tt-875	Everyone has visited Oneonta, Bronx, Williston, Tahlequah, Bainbridge, Chicago Heights, Pekin, Hickory, Cleburne, Sauk Centre, Vicksburg, Hibbing, Marlborough, El Centro, Windsor Locks, Olympia, Keene and McKeesport	Michelle didn't visit Jackson	NEUTRAL
+tt-876	Everyone has visited Norwalk, Janesville, Kent, Columbia, Silver City, Garden City, Fort Dodge, Weirton, Belfast, Weymouth, Franklin, Farmington and Duxbury	Diana didn't visit Hot Springs	NEUTRAL
+tt-877	Someone has visited every person and every place	That individual there didn't visit West Point	NEUTRAL
+tt-878	Someone has visited every person and every place	That person there didn't visit Pamela	NEUTRAL
+tt-879	Someone has visited every person and every place	Someone visited Harriet	ENTAILMENT
+tt-880	Someone has visited every person and every place	Someone didn't visit Clara	CONTRADICTION
+tt-881	Someone has visited every person and every place	Someone didn't visit Deborah	CONTRADICTION
+tt-882	Everyone has visited every place	Kristi didn't visit New Orleans	CONTRADICTION
+tt-883	Someone has visited every person and every place	That person there didn't visit Philadelphia	NEUTRAL
+tt-884	Everyone has visited Miami, Ludlow, Fort Worth, Vermont, West Haven, Klamath Falls, Coney Island, Denison, Bedford, Pullman and Lubec	Priscilla did visit Miami	ENTAILMENT
+tt-885	Everyone has visited Alamogordo, Decatur, Honolulu, Bryan, Lewes, San Marcos, Flint, Mansfield, Harmony, New Brunswick, Fort Benton, Bedford, Beatrice, Mountain View, Woonsocket and Dover	A person didn't visit Bryan	CONTRADICTION
+tt-886	Everyone has visited Caldwell, Macomb, Sterling, Bloomfield Hills, Lock Haven, Lynchburg, Iowa City, Aurora, Danville, New Market, College Park, Downey, Lewisburg and Kewanee	That particular person did visit Aurora	ENTAILMENT
+tt-887	Everyone has visited Dubuque, Hazleton, Bloomington, East Haven, Geneva, Presque Isle, North Chicago, Minneapolis, Abilene, Brooklyn, Cleveland Heights, Antioch, Eureka, Orderville, Nags Head, Alpine and Montgomery	Ada did visit Antioch	ENTAILMENT
+tt-888	Everyone has visited Petoskey, Kodiak, Oregon, Klamath Falls, Brea, Springfield, Charlevoix, Shawnee, El Paso, Ames, Hyde Park, Dover, Youngstown, Rochester and Pauls Valley	An individual did visit Petoskey	ENTAILMENT
+tt-889	Someone has visited every person and every place	Someone visited Marlene	ENTAILMENT
+tt-890	Everyone has visited Inglewood, La Grange, Raton, Galena, Ephrata, Pottsville, Fort Walton Beach, Council Bluffs, Orderville and Atchison	Carolyn didn't visit Central Falls	NEUTRAL
+tt-891	Everyone has visited every place	Marion didn't visit Genevieve	NEUTRAL
+tt-892	Everyone has visited every place	Shannon didn't visit Gwendolyn	NEUTRAL
+tt-893	Someone has visited every person and every place	A person visited Lindsay	ENTAILMENT
+tt-894	Everyone has visited Plainfield, Athol, Brea, Helena, Livonia, Marysville, East Greenwich, Merced, Jamestown and Melbourne	Jo didn't visit Merced	CONTRADICTION
+tt-895	Someone has visited every person and every place	An individual visited Phyllis	ENTAILMENT
+tt-896	Someone has visited every person and every place	An individual didn't visit Lorraine	CONTRADICTION
+tt-897	Everyone has visited Muscatine, Greenfield, Stillwater, Ithaca, Asbury Park, Fort Worth, Port Arthur, Weirton, Salem, Fort Collins, Glendive, Ocean City, Apalachicola and Canton	Jenny didn't visit Genoa	NEUTRAL
+tt-898	Everyone has visited every place	Glenda didn't visit Kristy	NEUTRAL
+tt-899	Everyone has visited every person	Nellie didn't visit Agnes	CONTRADICTION
+tt-900	Everyone has visited Ely, Elmira, Racine, Trenton, Anaconda, North Carolina, Mission, Andersonville, Hillsboro, Steubenville, Norman, San Marcos, Lynchburg, Glen Ellyn, Fitchburg, Rexburg and North College Hill	Nellie didn't visit Raton	NEUTRAL
+tt-901	Everyone has visited Canyon, Avondale, Lewiston, San Bernardino, Winchester, Tupelo, Escondido, Norristown, Plymouth, Wilmette, Somerville and Delray Beach	Carole didn't visit Bedford	NEUTRAL
+tt-902	Someone has visited every person and every place	Someone visited Elsie	ENTAILMENT
+tt-903	Everyone has visited every place	Ashley didn't visit Iowa	CONTRADICTION
+tt-904	Everyone has visited every place	Isabel didn't visit Lucille	NEUTRAL
+tt-905	Everyone has visited East Point, Plainfield, Newark, Saint Charles, Bartow, Hobart, Andersonville, Defiance, Garland, Abbeville, Oregon, Passaic, Florence, Holdenville, Beatrice, Homer and Atlanta	Joy did visit Homer and Atlanta	ENTAILMENT
+tt-906	Everyone has visited Abbeville, Longview, Pascagoula, Bismarck, Salem, Honaunau, Bay Saint Louis, Wichita, Acoma and Abingdon	An individual did visit Acoma and Abingdon	ENTAILMENT
+tt-907	Everyone has visited Gallipolis, Pennsylvania, Ferguson, Normal, Glenwood Springs, Henderson, Shamokin, Atchison, Sheridan, Dover, South Orange Village, Gary, Sapulpa and Rugby	A person didn't visit Sheridan	CONTRADICTION
+tt-908	Everyone has visited every person and every place	Laurie didn't visit Estherville	CONTRADICTION
+tt-909	Someone has visited every person and every place	Someone visited Kristy	ENTAILMENT
+tt-910	Everyone has visited El Paso, Portsmouth, Greenwood, Dartmouth, Orono, Santa Clarita, Jamestown, Clinton, Lenox, Delta, Ocean City, Stockton, Somerville, Spokane, Kittery, Fairbanks, Oak Harbor and Paris	Alberta did visit Jamestown	ENTAILMENT
+tt-911	Someone has visited every person and every place	That person there didn't visit Lubbock	NEUTRAL
+tt-912	Everyone has visited Williamsburg, Pecos, Goshen, Bethany, Frederick, Sparks, Tiverton, North College Hill, Cape Coral, Fort Payne, Monroe and Hyattsville	Loretta did visit Frederick	ENTAILMENT
+tt-913	Everyone has visited New Haven, Cleveland Heights, Johnson City, Xenia, Levittown, Saint Petersburg, Fairhaven, Phoenix, Talladega, Glenview, Wood River, Kingsport and Cape Girardeau	That person there did visit New Haven	ENTAILMENT
+tt-914	Everyone has visited Council Grove, Pinehurst, New Bedford, Chicago Heights, Henderson, Park Forest, Fort Kent, Sturgis, Saint Johnsbury, Peru and Sharon	Hilda didn't visit Santa Ana	NEUTRAL
+tt-915	Everyone has visited every place	Eva didn't visit Fannie	NEUTRAL
+tt-916	Everyone has visited Watts, Wenatchee, Buffalo, Garden Grove, Elkhart, Orem, Darlington, Bluefield, Ames, Saint Johnsbury, Harrodsburg, Zion, Falls Church, Chicago, Texarkana, Cushing, Frederick and Falmouth	A person did visit Ames	ENTAILMENT
+tt-917	Everyone has visited every person and every place	Monica didn't visit Fontana	CONTRADICTION
+tt-918	Everyone has visited every person and every place	Lorraine didn't visit Ana	CONTRADICTION
+tt-919	Everyone has visited New Smyrna Beach, Andersonville, Lakewood, Newport, Willingboro, Randolph, Miami, Kenosha, Waukesha and Lebanon	Bobbie did visit Newport	ENTAILMENT
+tt-920	Everyone has visited Socorro, Manti, Stockbridge, Alamogordo, Monterey, Pontiac, Valdosta, Lewiston, Belleville, Wyoming, Connersville and Indianapolis	Tiffany didn't visit Alva	NEUTRAL
+tt-921	Everyone has visited Mission, Alaska, Sheffield, Somersworth, Plattsburgh, Lancaster, Richmond, Monticello, Inglewood, Hyannis, York, Pampa, Andalusia, Guymon and Augusta	Pauline didn't visit Midwest City	NEUTRAL
+tt-922	Everyone has visited every place	Kimberly didn't visit Whittier	CONTRADICTION
+tt-923	Someone has visited every person and every place	That person there didn't visit Holly	NEUTRAL
+tt-924	Everyone has visited Taunton, Walpi, Butte, Peabody, Santa Fe, Missoula, Andalusia, Selma, West Lafayette, Sherman and Heber City	Someone didn't visit Selma	CONTRADICTION
+tt-925	Everyone has visited every place	Doris didn't visit Opal	NEUTRAL
+tt-926	Everyone has visited every place	Susie didn't visit Christine	NEUTRAL
+tt-927	Everyone has visited Fernandina Beach, Winnemucca, Hanalei, Sault Sainte Marie, San Fernando, San Bernardino, Welch, Queens, Wickford, Arcadia, Houston, Spring Green, Bar Harbor, New Harmony and Elizabeth	Mattie didn't visit Janesville	NEUTRAL
+tt-928	Someone has visited every person and every place	That individual there didn't visit Lenox	NEUTRAL
+tt-929	Someone has visited every person and every place	That individual there didn't visit Alexander City	NEUTRAL
+tt-930	Everyone has visited every person	Alberta didn't visit Beulah	CONTRADICTION
+tt-931	Everyone has visited every person and every place	April didn't visit Sheila	CONTRADICTION
+tt-932	Everyone has visited Haddonfield, Cortez, Windsor Locks, Douglas, Moore, Kankakee, Greenville, Fairhaven, Harlan, Oregon City, Kilgore, New Jersey, Sheboygan, Chico, Eugene, San Juan Capistrano and Belmont	Elizabeth didn't visit Saint Albans	NEUTRAL
+tt-933	Everyone has visited Durham, Carrollton, Talladega, Granite City, Payson, Cranston, Springfield, Big Spring, Elizabeth City, Douglas and Bremerton	That particular person did visit Granite City	ENTAILMENT
+tt-934	Everyone has visited every person	Alma didn't visit Willie	CONTRADICTION
+tt-935	Everyone has visited Morgan City, Overland Park, Glendale, Syracuse, Williamsport, Kanab, Clarksburg, Cohasset, Fredericksburg, Huntington, Jacksonville, White Springs, Crossett, El Reno, West Seneca, Mount Vernon, Nashua, Osceola, Pittsburgh and Saint Marys City	Daisy didn't visit Fulton	NEUTRAL
+tt-936	Everyone has visited Darien, Nanticoke, Eugene, Berkeley, Beloit, New Ulm, Santa Claus, Randolph, Gallipolis, Pomona, Stamford, Cranford, Greensburg, Kenosha, Chapel Hill, Shamokin, Norwich, Hibbing and Hastings	Rebecca didn't visit Arkansas City	NEUTRAL
+tt-937	Everyone has visited Pekin, San Simeon, Virden, Tyler, Maysville, Bristol, Provo, Delta, Elk City, La Grange, Carthage, Clanton, North Little Rock, Edinburg, Leominster, Texas City, Chattanooga and Estherville	Brandi did visit Provo	ENTAILMENT
+tt-938	Everyone has visited every person	Leah didn't visit Janet	CONTRADICTION
+tt-939	Everyone has visited every place	Katie didn't visit Rachel	NEUTRAL
+tt-940	Someone has visited every person and every place	That individual there didn't visit Jan	NEUTRAL
+tt-941	Everyone has visited Sacramento, Reston, Rapid City, Laramie, Alpine, Corpus Christi, Wilmette, Grosse Pointe, Lancaster, Sallisaw and Leavenworth	Mamie didn't visit Niagara Falls	NEUTRAL
+tt-942	Everyone has visited Inglewood, Kennewick, Springfield, McKeesport, Lynchburg, Amherst, Camden, Darlington, Derry, North Little Rock and Concord	That person there did visit North Little Rock and Concord	ENTAILMENT
+tt-943	Everyone has visited Longmont, Weehawken, Midwest City, Port Huron, Lewiston, Iron Mountain, Springville, Wethersfield, Loveland, Naperville, Harlingen, Albany, Tiverton, Yazoo City, Scottsdale, Pecos and New Brunswick	Lola did visit Port Huron	ENTAILMENT
+tt-944	Everyone has visited Pryor, Middletown, Mountain View, Shawnee, Rockland, Lehi, San Clemente, Atmore, Connecticut, Abilene, Skokie, Marietta, Aurora, Prichard, Niles and Starkville	An individual did visit Abilene	ENTAILMENT
+tt-945	Someone has visited every person and every place	Someone visited Christy	ENTAILMENT
+tt-946	Everyone has visited every place	Donna didn't visit Sara	NEUTRAL
+tt-947	Everyone has visited Auburn, Harrodsburg, Rancho Cucamonga, Phoenix, Scarsdale, Price, Gallatin, Minnesota, Wyoming, Gulfport, Plains, Bisbee, West Memphis, Monroeville and Cape Girardeau	Jenny didn't visit Wyoming	CONTRADICTION
+tt-948	Everyone has visited New Ulm, North Haven, Mississippi, Saint Louis, Lake Charles, Fort Morgan, Costa Mesa, Laguna Beach, Fontana, Delaware, Forest Hills, Alaska, Middletown, Kanab, Little Rock and Bluefield	That particular person did visit Kanab	ENTAILMENT
+tt-949	Someone has visited every person and every place	That person there didn't visit Sue	NEUTRAL
+tt-950	Everyone has visited Pasco, Homer, Rutherford, Philadelphia, Elyria, Chico, Romney, Natick, Hays, Plattsmouth, Berea, Ajo, High Point and Virginia Beach	Candace didn't visit High Point	CONTRADICTION
+tt-951	Everyone has visited every person	Natalie didn't visit Marion	CONTRADICTION
+tt-952	Everyone has visited every place	Bonnie didn't visit Melody	NEUTRAL
+tt-953	Everyone has visited every place	Lucille didn't visit Blanche	NEUTRAL
+tt-954	Everyone has visited High Point, Brockton, Petersburg, Urbana, Knoxville, Salt Lake City, Attleboro, Barstow, Brooklyn, Adrian, Stony Point, Burlington, Provincetown, Trenton, Arkansas, Edmond and Kellogg	Someone did visit Provincetown	ENTAILMENT
+tt-955	Everyone has visited Englewood, Hickory, Heber City, Bloomfield, New Hampshire, Central City, Lufkin, Hoboken, Tiffin, Ottumwa, Piqua and Ysleta	That person there did visit Ottumwa	ENTAILMENT
+tt-956	Everyone has visited Smith Center, Amherst, Wisconsin Dells, Heber City, Douglas, Flint, Seminole, Charlestown, Lakewood, Bogalusa, Watervliet, Del Rio, Lebanon, Babylon, Wooster, Jamestown, Malibu, Menlo Park, Connersville and Peterborough	An individual didn't visit Heber City	CONTRADICTION
+tt-957	Someone has visited every person and every place	An individual didn't visit Rosie	CONTRADICTION
+tt-958	Everyone has visited Hot Springs, Fort Pierce, Ecorse, Sitka, Bethesda-Chevy Chase, Geneva, Hayward, Georgetown, Sedalia, Lander, Portage, Arlington Heights, Americus, Rumford, Saint Joseph, Hempstead, Mansfield and Bowling Green	An individual didn't visit Hot Springs	CONTRADICTION
+tt-959	Everyone has visited every person and every place	Rhonda didn't visit Mesa	CONTRADICTION
+tt-960	Someone has visited every person and every place	That individual there didn't visit Geraldine	NEUTRAL
+tt-961	Everyone has visited every place	Lillie didn't visit Eileen	NEUTRAL
+tt-962	Everyone has visited Ilion, Everett, Aliquippa, Midland, Greenville, Grand Forks, Bowie, Prescott, Darien, Orange, Guymon, Florissant and Yorba Linda	Susan didn't visit Sturgis	NEUTRAL
+tt-963	Everyone has visited Benton, Redding, Columbia, Roswell, Mansfield, Darlington, Saratoga Springs, Kalamazoo, El Cerrito, Put-in-Bay, Topeka, Dubuque, Hodgenville, North Platte, Torrington and Marietta	Peggy didn't visit Augusta	NEUTRAL
+tt-964	Everyone has visited East Saint Louis, Crossett, Aberdeen, Marquette, Saratoga Springs, Charlevoix, Pryor, Buffalo, Hershey, Levittown, Fort Collins, Princeton, Taunton, Interlochen and Lincoln	That particular person did visit Saratoga Springs	ENTAILMENT
+tt-965	Everyone has visited every place	Sonya didn't visit Regina	NEUTRAL
+tt-966	Everyone has visited Newport Beach, Silver City, Cleveland Heights, Antioch, Madison, Waterville, Middlebury, Ormond Beach, San Jose, Morristown, Enfield, Conneaut, Ely, Interlochen, McKinney and Lexington	Nina did visit Silver City	ENTAILMENT
+tt-967	Everyone has visited every person	Jodi didn't visit Dolores	CONTRADICTION
+tt-968	Everyone has visited every person and every place	Cindy didn't visit Lindsey	CONTRADICTION
+tt-969	Everyone has visited Westerly, Florissant, Oroville, New Brunswick, Marion, Osawatomie, Cambridge, Milledgeville, Point Pleasant, Winona, Fargo, Maryville, Eastham, Mexico, Marshall, Saint Petersburg, Carson City, Garden Grove and New Madrid	Alison did visit Saint Petersburg	ENTAILMENT
+tt-970	Everyone has visited every place	Lori didn't visit Janet	NEUTRAL
+tt-971	Everyone has visited every place	Beulah didn't visit Joy	NEUTRAL
+tt-972	Everyone has visited every place	Deborah didn't visit Yakima	CONTRADICTION
+tt-973	Someone has visited every person and every place	Someone visited Needles	ENTAILMENT
+tt-974	Everyone has visited Boonesborough, Bound Brook, Oregon, Monmouth, Jefferson City, Hoquiam, Stevens Point, Golden, Fond du Lac, Jackson, Ashland, Tiverton, Coupeville and South Charleston	Someone didn't visit Tiverton	CONTRADICTION
+tt-975	Someone has visited every person and every place	That individual there didn't visit Melinda	NEUTRAL
+tt-976	Everyone has visited every place	Jo didn't visit Glendale	CONTRADICTION
+tt-977	Everyone has visited New Smyrna Beach, Casper, Nags Head, Manistee, Bossier City, Beverly, Middlebury, Oraibi, Missoula, Binghamton, Montrose, Maysville and Sand Springs	Cora didn't visit Montrose	CONTRADICTION
+tt-978	Everyone has visited every place	Valerie didn't visit Audrey	NEUTRAL
+tt-979	Everyone has visited every person and every place	Brandy didn't visit Irene	CONTRADICTION
+tt-980	Someone has visited every person and every place	Someone visited Lauren	ENTAILMENT
+tt-981	Someone has visited every person and every place	That individual there didn't visit Alicia	NEUTRAL
+tt-982	Everyone has visited Beloit, Irving, Manti, Groton, Montclair, Pontiac, Clarksville, Lexington, Elmhurst, Conneaut, Palmdale, New Kensington, New Hope, Cambridge, Cleveland Heights, Independence and Ann Arbor	A person didn't visit Manti	CONTRADICTION
+tt-983	Everyone has visited Lake Wales, Ketchikan, Arkansas City, Auburn, Englewood, Groton, Freeport, Bethany, Dickinson, Palmer, Willingboro, Grand Junction and Pipestone	Someone did visit Englewood	ENTAILMENT
+tt-984	Everyone has visited every place	Stephanie didn't visit Katrina	NEUTRAL
+tt-985	Everyone has visited Freeport, Tucson, Truth or Consequences, Moore, Ada, Longmont, Tennessee, Battle Creek, New Bedford, Huntington, North Adams, East Hartford, Walla Walla and Gulfport	Julia did visit Freeport	ENTAILMENT
+tt-986	Everyone has visited every person	Lula didn't visit Lois	CONTRADICTION
+tt-987	Someone has visited every person and every place	That particular person didn't visit Eugene	NEUTRAL
+tt-988	Everyone has visited every place	Roberta didn't visit Guntersville	CONTRADICTION
+tt-989	Everyone has visited Mount Pleasant, Johnstown, Greeneville, Fayetteville, Saint Petersburg, Wellfleet, New Castle, Hancock, Fort Lee, Levittown, Glassboro, Presque Isle, Saint Paul, Helena, Houghton, Manchester, Geneva, New Paltz, Anaheim and Gunnison	Michelle didn't visit Ontario	NEUTRAL
+tt-990	Someone has visited every person and every place	Someone visited Erika	ENTAILMENT
+tt-991	Everyone has visited every place	Janice didn't visit Kristina	NEUTRAL
+tt-992	Everyone has visited every place	Theresa didn't visit Eleanor	NEUTRAL
+tt-993	Everyone has visited Mishawaka, Idaho Falls, Muscatine, Alamosa, Mission, Kingsville, Clearfield, Wilmette, Tamaqua, Jamestown, Glendale, Sauk Centre, Rockford, The Village, Chadron, Middlesboro, Ferguson, Guntersville and Napa	Monica didn't visit Sauk Centre	CONTRADICTION
+tt-994	Everyone has visited every place	Crystal didn't visit Osceola	CONTRADICTION
+tt-995	Someone has visited every person and every place	Someone visited Brittany	ENTAILMENT
+tt-996	Everyone has visited Bath, Millburn, Rhinelander, Uniontown, Eveleth, Cadillac, Streator, Savannah, Hugo, Wisconsin Dells, Durant, Plattsburgh, Tullahoma, Durham, Carrollton and Stevens Point	Louise didn't visit Stonington	NEUTRAL
+tt-997	Everyone has visited Lewes, Stillwater, Belfast, Mountain View, Kansas City, Morrilton, Salem, Walsenburg, Bay City, Goldsboro, New Smyrna Beach, San Gabriel, Camden, Marion, Columbus and Douglas	That individual there did visit Salem	ENTAILMENT
+tt-998	Everyone has visited Pottsville, Torrance, Tarpon Springs, Bronx, Lubbock, Nacogdoches, Brea, Rumford, Grafton, South Carolina, Arkansas, Mount Pleasant, Bemidji, Montana, Denison, Hudson, Wyandotte, Parsippany–Troy Hills and Idaho	Joanne didn't visit Windham	NEUTRAL
+tt-999	Someone has visited every person and every place	An individual didn't visit Dawn	CONTRADICTION
