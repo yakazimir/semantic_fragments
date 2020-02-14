@@ -21,7 +21,6 @@ For allennlp[https://allennlp.org/], do the following:
     conda activate allennlp 
     pip install allennlp==0.8.3 tqdm # (will install pytorch, my version is 1.1.0, like above)
 
-
 Step 2: prepare everything (get associated data, models,etc..)
 ==================
 
@@ -29,7 +28,37 @@ Download the following BERT models, unpack then and put into `path_to_semantic/f
 
 Download the associated experiment files (largely data files chopped up for inoculation, etc..)
 here[https://drive.google.com/file/d/1-kSKE95uP92YM_Bw1qdRjrbeYQxwR0-X/view?usp=sharing]
-and unpack at the top directory. 
+and unpack at the top directory.
+
+To ensure that the models are properly set up and the data downloaded,
+you can run the following (which will run the SNLI BERT model on the
+SNLI test dataset, which is distributed within this release):
+
+```
+python -m bert_scripts.sen_pair_classification --task_name polarity \
+       --bert_model bert-base-uncased  \
+       --output_dir _experiments/bert_snli_snli_test \
+       --data_dir /home/kyler/projects/NLI/generate_challenge/orig_test/snli \
+       --do_eval \
+       --do_lower_case \
+       --max_seq_length 128 \
+       --run_existing bert_scripts/bert_models/snli/pytorch_model.bin \
+       --bert_config bert_scripts/bert_models/snli/bert_config.json
+       ```
+
+The same on BreakingNLI:
+
+```
+python -m bert_scripts.sen_pair_classification --task_name polarity \
+       --bert_model bert-base-uncased  \
+       --output_dir _experiments/bert_snli_breaking_nli_test \
+       --data_dir breaking_nli_dataset/ \
+       --do_eval \
+       --do_lower_case \
+       --max_seq_length 128 \
+       --run_existing bert_scripts/bert_models/snli/pytorch_model.bin \
+       --bert_config bert_scripts/bert_models/snli/bert_config.json
+```
 
 
 hypothesis/premise-only baselines
