@@ -54,3 +54,12 @@ MNLI dev/challenge final tests  and inoculation
 `./scripts/test_inoculation.sh`
 
 notes: runs through all models (i.e., BERT, esim, decomposable-attention); shows how to reproduce the final results and how to do inoculation. 
+
+Training BERT models from scratch using SNLI/MNLI
+-------------------------------
+
+`./scripts/train_snli_mnli.sh`
+
+Requires 
+
+note: see note above about SNLI. 
