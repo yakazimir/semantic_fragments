@@ -60,7 +60,6 @@ python -m bert_scripts.sen_pair_classification --task_name polarity \
        --bert_config bert_scripts/bert_models/snli/bert_config.json
 ```
 
-
 hypothesis/premise-only baselines
 ==================
 
