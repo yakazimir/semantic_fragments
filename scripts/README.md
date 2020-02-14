@@ -12,8 +12,8 @@ For setting up BERT related dependencies (all of which uses Huggingface[https://
     conda install -c anaconda numpy=1.15.4
     conda install -c anaconda scipy=1.2.1
     conda install scikit-learn=0.20.3 
-    #pip install pytorch-pretrained-bert==0.6.1 ## (old version of huggingface before name change)
-    pip install pytorch-transformers==0.6.1 # (will install pytorch, my version is 1.1.0)
+    pip install pytorch-pretrained-bert==0.6.1 ## (old version of huggingface before name change; should work)
+    #pip install pytorch-transformers==0.6.1 # (will install pytorch, my version is 1.1.0)
 
 For allennlp[https://allennlp.org/], do the following:
 
@@ -60,6 +60,6 @@ Training BERT models from scratch using SNLI/MNLI
 
 `./scripts/train_snli_mnli.sh`
 
-Requires 
+Requires unpacking the files in `generate_challenge/data/snli{_mnli}_train/`
 
 note: see note above about SNLI. 
