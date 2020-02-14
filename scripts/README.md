@@ -44,7 +44,7 @@ python -m bert_scripts.sen_pair_classification --task_name polarity \
        --max_seq_length 128 \
        --run_existing bert_scripts/bert_models/snli/pytorch_model.bin \
        --bert_config bert_scripts/bert_models/snli/bert_config.json
-       ```
+``` 
 
 The same on BreakingNLI:
 
