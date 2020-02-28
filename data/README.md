@@ -1,7 +1,9 @@
 Semantic Fragment datasets
 ================================
 
-This sub-directory contains the *complete* 8 challenge datasets reported in our paper here[https://arxiv.org/pdf/1909.07521.pdf]. Each datasets contains a `train` and `test` sub-directory, in which the datasets sit both in SNLI (allenNLP json) format (`{train,dev,test}.json`) and the format used by our BERT models (`challenge_{train,dev}.tsv`, Note that `challenge_dev.tsv` is the cover name for all held-out sets in our BERT implementation, so in each `test` directory `challenge_dev.tsv` is actually a test set).
+This sub-directory contains the *complete* 8 challenge datasets reported in our paper here[https://arxiv.org/pdf/1909.07521.pdf].
+
+Each datasets contains a `train` and `test` sub-directory, in which the datasets sit both in SNLI (allenNLP json) format (`{train,dev,test}.json`) and the format used by our BERT models (`challenge_{train,dev}.tsv`, Note that `challenge_dev.tsv` is the cover name for all held-out sets in our BERT implementation, so in each `test` directory `challenge_dev.tsv` is actually a test set).
 
 NOTE: In the 6 *logic fragments* (i.e., boolean, compatative, conditional, counting, negation, quantifer), the tests sets have a disjoint vocabulary (this was intentional to to look at model performance in a non-iid/out-of-domain testing scenario), so results might vary dramatically from `dev` to `test` (see details of how we dealt with this is described below; see also `scripts/README.md` for details about all of our experiments). 
 
@@ -15,6 +17,8 @@ We largely used these datasets to do the following two types of experiments (as 
 2. **Model inoculation** (see here[https://github.com/nelson-liu/inoculation-by-finetuning]), i.e., given the same standard NLI models trained on SNLI/MNLI, can we continue training the models to perform well on these new tasks (without hurting their performance on the benchmarks) by giving them small **dosages** of these new tasks? In other words, can we teach these models to be good at our new tasks with totally re-training them from scratch? (see `scripts/test_inoculation.sh`)
 
 In the latter experiments, the number of training examples we use for inoculation is an additional hyper-parameter adjusted during the tuning phase. In other words, training on the full 3k training examples for each dataset does not necessarily yield the best results, and might seriously overfit, especially on the datasets that involve non-iid testing (as mentioned above). In addition to the files and datasets in this directory, you can also find our full set of experimental materials (with the different inoculation sets cut up), here[https://drive.google.com/file/d/1-kSKE95uP92YM_Bw1qdRjrbeYQxwR0-X/view?usp=sh], as described in `scripts/README.md`.
+
+We experimented with all datasets separately, i.e., we trained 8 different models and reported on their average in our paper (see scripts in `scripts` for some documentation about individual model performance).
 
 Additional credits
 -----------------------
