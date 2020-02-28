@@ -1,0 +1,1000 @@
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "every bad poodle who no animals hit was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "some rabbit danced", "sentence2": "most nice rabbits danced", "gold_label": "neutral", "pairID": "144", "captionID": "c-144"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "no quadrupeds inspected some rabbit who most beagles sniffed", "gold_label": "neutral", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown stallion touched some iron boxes", "gold_label": "contradiction", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown or black stallion touched no iron steal boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched a hardwood fence", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "most nice dogs moved away from some nice beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "no very bad quadrupeds inspected most brown rabbits who most beagles sniffed", "gold_label": "entailment", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "every black beagle did not move towards no bad quadrupeds", "gold_label": "contradiction", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no dogs who a beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "every brown mammal who most quadrupeds hit scratched most metal chairs", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old beagle who no bats moved away from danced", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "most old rabbits who danced moved", "sentence2": "some old rabbit who danced moved", "gold_label": "entailment", "pairID": "78", "captionID": "c-78"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a very young bulldog scratched some nice chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "a young animal slept", "sentence2": "some young animal danced", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no very old animals who were happy moved away from no plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "every horse did not see no hardwood mailboxes", "gold_label": "neutral", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "most old beagles who no poodles hit touched some newborn cats", "gold_label": "contradiction", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "every bulldog was happy", "sentence2": "some bad bulldog was happy", "gold_label": "entailment", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "no black poodles were not sad", "sentence2": "no black poodles were sad", "gold_label": "contradiction", "pairID": "168", "captionID": "c-168"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "a young quadruped slept", "gold_label": "contradiction", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "some old beagle moved away from every object", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "every young quadruped who most mammals stared at swam", "gold_label": "neutral", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "an animal stared at a beagle", "gold_label": "entailment", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a bad bulldog who most rabbits moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "a brown animal waltzed", "sentence2": "an animal danced", "gold_label": "entailment", "pairID": "46", "captionID": "c-46"}
+{"sentence1": "most animals slept", "sentence2": "some animals danced", "gold_label": "contradiction", "pairID": "25", "captionID": "c-25"}
+{"sentence1": "no young horses danced", "sentence2": "no mammals danced", "gold_label": "neutral", "pairID": "16", "captionID": "c-16"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched every wooden table", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "most quadrupeds stared at no steel wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "no young animals ran", "sentence2": "some young horses ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "some dog did not stare at some fence", "gold_label": "entailment", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old animals who were happy moved away from a plastic wheel", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "a poodle who a young bat sniffed did not run", "gold_label": "entailment", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "most mammals danced", "sentence2": "some animal danced", "gold_label": "entailment", "pairID": "6", "captionID": "c-6"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every old beagle who no poodles hit touched no newborn mammals", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "most poodles inspected a very nice poodle", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "a poodle who no nice beagles hit was not happy", "gold_label": "contradiction", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who some beagle moved towards scratched some boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "every bulldog was happy", "sentence2": "every good bulldog was not happy", "gold_label": "contradiction", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "every mammal scratched every brown or black horse", "gold_label": "neutral", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "some old horse inspected no old quadrupeds", "gold_label": "entailment", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "no black beagle moved towards no quadrupeds", "gold_label": "contradiction", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "some old bulldogs who were happy scratched every wooden object", "gold_label": "contradiction", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "a good bat stared at every nice stallion", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no good animals who some beagle stared at touched no brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "a very good poodle who no quadrupeds hit waltzed", "gold_label": "neutral", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "every rabbit slept", "sentence2": "some bad rabbit slept", "gold_label": "entailment", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved towards some nice boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "every poodle moved", "sentence2": "every good poodle slept", "gold_label": "contradiction", "pairID": "194", "captionID": "c-194"}
+{"sentence1": "a dog danced", "sentence2": "every nice dog waltzed", "gold_label": "neutral", "pairID": "148", "captionID": "c-148"}
+{"sentence1": "most old dogs swam", "sentence2": "some old mammal swam", "gold_label": "entailment", "pairID": "86", "captionID": "c-86"}
+{"sentence1": "no black bulldogs were happy", "sentence2": "no black bulldogs were not happy", "gold_label": "contradiction", "pairID": "177", "captionID": "c-177"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "most brown animals who some brown bat hit were sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "some quadruped stared at no very steel wheels", "gold_label": "entailment", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "most brown bats who most quadrupeds hit scratched every metal chair", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "every bulldog was happy", "sentence2": "a bad bulldog was happy", "gold_label": "entailment", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from some plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no dogs who were happy scratched most wooden boxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every beagle moved towards a beagles who most poodles hit", "gold_label": "contradiction", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "every dog did not see some fence", "gold_label": "neutral", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "some brown bat who most quadrupeds touched scratched some metal chair", "gold_label": "entailment", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "an old animal who no bats moved away from moved", "gold_label": "entailment", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal moved towards no chair", "gold_label": "contradiction", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "some rabbit danced", "sentence2": "most good rabbits waltzed", "gold_label": "neutral", "pairID": "144", "captionID": "c-144"}
+{"sentence1": "most cats were happy", "sentence2": "some animal was happy", "gold_label": "entailment", "pairID": "69", "captionID": "c-69"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch a bad object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "most poodles danced", "sentence2": "every mammal waltzed", "gold_label": "neutral", "pairID": "171", "captionID": "c-171"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every nice animal did not inspect some wheelbarrow", "gold_label": "contradiction", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "most brown cats danced", "sentence2": "some cat danced", "gold_label": "entailment", "pairID": "120", "captionID": "c-120"}
+{"sentence1": "most animals stared at some newborn animal", "sentence2": "most animals did not see some newborn animal", "gold_label": "contradiction", "pairID": "114", "captionID": "c-114"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every black stallion touched some iron boxes", "gold_label": "contradiction", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "every old quadruped who stared at no tables waltzed", "sentence2": "every old quadruped who saw no tables waltzed", "gold_label": "entailment", "pairID": "93", "captionID": "c-93"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched some wooden box", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every old animal who no poodles hit touched no newborn cats", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "some brown or black poodle swam", "sentence2": "a poodle swam", "gold_label": "entailment", "pairID": "17", "captionID": "c-17"}
+{"sentence1": "no young bulldogs inspected every young poodle", "sentence2": "no young bulldogs inspected some very young poodle", "gold_label": "neutral", "pairID": "72", "captionID": "c-72"}
+{"sentence1": "no young animals ran", "sentence2": "some young cats ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "most animals slept", "sentence2": "most animals swam", "gold_label": "contradiction", "pairID": "25", "captionID": "c-25"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched an object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal moved away from some steel object", "gold_label": "contradiction", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every cat inspected most wheelbarrows", "sentence2": "some cat inspected some wheelbarrow", "gold_label": "entailment", "pairID": "124", "captionID": "c-124"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "most good dogs moved away from some beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "most young bulldog who ran was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "some brown or black horse moved towards no wooden objects", "gold_label": "contradiction", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every beagle moved away from every animal who some poodle hit", "gold_label": "neutral", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "every good animal stared at most newborn beagles", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "every newborn bat did not hit a brown or black bat", "sentence2": "a newborn bat did not hit every brown or black bat", "gold_label": "entailment", "pairID": "143", "captionID": "c-143"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "some nice dog moved away from some bad beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no animals who did not see every object were sad", "gold_label": "neutral", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched every hardwood box", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most brown mammals slept", "sentence2": "some brown or black mammal slept", "gold_label": "entailment", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some beagle stared at touched every cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "no brown rabbits sniffed no stallions", "gold_label": "entailment", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "some brown rabbits sniffed no stallions", "gold_label": "contradiction", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "most newborn rabbits hit most good bats", "gold_label": "neutral", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some good poodle who most young bats sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "every newborn bulldog was not happy", "sentence2": "some newborn bulldog was happy", "gold_label": "contradiction", "pairID": "27", "captionID": "c-27"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "some brown or black cat who most old bulldogs sniffed stared at a metal fence", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "most young bulldogs scratched every good chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "no young animals ran", "sentence2": "some very young animals ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved away from every bad object", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "most badgers swam", "sentence2": "a badger swam", "gold_label": "entailment", "pairID": "89", "captionID": "c-89"}
+{"sentence1": "every newborn bat did not hit a brown or black bat", "sentence2": "some newborn bat did not hit a very brown or black bat", "gold_label": "entailment", "pairID": "143", "captionID": "c-143"}
+{"sentence1": "a cat was happy", "sentence2": "no cat was happy", "gold_label": "contradiction", "pairID": "24", "captionID": "c-24"}
+{"sentence1": "most bats who moved waltzed", "sentence2": "a bat waltzed", "gold_label": "entailment", "pairID": "175", "captionID": "c-175"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "most beagle did not move away from most beagles who most poodles hit", "gold_label": "contradiction", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "every newborn bat did not hit a brown or black bat", "sentence2": "most newborn bats did not hit most brown or black bats", "gold_label": "entailment", "pairID": "143", "captionID": "c-143"}
+{"sentence1": "most dogs slept", "sentence2": "some dog slept", "gold_label": "entailment", "pairID": "135", "captionID": "c-135"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no horses did not stare at every wheel", "gold_label": "neutral", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every nice dog who a good bulldog stared at was not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "some animal slept", "sentence2": "an animal danced", "gold_label": "contradiction", "pairID": "75", "captionID": "c-75"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "some nice dog moved away from some very nice beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "every old quadruped who stared at no tables waltzed", "sentence2": "no old quadruped who stared at no tables waltzed", "gold_label": "contradiction", "pairID": "93", "captionID": "c-93"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown or black stallion did not touch no iron boxes", "gold_label": "contradiction", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "no brown or black poodles were not sad", "sentence2": "no very brown poodles were not sad", "gold_label": "entailment", "pairID": "29", "captionID": "c-29"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "no young animals who some beagle moved away from scratched most boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "every cat was happy", "sentence2": "most cats were happy", "gold_label": "entailment", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "a brown cat was happy", "sentence2": "a cat was not happy", "gold_label": "contradiction", "pairID": "7", "captionID": "c-7"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy did not move away from a plastic box", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "every young bulldog who swam was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "most rabbits who touched a beagle swam", "sentence2": "some mammal who touched a beagle swam", "gold_label": "entailment", "pairID": "101", "captionID": "c-101"}
+{"sentence1": "no young bulldogs inspected every young poodle", "sentence2": "no very young bulldogs inspected every poodle", "gold_label": "entailment", "pairID": "72", "captionID": "c-72"}
+{"sentence1": "most young horses did not waltz", "sentence2": "every young animal did not move", "gold_label": "neutral", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "some animal who some very brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "a poodle who no very bad beagles hit was happy", "gold_label": "entailment", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "no black dog who every good quadruped moved away from ran", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "a bat stared at most good stallions", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "some bat was happy", "sentence2": "some good bat was happy", "gold_label": "neutral", "pairID": "35", "captionID": "c-35"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "some dog did not stare at some good fence", "gold_label": "entailment", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "most old beagle moved away from every object", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "some old horse inspected no quadrupeds", "gold_label": "entailment", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "some old dog did not sleep", "sentence2": "some old dog did not run", "gold_label": "contradiction", "pairID": "149", "captionID": "c-149"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "every nice poodle who no good beagles hit was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "a brown poodle did sniffed a steel wheel", "gold_label": "contradiction", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old animals who were happy moved away from most plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved away from no bad boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black bulldogs saw an animal", "gold_label": "neutral", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "most bad bulldogs who some good rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "every horse inspected no quadrupeds", "gold_label": "neutral", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "an old cat saw most wheelbarrows", "sentence2": "every old cat stared at every wheelbarrow", "gold_label": "neutral", "pairID": "0", "captionID": "c-0"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "some newborn animal hit a bat", "gold_label": "entailment", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old bulldogs who were happy moved away from a plastic box", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "no quadruped sniffed every bulldog", "gold_label": "contradiction", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "no horse did not see no wooden mailboxes", "gold_label": "contradiction", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "most bats waltzed", "sentence2": "some bat waltzed", "gold_label": "entailment", "pairID": "153", "captionID": "c-153"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed saw no metal fence", "gold_label": "contradiction", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "most brown mammals slept", "sentence2": "most brown mammals swam", "gold_label": "contradiction", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "most bulldogs who most rabbits moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "some bat scratched a horse", "gold_label": "entailment", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "most bats waltzed", "sentence2": "some bats slept", "gold_label": "contradiction", "pairID": "153", "captionID": "c-153"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some good poodle who a very young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a young animal slept", "sentence2": "an animal moved", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old beagles who were happy moved away from a plastic table", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a bulldog who some rabbit moved towards did not sleep", "gold_label": "contradiction", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "some beagle swam", "sentence2": "a beagle swam", "gold_label": "entailment", "pairID": "12", "captionID": "c-12"}
+{"sentence1": "most young horses did not waltz", "sentence2": "most young horses did not sleep", "gold_label": "contradiction", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "some black stallion touched no iron boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "some badger was sad", "sentence2": "a badger was not sad", "gold_label": "contradiction", "pairID": "54", "captionID": "c-54"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some dogs who some beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a newborn rabbit moved", "sentence2": "most newborn rabbits swam", "gold_label": "neutral", "pairID": "65", "captionID": "c-65"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some dog who every nice quadruped moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who every quadruped moved towards ran", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "every animal moved towards every metal chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "most brown cats danced", "sentence2": "some brown or black cat danced", "gold_label": "entailment", "pairID": "120", "captionID": "c-120"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched every hardwood door", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every brown or black bulldog who most very young poodles inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some poodle who a bat sniffed did not sleep", "gold_label": "contradiction", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a very good beagle stared at no fences", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "every old quadruped who stared at no tables waltzed", "sentence2": "some old quadruped who stared at no old tables waltzed", "gold_label": "entailment", "pairID": "93", "captionID": "c-93"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "an old mammal did not touch some box", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "every nice animal moved towards every steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "every black bat did stared at most brown mammal who was sad", "gold_label": "contradiction", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old rabbits who were happy moved away from most plastic objects", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a bulldog who most very nice rabbits moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "no brown or black poodles were not sad", "sentence2": "no dogs were not sad", "gold_label": "neutral", "pairID": "29", "captionID": "c-29"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "a quadruped sniffed every nice bulldog", "gold_label": "entailment", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "every brown or black mammal was happy", "sentence2": "some brown mammal was happy", "gold_label": "entailment", "pairID": "80", "captionID": "c-80"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some animals who some beagle stared at touched most brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no black poodles were happy", "sentence2": "some black poodles were happy", "gold_label": "contradiction", "pairID": "160", "captionID": "c-160"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from a plastic table", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who most quadruped moved towards ran", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "every old quadruped inspected most nice wheels", "gold_label": "neutral", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "no bulldogs moved", "sentence2": "no dogs moved", "gold_label": "neutral", "pairID": "176", "captionID": "c-176"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did touched some chair", "gold_label": "contradiction", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a brown mammal scratched a steel door", "sentence2": "a brown mammal scratched some steel door", "gold_label": "entailment", "pairID": "127", "captionID": "c-127"}
+{"sentence1": "most rabbits did not run", "sentence2": "a rabbits did ran", "gold_label": "contradiction", "pairID": "39", "captionID": "c-39"}
+{"sentence1": "most brown mammals slept", "sentence2": "a brown mammals ran", "gold_label": "contradiction", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "every newborn beagle was happy", "sentence2": "some very newborn beagle was happy", "gold_label": "entailment", "pairID": "179", "captionID": "c-179"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no horses did not stare at every wooden box", "gold_label": "neutral", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old beagles who were happy moved away from a plastic wheelbarrow", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "a dog did not stare at most fences", "gold_label": "entailment", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "some quadruped was happy", "sentence2": "some very nice quadruped was happy", "gold_label": "neutral", "pairID": "42", "captionID": "c-42"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "a very nice animal stared at some very newborn beagle", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a beagle saw no objects", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "some old mammal did not touch most objects", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no bats who some beagle stared at touched some brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "an old beagles who no bats moved away from slept", "gold_label": "contradiction", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every nice dog who some bulldog stared at was not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "a poodle who no nice beagles touched was happy", "gold_label": "entailment", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "every wooden dog did not sniff most hardwood chairs", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "every bulldog was happy", "sentence2": "every bad bulldog was not happy", "gold_label": "contradiction", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched most hardwood wheelbarrows", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no brown horses did not see most wheels", "gold_label": "entailment", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "a quadruped sniffed every bad bulldog", "gold_label": "entailment", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "most old rabbits were happy", "sentence2": "an old mammal was happy", "gold_label": "entailment", "pairID": "108", "captionID": "c-108"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched a very wooden object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every bat was happy", "sentence2": "a bad bat was happy", "gold_label": "entailment", "pairID": "195", "captionID": "c-195"}
+{"sentence1": "every bulldog was happy", "sentence2": "some bulldog was not happy", "gold_label": "contradiction", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "no brown or black quadrupeds were happy", "sentence2": "some brown quadrupeds were happy", "gold_label": "contradiction", "pairID": "28", "captionID": "c-28"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who some quadruped moved towards ran", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most bats who moved waltzed", "sentence2": "most bats who moved slept", "gold_label": "contradiction", "pairID": "175", "captionID": "c-175"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who a beagle stared at touched no brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no mammals scratched no nice chairs", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "a mammal was not sad", "sentence2": "a very good mammal was not sad", "gold_label": "neutral", "pairID": "116", "captionID": "c-116"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no wooden horses did not see a wooden box", "gold_label": "entailment", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy did not move away from a plastic table", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every badger was happy", "sentence2": "a badger was happy", "gold_label": "entailment", "pairID": "58", "captionID": "c-58"}
+{"sentence1": "every mammal was happy", "sentence2": "every bad mammal was happy", "gold_label": "entailment", "pairID": "197", "captionID": "c-197"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "every poodle who no very good quadrupeds hit danced", "gold_label": "neutral", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no bad horses who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "some nice animal who some brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "every cat inspected most wheelbarrows", "sentence2": "every good cat inspected most wheelbarrows", "gold_label": "entailment", "pairID": "124", "captionID": "c-124"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no bad horses did not see most wooden boxes", "gold_label": "entailment", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "most old rabbits who danced moved", "sentence2": "no old rabbits who danced moved", "gold_label": "contradiction", "pairID": "78", "captionID": "c-78"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some beagle stared at did not hit a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a beagle stared at some bad fences", "gold_label": "contradiction", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "some old dog did not sleep", "sentence2": "some dog did not sleep", "gold_label": "entailment", "pairID": "149", "captionID": "c-149"}
+{"sentence1": "every cat was happy", "sentence2": "most cat was not happy", "gold_label": "contradiction", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old bats who were happy moved away from a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved towards a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every newborn animal was happy", "sentence2": "every animal was happy", "gold_label": "neutral", "pairID": "157", "captionID": "c-157"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no bad cats scratched some objects", "gold_label": "contradiction", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched most very wooden boxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some bad poodle who every young bat sniffed did not move", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a young animal slept", "sentence2": "some young animal moved", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "some old dog did not sleep", "sentence2": "some old dog did not swim", "gold_label": "contradiction", "pairID": "149", "captionID": "c-149"}
+{"sentence1": "an old cat saw most wheelbarrows", "sentence2": "a cat did not see most wheelbarrows", "gold_label": "contradiction", "pairID": "0", "captionID": "c-0"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown mammal who moved moved", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "a dog danced", "sentence2": "a very nice dog waltzed", "gold_label": "neutral", "pairID": "148", "captionID": "c-148"}
+{"sentence1": "most brown or black rabbits slept", "sentence2": "some brown or black mammal slept", "gold_label": "entailment", "pairID": "155", "captionID": "c-155"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "most bats stared at most stallions", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "most brown cats danced", "sentence2": "every brown or black cat waltzed", "gold_label": "neutral", "pairID": "120", "captionID": "c-120"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "a nice poodle who no dogs hit was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "most beagles who no old horses inspected were not happy", "sentence2": "some animal who no old horses inspected was not happy", "gold_label": "entailment", "pairID": "77", "captionID": "c-77"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "no quadruped who ran was sad", "gold_label": "contradiction", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no cats who some beagle stared at touched a very brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown mammal who slept slept", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "most brown or black bulldogs were happy", "sentence2": "every brown or black mammal was happy", "gold_label": "neutral", "pairID": "63", "captionID": "c-63"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched a very wooden wagon", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "most old quadrupeds did not inspect some object", "gold_label": "contradiction", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "some horse was not happy", "sentence2": "a horse was happy", "gold_label": "contradiction", "pairID": "51", "captionID": "c-51"}
+{"sentence1": "most stallions were not happy", "sentence2": "some stallion was not happy", "gold_label": "entailment", "pairID": "45", "captionID": "c-45"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "an animal who some very brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "most bad poodles who every young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no animals who were happy scratched every wooden fence", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no dogs who were happy scratched most hardwood objects", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a bad beagle saw no objects", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "a cat was happy", "sentence2": "most bad cats were happy", "gold_label": "neutral", "pairID": "24", "captionID": "c-24"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "some bat who most quadrupeds hit scratched some metal chair", "gold_label": "entailment", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every brown or black bulldog who most young poodle inspected slept", "gold_label": "contradiction", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some beagle saw touched a brown cat", "gold_label": "neutral", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "no old horse inspected no quadrupeds", "gold_label": "contradiction", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "a young bulldog who danced was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched a wooden box", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "every steel animal moved towards every steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "some black horses did not see every wheel", "gold_label": "contradiction", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "most badgers swam", "sentence2": "some badgers slept", "gold_label": "contradiction", "pairID": "89", "captionID": "c-89"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed did not stare at a fence", "gold_label": "contradiction", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "a black quadruped did not stare at most mammals", "sentence2": "a black quadruped did stared at most mammals", "gold_label": "contradiction", "pairID": "33", "captionID": "c-33"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "every dog moved away from some very good beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "most brown mammals slept", "sentence2": "most brown mammals danced", "gold_label": "contradiction", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "a bat scratched a brown or black horse", "gold_label": "entailment", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "a brown mammal scratched a steel door", "sentence2": "a brown mammal scratched no steel door", "gold_label": "contradiction", "pairID": "127", "captionID": "c-127"}
+{"sentence1": "a brown mammal scratched a steel door", "sentence2": "a brown mammal scratched a steel object", "gold_label": "entailment", "pairID": "127", "captionID": "c-127"}
+{"sentence1": "every brown dog swam", "sentence2": "some brown dog moved", "gold_label": "entailment", "pairID": "15", "captionID": "c-15"}
+{"sentence1": "every brown dog swam", "sentence2": "some brown dog slept", "gold_label": "contradiction", "pairID": "15", "captionID": "c-15"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved away from every dog who sniffed most wheelbarrows", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "every bat was happy", "sentence2": "every good bat was happy", "gold_label": "entailment", "pairID": "195", "captionID": "c-195"}
+{"sentence1": "a dog danced", "sentence2": "a bad dog danced", "gold_label": "neutral", "pairID": "148", "captionID": "c-148"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed stared at every steal fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old poodles who were happy moved away from no plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no young horses danced", "sentence2": "some very young horses danced", "gold_label": "contradiction", "pairID": "167", "captionID": "c-167"}
+{"sentence1": "most animals who were not sad were happy", "sentence2": "most animals who were sad were happy", "gold_label": "contradiction", "pairID": "121", "captionID": "c-121"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "every brown animal who most quadrupeds hit scratched some iron chair", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "an old beagle moved towards an object", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown or black stallion touched no steal iron boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "no rabbits sniffed no young stallions", "gold_label": "neutral", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black bulldogs saw some animal", "gold_label": "neutral", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "no stallions swam", "sentence2": "no good stallions swam", "gold_label": "entailment", "pairID": "52", "captionID": "c-52"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every brown or black bulldog who a young poodle inspected slept", "gold_label": "contradiction", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "a young bulldog who slept was not happy", "gold_label": "entailment", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed saw a metal fence", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no nice horses did not see most wooden boxes", "gold_label": "entailment", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some brown beagle stared at touched no brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from some plastic door", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old beagles did not sleep", "sentence2": "no very old beagles did not dance", "gold_label": "contradiction", "pairID": "159", "captionID": "c-159"}
+{"sentence1": "every bulldog was happy", "sentence2": "most nice bulldogs were happy", "gold_label": "entailment", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "every black beagle was happy", "sentence2": "every brown or black beagle was happy", "gold_label": "neutral", "pairID": "122", "captionID": "c-122"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who a beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no young animals ran", "sentence2": "no very young horses ran", "gold_label": "entailment", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "no black horses were not sad", "sentence2": "no brown or black horses were not sad", "gold_label": "neutral", "pairID": "107", "captionID": "c-107"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "a young quadruped who every bad mammal stared at slept", "gold_label": "contradiction", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "most old horses were not sad", "sentence2": "an old mammal was not sad", "gold_label": "entailment", "pairID": "70", "captionID": "c-70"}
+{"sentence1": "most quadrupeds moved", "sentence2": "no quadrupeds moved", "gold_label": "contradiction", "pairID": "21", "captionID": "c-21"}
+{"sentence1": "most cats were sad", "sentence2": "most cats were not sad", "gold_label": "contradiction", "pairID": "44", "captionID": "c-44"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "no black dog who every bad quadruped moved away from ran", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most brown or black bats were happy", "sentence2": "no brown or black bats were happy", "gold_label": "contradiction", "pairID": "2", "captionID": "c-2"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no badgers who some brown beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "every nice poodle who no quadrupeds touched danced", "gold_label": "neutral", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "every black dog moved towards no objects", "gold_label": "neutral", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "most brown or black stallions who were sad were happy", "sentence2": "some brown or black stallion was happy", "gold_label": "entailment", "pairID": "173", "captionID": "c-173"}
+{"sentence1": "a black quadruped did not stare at most mammals", "sentence2": "a very black quadruped did not stare at some animal", "gold_label": "neutral", "pairID": "33", "captionID": "c-33"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "a brown stallion touched no iron boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch a door", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "a black quadruped touched a stallion", "gold_label": "entailment", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no very nice cats scratched no objects", "gold_label": "entailment", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "a poodle who no nice quadrupeds hit slept", "gold_label": "contradiction", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched every wooden fence", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed stared at every fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "no young animals ran", "sentence2": "some young rabbits ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "a brown or black poodle did sniffed a metal wheel", "gold_label": "contradiction", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "no black bat did not stare at some brown mammal who was sad", "gold_label": "contradiction", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "some rabbit danced", "sentence2": "some rabbit slept", "gold_label": "contradiction", "pairID": "144", "captionID": "c-144"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no dogs who some beagle stared at touched every brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most black dogs moved", "sentence2": "a black animal moved", "gold_label": "entailment", "pairID": "85", "captionID": "c-85"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "most old quadrupeds inspected no object", "gold_label": "contradiction", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched some wooden mailbox", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every dog ran", "sentence2": "no dog ran", "gold_label": "contradiction", "pairID": "56", "captionID": "c-56"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "a bat scratched some brown or black horse", "gold_label": "entailment", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "most dogs slept", "sentence2": "most dogs swam", "gold_label": "contradiction", "pairID": "135", "captionID": "c-135"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every animal who a very brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "no black dogs moved towards no boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "no young animals ran", "sentence2": "some young bulldogs ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "a black quadruped did not stare at most mammals", "sentence2": "a very black quadruped did not stare at an animal", "gold_label": "neutral", "pairID": "33", "captionID": "c-33"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "some bulldog who some rabbit moved away from did not run", "gold_label": "contradiction", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a quadruped stared at no very steel wheels", "gold_label": "entailment", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from some plastic mailbox", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old beagles who were happy moved away from no plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a nice quadruped stared at no wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved towards some boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "most animals stared at some newborn animal", "sentence2": "most animals did not stare at some newborn animal", "gold_label": "contradiction", "pairID": "114", "captionID": "c-114"}
+{"sentence1": "a mammal was not sad", "sentence2": "a very nice mammal was not sad", "gold_label": "neutral", "pairID": "116", "captionID": "c-116"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no cats scratched no nice fences", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "a black beagle moved towards no black quadrupeds", "gold_label": "entailment", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "some very black quadruped who ran was sad", "gold_label": "neutral", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "most bats who moved waltzed", "sentence2": "some bats who slept waltzed", "gold_label": "contradiction", "pairID": "175", "captionID": "c-175"}
+{"sentence1": "most old horses were not sad", "sentence2": "an old horses were sad", "gold_label": "contradiction", "pairID": "70", "captionID": "c-70"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved away from every dog who sniffed a wheelbarrow", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "every badger was happy", "sentence2": "a badger was not happy", "gold_label": "contradiction", "pairID": "58", "captionID": "c-58"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every good dog who a bulldog stared at was not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every brown animal who some brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "most old beagles moved towards every chair", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old bats who were happy moved away from a plastic box", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some newborn bulldog did not run", "sentence2": "no bulldog did not run", "gold_label": "contradiction", "pairID": "199", "captionID": "c-199"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no stallions who some nice beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "no quadrupeds inspected some rabbit who a beagle sniffed", "gold_label": "neutral", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no nice rabbits who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old stallions who were happy moved towards a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "every bad beagle saw no fences", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "some poodle who no nice quadrupeds hit danced", "gold_label": "entailment", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some beagle stared at touched some very brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no very old dogs who were happy did not scratch every wooden object", "gold_label": "contradiction", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "most bad poodles who no beagles hit were happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "a brown or black bulldog who most young poodles inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "most old rabbits who danced moved", "sentence2": "an old rabbit who moved moved", "gold_label": "entailment", "pairID": "78", "captionID": "c-78"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "most bad animals moved towards every steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no brown or black quadrupeds were happy", "sentence2": "no very brown or black quadrupeds were not happy", "gold_label": "contradiction", "pairID": "28", "captionID": "c-28"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some rabbits who some beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no stallions who some brown beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "an animal moved towards a steel chair", "gold_label": "entailment", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "most beagles who no old horses inspected were not happy", "sentence2": "most beagles who no old horses inspected were happy", "gold_label": "contradiction", "pairID": "77", "captionID": "c-77"}
+{"sentence1": "a horse was not happy", "sentence2": "a horse was happy", "gold_label": "contradiction", "pairID": "115", "captionID": "c-115"}
+{"sentence1": "no young animals ran", "sentence2": "some young poodles ran", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old cats who were happy moved away from a plastic wheel", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "every nice poodle was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "every rabbit slept", "sentence2": "every rabbit swam", "gold_label": "contradiction", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "no old beagles did not sleep", "sentence2": "no old beagles did not run", "gold_label": "contradiction", "pairID": "159", "captionID": "c-159"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards every nice object", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "some brown or black cat who most old bulldogs sniffed stared at a metal object", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "every old horse did not inspect no old quadrupeds", "gold_label": "contradiction", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "no brown or black quadruped who ran was sad", "gold_label": "contradiction", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black dogs saw an animal", "gold_label": "neutral", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "most very good quadrupeds sniffed every bulldog", "gold_label": "neutral", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "an old mammal who no bats moved away from moved", "gold_label": "entailment", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "most dogs slept", "sentence2": "some mammal slept", "gold_label": "entailment", "pairID": "135", "captionID": "c-135"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "every black animal moved towards no boxes", "gold_label": "neutral", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "an animal moved towards some steel chair", "gold_label": "entailment", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old stallions who were happy moved away from a plastic chair", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "every bad bulldog who some rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "a dog did sniffed most hardwood chairs", "gold_label": "contradiction", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "every rabbit slept", "sentence2": "every good rabbit waltzed", "gold_label": "contradiction", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "a newborn rabbit moved", "sentence2": "every newborn rabbit danced", "gold_label": "neutral", "pairID": "65", "captionID": "c-65"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched a wooden wheel", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "most black bats did not stare at a brown mammal who was sad", "gold_label": "entailment", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some old wheel", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards most mailboxes", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no bats were happy", "sentence2": "no bats were not happy", "gold_label": "contradiction", "pairID": "100", "captionID": "c-100"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old bulldogs who were happy moved away from a plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most young bats stared at most brown or black bulldogs", "sentence2": "most young bats stared at every bulldog", "gold_label": "neutral", "pairID": "132", "captionID": "c-132"}
+{"sentence1": "no quadrupeds were sad", "sentence2": "no bad quadrupeds were sad", "gold_label": "entailment", "pairID": "113", "captionID": "c-113"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "some good dog moved away from some nice beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old mammals who were happy moved away from some plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no animals scratched no very good objects", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "some bats scratched no brown or black horse", "gold_label": "contradiction", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "a black dog who every quadruped moved away from slept", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "a brown or black cat who most old bulldogs sniffed saw a metal fence", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown or black stallion did not hit no iron boxes", "gold_label": "contradiction", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no mammals who some beagle stared at touched a very brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "a poodle who a young bat sniffed did ran", "gold_label": "contradiction", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "a young quadruped who a mammal stared at swam", "gold_label": "entailment", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some very bad object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "most stallions were happy", "sentence2": "an animal was happy", "gold_label": "entailment", "pairID": "188", "captionID": "c-188"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "every young bulldog scratched some young chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "most horses who swam were happy", "sentence2": "every animal who moved was happy", "gold_label": "neutral", "pairID": "102", "captionID": "c-102"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "every bat who a quadruped hit scratched some metal chair", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no nice animals who some bad beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old animals who were happy moved away from a plastic fence", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some animals who some brown beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most brown mammals slept", "sentence2": "every mammal slept", "gold_label": "neutral", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "most dogs did stared at some fence", "gold_label": "contradiction", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "some beagle moved towards most beagles who most poodles hit", "gold_label": "contradiction", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "most badgers swam", "sentence2": "a badgers slept", "gold_label": "contradiction", "pairID": "89", "captionID": "c-89"}
+{"sentence1": "every mammal was happy", "sentence2": "every mammal was not happy", "gold_label": "contradiction", "pairID": "197", "captionID": "c-197"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "some bat did not stare at a stallion", "gold_label": "contradiction", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "a bats did not scratch a brown or black horse", "gold_label": "contradiction", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "every stallion ran", "sentence2": "some stallion ran", "gold_label": "entailment", "pairID": "164", "captionID": "c-164"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown bulldogs did not see most badgers", "gold_label": "contradiction", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "every bulldog who every bad rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards every bad wagon", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "every horse did not see no wooden objects", "gold_label": "entailment", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no mammals who were happy scratched most wooden objects", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no young bulldogs inspected every young poodle", "sentence2": "no bulldogs inspected a very young poodle", "gold_label": "neutral", "pairID": "72", "captionID": "c-72"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "every nice poodle who a young bat sniffed did not move", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a badger was not sad", "sentence2": "a badger was sad", "gold_label": "contradiction", "pairID": "105", "captionID": "c-105"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed stared at a fence", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "some nice beagle moved away from most beagles who most poodles hit", "gold_label": "entailment", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no mammals who some beagle stared at touched some brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched every hardwood door", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most dogs slept", "sentence2": "some dogs waltzed", "gold_label": "contradiction", "pairID": "135", "captionID": "c-135"}
+{"sentence1": "most old rabbits who danced moved", "sentence2": "an old rabbits who danced slept", "gold_label": "contradiction", "pairID": "78", "captionID": "c-78"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no rabbits who some beagle stared at hit a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "every brown or black mammal who most old bulldogs sniffed stared at an iron fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every brown or black bulldog who every poodle inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "most black quadrupeds touched every brown stallion", "gold_label": "neutral", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who most bad beagles stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "a very nice bat stared at a stallion", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "some brown or black horse did not move towards most wooden objects", "gold_label": "contradiction", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "most young horses did not waltz", "sentence2": "a young horses did not sleep", "gold_label": "contradiction", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "a very brown or black bulldog who some young poodle inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no dogs who some beagle stared at hit a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no young bulldogs inspected every young poodle", "sentence2": "no young dogs inspected most very young poodles", "gold_label": "neutral", "pairID": "72", "captionID": "c-72"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "a poodle who no good quadrupeds touched danced", "gold_label": "entailment", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched a wooden object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did touched some good object", "gold_label": "contradiction", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "most old quadrupeds inspected no wheel", "gold_label": "contradiction", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "every young animal was happy", "sentence2": "a young animal was happy", "gold_label": "entailment", "pairID": "40", "captionID": "c-40"}
+{"sentence1": "no young animals ran", "sentence2": "no young bulldogs slept", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "every black mammal was sad", "sentence2": "most black mammals were sad", "gold_label": "entailment", "pairID": "189", "captionID": "c-189"}
+{"sentence1": "no black poodles were not sad", "sentence2": "some black poodles were not sad", "gold_label": "contradiction", "pairID": "168", "captionID": "c-168"}
+{"sentence1": "no bulldogs moved", "sentence2": "some bulldogs waltzed", "gold_label": "contradiction", "pairID": "176", "captionID": "c-176"}
+{"sentence1": "no young animals ran", "sentence2": "no young mammals slept", "gold_label": "contradiction", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "every black mammal was sad", "sentence2": "a mammal was sad", "gold_label": "entailment", "pairID": "189", "captionID": "c-189"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old cats who were happy moved away from a plastic wheelbarrow", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most rabbits did not run", "sentence2": "most rabbits did not sleep", "gold_label": "contradiction", "pairID": "39", "captionID": "c-39"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "some old beagles who no bats moved towards moved", "gold_label": "contradiction", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "most dogs did not sniff a hardwood chair", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "some old mammal did not touch some good object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no stallions who some good beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no brown animals who some beagle stared at touched no brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no good animals who some beagle stared at did not touch a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown mammal who swam moved", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "every cat inspected most wheelbarrows", "sentence2": "every good cat did not inspect most wheelbarrows", "gold_label": "contradiction", "pairID": "124", "captionID": "c-124"}
+{"sentence1": "no stallions moved", "sentence2": "no nice stallions swam", "gold_label": "entailment", "pairID": "48", "captionID": "c-48"}
+{"sentence1": "no young horses danced", "sentence2": "no young horses moved", "gold_label": "neutral", "pairID": "167", "captionID": "c-167"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards a chair", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "most animals stared at some newborn animal", "sentence2": "a animals did not stare at some newborn animal", "gold_label": "contradiction", "pairID": "114", "captionID": "c-114"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved away from every newborn dog who sniffed an object", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "some good dog did not sniff a hardwood object", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a young bulldog scratched some bad chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "some old mammal did not touch some object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "every animal moved towards most steel chairs", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "no poodle who a bat sniffed did not run", "gold_label": "contradiction", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved away from every wagon", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no stallions moved", "sentence2": "no good stallions danced", "gold_label": "entailment", "pairID": "48", "captionID": "c-48"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did touched some mailbox", "gold_label": "contradiction", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "most good poodles who every young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "some brown or black horses did not see a wheel", "gold_label": "contradiction", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some brown animals who some beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no brown or black poodles were not sad", "sentence2": "some very brown or black poodles were not sad", "gold_label": "contradiction", "pairID": "29", "captionID": "c-29"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "a brown poodle did not sniff some steel wheel", "gold_label": "entailment", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "every young bulldog who moved was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "most brown cats danced", "sentence2": "a cat danced", "gold_label": "entailment", "pairID": "120", "captionID": "c-120"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some good mailbox", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "some beagle inspected most chairs", "gold_label": "entailment", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown or black mammal who swam swam", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "some beagle swam", "sentence2": "some good beagle swam", "gold_label": "neutral", "pairID": "12", "captionID": "c-12"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no animals moved away from an object", "gold_label": "neutral", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no animals did not see every object", "gold_label": "neutral", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "most young bulldogs scratched some very nice chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "every mammal moved towards no boxes", "gold_label": "neutral", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "most brown mammals slept", "sentence2": "some brown mammals swam", "gold_label": "contradiction", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "no brown or black quadrupeds were happy", "sentence2": "no very brown or black quadrupeds were happy", "gold_label": "entailment", "pairID": "28", "captionID": "c-28"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "some young animal who some beagle moved away from scratched some box", "gold_label": "entailment", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "a young quadruped who most good mammals stared at swam", "gold_label": "entailment", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "every brown or black quadruped touched some brown stallion", "gold_label": "neutral", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "some young animals who some beagle moved towards scratched most boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "no old beagles did not sleep", "sentence2": "no animals did not sleep", "gold_label": "neutral", "pairID": "159", "captionID": "c-159"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "every newborn rabbit hit most newborn bats", "gold_label": "neutral", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every animal inspected some object", "gold_label": "entailment", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "most black dogs moved", "sentence2": "every dog ran", "gold_label": "neutral", "pairID": "85", "captionID": "c-85"}
+{"sentence1": "a mammal was not sad", "sentence2": "most mammals were not sad", "gold_label": "neutral", "pairID": "116", "captionID": "c-116"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "some old beagles who no bats moved away from slept", "gold_label": "contradiction", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some brown or black dog who every bad quadruped moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "no beagles were sad", "sentence2": "no very good beagles were sad", "gold_label": "entailment", "pairID": "128", "captionID": "c-128"}
+{"sentence1": "no brown or black quadrupeds were happy", "sentence2": "some brown or black quadrupeds were happy", "gold_label": "contradiction", "pairID": "28", "captionID": "c-28"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no horses did not see every wheel", "gold_label": "neutral", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old mammals who were happy moved away from a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "most very good animals stared at some newborn beagle", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "some badger ran", "sentence2": "no badger moved", "gold_label": "contradiction", "pairID": "34", "captionID": "c-34"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no animals who did not see most boxes were sad", "gold_label": "neutral", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some bad animals who some beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "every black beagle moved towards no good quadrupeds", "gold_label": "entailment", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "no bulldogs moved", "sentence2": "no very bad bulldogs moved", "gold_label": "entailment", "pairID": "176", "captionID": "c-176"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "most bulldogs who some good rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "a quadruped sniffed a bulldog", "gold_label": "entailment", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched most hardwood boxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every newborn bulldog was not happy", "sentence2": "most newborn bulldog was happy", "gold_label": "contradiction", "pairID": "27", "captionID": "c-27"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "some old beagle moved", "gold_label": "entailment", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "every rabbit slept", "sentence2": "a good rabbit slept", "gold_label": "entailment", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "a quadruped inspected some wheel", "gold_label": "entailment", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "no quadrupeds inspected some animal who most beagles sniffed", "gold_label": "neutral", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a very young bulldog scratched every young chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "most bats waltzed", "sentence2": "some animal waltzed", "gold_label": "entailment", "pairID": "153", "captionID": "c-153"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every bulldog waltzed", "gold_label": "neutral", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "most cats were happy", "sentence2": "a cats were not happy", "gold_label": "contradiction", "pairID": "69", "captionID": "c-69"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some poodle who every bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "some brown poodle did not sniff a metal wheel", "gold_label": "entailment", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "most animals stared at some newborn animal", "sentence2": "some animals stared at no newborn animal", "gold_label": "contradiction", "pairID": "114", "captionID": "c-114"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "some bat stared at no stallion", "gold_label": "contradiction", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no bad mammals who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal moved away from some metal chair", "gold_label": "contradiction", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every dog ran", "sentence2": "a dog slept", "gold_label": "contradiction", "pairID": "56", "captionID": "c-56"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "every steel quadruped stared at no steel objects", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every nice dog who a bulldog stared at was not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no brown or black horses did saw a wheel", "gold_label": "contradiction", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "every newborn bat did not hit a brown or black bat", "sentence2": "most newborn bats did not hit a brown or black bat", "gold_label": "entailment", "pairID": "143", "captionID": "c-143"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "every mammal who most old bulldogs sniffed stared at a metal fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every cat was happy", "sentence2": "most good cats were happy", "gold_label": "entailment", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "some nice horses did not see most wooden boxes", "gold_label": "contradiction", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "most brown or black rabbits slept", "sentence2": "a brown or black rabbits moved", "gold_label": "contradiction", "pairID": "155", "captionID": "c-155"}
+{"sentence1": "most brown or black bulldogs were happy", "sentence2": "some bulldog was happy", "gold_label": "entailment", "pairID": "63", "captionID": "c-63"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched every wooden mailbox", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle did not move towards every mailbox", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "most bats waltzed", "sentence2": "a bat danced", "gold_label": "entailment", "pairID": "153", "captionID": "c-153"}
+{"sentence1": "most black dogs moved", "sentence2": "some black mammal moved", "gold_label": "entailment", "pairID": "85", "captionID": "c-85"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "an old beagle moved towards every table", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "some badgers who some beagle stared at touched a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "some brown animal who some brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "most bats who moved waltzed", "sentence2": "some bat who moved danced", "gold_label": "entailment", "pairID": "175", "captionID": "c-175"}
+{"sentence1": "a rabbit ran", "sentence2": "a very good rabbit ran", "gold_label": "neutral", "pairID": "104", "captionID": "c-104"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "every poodle who no nice quadrupeds hit waltzed", "gold_label": "neutral", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "some animal slept", "sentence2": "most very good animals slept", "gold_label": "neutral", "pairID": "75", "captionID": "c-75"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a very bad bulldog who every rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "every poodle who a very young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "most young horses did not waltz", "sentence2": "no young horses did not waltz", "gold_label": "contradiction", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "some hardwood dog did not sniff some wooden chair", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "some brown or black horse did not move towards a wooden objects", "gold_label": "contradiction", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "no young animals ran", "sentence2": "no young beagles ran", "gold_label": "entailment", "pairID": "125", "captionID": "c-125"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "no young quadruped who every mammal stared at swam", "gold_label": "contradiction", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed stared at no metal fence", "gold_label": "contradiction", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "no stallions moved", "sentence2": "some stallions danced", "gold_label": "contradiction", "pairID": "48", "captionID": "c-48"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who a beagle moved away from did not scratch most boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "every poodle inspected a very nice poodle", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "no quadrupeds were sad", "sentence2": "no good quadrupeds were not sad", "gold_label": "contradiction", "pairID": "113", "captionID": "c-113"}
+{"sentence1": "most young bats stared at most brown or black bulldogs", "sentence2": "most young bats stared at some brown or black dog", "gold_label": "entailment", "pairID": "132", "captionID": "c-132"}
+{"sentence1": "every rabbit slept", "sentence2": "every good rabbit slept", "gold_label": "entailment", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched some very wooden wheelbarrow", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every young animal was happy", "sentence2": "some very young animal was happy", "gold_label": "entailment", "pairID": "40", "captionID": "c-40"}
+{"sentence1": "most brown or black bulldogs were happy", "sentence2": "no brown or black bulldogs were happy", "gold_label": "contradiction", "pairID": "63", "captionID": "c-63"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards every good object", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a mammal was not sad", "sentence2": "some mammal was sad", "gold_label": "contradiction", "pairID": "116", "captionID": "c-116"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "some bat did not stare at some brown mammal who was sad", "gold_label": "entailment", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "most brown or black rabbits slept", "sentence2": "some brown or black animal slept", "gold_label": "entailment", "pairID": "155", "captionID": "c-155"}
+{"sentence1": "most newborn rabbits did not swim", "sentence2": "most newborn rabbits did swam", "gold_label": "contradiction", "pairID": "83", "captionID": "c-83"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a steel quadruped saw no metal wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "most young horses did not waltz", "sentence2": "some horse did not waltz", "gold_label": "entailment", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched most wooden wagons", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no brown or black horses did saw every nice wheel", "gold_label": "contradiction", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "most beagles were sad", "sentence2": "a beagles were not sad", "gold_label": "contradiction", "pairID": "131", "captionID": "c-131"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no horses who most beagles stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved towards some black boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some good animal moved towards most very steel chairs", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old beagle who no bats moved away from moved", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "a very black quadruped touched every brown or black stallion", "gold_label": "neutral", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every animal who some brown or black bat touched was sad", "gold_label": "neutral", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "some old beagle moved towards every door", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a very nice beagle stared at no fences", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "most old beagles who no bats moved away from waltzed", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no brown or black horses did not see every bad wheel", "gold_label": "entailment", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every bad animal who some brown bat hit was not sad", "gold_label": "contradiction", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no good animals who some beagle stared at hit a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "some old mammal did not touch some door", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some dog who every bad quadruped moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every nice animal inspected no wheelbarrow", "gold_label": "contradiction", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who most quadruped moved away from slept", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "most bad dogs who a bulldog stared at were not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "no poodle who some young bat sniffed did not run", "gold_label": "contradiction", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched every wooden wagon", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a nice bulldog who most nice rabbits moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "every hardwood dog did not sniff most hardwood chairs", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved away from every box", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "most young bulldogs scratched most chairs", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "a black quadruped did not stare at most mammals", "sentence2": "every quadruped did not stare at most mammals", "gold_label": "neutral", "pairID": "33", "captionID": "c-33"}
+{"sentence1": "every young animal was happy", "sentence2": "every animal was happy", "gold_label": "neutral", "pairID": "40", "captionID": "c-40"}
+{"sentence1": "a horse was not happy", "sentence2": "some horse was happy", "gold_label": "contradiction", "pairID": "115", "captionID": "c-115"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old beagles who were happy scratched every object", "gold_label": "entailment", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some animal slept", "sentence2": "some very bad animal slept", "gold_label": "neutral", "pairID": "75", "captionID": "c-75"}
+{"sentence1": "every rabbit slept", "sentence2": "most rabbit moved", "gold_label": "contradiction", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no good animals who a beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "most animals inspected a wheelbarrow", "gold_label": "entailment", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched most wooden boxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched a very wooden object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no stallions who some beagle stared at touched every brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every good beagle moved away from a beagle who most poodles hit", "gold_label": "entailment", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved towards some good boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved towards most newborn dogs who sniffed most wheelbarrows", "gold_label": "contradiction", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "every beagle stared at no objects", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "a dog moved away from no beagle", "gold_label": "contradiction", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "a poodle did sniffed a metal wheel", "gold_label": "contradiction", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs who were happy scratched most very wooden fences", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "some young quadruped swam", "gold_label": "entailment", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some wagon", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every cat was happy", "sentence2": "most bad cats were happy", "gold_label": "entailment", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no badgers who did not see every nice box were sad", "gold_label": "neutral", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "a beagle moved towards most beagles who most poodles hit", "gold_label": "contradiction", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved away from every wheelbarrow", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched most very wooden objects", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "most poodles who no mammals hit were happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every old beagle who no old poodles hit touched no newborn cats", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "most newborn rabbits hit every bat", "gold_label": "neutral", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no animals scratched no very nice objects", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "some horse did not see no wooden objects", "gold_label": "entailment", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no animals who were happy scratched every wooden wheelbarrow", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some bad beagle stared at did not touch a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "some old horse inspected some quadrupeds", "gold_label": "contradiction", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "every bat swam", "sentence2": "some bat slept", "gold_label": "contradiction", "pairID": "136", "captionID": "c-136"}
+{"sentence1": "every cat was happy", "sentence2": "every cat was not happy", "gold_label": "contradiction", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no cats scratched no bad chairs", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not hit some fence", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some very old animals who were happy moved away from a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no beagles who some beagle stared at did not touch a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "some bulldog who some young poodle inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "some brown rabbits sniffed no young animals", "gold_label": "contradiction", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no dogs who were happy scratched most wooden objects", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no horses did not see some wooden object", "gold_label": "entailment", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards most wagons", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a very bad quadruped stared at no steel wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "a young animal slept", "sentence2": "some young animal ran", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no horses did saw a wooden boxes", "gold_label": "contradiction", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "some young bulldog who moved was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a beagle stared at some nice fences", "gold_label": "contradiction", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "an old cat saw most wheelbarrows", "sentence2": "an old cat saw an object", "gold_label": "entailment", "pairID": "0", "captionID": "c-0"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a bulldog who every good rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "a brown animal waltzed", "sentence2": "a brown or black animal danced", "gold_label": "entailment", "pairID": "46", "captionID": "c-46"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "some quadruped did not sniff every bulldog", "gold_label": "contradiction", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "every bad animal moved towards some very steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every bat was happy", "sentence2": "every good bat was not happy", "gold_label": "contradiction", "pairID": "195", "captionID": "c-195"}
+{"sentence1": "most quadrupeds moved", "sentence2": "most quadrupeds slept", "gold_label": "contradiction", "pairID": "21", "captionID": "c-21"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no cats who some nice beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a very nice bulldog who every rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "an animal stared at some very newborn beagle", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "a brown bats who most quadrupeds hit did not scratch some metal chair", "gold_label": "contradiction", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old horses who were happy moved away from every plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most mammals danced", "sentence2": "an animal danced", "gold_label": "entailment", "pairID": "6", "captionID": "c-6"}
+{"sentence1": "every old quadruped who stared at no tables waltzed", "sentence2": "every old quadruped who saw no tables danced", "gold_label": "entailment", "pairID": "93", "captionID": "c-93"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "some brown or black bat did not stare at some brown mammal who was sad", "gold_label": "entailment", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every old animal touched no newborn cats", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no poodles who some bad beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "every bulldog who slept was not happy", "gold_label": "neutral", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "every rabbit hit a bat", "gold_label": "neutral", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "most old beagles who no poodles hit hit no newborn cats", "gold_label": "entailment", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "most dog who a bulldog stared at was happy", "gold_label": "contradiction", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown or black mammal who moved swam", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old dog who no old bats moved away from moved", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved towards a plastic box", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "most brown bats who most quadrupeds hit scratched every steel chair", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched every hardwood wagon", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most brown or black bats were happy", "sentence2": "some brown or black animal was happy", "gold_label": "entailment", "pairID": "2", "captionID": "c-2"}
+{"sentence1": "no brown or black poodles were not sad", "sentence2": "no brown poodles were not sad", "gold_label": "entailment", "pairID": "29", "captionID": "c-29"}
+{"sentence1": "a cat was happy", "sentence2": "a bad cat was happy", "gold_label": "neutral", "pairID": "24", "captionID": "c-24"}
+{"sentence1": "some rabbit danced", "sentence2": "most good rabbits danced", "gold_label": "neutral", "pairID": "144", "captionID": "c-144"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched some wooden door", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every animal inspected most very nice wheelbarrows", "gold_label": "neutral", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "some newborn bulldog did not run", "sentence2": "some bulldog did ran", "gold_label": "contradiction", "pairID": "199", "captionID": "c-199"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "every nice stallion moved away from most newborn dogs who sniffed most wheelbarrows", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch every nice object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved away from every newborn mammal who sniffed a wheelbarrow", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "an old poodle was sad", "sentence2": "most very old poodles were sad", "gold_label": "neutral", "pairID": "96", "captionID": "c-96"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some dog who every good quadruped moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion moved away from some newborn animal who sniffed most wheelbarrows", "gold_label": "entailment", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "a beagle did not inspect most chairs", "gold_label": "contradiction", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "every cat was happy", "sentence2": "a good cat was happy", "gold_label": "entailment", "pairID": "31", "captionID": "c-31"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a quadruped stared at some very steel wheels", "gold_label": "contradiction", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "most brown or black rabbits slept", "sentence2": "most brown or black rabbits moved", "gold_label": "contradiction", "pairID": "155", "captionID": "c-155"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no dogs who were happy scratched most wooden mailboxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old cats who were happy did not move away from a plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no badgers who most beagles stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched some hardwood object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some beagle swam", "sentence2": "some very bad beagle swam", "gold_label": "neutral", "pairID": "12", "captionID": "c-12"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who most quadrupeds moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "every black dog who every good quadruped moved away from ran", "gold_label": "neutral", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most mammals danced", "sentence2": "no mammals danced", "gold_label": "contradiction", "pairID": "6", "captionID": "c-6"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no very old bats who were happy moved away from a plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every animal who some bat hit was sad", "gold_label": "neutral", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black bulldogs saw every mammal", "gold_label": "entailment", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "most animals who were not sad were happy", "sentence2": "an animal was happy", "gold_label": "entailment", "pairID": "121", "captionID": "c-121"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every old beagle touched no newborn mammals", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "most black dogs moved", "sentence2": "every black mammal danced", "gold_label": "neutral", "pairID": "85", "captionID": "c-85"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "every poodle who most young bats sniffed did not move", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a newborn rabbit moved", "sentence2": "some rabbit moved", "gold_label": "entailment", "pairID": "65", "captionID": "c-65"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle did not move towards every chair", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old animals who were happy moved away from a plastic chair", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no bulldogs moved", "sentence2": "no good bulldogs slept", "gold_label": "contradiction", "pairID": "176", "captionID": "c-176"}
+{"sentence1": "most old dogs swam", "sentence2": "every animal swam", "gold_label": "neutral", "pairID": "86", "captionID": "c-86"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black bulldogs did not see every badgers", "gold_label": "contradiction", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a black quadruped did not stare at most mammals", "sentence2": "every quadruped did not stare at a mammal", "gold_label": "neutral", "pairID": "33", "captionID": "c-33"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs moved towards some bad boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched some wooden fence", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "some animal inspected some wheelbarrow", "gold_label": "entailment", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "some rabbit danced", "sentence2": "no rabbit moved", "gold_label": "contradiction", "pairID": "144", "captionID": "c-144"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal moved towards some metal object", "gold_label": "entailment", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from no plastic wheel", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some very steel animal moved towards most steel chairs", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who a beagle stared at touched some brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle moved towards every bad mailbox", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "some old beagle moved towards every mailbox", "gold_label": "entailment", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "a rabbit ran", "sentence2": "some rabbit ran", "gold_label": "entailment", "pairID": "104", "captionID": "c-104"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "most good dogs did not sniff a hardwood chair", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some poodle did ran", "gold_label": "contradiction", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "most beagles were sad", "sentence2": "a mammal was sad", "gold_label": "entailment", "pairID": "131", "captionID": "c-131"}
+{"sentence1": "most beagles were sad", "sentence2": "most beagles were not sad", "gold_label": "contradiction", "pairID": "131", "captionID": "c-131"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no bulldogs saw some badger", "gold_label": "neutral", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a stallion did not move away from some newborn dogs who sniffed most wheelbarrows", "gold_label": "contradiction", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some steel animal moved towards every steel object", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "some quadruped sniffed every bulldog", "sentence2": "some quadruped did not sniff every bad bulldog", "gold_label": "contradiction", "pairID": "106", "captionID": "c-106"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "some brown or black horses did not see every nice wheel", "gold_label": "contradiction", "pairID": "68", "captionID": "c-68"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no mammals scratched no nice doors", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "some bulldog who some rabbit moved away from did not waltz", "gold_label": "contradiction", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a young bulldog scratched some good chair", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some brown or black dog who every quadruped moved away from moved", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old dogs who were happy moved away from a plastic wheel", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a brown mammal scratched a steel door", "sentence2": "a brown mammal did not scratch some steel door", "gold_label": "contradiction", "pairID": "127", "captionID": "c-127"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every dog who a good bulldog stared at was happy", "gold_label": "contradiction", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from no plastic fence", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every bad animal did not inspect some wheelbarrow", "gold_label": "contradiction", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched a wooden wagon", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every mammal was happy", "sentence2": "most mammal was not happy", "gold_label": "contradiction", "pairID": "197", "captionID": "c-197"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a beagle did not stare at no nice fences", "gold_label": "contradiction", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "a rabbit swam", "sentence2": "some rabbit slept", "gold_label": "contradiction", "pairID": "38", "captionID": "c-38"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "most very good animals moved towards some steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every badger was happy", "sentence2": "most badger was not happy", "gold_label": "contradiction", "pairID": "58", "captionID": "c-58"}
+{"sentence1": "most rabbits who touched a beagle swam", "sentence2": "every rabbit who touched a beagle swam", "gold_label": "neutral", "pairID": "101", "captionID": "c-101"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "some brown or black stallion touched no very iron boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "an old mammal who no poodles hit touched no newborn cats", "gold_label": "entailment", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "most brown mammals slept", "sentence2": "a brown or black mammal slept", "gold_label": "entailment", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "every bat swam", "sentence2": "every good bat slept", "gold_label": "contradiction", "pairID": "136", "captionID": "c-136"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no animals who were happy moved away from a plastic object", "gold_label": "neutral", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "a very nice poodle who no beagles hit was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "every dog did not sniff most hardwood chairs", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old animal who no bats moved away from moved", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "some dog moved towards some beagle", "gold_label": "contradiction", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "a young animal slept", "sentence2": "some young animal swam", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no horses did saw most wooden boxes", "gold_label": "contradiction", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old animals who were happy scratched most wooden mailboxes", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "every dog who a nice bulldog stared at was happy", "gold_label": "contradiction", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "a black dog moved towards no good boxes", "gold_label": "entailment", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "no black quadruped was sad", "gold_label": "contradiction", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "every brown stallion did not touch no iron boxes", "gold_label": "contradiction", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no very good horses did not see most wooden boxes", "gold_label": "entailment", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "every dog who a bulldog stared at was not happy", "sentence2": "a dog who a good bulldog stared at was not happy", "gold_label": "entailment", "pairID": "73", "captionID": "c-73"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "most poodles inspected every bad poodle", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "most old quadrupeds inspected some wheel", "sentence2": "every old quadruped inspected some very nice wheel", "gold_label": "neutral", "pairID": "109", "captionID": "c-109"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who a beagle moved towards scratched most boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "every young animal was happy", "sentence2": "most young animal was not happy", "gold_label": "contradiction", "pairID": "40", "captionID": "c-40"}
+{"sentence1": "most old rabbits were happy", "sentence2": "no old rabbits were happy", "gold_label": "contradiction", "pairID": "108", "captionID": "c-108"}
+{"sentence1": "most newborn rabbits hit a bat", "sentence2": "every newborn animal hit a good bat", "gold_label": "neutral", "pairID": "147", "captionID": "c-147"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "no brown or black cats who most old bulldogs sniffed stared at a metal fence", "gold_label": "contradiction", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "every poodle inspected a poodle", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "every beagle inspected no chairs", "gold_label": "contradiction", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who every quadruped moved away from slept", "gold_label": "contradiction", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "a brown poodle did not sniff a metal wheel", "sentence2": "a brown poodle did sniffed most metal wheel", "gold_label": "contradiction", "pairID": "172", "captionID": "c-172"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "most poodles who every young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a young bulldog did not scratch a chair", "gold_label": "contradiction", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "most brown mammals slept", "sentence2": "most brown mammals moved", "gold_label": "contradiction", "pairID": "163", "captionID": "c-163"}
+{"sentence1": "most black dogs moved", "sentence2": "a dog moved", "gold_label": "entailment", "pairID": "85", "captionID": "c-85"}
+{"sentence1": "every black bat did not stare at some brown mammal who was sad", "sentence2": "most black bat did stared at some brown mammal who was sad", "gold_label": "contradiction", "pairID": "142", "captionID": "c-142"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "some brown or black horse moved towards a wooden object", "gold_label": "entailment", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "most dogs slept", "sentence2": "most dogs waltzed", "gold_label": "contradiction", "pairID": "135", "captionID": "c-135"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "every horse moved towards every wooden object", "gold_label": "neutral", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "some brown or black cat who most old bulldogs sniffed stared at some metal fence", "gold_label": "entailment", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "a poodle who no quadrupeds hit danced", "sentence2": "a poodle who no quadrupeds touched slept", "gold_label": "contradiction", "pairID": "137", "captionID": "c-137"}
+{"sentence1": "no young horses danced", "sentence2": "no horses danced", "gold_label": "neutral", "pairID": "16", "captionID": "c-16"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed did not stare at a metal fence", "gold_label": "contradiction", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "an animal who some brown or black bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "a beagle stared at no fences", "sentence2": "a nice beagle stared at no objects", "gold_label": "neutral", "pairID": "191", "captionID": "c-191"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched some wooden wagon", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who some quadruped moved away from moved", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every bulldog who some young poodle inspected danced", "gold_label": "neutral", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "no stallions moved", "sentence2": "some good stallions moved", "gold_label": "contradiction", "pairID": "48", "captionID": "c-48"}
+{"sentence1": "every old horse inspected no quadrupeds", "sentence2": "every old horse inspected some old quadrupeds", "gold_label": "contradiction", "pairID": "26", "captionID": "c-26"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "some old mammal who no poodles hit touched no newborn cats", "gold_label": "entailment", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no brown animals who some nice beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every newborn bat did not hit a brown or black bat", "sentence2": "every newborn bat did not hit some brown bat", "gold_label": "entailment", "pairID": "143", "captionID": "c-143"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no animals scratched no good boxes", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no mammals who some good beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "every cat who most old bulldogs sniffed stared at a steel fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every beagle moved away from a beagle who most poodles touched", "gold_label": "entailment", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "an animal did not stare at some newborn beagle", "gold_label": "contradiction", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "some old dog did not sleep", "sentence2": "some dog did not waltz", "gold_label": "contradiction", "pairID": "149", "captionID": "c-149"}
+{"sentence1": "some dog did not sniff most hardwood chairs", "sentence2": "some nice dog did not sniff some chair", "gold_label": "neutral", "pairID": "103", "captionID": "c-103"}
+{"sentence1": "no black poodles were happy", "sentence2": "no very black poodles were not happy", "gold_label": "contradiction", "pairID": "160", "captionID": "c-160"}
+{"sentence1": "some old dog did not sleep", "sentence2": "an old dog did slept", "gold_label": "contradiction", "pairID": "149", "captionID": "c-149"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal did not move towards some chair", "gold_label": "contradiction", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every bad animal who every brown bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old cats who were happy moved away from a plastic fence", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "every beagle did not inspect most chairs", "gold_label": "contradiction", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "every rabbit slept", "sentence2": "most rabbit waltzed", "gold_label": "contradiction", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "every beagle who no nice poodles hit touched no newborn cats", "gold_label": "neutral", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old dogs who were happy moved away from a plastic wagon", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who some beagle moved away from scratched some box", "gold_label": "entailment", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched most wooden chairs", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "most animals stared at some newborn animal", "sentence2": "an animal stared at some animal", "gold_label": "entailment", "pairID": "114", "captionID": "c-114"}
+{"sentence1": "every rabbit slept", "sentence2": "every bad rabbit slept", "gold_label": "entailment", "pairID": "152", "captionID": "c-152"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no horses who some beagle stared at hit a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old horses who were happy moved away from no plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "every poodle inspected a nice poodle", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "every brown animal who some quadruped hit scratched some metal chair", "gold_label": "neutral", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "most young bats stared at most brown or black bulldogs", "sentence2": "every young bat stared at every bulldog", "gold_label": "neutral", "pairID": "132", "captionID": "c-132"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "every black beagle moved away from no good quadrupeds", "gold_label": "contradiction", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "every young quadruped who most bad mammals stared at swam", "gold_label": "neutral", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no mammals who were happy scratched every hardwood object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old stallions who were happy moved away from a plastic wheelbarrow", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "some black beagle moved towards no quadrupeds", "gold_label": "entailment", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a nice stallion moved away from most newborn dogs who sniffed most wheelbarrows", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "a stallion moved away from most newborn dogs who sniffed most wheelbarrows", "sentence2": "a very good stallion moved away from most newborn dogs who sniffed most wheelbarrows", "gold_label": "neutral", "pairID": "9", "captionID": "c-9"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "a dog inspected a poodle", "gold_label": "entailment", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "some badger ran", "sentence2": "some badger slept", "gold_label": "contradiction", "pairID": "34", "captionID": "c-34"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who a quadruped moved away from moved", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "some young dog was sad", "sentence2": "no dog was sad", "gold_label": "contradiction", "pairID": "92", "captionID": "c-92"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who every good quadruped moved away from moved", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some good poodle who a young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no good animals who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no badgers who did not see most bad boxes were sad", "gold_label": "neutral", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some old wagon", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "no mammals did not see most wooden boxes", "gold_label": "neutral", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no very old beagles who were happy scratched every wooden object", "gold_label": "entailment", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no brown animals who some beagle stared at touched most brown cats", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "some horse was not happy", "sentence2": "every nice horse was not happy", "gold_label": "neutral", "pairID": "51", "captionID": "c-51"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy moved away from a plastic door", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most brown or black bulldogs were happy", "sentence2": "a brown or black bulldog was happy", "gold_label": "entailment", "pairID": "63", "captionID": "c-63"}
+{"sentence1": "most dogs did not stare at some fence", "sentence2": "most dogs did stared at most fence", "gold_label": "contradiction", "pairID": "198", "captionID": "c-198"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "no old mammal did not touch some object", "gold_label": "contradiction", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "every bad horse did saw no wooden mailboxes", "gold_label": "contradiction", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some very steel animal moved towards some very steel chair", "gold_label": "neutral", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "most bats scratched every brown horse", "gold_label": "neutral", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "some young quadruped who every mammal saw swam", "gold_label": "entailment", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "most black dogs did not move towards no black boxes", "gold_label": "contradiction", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every good beagle moved towards most beagles who most poodles hit", "gold_label": "contradiction", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "most old mammals were happy", "sentence2": "some old mammals were not happy", "gold_label": "contradiction", "pairID": "169", "captionID": "c-169"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no very brown or black bulldogs stared at most badgers", "gold_label": "entailment", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a badger was happy", "sentence2": "no badger was happy", "gold_label": "contradiction", "pairID": "66", "captionID": "c-66"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "a black quadruped touched every brown or black stallion", "gold_label": "neutral", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "some brown or black poodle swam", "sentence2": "a brown or black poodle swam", "gold_label": "entailment", "pairID": "17", "captionID": "c-17"}
+{"sentence1": "most stallions were happy", "sentence2": "a stallion was happy", "gold_label": "entailment", "pairID": "188", "captionID": "c-188"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old rabbits who were happy moved away from some plastic object", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old dogs who were happy moved away from a plastic fence", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most brown or black stallions who were sad were happy", "sentence2": "some brown or black mammal who was sad was happy", "gold_label": "entailment", "pairID": "173", "captionID": "c-173"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some good wheelbarrow", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "no animal moved towards some steel object", "gold_label": "contradiction", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "every young bulldog who slept was not happy", "sentence2": "no young bulldog who slept was not happy", "gold_label": "contradiction", "pairID": "133", "captionID": "c-133"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old bulldogs who were happy did not scratch every wooden object", "gold_label": "contradiction", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "every bad bat stared at a good stallion", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "most nice animals stared at some very newborn beagle", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "every brown or black stallion touched no iron boxes", "sentence2": "a very brown or black stallion touched no iron boxes", "gold_label": "entailment", "pairID": "3", "captionID": "c-3"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "most quadrupeds saw no metal wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who some brown beagle stared at touched most brown cats", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no young bulldogs inspected every young poodle", "sentence2": "no young bulldogs did not inspect every poodle", "gold_label": "contradiction", "pairID": "72", "captionID": "c-72"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "some brown rabbits sniffed no young mammals", "gold_label": "contradiction", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown bulldogs saw most badgers", "gold_label": "entailment", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "a brown mammal scratched a steel door", "sentence2": "most brown mammals scratched most very steel doors", "gold_label": "neutral", "pairID": "127", "captionID": "c-127"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy did not move away from a plastic wheelbarrow", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "a bat did not stare at a stallion", "gold_label": "contradiction", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "most very nice quadrupeds stared at no steel wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every good beagle moved away from most beagles who most poodles hit", "gold_label": "entailment", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "a young animal slept", "sentence2": "no young animal slept", "gold_label": "contradiction", "pairID": "184", "captionID": "c-184"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a mammal who slept moved", "gold_label": "entailment", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "some brown or black horse moved towards most wooden objects", "sentence2": "every brown or black horse moved towards every object", "gold_label": "neutral", "pairID": "117", "captionID": "c-117"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old dogs scratched every wooden wheel who was happy", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "no quadrupeds inspected every brown rabbit who most beagles sniffed", "gold_label": "entailment", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some very bad poodle who a young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "most old rabbits who danced moved", "sentence2": "a rabbit who danced moved", "gold_label": "entailment", "pairID": "78", "captionID": "c-78"}
+{"sentence1": "most poodles inspected a poodle", "sentence2": "every poodle inspected most poodles", "gold_label": "neutral", "pairID": "193", "captionID": "c-193"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "a quadruped who ran was sad", "gold_label": "entailment", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old bulldogs who were happy scratched every object", "gold_label": "entailment", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "an animal stared at some newborn beagle", "sentence2": "every nice animal stared at some very newborn beagle", "gold_label": "neutral", "pairID": "126", "captionID": "c-126"}
+{"sentence1": "every stallion ran", "sentence2": "some good stallion ran", "gold_label": "entailment", "pairID": "164", "captionID": "c-164"}
+{"sentence1": "no brown or black quadrupeds were happy", "sentence2": "no brown quadrupeds were happy", "gold_label": "entailment", "pairID": "28", "captionID": "c-28"}
+{"sentence1": "most horses did not run", "sentence2": "some horses did ran", "gold_label": "contradiction", "pairID": "14", "captionID": "c-14"}
+{"sentence1": "most bats scratched a brown or black horse", "sentence2": "most bats scratched no horse", "gold_label": "contradiction", "pairID": "161", "captionID": "c-161"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no animals who did not see most good boxes were sad", "gold_label": "neutral", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "every bat swam", "sentence2": "a good bat swam", "gold_label": "entailment", "pairID": "136", "captionID": "c-136"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch a wheel", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every brown dog swam", "sentence2": "a brown or black dog swam", "gold_label": "entailment", "pairID": "15", "captionID": "c-15"}
+{"sentence1": "no cats scratched no objects", "sentence2": "no cats scratched no nice mailboxes", "gold_label": "neutral", "pairID": "62", "captionID": "c-62"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "most very nice bats stared at a stallion", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a good bulldog who most nice rabbits moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who some beagle moved away from scratched no boxes", "gold_label": "contradiction", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "no quadruped stared at no steel wheels", "gold_label": "contradiction", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch some bad table", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "most beagle did not inspect most chairs", "gold_label": "contradiction", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "every bat was happy", "sentence2": "most nice bats were happy", "gold_label": "entailment", "pairID": "195", "captionID": "c-195"}
+{"sentence1": "every beagle inspected most chairs", "sentence2": "most bad beagles inspected most chairs", "gold_label": "entailment", "pairID": "166", "captionID": "c-166"}
+{"sentence1": "most young animals who some beagle moved away from scratched most boxes", "sentence2": "most young animals who a beagle moved away from scratched a box", "gold_label": "entailment", "pairID": "118", "captionID": "c-118"}
+{"sentence1": "no badgers who did not see a box were sad", "sentence2": "no badgers who did saw a box were sad", "gold_label": "contradiction", "pairID": "5", "captionID": "c-5"}
+{"sentence1": "some animal moved towards some steel chair", "sentence2": "some animal moved towards a steel object", "gold_label": "entailment", "pairID": "57", "captionID": "c-57"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old rabbits who were happy moved away from a plastic wheel", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "most brown bats who most quadrupeds hit did not scratch some metal chair", "gold_label": "contradiction", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "most young bats stared at most brown or black bulldogs", "sentence2": "most young bats stared at every brown or black bulldog", "gold_label": "neutral", "pairID": "132", "captionID": "c-132"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "most dogs moved away from some very good beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no cats who some beagle stared at did not touch a brown cat", "gold_label": "contradiction", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "some old animals who were happy moved away from a very plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who most brown beagles stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no bad stallions who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every brown or black bulldog who every young poodle inspected slept", "gold_label": "contradiction", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "a black quadruped touched some brown or black stallion", "sentence2": "some quadruped touched some brown or black stallion", "gold_label": "entailment", "pairID": "74", "captionID": "c-74"}
+{"sentence1": "every animal who some brown bat hit was sad", "sentence2": "every animal who every brown or black bat hit was sad", "gold_label": "entailment", "pairID": "11", "captionID": "c-11"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no dogs who were happy scratched some wooden object", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "every black dog who a black quadruped moved away from ran", "gold_label": "neutral", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "most bats were happy", "sentence2": "some mammal was happy", "gold_label": "entailment", "pairID": "71", "captionID": "c-71"}
+{"sentence1": "a young bulldog scratched some chair", "sentence2": "a young bulldog scratched every bad object", "gold_label": "neutral", "pairID": "170", "captionID": "c-170"}
+{"sentence1": "most newborn rabbits did not swim", "sentence2": "no newborn rabbits did not swim", "gold_label": "contradiction", "pairID": "83", "captionID": "c-83"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "some brown or black beagle moved towards no quadrupeds", "gold_label": "entailment", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "every horse did not see no wooden mailboxes", "sentence2": "most horse did saw no wooden mailboxes", "gold_label": "contradiction", "pairID": "30", "captionID": "c-30"}
+{"sentence1": "most brown or black rabbits slept", "sentence2": "some brown or black rabbits waltzed", "gold_label": "contradiction", "pairID": "155", "captionID": "c-155"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old beagle who no bats moved away from ran", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "every black mammal was sad", "sentence2": "no black mammal was sad", "gold_label": "contradiction", "pairID": "189", "captionID": "c-189"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "an old mammal did not touch some wagon", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a poodle who no beagles hit was happy", "sentence2": "every good poodle who no beagles touched was happy", "gold_label": "neutral", "pairID": "145", "captionID": "c-145"}
+{"sentence1": "most black dogs moved towards no boxes", "sentence2": "every brown or black dog moved towards no boxes", "gold_label": "neutral", "pairID": "36", "captionID": "c-36"}
+{"sentence1": "some poodle who a young bat sniffed did not run", "sentence2": "some nice poodle who every young bat sniffed did not run", "gold_label": "neutral", "pairID": "150", "captionID": "c-150"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old dogs who were happy moved away from a plastic table", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "some black quadruped who ran was sad", "sentence2": "some brown or black quadruped who slept was sad", "gold_label": "contradiction", "pairID": "49", "captionID": "c-49"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who a beagle stared at touched most brown cats", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "some black dog who every quadruped moved away from ran", "sentence2": "some black dog who most black quadrupeds moved away from ran", "gold_label": "entailment", "pairID": "97", "captionID": "c-97"}
+{"sentence1": "a rabbit was sad", "sentence2": "most very bad rabbits were sad", "gold_label": "neutral", "pairID": "81", "captionID": "c-81"}
+{"sentence1": "most brown bats who most quadrupeds hit scratched some metal chair", "sentence2": "a brown bat who most quadrupeds hit scratched a metal chair", "gold_label": "entailment", "pairID": "156", "captionID": "c-156"}
+{"sentence1": "every old beagle moved towards every object", "sentence2": "every old beagle did not move towards every good object", "gold_label": "contradiction", "pairID": "13", "captionID": "c-13"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "every brown or black cat who an old bulldog sniffed stared at a steel fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "most brown or black cats who most old bulldogs sniffed stared at a metal fence", "sentence2": "most brown or black cats who most old bulldogs sniffed stared at every metal fence", "gold_label": "neutral", "pairID": "1", "captionID": "c-1"}
+{"sentence1": "every animal inspected some wheelbarrow", "sentence2": "every animal inspected some nice wheelbarrow", "gold_label": "neutral", "pairID": "162", "captionID": "c-162"}
+{"sentence1": "every beagle moved away from most beagles who most poodles hit", "sentence2": "every nice beagle moved away from some beagle who most poodles hit", "gold_label": "entailment", "pairID": "141", "captionID": "c-141"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no bad rabbits who some beagle stared at touched a brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "most brown cats danced", "sentence2": "every brown cat danced", "gold_label": "neutral", "pairID": "120", "captionID": "c-120"}
+{"sentence1": "a quadruped stared at no steel wheels", "sentence2": "a good quadruped saw no wheels", "gold_label": "neutral", "pairID": "94", "captionID": "c-94"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "an old mammal did not touch some object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a dog danced", "sentence2": "a very good dog danced", "gold_label": "neutral", "pairID": "148", "captionID": "c-148"}
+{"sentence1": "most young horses did not waltz", "sentence2": "every horse did not waltz", "gold_label": "neutral", "pairID": "22", "captionID": "c-22"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old animals who were happy did not move away from some plastic object", "gold_label": "contradiction", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "no old dogs who were happy scratched every wooden object", "sentence2": "no old mammals who were happy scratched most wooden chairs", "gold_label": "neutral", "pairID": "95", "captionID": "c-95"}
+{"sentence1": "no horses did not see most wooden boxes", "sentence2": "some good horses did not see most wooden boxes", "gold_label": "contradiction", "pairID": "76", "captionID": "c-76"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "some old mammal did not touch some bad object", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "no quadrupeds inspected most brown rabbits who most beagles sniffed", "sentence2": "some brown quadrupeds inspected most brown rabbits who most beagles sniffed", "gold_label": "contradiction", "pairID": "50", "captionID": "c-50"}
+{"sentence1": "some badger was sad", "sentence2": "most badgers were sad", "gold_label": "neutral", "pairID": "54", "captionID": "c-54"}
+{"sentence1": "no brown or black bulldogs saw most badgers", "sentence2": "no brown or black bulldogs did not see most badgers", "gold_label": "contradiction", "pairID": "181", "captionID": "c-181"}
+{"sentence1": "some dog moved away from some beagle", "sentence2": "some very nice dog moved away from some nice beagle", "gold_label": "neutral", "pairID": "165", "captionID": "c-165"}
+{"sentence1": "a bulldog who some rabbit moved away from did not sleep", "sentence2": "a nice bulldog who some very bad rabbit moved away from did not sleep", "gold_label": "neutral", "pairID": "18", "captionID": "c-18"}
+{"sentence1": "no old beagles did not sleep", "sentence2": "no very old beagles did not swim", "gold_label": "contradiction", "pairID": "159", "captionID": "c-159"}
+{"sentence1": "most old beagles who no poodles hit touched no newborn cats", "sentence2": "some old beagle who no bad poodles hit touched no newborn cats", "gold_label": "entailment", "pairID": "112", "captionID": "c-112"}
+{"sentence1": "every bat was happy", "sentence2": "a good bat was happy", "gold_label": "entailment", "pairID": "195", "captionID": "c-195"}
+{"sentence1": "no old animals who were happy moved away from a plastic object", "sentence2": "no old stallions who were happy moved away from a plastic mailbox", "gold_label": "entailment", "pairID": "187", "captionID": "c-187"}
+{"sentence1": "a brown mammal who slept swam", "sentence2": "a brown mammal who waltzed moved", "gold_label": "contradiction", "pairID": "146", "captionID": "c-146"}
+{"sentence1": "every old quadruped who stared at no tables waltzed", "sentence2": "every old quadruped who stared at no objects waltzed", "gold_label": "entailment", "pairID": "93", "captionID": "c-93"}
+{"sentence1": "most brown or black stallions who were sad were happy", "sentence2": "a brown or black mammal who was sad was happy", "gold_label": "entailment", "pairID": "173", "captionID": "c-173"}
+{"sentence1": "some newborn bulldog did not run", "sentence2": "some newborn bulldog did not move", "gold_label": "neutral", "pairID": "199", "captionID": "c-199"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "every young quadruped who most mammals saw swam", "gold_label": "neutral", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "most beagles were sad", "sentence2": "some beagles were not sad", "gold_label": "contradiction", "pairID": "131", "captionID": "c-131"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no dogs who some beagle stared at touched most brown cats", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "every old mammal did not touch most objects", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "a young quadruped who every mammal stared at swam", "sentence2": "a young quadruped who every nice mammal stared at slept", "gold_label": "contradiction", "pairID": "134", "captionID": "c-134"}
+{"sentence1": "most old beagles who no bats moved away from moved", "sentence2": "every old animal who no bats moved away from ran", "gold_label": "neutral", "pairID": "186", "captionID": "c-186"}
+{"sentence1": "no brown rabbits sniffed no young stallions", "sentence2": "some very brown rabbits sniffed no young stallions", "gold_label": "contradiction", "pairID": "55", "captionID": "c-55"}
+{"sentence1": "no animals who some beagle stared at touched a brown cat", "sentence2": "no animals who most beagles stared at touched some brown cat", "gold_label": "entailment", "pairID": "10", "captionID": "c-10"}
+{"sentence1": "every old mammal did not touch some object", "sentence2": "most old mammals did not touch some wheelbarrow", "gold_label": "entailment", "pairID": "23", "captionID": "c-23"}
+{"sentence1": "most mammals were sad", "sentence2": "most mammals were not sad", "gold_label": "contradiction", "pairID": "138", "captionID": "c-138"}
+{"sentence1": "every black beagle moved towards no quadrupeds", "sentence2": "every black beagle moved towards no bad quadrupeds", "gold_label": "entailment", "pairID": "41", "captionID": "c-41"}
+{"sentence1": "every bulldog was happy", "sentence2": "some nice bulldog was happy", "gold_label": "entailment", "pairID": "130", "captionID": "c-130"}
+{"sentence1": "every brown or black bulldog who some young poodle inspected danced", "sentence2": "every black bulldog who most young poodles inspected danced", "gold_label": "entailment", "pairID": "182", "captionID": "c-182"}
+{"sentence1": "a bat stared at a stallion", "sentence2": "most bats stared at a stallion", "gold_label": "neutral", "pairID": "32", "captionID": "c-32"}
+{"sentence1": "no brown or black horses did not see every wheel", "sentence2": "no brown or black horses did not see some bad wheel", "gold_label": "entailment", "pairID": "68", "captionID": "c-68"}
