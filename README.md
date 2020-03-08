@@ -1,4 +1,4 @@
-Reasoning Transformers
+Semantic Fragments 
 ================================
 
 Repository for semantic fragment experiments in the following paper:
