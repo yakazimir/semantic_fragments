@@ -13,3 +13,8 @@ Please keep track of changes to this repo, and especially datasets.
 ## July 14, 2020
 ## Added
 - configs for allennlp models (were uncommited) in `scripts/configs`	
+
+
+## July 23, 2020
+## Added
+- added the missing SNLI/MNLI train script, `scripts/train_snli_mnli.sh`
