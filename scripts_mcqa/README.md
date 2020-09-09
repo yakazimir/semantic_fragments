@@ -50,10 +50,10 @@ Below are some of the checkpoints/pre-trained models used in the
 scripts:
 
 | model | description | link | location |
-|:-------------:|:------------------------------------------------------------:|:-------------------------:|
+|:-------------:|:------------------------------------------------------------:|:-------------------------:|:-------------------------:|
 | roberta weights | RACE roberta weights used to pre-train science  |(*here*)[https://drive.google.com/file/d/1coZL9i8vIL-wBwa0JFgtTEnU-7wcMLw_/view?usp=sharing] | `path/to/repo/scripts_mcqa/etc/models` |
-| bert science       | BERT modele trained on science | (*here*)[https://drive.google.com/drive/folders/1-oSSNisgSZOM1aWKGwglLk_Tnc1WhL1r?usp=sharing] | `path/to/repo/scripts_mcqa/etc/models`
-| robert science | roberta science model trained on science |  |(*here*)[https://drive.google.com/drive/folders/17tqnNNrFtlQQgvqojXl9gDovOkmmGgpR?usp=sharing] | `path/to/repo/script_mcqa/etc/models`
+| bert science       | BERT modele trained on science | (*here*)[https://drive.google.com/drive/folders/1-oSSNisgSZOM1aWKGwglLk_Tnc1WhL1r?usp=sharing] | `path/to/repo/scripts_mcqa/etc/models`|
+| robert science | roberta science model trained on science |  |(*here*)[https://drive.google.com/drive/folders/17tqnNNrFtlQQgvqojXl9gDovOkmmGgpR?usp=sharing] | `path/to/repo/script_mcqa/etc/models`|
 
 Step 3: run some of the scripts 
 ==================
