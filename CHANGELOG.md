@@ -21,5 +21,5 @@ Please keep track of changes to this repo, and especially datasets.
 
 ## September 8, 2020
 ## added
-- `scripts_mcqa`, `data_mcqa` for all the data/experiments in
+- `scripts_mcqa`, `data_mcqa`, `mcqa_code` for all the data/experiments/code in
   forthcoming TACL paper. 
