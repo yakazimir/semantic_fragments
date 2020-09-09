@@ -18,3 +18,8 @@ Please keep track of changes to this repo, and especially datasets.
 ## July 23, 2020
 ## Added
 - added the missing SNLI/MNLI train script, `scripts/train_snli_mnli.sh`
+
+## September 8, 2020
+## added
+- `scripts_mcqa`, `data_mcqa` for all the data/experiments in
+  forthcoming TACL paper. 
