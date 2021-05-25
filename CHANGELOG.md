@@ -22,4 +22,10 @@ Please keep track of changes to this repo, and especially datasets.
 ## September 8, 2020
 ## added
 - `scripts_mcqa`, `data_mcqa`, `mcqa_code` for all the data/experiments/code in
-  forthcoming TACL paper. 
+forthcoming TACL paper.
+
+## May 25, 2021
+## added
+- `/generation_challenge/final_tests.zip` (a back-up of the final
+tests used in the test scripts in `scripts`)
+- fixed error with wrong `monotonicity_hard` test set in `data/monotonicty_hard/test/challenge_dev.tsv`
